@@ -1,5 +1,4 @@
-[[Category: Unreleased]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
 Listen to a recording for timing information; it just doesn't pay to
 write it out.
 
@@ -168,9 +167,9 @@ Harry Hood!
 Side note:  I think sometimes Mike will scream out over Trey "I feel
 good!" .. not sure though.  It works out nicely, with the "ood"'s
 matching up.  Whatever.
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Harry Hood
 
 by Phish
@@ -217,10 +216,8 @@ E-------------8----------------------------|------------------------------------
    1    &    2    &    3    &    4    &
 
 
-</pre>
 
 
-<pre>
 This is the meanacing gutiar riff written out in full:
 
 Riff in Bm: (modulates to C#m, then D#m)
@@ -244,12 +241,3 @@ G---10-9------10-9----------
 D--------12--------12---9---
 A---------------------------
 E---------------------------
-</pre>
-
-== Loops ==
-Sampled:
-<gflash>100 40 /vb5/phish/harryhood2.swf</gflash>
-Member recorded:
-<gflash>100 40 /vb5/member/harry_hood_intro.swf</gflash>
-Member recorded:
-<gflash>100 40 /vb5/member/harryhood.swf</gflash>
