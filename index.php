@@ -14,7 +14,7 @@
 				<div class="row">
 					<div class="span12">
 						<h1>Emil's Tabs</h1>
-						<p>Welcome to Emil's Tabs, the official unofficial repository of guitar transcriptions to many of the songs played by Phish. Actual official transcriptions can be purchased from <a href="http://www.sheetmusicplus.com/s?q=phish&id=58840">Sheet Music Plus</a> or <a href="http://drygoods.phish.com/">Phish DryGoods</a>. If you have a correction or new submission, please submit it through <a href="https://github.com/ehedaya/emilstabs.org">Github</a>.</p>
+						<p>Welcome to Emil's Tabs, the official unofficial repository of guitar transcriptions to many of the songs played by Phish. Actual official transcriptions can be purchased from <a href="http://www.sheetmusicplus.com/s?q=phish&id=58840">Sheet Music Plus</a> or <a href="http://drygoods.phish.com/">Phish DryGoods</a>. If you have a correction or new submission, please submit it through <a href="https://github.com/ehedaya/emilstabs.org">Github</a>. There's also a small selection of old video clips of Trey playing on <a href="http://www.youtube.com/emilstabs">YouTube</a>.</p>
 						
 						<p>
 							<a href="tabs/" class="btn btn-large btn-primary">Tabs</a>
