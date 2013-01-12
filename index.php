@@ -2,6 +2,7 @@
 <html>
 	<head>
 		<title>Emil's Tabs</title>
+		<script type="text/javascript" src="components/ga.js"></script>
 		<link href="components/bootstrap/docs/assets/css/bootstrap.css" type="text/css" rel="stylesheet" />
 		<link href="components/bootstrap/docs/assets/css/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
 		<style type="text/css">
