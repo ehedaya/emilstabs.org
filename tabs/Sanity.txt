@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 From: David Douglas McCallum <kcjonz@wam.umd.edu>
 
 Sanity has been played in Ab since 97'. Don't know what sparked the changed, but just play everything down half a step down on your guitar. David did a great job of tabbing this great song out! Just a note, it's not your tuner!!
@@ -130,7 +130,7 @@ You can save the whales, you can save the toads.
 (Toads)
 
 But I don't care if the world explodes.
-</pre>
+
 
 Sanity: Key Change from Hampton 09'
 The band played this song in G# instead of A; so just move all the chords above down half a step!

@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 ------------D-------------------B
 I crashed , I burned, but then I learned
 
@@ -100,4 +100,4 @@ Notice the danger
 dont help in any way
 
 ----Em----------C------D
-and why isnt it friday today?</pre>
+and why isnt it friday today?

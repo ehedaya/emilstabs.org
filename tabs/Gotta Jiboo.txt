@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 Trey Anastasio
 Transcribed by Jonathan Healey (makisupa@asu.uswest.net)
 Help from Jeff Arons ( Jeff9360@aol.com )
@@ -184,9 +184,9 @@ Well, that's pretty much it.  After the lick just jam in E for a while.
 After a long jam Trey funks on E9 before going back in to the main
 E-->D Progression.  Once again,  listen to a tape or MP3 to get the
 timing right.  
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Gotta Jiboo  - Bass Tab
 
 from Brent Dutcher < donhoolio@aol.com >
@@ -208,7 +208,7 @@ A-----------4---5---7-------------------7---5-4-5   on with the
 E--5---7--------------------------0--------------   main theme
 
 Just keep on playing the main theme
-</pre>
+
 == Loops ==
 Member sampled:
 <gflash>100 40 /vb5/member/gottajiboo.swf</gflash>

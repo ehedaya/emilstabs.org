@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 From: Eric Berman (ericbe@microsoft.com)
 
    G
@@ -220,4 +220,3 @@ It  got away..........It got away (repeat a few times and fade)
 
 (Piano Jam = F C G)
 
-</pre>

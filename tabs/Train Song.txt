@@ -1,8 +1,8 @@
-[[Category: Studio Release]]
+
     from Todd Lambert <phree@mindspring.com>
     from Eric Oberbroeckling <erico@mciworld.com>
-    Minor edit to main theme from Andrew Russell ([[User:DeadHead|DeadHead]])
-<pre>
+    Minor edit to main theme from Andrew Russell
+
 
 Main theme:
 e---------5p3-----3-------3------------------|
@@ -82,4 +82,3 @@ So we follow the scene and flowed up your steps
 To a smooth wooden floor in a trance
 The train whistle melody wove through the trees
 And in through the door to signal the turns of a dance
-</pre>

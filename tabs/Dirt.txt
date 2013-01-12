@@ -1,6 +1,6 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-<pre>
+
+
+
 Transcribed by Jamey Boike
 boikej@ibm.net
 
@@ -68,7 +68,7 @@ Dsus2: xx0230
 Am: x02210
 C: x32010
 G: 320033
-Em: 022000</pre>
+Em: 022000
 
 Bass Tablature 
 Dirt

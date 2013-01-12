@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 transcribed by Benjamin Hudnall   chillywater14@yahoo.com
 
 I finally got around to tabbing my favorite Phish song.  The structure is
@@ -240,9 +240,9 @@ A|-----5-6-8--------------------------------
 E|-6-8--------------------------------------
 
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 
 Wolfman's Brother Bass:
 
@@ -257,7 +257,7 @@ The Chorus is B to A.  I just play fills with roots and fifths.
 
 The "meaningless excitement....smooth atonal sound" part is
 C# to D.  I play roots and fifths for that too.
-</pre>
+
 == Loops ==
 Member recorded
 <gflash>100 40 /vb5/member/wolfman.swf</gflash>

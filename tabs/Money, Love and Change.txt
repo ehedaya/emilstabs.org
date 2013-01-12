@@ -1,4 +1,4 @@
-<pre>
+
 Trey Anastasio
 from Jon Trace < jtrace@farcaster.org >
 
@@ -58,4 +58,3 @@ chorus
 
 Solo over opening
 
-</pre>

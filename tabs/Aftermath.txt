@@ -1,5 +1,5 @@
-[[Category:  Unreleased]]
-<pre>
+
+
 tabbed out by Jeff Eder
 
 
@@ -48,7 +48,7 @@ G|----------------
 D|----------------
 A|----------------
 E|----------------
-</pre>
+
 
 The link below is a play-along track that is based on Jeff Eder's Aftermath tablature:
 [http://omband.com/playalong/Aftermath%20play-along.mp3 Aftermath play-along]

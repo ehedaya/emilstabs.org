@@ -1,6 +1,6 @@
-[[Category: Covers]]
-[[Category: Loop]]
-<pre>
+
+
+
 As performed by Phish
 from Tyler Ricklers <ttstick@aol.com>
 from emil <tabs@redmedia.com>
@@ -69,7 +69,7 @@ d--------------------------------------
 a--------------------------------------
 e--------------------------------------
 
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/2001.swf</gflash>

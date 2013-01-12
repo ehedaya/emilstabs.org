@@ -1,5 +1,5 @@
-[[Category: Covers]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 by The Mustangs
 Transcribed by Emil Hedaya, help from Adam
 
@@ -37,9 +37,9 @@ Sing the song now
 
 Ya mar, ya mar, ya mar, ya mar, ya mar, ya mar,
 ya mar, you're no good pah
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Tabbed by: James Terrasi (beastie311j@aol.com) 
 Riff throughout song evolves around this notation 
 Chords are:      A   F#m    Bm    E 
@@ -49,7 +49,7 @@ D---------2--4-------------------0--4--------------------0-4---------------2----
 A----0-----------------------0------------------------2----------------------------------- 
 E-----------------------------------------------------------------------------------------
 ---  
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/yamar.swf</gflash>

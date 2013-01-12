@@ -1,4 +1,4 @@
-<pre>
+
 G                        C7
 I've got a bike. You can ride it if you like.
 
@@ -70,4 +70,3 @@ Some rhyme, some ching. Most of them are clockwork.
 
       D                          G
 Let's go into the other room and make them work.
-</pre>

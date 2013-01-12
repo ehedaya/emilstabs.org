@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 guitar solo transcribed by Eric Berman
 transcribed by Billy <Harpua76@aol.com>
 
@@ -556,7 +556,7 @@ E|-----------------------|--------|
           \---/   \---/
 
 
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/foam2.swf</gflash>

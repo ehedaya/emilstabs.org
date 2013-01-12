@@ -1,4 +1,4 @@
-<pre>
+
 Intro & Main Theme:
 Em
 e----x-x---x---x---x-
@@ -50,4 +50,4 @@ then
 A > G > D > A
 then the last cool progression:
 E > G > F# > F (with the weird strumming)
-and then back into the origional part up top.</pre>
+and then back into the origional part up top.

@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 transcribed by Brian Gilstein ( gilstein@gateway.net )
 
 Well I finally got around to finishing this, although there really isn't
@@ -96,9 +96,9 @@ the story of the ghost
 Jam on Am7 Am6
 
 That's it. Suggestions welcome.
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Ghost
 
 by Phish
@@ -120,7 +120,7 @@ A |------------
 E |-----------
 
 Thats all the important stuff
-</pre>
+
 == Loops ==
 Member recorded:
 <gflash>100 40 /vb5/member/ghost.swf</gflash>

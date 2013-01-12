@@ -1,11 +1,7 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-
 Music/Lyrics By Anastasio
-
 Transcribed by Tim Kelly
-<br/>
-Modified by Andrew Russell ([[User:DeadHead|DeadHead]])
-<pre>
+Modified by Andrew Russell 
+
 This song has a basic E9 D9 Db9 chord progression in it, but Trey seems
 to mainly use different dominant voices, mainly with ninths and
 thirteenths.  
@@ -193,13 +189,13 @@ After the jam, the intro is repeated once, followed by:
 
 For a good transcription of a SOAMelt Jam, check out the Hoist Tablature
 book - the end of Demand is just SOAMelt.
-</pre>
+
 
 == Alternate Transcription ==
 
 So the tab in the read-only section is a little off for this song that I have been jamming the past few days. I figured I would share this with everyone. I think these voicings are more accurate than anything else I have seen on this site.
 
-<pre>
+
 
  
  Intro:
@@ -217,11 +213,11 @@ So the tab in the read-only section is a little off for this song that I have be
  D--11-11---14-14-14-14---18--|
  A--10-10---------------------|
  E----------------------------|
-</pre>
+
 
 The second time through, Trey plays that last Ab9 chord down an octave and then slides up - you can hear this well on the studio version. Then I just comp on the Db9 chord with this sort of a thing.
 
-<pre>
+
  E--9------------|                           E--9--9--9--|
  B--9------------|                           B--9--9--10-|
  G--9---11-p9----|        AND/OR             G--9-11--9--|
@@ -238,7 +234,7 @@ The second time through, Trey plays that last Ab9 chord down an octave and then 
         D--10--|         D-8--|
         A--11--|         A-9--|
         E------|         E----|
-</pre>
+
 
 
 
@@ -265,11 +261,11 @@ diminshed chords, like this:
  D------11-13-------------------|
  A-11-13------------------------|
  E------------------------------|
-</pre>
+
 
 Here's the "We breathe deep" part
 
-<pre>
+
 
 
    breathe   deep   steam   dream                  line . . . . . .             down
@@ -280,12 +276,12 @@ G---13-------13------13-----11----11-----11-11-----13--13-13-13-13-13-11--11--10
 D---15-------15------15-----11---------------------15--13-13-13-13-13-11--11--11--13---|
 A-----------------------------------------------------------------------------11--13---|
 E--------------------------------------------------------------------------------------|
-</pre>
+
 
 The jam is all C# minor (aka Db minor) pentatonic so the CAGED system will get you through like a pro. Just be sure to listen to the timing for that recurring B-C-Db climb. Luckily it's just a chromatic ascent of three half steps so just find where all the Bs are on the fretboard and remember to throw that in when it comes around. Embellish it with some double stops and other tricks and you'll be set.
 
 == Bass Tablature ==
-<pre>
+
 Split Open and Melt (bass tab)
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 8/3/2005 - corrected fingering to reduce shifting
@@ -311,7 +307,7 @@ G|-----------------------------------------------------------------------|
 D|-----------------------------------------------------------------------|
 A|-----------------------------------------------------------------------|
 E|-----------------------------------------------------------------------|
-</pre>
+
 
 == Loops ==
 Sampled:

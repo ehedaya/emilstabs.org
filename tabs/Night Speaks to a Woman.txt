@@ -1,4 +1,4 @@
-<pre>
+
 From: Crissy Cherry < chcherry1@attbi.com >
 
 
@@ -78,10 +78,10 @@ E|-------------------------------------------------0--|
 Main Riff(2x)
 Bridge
 Outro over main riff
-</pre>
+
 
 == Intro ==
-<pre>
+
  E  A
 E---------------------------------------
 B-------------------------------------2-
@@ -134,9 +134,9 @@ haven't tried the second lick, but i think its pretty close to the first one
 only over D, like I said, I'm too lazy to go back and listen closely, but
 this should be a start.
 Hope that sounds right, better than nothing:) Have fun
-</pre>
+
 == Alternate Transcription ==
-<pre>
+
 transcription by Ryan Hobbs <ryan_hobbs@hotmail.com>
 
 First riff:
@@ -191,4 +191,3 @@ E--------------10-9-------------8-7-------------6-5
 
 I'm not gonna transcribe the solo...it's Trey-style in Em pentatonic
 
-</pre>

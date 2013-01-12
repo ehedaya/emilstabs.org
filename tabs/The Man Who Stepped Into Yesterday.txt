@@ -1,7 +1,7 @@
-[[Category: Unreleased]]
-This song is often played before and after [[Avenu Malkenu]]
 
-<pre>
+This song is often played before and after Avenu Malkenu
+
+
 Transcribed by Emil Hedaya
 Additional work by Ben Masselink
 Merged and corrected by Itay Chamiel (itaych@gSPAMmail.com)
@@ -141,4 +141,3 @@ D-4---4---4-------6---
 A---------------------
 E---------------------
 
-</pre>

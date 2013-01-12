@@ -1,4 +1,4 @@
-<pre>
+
 Time Turns Elastic
 
 From: Itay Chamiel (itaych@gmail.nospam.com)
@@ -491,4 +491,3 @@ And the carousel turns into breath around me
 In and out of focus
 Time turns elastic
 
-</pre>

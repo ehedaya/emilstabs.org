@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 Transcribed from Phish by Jonathan Healey
 ( makisupa@asu.uswest.net )
 
@@ -94,4 +94,3 @@ E
 alone
 
 JAM (E) or (E,G,A,B)
-</pre>

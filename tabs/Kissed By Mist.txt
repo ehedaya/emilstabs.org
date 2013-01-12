@@ -1,4 +1,4 @@
-<pre>
+
 as performed by Trey Anastasio on 05/04/1999
 by Adam S <ascheinberg at gmail dot com> 
 
@@ -80,4 +80,3 @@ Every tree that stands with me for money changing hands.
 
 
  
-</pre>

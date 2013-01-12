@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 Alan Packman  <apackman@gwu.edu>
 
 this is my first stab at a phish tab so please go easy on me...
@@ -27,4 +27,3 @@ rythym.
 Feel free to make any corrections
 
 
-</pre>

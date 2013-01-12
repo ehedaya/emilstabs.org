@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 from Chris Peak <chrisp67@hotmail.com>
 lyrics help from Jonathan Healey <makisupa@asu.uswest.net>
 corrected and edited by Sam Davis <gettan_ooishi@hotmail.com>
@@ -100,4 +100,4 @@ B--------------------------------------------
 G--------------------------------------------
 D----------------3---1-----------------------
 A------------3----3---3----------------------
-E--1--1-h-4--------------4-p-1-1~------------</pre>
+E--1--1-h-4--------------4-p-1-1~------------

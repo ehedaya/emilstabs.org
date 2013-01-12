@@ -1,7 +1,7 @@
-[[Category: Covers]]
-[[Category: Bass]]
+
+
 == Bass Tablature ==
-<pre>
+
 Auld Lang Syne Bass
 
 
@@ -33,12 +33,12 @@ G|-------------------------------7-7-------------------------------
 D|---------7---------7------7-10-----10-7-7-----------7------0-----
 A|---8-8-8---10-8-10---10-8-----------------8-10-8-10---10-8-----8-
 E|-8-----------------------------------------------------------8---
-</pre>
 
-[[Category: Covers]]
-[[Category: Covers]]
+
+
+
 == Guitar Tablature ==
-<pre>
+
 Auld Lang Syne Guitar Tab
 
 Alright so I usually play this in G because it's the key that I'm most comfortable
@@ -54,4 +54,3 @@ A|-------------------------------------------------------------------------
 E|-------------------------------------------------------------------------
 
 any questions scottyd17@ksu.edu
-</pre>

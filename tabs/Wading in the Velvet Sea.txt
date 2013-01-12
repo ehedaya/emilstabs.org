@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 by Phish
 transcribed by Dave Ginsberg davidgi@the-ark.com
 additions by Andrew Parker dresman@uconect.net
@@ -99,6 +99,6 @@ g------------------------------------------------------------------------
 d------------------------------------------------------------------------
 a------------------------------------------------------------------------
 e------------------------------------------------------------------------
-</pre>
+
 == Loops ==
 <gflash>100 40 /vb5/member/velvetsea.swf</gflash>

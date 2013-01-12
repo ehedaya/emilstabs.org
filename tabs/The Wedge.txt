@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>From: David Douglas McCallum  <netmail!kcjonz@wam.umd.edu>
+From: David Douglas McCallum  <netmail!kcjonz@wam.umd.edu>
 The Wedge [Music - Trey Anastasio, Lyrics - Tom Marshall]
 
 Main riff
@@ -115,4 +115,3 @@ A|-------------------------|----------------------|-----------------------------
 E|-------------------------|----------------------|--------------------------------|
 
 
-</pre>

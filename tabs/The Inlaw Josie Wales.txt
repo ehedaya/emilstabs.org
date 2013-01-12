@@ -1,4 +1,4 @@
-[[Category: Studio Release]]
+
 from Eric_Sievers@spgl.com <Eric_Sievers@spgl.com>
 
 So here it is.  This comes from the version that was on Austin City
@@ -8,7 +8,7 @@ an A.  I play the bottom three strings with my thumb and the GAD
 strings with my middle, ring, and pinky fingers respectively.  Trey
 uses his pointer finger on certain parts.  If you have trouble with
 this style of fingerpicking, I would recommend you buy the official
-tab for [[Billy Breathes]] and try the title track.  It's slower, and
+tab for Billy Breathes and try the title track.  It's slower, and
 it's in standard tuning so the chord shapes are more familiar (and
 a sweet tune taboot!).  I've notated the timing through spacing
 (every four dashes equals one beat).  In the case of frets higher
@@ -20,7 +20,7 @@ email me at eric_sievers@spgl.com with questions or whatnot.  Also,
 please note that I have not compared this to the Farmhouse version,
 (can I have my CD back, Shaun?) but I would guess there are a couple
 minor differences.  Have Fun!   -E
-<pre>
+
 *nh = natural harmonic
 *ho = hammer on
 *po = pull off
@@ -177,9 +177,9 @@ in 4 and finishing with 30 (xtra long wait before final chord)
 |0-------------------------------|
 
 That's it!  Anyone care to add the bass and piano parts?
-</pre>
+
 == Alternate Transcription ==
-<pre>
+
 Transcribed by Jonathan Attea (Buffalo, NY) JMOSES90@AOL.COM
 
 So I just got back from summer 2000 tour and I was so moved by the 7-15
@@ -410,4 +410,3 @@ F--------2---------------2----------
 C---0------0-----------2------------
 G--------------------0--------------
 D-----------------------------3-2-0-
-</pre>

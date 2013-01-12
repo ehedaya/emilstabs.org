@@ -1,4 +1,4 @@
-<pre>
+
 by Trey Anastasio
 Transcribed by Sean Kravit (mrshow01@aol.com)
 
@@ -53,4 +53,3 @@ E----------|
 B-/9-/9-8--|
 G----------|
 D----------|
-</pre>

@@ -1,6 +1,6 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category:Loop]]
-This song leads into [[Fluff's Travels]]
-<pre>
+
+This song leads into Fluff's Travels
+
 Transcription by Eric Berman (ericbe@microsoft.com),MOTION EDIT: Makia Kiriakos-madmoose88@yahoo.com
 
 Some chords that are useful:
@@ -80,9 +80,9 @@ A|-0---------|----------------
 E|-----------|----------------
 
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Fluffhead
 From: David Lionelli ( LIONELLI_DAV@CSUSYS.CTSTATEU.EDU )
 
@@ -100,8 +100,8 @@ E|--3------0-1---1-1---1--3----0-1---1-1---1-|
 
 Repeat this progression through three verses, and on the last one,
 instead of going from D to G, go to A.
-</pre>
-== Video Clips ==
+
+== 
 [http://youtube.com/watch?v=E4tFX51imvQ Woodbury Sit & Ski, 1990 (YouTube.com)]
 == Loops ==
 Member recorded:

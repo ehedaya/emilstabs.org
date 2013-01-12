@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 from Dave Cox  sho-nuff@home.com
 
 
@@ -21,4 +21,3 @@ by our footsteps
          G
 by our footsteps
 
-</pre>

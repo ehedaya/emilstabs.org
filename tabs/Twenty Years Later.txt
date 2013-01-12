@@ -1,11 +1,11 @@
 == 20 Years Later ==
 
-Transcribed by:<br>
-Andrew Russell ([[User:DeadHead|DeadHead]])
+Transcribed by:
+Andrew Russell 
 
 Enjoy.
 
-<pre>
+
 
 Intro
 Notes:  There is no intro in the studio version, however, when they play it live, Trey plays the following lick.
@@ -225,11 +225,11 @@ Bridge
 Chorus
 Outro
 
-</pre>
 
 
 
-<pre><nowiki>20 Years Later-Acoustic:Transcribed by Douglas Talley  coltfan420@msn.com
+
+<nowiki>20 Years Later-Acoustic:Transcribed by Douglas Talley  coltfan420@msn.com
 
 (please feel free to correct and someone please do the next part!!!)
  
@@ -299,9 +299,9 @@ It's a small world, and we all start out small
 (Then the breakdown-maybe I'll get to this part tomorrow if no one beats me to it. It's past my bedtime!)
  
 Thanks and have phun!!!!
-</nowiki></pre>
+</nowiki>
 
-<pre><nowiki>First off, I'd like to comment about this song in particular.  Twenty Years Later is in my opinion the finest studio
+<nowiki>First off, I'd like to comment about this song in particular.  Twenty Years Later is in my opinion the finest studio
 recording Phish has ever done.
 
 Based on the studio version here are a couple of small changes:
@@ -418,6 +418,6 @@ a---------------9------7---7--9-------------7-----------------
 e-7-------------------------------10----10------9/9.5\9----
 
 
-Inside this silent scene, all are free, all are free, second time around</nowiki></pre>
+Inside this silent scene, all are free, all are free, second time around</nowiki>
 
 Todd Lambert

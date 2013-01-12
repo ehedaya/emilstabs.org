@@ -1,7 +1,7 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-[[Category: Loop]]
-<pre>
+
+
+
+
 From: John.Greene@student.umass.edu (John Greene)
 Solo from Benjamin Hudnall <chillywater14@yahoo.com>
 (Minor corrections by Eric Berman)
@@ -67,12 +67,12 @@ G--------------------------9-10---10-9~~~8-9-10-8-9--------
 D---------------------------------------------------10-8~~~
 A----------------------------------------------------------
 E----------------------------------------------------------
-</pre>
+
 
 == Chord Voicings ==
 
 
-<pre>
+
 C7:
 
 ex
@@ -108,9 +108,9 @@ G3
 D5
 A6
 Ex
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Bathtub Gin
 
 
@@ -128,7 +128,7 @@ D -3-----3----1-----1--|-3-----3---1------|
 A ---------------------|------------------|
 E ---------------------|------------------|
 
-</pre>
+
 == Loops ==
 Member recorded:
 <gflash>100 40 /vb5/member/bathtub.swf</gflash>

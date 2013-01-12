@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 originally by, the one and only, phish
 tabbed by- Wayo Dorsey (thedorsinator@aol.com)
 
@@ -26,11 +26,11 @@ D-|-------4----------4----------------------4------------------------   |
 A-|---------------------------------------0-------------------------- o |
 D-|--5-------------------------------5-------------------------------   |
 ---------------------------------------------------------------------
-</pre>
+
 
 == DADGAD Tuning ==
 
-<pre>
+
 transcribed by [Justin Balko]<JMBalko@hotmail.com>
 
 I was messing around with tunings and stumbled on what seems to be a very close
@@ -49,6 +49,6 @@ After repeating the first part twice, the pattern changes to a different timing 
 think....the whole piece is played freely and sounds cool if played on an acoustic
 with echo...good luck...hope this helps...anyone interested in hearing some original
 stuff, email me...I kick ass.
-</pre>
+
 == Open D Tuning ==
 Ok, so this song is ACTUALLY in open D tuning. low to high - D A D F# A D. All you do is put a finger on the G string 1st fret and pick from low to high again. Then strum without the finger on. (open - all strings).

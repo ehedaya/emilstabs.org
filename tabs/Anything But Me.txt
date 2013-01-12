@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 Anything But Me
 (Anastasio/Marshall/Herman)
 
@@ -32,4 +32,3 @@ I am just a raindrop that accelerates without control
 Losing bits and pieces in descent 'til I'm no longer whole
 I am just another shooting star above that you might see
 Until I have your full attention I'll be anything but me
-</pre>

@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 From: David Douglas McCallum < kcjonz@wam.umd.edu >
 From Eric Berman < ericbe@microsoft.com >
 From Paul Cummings < ACH@cornella.cit.cornell.edu >
@@ -166,4 +166,3 @@ Riff 1 (2x)
 
 E (w/ Riff 1 continuing over chord)
 Whine whine car horn
-</pre>

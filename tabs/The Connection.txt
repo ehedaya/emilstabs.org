@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
   ------
 |Chords|
 |---------------
@@ -95,4 +95,3 @@ D                          G
 Cause   I   need  some  protection      And I'm
 Am7            C            Am7              G
 Scared I could lose it if I stare it will be gone
-</pre>

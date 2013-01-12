@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 Kirk Mehtlan (KM1324@ark.ship.edu)
 Eric Berman (ericbe@microsoft.com)
 Neil Berkman (berkman@cs.umass.edu)
@@ -545,9 +545,9 @@ As you go higher up the fretboard, at around the 15th fret you stop playing the 
 note on the A string, so you're left with just your index finger on the D-G-B strings.
 The speed at which you strum and move up gradually get faster - listen to a recording
 to get the right feel for this.
-</pre>
+
 == Previous Version ==
-<pre>
+
 From: Kirk Mehtlan (KM1324@ark.ship.edu)
 From: Eric Berman (ericbe@microsoft.com)
 From: Neil Berkman (berkman@cs.umass.edu)
@@ -732,7 +732,7 @@ Notice the implied notes (in parentheses); these are sometimes played,
 sometimes not, but they are very important to the feel of the song.  Don't
 emphasize them too much; they should be used as passing guide tones.
 
-Video Clips:
+
 Divided Sky: Right after Fishman's cue
 
 Solo 2:
@@ -877,9 +877,9 @@ chords seem a lot more complicated.)
 
 Finally, the outtro chords are as follows:
 |: D D/C D/B D/A :| D D/C D/B Bb6 Eb Eb/Db Eb/C B6 E E/D E/C# C6 B E
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Divided Sky (bass tab)
 From: David Lionelli ( LIONELLI_DAV@CSUSYS.CTSTATEU.EDU )
 
@@ -935,9 +935,9 @@ D|-------O---------D---------P------------------------------|
 A|-----L---------I---------U--------------------------------|
 E|---S---------L----------------------12\---------------0---|
     S
-</pre>
-==Video clips== 
-#[[Divsky01.mov]]
+
+==
+#Divsky01.mov
 #[http://youtube.com/watch?v=Jjg4IaFqTIA Glens Falls, NY 1994-10-31 (YouTube.com)]
 == Loops ==
 Member recorded (J. Goldberg):

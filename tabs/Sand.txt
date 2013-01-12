@@ -1,6 +1,6 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-<pre>
+
+
+
 Tab by-Damon Callisto ( PRSGTR@aol.com )
 
 Legend
@@ -35,9 +35,9 @@ E|-------------------||--------------------||---------
 
 
 As far as the solo goes, just keep up the funk in A
-</pre>
+
 == Alternate Transcription ==
-<pre>
+
 transcribed by Benjamin Hudnall
 
 I just recently bought a compressor, which gives that distinctive Trey
@@ -158,9 +158,9 @@ at the end of the jam Trey reprises the main lick
 Note:  I also found out that the song sounds a little better if it is
 played on the bridge pickup and with an occasional artificial harmonic
 thrown in when deemed neccesary
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Sand
 Transcribed by Big Bad Brent Dutcher
 
@@ -170,4 +170,3 @@ G--------------------------------------------
 D--------------------------------------------
 A--------------------------------------------
 E---5---0-0--3--0--5--5--0--3--4--5----------
-</pre>

@@ -1,4 +1,4 @@
-<pre>
+
 Trey Anastasio
 Transcribed by Matt Kopera
 mekchewy@hotmail.com
@@ -162,4 +162,3 @@ It's true
 It's true
 It's true
 It's true
-</pre>

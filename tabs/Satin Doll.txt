@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 Ellington/Strayhorn
 
 
@@ -38,11 +38,11 @@ from clinton vadnais <cleantone@hotmail.com>
 
 Exit:   D7 - G7 - C7
 
-</pre>
+
 
 == Alternate Transcription ==
 
-<pre>
+
 Duke Ellington
 
 Not transcibed from Phish's version.
@@ -94,4 +94,3 @@ A-7 D7    Ab-7 Db7  C     E-7(b5)
 -----------------------------------
 -----------------------------------
 -----------------------------------
-</pre>

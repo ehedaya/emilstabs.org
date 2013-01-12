@@ -1,4 +1,4 @@
-[[Category: Studio Release]]
+
 
 <websiteFrame>
 website=http://widgets.itunes.apple.com/itunes.html?wtype=2&app_id=331682071&country=us&partnerId=30&affiliate_id=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fstat%3Fid%3DYCKyo6e*azk%26offerid%3D146261%26type%3D3%26subid%3D0%26tmpid%3D1826%26RD_PARM1%3D
@@ -18,17 +18,17 @@ align=right
 *[http://www.sheetmusicplus.com/a/item.html?id=58840&item=2962877 Official Tablature Book]
 
 == Track Listing ==
-#[[Ghost]]
-#[[Birds of a Feather]]
-#[[Meat]]
-#[[Guyute]]
-#[[Fikus]]
-#[[Shafty]]
-#[[Limb by Limb]]
-#[[Frankie Says]]
-#[[Brian and Robert]]
-#[[Water in the Sky]]
-#[[Roggae]]
-#[[Wading in the Velvet Sea]]
-#[[Moma Dance]]
-#[[End of Session]]
+#Ghost
+#Birds of a Feather
+#Meat
+#Guyute
+#Fikus
+#Shafty
+#Limb by Limb
+#Frankie Says
+#Brian and Robert
+#Water in the Sky
+#Roggae
+#Wading in the Velvet Sea
+#Moma Dance
+#End of Session

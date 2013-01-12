@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 from Chuck Newsome <chaz429@idt.net>
 from Brian Healey <bhealey@zoo.uvm.edu>
 
@@ -70,11 +70,11 @@ but I think it's pretty much improv.  They usually do some ii-V7-I
 stuff through some key changes.
 
 Listen to the Alpine show from '98 for an amazing Trey chord solo.
-</pre>
+
 
 == Jazz Transcription ==
 
-<pre>
+
 trascribed by mario ferro <Piper59702@aol.com>
 (with much much much much help from his music teacher, the great Bob Grebb)
 
@@ -181,4 +181,3 @@ the vi)
 
 well thats all i have right now, again i'm hoping to do more and get
 that up as soon as possible. thanks a lot for listening, hope this helps.
-</pre>

@@ -1,6 +1,5 @@
-[[Category: Unreleased]]
-Transcribed by [[User:DeadHead|Andrew Russell]]
-<pre>
+Transcribed by Andrew Russell
+
 Note:
 Pretty much every chord in this song has a seventh on it and you can fiddle around with the minor 3rd -> major 3rd with every chord as well.
 
@@ -44,10 +43,10 @@ Guitar Solo Chorus then Verse
 
 End on A
 
-</pre>
 
 
-<pre>
+
+
 Transcribed by Josh Barrett oklahomafats@hotmail.com
 Intro (play loosely):
  C         D         A  D     E      D
@@ -57,4 +56,3 @@ G---5---5------7-7----6---7-7-----9---7--6-  X 2
 D----5---5----7---7---7------7---9----7--7-
 A-/7--7--7--/9--9--9--7-/9----/11---/9---7-
 E---------------------5------------------5-
-</pre>

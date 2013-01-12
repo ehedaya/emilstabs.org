@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 Transcribed by Bryan Gilstein gilstein@gateway.net
 
 Measure # = Xm
@@ -111,9 +111,9 @@ Eb7 Funk (3m) Eb7 D7 C#7 C7
 B7
 
 That's it! I checked the lyrics with 7/17 so they're pretty close, if
-you can help with the rigging/river thing or anything else e-mail me</pre>
+you can help with the rigging/river thing or anything else e-mail me
 == Bass Tablature ==
-<pre>
+
 Moma Dance Bass :
 
 from Forrest Simpson <simp1307@students.sou.edu> 
@@ -135,7 +135,7 @@ b-string for that extra fat bottom end
 
 I'll try to transcribe the breakdown and give a general idea about the solo
 but it's hard without my bass in my hands.
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/momadance.swf</gflash>

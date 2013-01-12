@@ -1,4 +1,4 @@
-<pre>
+
 From: Itay Chamiel (itaych@gmail.nospam.com)
 
 Tune a classical guitar down half a step.
@@ -29,4 +29,3 @@ E-|-----------------:|-----
 
 Repeat until the chimps and foghorns take over..
 
-</pre>

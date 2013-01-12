@@ -1,7 +1,7 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-Video clips:  [[yem01.mov]], [[yem10.mov]], [[yem11.mov]], [[yem12.mov]]
 
-<pre>
+
+
+
 From -Sayre Flynn sayref@aol.com
 as performed by Phish on 1986, Junta, and A Live One
 and MANY public performances.
@@ -418,11 +418,11 @@ E|-15-----|
 
 
 
-</pre>
+
 
 == Alternate Transcription ==
 
-<pre>
+
 
 
 complied by J.S. Trageser 7/17/01
@@ -883,11 +883,11 @@ G                                C
 Wash Uffize, drive me to Firenze!
 
 
-</pre>
+
 
 == Alternate Transcription II ==
 
-<pre>
+
 Transcribed: Eric Berman (ericbe@microsoft.com)
 Added Transcripton (the arpeggios in the beggining): Jason Levin (Levin2@ix.netcom.com)
 
@@ -1190,9 +1190,9 @@ Won't you fix it; drive me to Farensay
 |-15--14-|
 |-x---15-|
 |-15-----|
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 You Enjoy Myself
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 
@@ -1306,7 +1306,7 @@ the New Years YEM- it sounds really great w/ his phaser or whatever...
 ------------5---3-----------------------------------------------------------------------
 -----------------------5----------------1---3---3-----------1---------3--3------------1-
 ---3--3----------------------3---3--------------------3----------------------3--3-------
-</pre>
+
 == Loops ==
 Member recorded:
 <gflash>100 40 /vb5/member/yem.swf</gflash>

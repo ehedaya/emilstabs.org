@@ -1,6 +1,6 @@
 By: Trey & Tom
-Transcribed by [[User:DeadHead|Andrew Russell]]
-<pre>
+Transcribed by Andrew Russell
+
 This is in 3/4 time.
 The chords are played with the root note (or 5th) picked on the 
 first beat, and the chord strummed on the second and third beat.  
@@ -60,7 +60,7 @@ single beat each.
  
  |C   |F   |C   |    |
 
-</pre>
+
  Transcribed by Phillip Shaver
   C                             F  
  Oh, I guess you can stay here tonight

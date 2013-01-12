@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 from Mike Andreoli
 The chords were originally transcribed by Dave Ginsberg (davidgi@the-ark.com)
 with help from Matt Hoover (s449631@gettysburg.edu)
@@ -164,4 +164,3 @@ G |---19--17---19p17------19b------------------------|
 D |------------------h17-----------------------------|
 A |--------------------------------------------------|
 E |--------------------------------------------------| 
-</pre>

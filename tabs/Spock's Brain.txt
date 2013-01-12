@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 
 
 transcribed by Tim Louis
@@ -127,4 +127,3 @@ F   E   G
 
 
 
-</pre>

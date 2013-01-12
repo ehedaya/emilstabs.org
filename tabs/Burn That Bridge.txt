@@ -1,6 +1,5 @@
-[[Category: Unreleased]]
-Transcribed By: [[User:DeadHead|DeadHead]]
-<pre>
+Transcribed By: DeadHead
+
 
 INTRO:
 
@@ -131,4 +130,3 @@ Burn    Burn
 
 (Big end on B)
 B
-</pre>

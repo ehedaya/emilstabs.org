@@ -1,9 +1,9 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
+
 From: bforsyth@rodan.acs.syr.edu (Benjamin C Forsyth)
 
 From: Roy Truelove ( roy@liii.com )
 
-<pre>
+
 All chords are in open position
 
 Pickups-
@@ -239,9 +239,9 @@ D------19-17-------20-18---------21-19---------22-21--19---
 A----------------------------------------------------------
 E----------------------------------------------------------
 
-</pre>
+
 == Bass Transcription ==
-<pre>
+
 Chalkdust Torture
 >From Mike Carcaise < mrminor3@aol.com >
 
@@ -269,8 +269,8 @@ E--3--------5----------|-3-3----------7-6-5--|
 
 It goes from G > A a few more times and then back to 
 the main theme to finish the chorus.
-</pre>
-==Video Clips ==
+
+==
 #[http://youtube.com/watch?v=ggvnwpwkOJQ Letterman Show 12-30-1994 (YouTube.com)]
 #[http://youtube.com/watch?v=M0zq2ZJO4fg Cologne, Germany 02-16-1997 (YouTube.com)]
 

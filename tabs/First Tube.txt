@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 by Trey Anastasio
 from Brian Trumpatori <bjt11@cornell.edu>
 from Tyler Rickers <TtStick@aol.com>
@@ -122,9 +122,9 @@ A D/F#
 This is where the jam starts. You can move these chords up an octave,
   and experiment on the neck. Trey uses a backwards-guitar effect here.
   This is a great jam, so enjoy it!
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Transcribed by: Chris Dougherty ( doc470@aol.com )
 The other guy had it so wrong i had to correct it. 
 The time is 2:4, check below the tabs for the correct time.
@@ -146,7 +146,7 @@ The last dude had it so wrong, its soo much lower then how he had it. and there
 isnt any progression in the song, i dont know what he was talking about. A 
 local band "The Next Left", plays a nasty cover of this song. what a energetic 
 song. peace. 
-</pre>
+
 == Loops ==
 Member recorded:
 <gflash>100 40 /vb5/member/firsttube.swf</gflash>

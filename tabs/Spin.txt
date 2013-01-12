@@ -1,6 +1,6 @@
 "Spin" from *Shine*
 
-<pre>
+
   Here's the basic chord structure.  In concert Trey will play the organ
  line in unison on his guitar, as shown here:
  
@@ -110,4 +110,4 @@ And I open my eyes, Looking around, and I'm enjoying the view.
 
   [Then return to opening chord progression]
 
- </pre>
+ 

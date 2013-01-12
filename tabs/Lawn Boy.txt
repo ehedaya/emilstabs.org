@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 From: John.Greene@student.umass.edu (John Greene)
 From: Eric Berman ericbe@microsoft.com
 From: Emil H <tabs@redmedia.com>  
@@ -83,10 +83,10 @@ d------12-14----------------------11-10s11-------------------------
 a------------------------------------------------------------------
 E-------------------------------------------------------------------
 
-</pre>
+
 == Alternate Solo Transcription ==
 
-<pre>
+
 From: Itay Chamiel (itaych@gSPAMmail.com)
 
 Here's my take on this solo. I use the lower frets for this transcription, since this was originally played on an acoustic.
@@ -135,7 +135,7 @@ g-9-11-------------------------------------
 d---------------------9-10-11--------------
 a------------------------------------------
 E------------------------------------------
-</pre>
+
 
 == Loops ==
 Member recorded:

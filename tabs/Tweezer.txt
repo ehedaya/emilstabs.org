@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 Tweezer
 
 Intro   -w/ slight palm muting-
@@ -102,9 +102,9 @@ use relatives and arpeggios to keep it funky.
 
 The jam is based on a HW diminshed scale on A...(A Bb C C# Eb E F# G A) but they avoid landing on the root. 
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Tweezer
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 
@@ -123,7 +123,7 @@ G|-----7-9-------------7-9----------|
 D|----------------------------------|
 A|--7------0-4-5--6--7-----0-4-5--6-|
 E|----------------------------------|
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/tweezerjam.swf</gflash>

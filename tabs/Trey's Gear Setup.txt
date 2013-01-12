@@ -1,6 +1,6 @@
-[[Image:Treyrig.jpg|thumb|Schematic of Trey's setup]]
+Image:Treyrig.jpg|thumb|Schematic of Trey's setup
 
-[[Image:Treysetupphoto.jpg|thumb|Photograph of Trey's stage setup]]
+Image:Treysetupphoto.jpg|thumb|Photograph of Trey's stage setup
 
 Trey's Website Features a "Helicopter View" of his rig
 http://www.treyanastasio.com/treysrig/
@@ -30,4 +30,4 @@ http://www.analogman.com/rossmod.htm
 
 
 
-See Also: [[Interactive Flash overhead view of Trey's stage setup]]
+See Also: Interactive Flash overhead view of Trey's stage setup

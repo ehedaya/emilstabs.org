@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 Roses Are Free      by Ween      covered by phish
 
 intro : palm mute & mesh in v.theme from solo
@@ -58,14 +58,14 @@ Unless you think that pumpkin holds your destiny
 Cast it off into the sea, 
 bake that pie and eat it with me
 
-</pre>
+
 
 
 == Alternate SOLO ==
 
 These are from {  http://www.weentabs.com  } and are two alternative pieces of the solo
 
-<pre>
+
 E-|-------------12-13--15-13-12-13---18-17-15-13-15-13---------|
 B-|-------14h15----------------------------------------16-15---|
 G-|-14h15------------------------------------------------------|
@@ -88,4 +88,3 @@ G|-------6h7------------------------6h7----------6h7-------------|
 D|-----7h8------------------------------7h8--------7h8---10br-8--|
 A|---7h8---------------------------------------------7h8p7-------|
 E|-7h8-----------------------------------------------------------|
-</pre>

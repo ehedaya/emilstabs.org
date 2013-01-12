@@ -1,3 +1,1 @@
-# Emil's Tabs
-
-New home
+Welcome to Emil's Tabs,  the official unofficial repository of fan-interpreted guitar transcriptions to many of the songs played by Phish.  Official transcriptions can be purchased from [Phish DryGoods](http://drygoods.phish.com).  This project and its transcriptions are the collaborative work of many fans.

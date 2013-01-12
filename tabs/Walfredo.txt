@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 Tabbed by Eric Oberbroeckling
 Performed by Phish
 
@@ -35,4 +35,3 @@ it.  The guitar riff that accompanies the Piano melody I have not been
 able to figure out since my copy of the shows isn't clear enough to
 accurately distinguish between the two.  But this should get some
 thoughtful folks started.
-</pre>

@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 From: Jonah.David.Seiger@um.cc.umich.edu
 From: Eric Berman (ericbe@microsoft.com)
 
@@ -279,4 +279,3 @@ next... A " ^^ " means that the note is "hammered"
 3)  The numbers correspond to the FRET on which that particular STRING
 is played
 
-</pre>

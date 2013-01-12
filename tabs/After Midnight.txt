@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 Key: D
 
 INTRO:
@@ -48,4 +48,4 @@ OUTRO:
 
 N.C.          |(Return to '*', repeat & fade part after '**')
              |
-We're gon-na  |</pre>
+We're gon-na  |

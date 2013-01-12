@@ -1,5 +1,5 @@
-[[Category: Unreleased]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 From: Eric Berman (ericbe@microsoft.com)
 From: Itay Chamiel (itaych@gSPAMmail.com)
 By Jeff Holdsworth (The Artist Formerly A Member of Phish)
@@ -262,11 +262,11 @@ Whoa possum...       possum
 Whoa possum your end is the road
     B      G    A7         E7
 Whoa possum your end is the road
-</pre>
+
 
 == Opening From Live Phish #9 ==
 
-<pre>
+
 This is a fairly complicated opening that Trey plays, so I'll just list the
 basics without getting too much into the fills and timings of what he plays.
 When I first heard this, I went nuts, and was drying to know how he plays it.
@@ -302,9 +302,9 @@ E-----------------------------------------------------
 The rest is pretty standard trey-style soloing, bending and stuff.
 You didn't want me to do ALL the work, did you?  Play around with it, it's
 not hard to figure out and very rewarding :)
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Possum
 
 From: Justin Keeth< justin_tyme7@yahoo.com >
@@ -325,7 +325,7 @@ G-4---4-------------------------------------------------------
 D---4---4-7-5---7----9-7-6-5-4-4 4-4--Repeat------------------
 A-------------5---7-------------------------------------------
 E-------------------------------------------------------------
-</pre>
+
 == Loops ==
 Member recorded (J. Goldberg):
 <gflash>100 40 /vb5/member/possum.swf</gflash>

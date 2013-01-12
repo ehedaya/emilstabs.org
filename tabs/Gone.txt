@@ -1,4 +1,4 @@
-<pre>
+
 Gone 
 Trey Anastasio
 Transcribed by Sam F
@@ -117,4 +117,3 @@ Solo:
 A  C#m  A  C#m  A  F#m  E  E7  C#m  B  D  E  (2x)
 
 A  C#m  A  C#m  A  F#m  E (end)
-</pre>

@@ -1,7 +1,7 @@
-[[Category: Covers]]
-[[Category: Bass]]
+
+
 == Guitar Tablature ==
-<pre>
+
 from Rich Steinmetz <rgsteinm@indiana.edu>
 
 CHORD FORMATIONS:
@@ -38,9 +38,9 @@ d--------------------------------------------------2h4---------------------
 a-------------------------------------------------------------------------- 
 E--------------------------------------------------------------------------
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 by Brent Dutcher
 donhoolio@aol.com
 
@@ -85,4 +85,3 @@ then back into the verse
 and that's about it
 
 
-</pre>

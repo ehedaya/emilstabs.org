@@ -1,9 +1,9 @@
-[[Category: Unreleased]] [[Category: Bass]] [[Category: Loop]]
-This song is usually preceded by [[I Am Hydrogen]]
 
-Video clips:  [[Weekapaug02.mov]], [[weekapaug03.mov]]
+This song is usually preceded by I Am Hydrogen
 
-<pre>
+
+
+
 From: David Douglas McCallum <kcjonz@wam.umd.edu>
 From: Emil Hedaya -- tabs@redmedia.com
 
@@ -35,9 +35,9 @@ written.
 Also, it's funny, because the melody to the vocals is still the same as
 the melody for the bridge of "Oh What a Night."
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 This is as close as I could get to the slap line that Mike plays after
 his intro solo.  The timing is indicated with the down beats and
 upbeats:
@@ -50,11 +50,11 @@ A---5---5--------5---5--5---5--3---3----2-/S-3-----4------
 E---------------------------------------------------------
 
 
-</pre>
+
 
 
 With Heavy slap droning
-<pre>
+
 
      H-O P-O S\       H-O
 E|--------------------------|
@@ -63,7 +63,7 @@ G|7-7-7-7-7-7-7-5--5--7-----|
 D|7-7-7-9-9-7-7-5--5--9-----|
 A|9-9-----------------7-9---|
 E|--------------------------|
-</pre>
+
 
 == Loops ==
 Sampled:

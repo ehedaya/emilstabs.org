@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-[[Category: Bass]]<pre>
+
+
 
              G                 C
 The pressure builds, you buy a gift.
@@ -103,9 +103,9 @@ A|------------------------2--|
 E|------------------------3--|
 
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Sparkle
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 
@@ -123,4 +123,3 @@ E|----------------------------------------------------------------------|
 
 And that's the entire song, folks!
 
-</pre>

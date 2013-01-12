@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 Transcibed By Cleantone ( Cleantone@hotmail.com )
 
 
@@ -89,4 +89,3 @@ D--------8---10----8------8--8----10---8---|
 A--------6----8----6------6--6-----8---6---|
 E--------6-----------------------------6---|
 You're a Big Black Furry Creature from Mars
-</pre>

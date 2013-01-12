@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 Mock Song     by phish
 
 Intro/Verse
@@ -55,4 +55,3 @@ Because it's just a mock song
 Call it what you will
 End on Eb ("Call it what you will")
 
-</pre>

@@ -1,6 +1,6 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-<pre>
+
+
+
 by Trey Anastasio and Tom Marshall
 Transcription by Jonathan Healey (makisupa@asu.uswest.net)
 
@@ -128,9 +128,9 @@ Bug
 It doesn't matter
  (Overrated)
 Overrated
-</pre>
+
 == Alternate Transcription ==
-<pre>
+
 Bug     by phish     from Farmhouse
 
 
@@ -185,10 +185,10 @@ D|-------------------------------------------19---17-------|
 A|-------------------------------------------------17\14---|
 E|-----------------------------------------------------15--|
 
-</pre>
+
 
 == Bass Tablature ==
-<pre>
+
 Bug (Bass) 
 Album: Farmhouse 
 From: Bobby Menkedick ( Epoch19@aol.com ) 
@@ -296,4 +296,3 @@ E|3-3-3-3-3-3-3-3-|3-3-3---------|
 (improvising with these corchanges): 
 
 G  G/F  G  G/D 
-</pre>

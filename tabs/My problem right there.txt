@@ -1,4 +1,4 @@
-[[Category: Unreleased]]<pre>Phish
+Phish
 My Problem Right There (Anastasio/Green)
 2010
 
@@ -85,4 +85,3 @@ G#                         C#             G#
 My problem right there, my problem right there  x 3 or however many times
 
 That's it, enjoy, and feel free to submit corrections if i've missed something.
-</pre>

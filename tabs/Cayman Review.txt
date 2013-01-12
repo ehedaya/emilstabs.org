@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 from Dave Cox (sho-nuff@home.com)
 
 (verse 1)
@@ -88,4 +88,3 @@ now end on E7, and that's it...........
 (sorry about the lyric flubs,  trey mumbled them, but any help would be
 greatly appreciated.)
 
-</pre>
