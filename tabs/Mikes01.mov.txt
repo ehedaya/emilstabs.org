@@ -1,1 +1,0 @@
-<mov>360 288 /media/video/mikes01.mov</mov>
