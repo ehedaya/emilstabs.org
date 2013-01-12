@@ -9,7 +9,12 @@
 			<div class="content">
 				<div class="row">
 					<div class="span12">
-						<h1>Member recorded loops</h1>
+						<h1>Loops</h1>
+						<ul class="breadcrumb">
+						  <li><a href="../../index.php">Home</a> <span class="divider">/</span></li>
+						  <li><a href="../index.php">Loops</a> <span class="divider">/</span></li>
+						  <li class="active">Member recorded Loops</li>
+						</ul>
 						<ul class="media-list">
 							<?php
 							$directory = "";
