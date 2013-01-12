@@ -1,0 +1,236 @@
+[[Category: Covers]]
+<pre>
+by Stevie Wonder
+from "Innervisions"   (Covered by Phish)
+Transcribed by Lincoln Ballard
+
+This tune was obviously conceived on piano, so transcribing it for guitar means you are 
+going to get some awkward chord shapes, but if you are adept at transitions then it 
+should be fairly straightforward after some practice. There are some funky jazz chords 
+in here and I may not have nailed all the right notes, so this transcription may require
+ some tweaking.  These look like really tough chords, but once you get the positions it
+ really isn't that hard.
+
+
+Intro:
+Code Sample
+
+E---5-----7-7-----5------7-7----------2---2---1---2-----1--1--0--0--------0--1-¦
+B-----5-------------5-----------------3---5---2---2-----2--2--1--1------1------¦
+G-2-----2-------2------2-----2--------4---3---4---3-----3--3--2--2----2--------¦
+D--------------------------------0-2--5---4---3---4-----4--4--3--3--3----------¦
+A-0-------------0------------0-4------------------4----------------------------¦
+E-------------------------------------------------2----------------------------¦
+
+
+Verse chord shapes
+Code Sample
+
+Eb/G   A half-dim7/Eb   Ebmaj7      Emin   (This doesn't sound
+E-x--¦      E-x-¦         E-x-¦      E-x--¦  like an Emin, but
+B-8--¦      B-8-¦         B-8-¦      B-8--¦  those are the notes!)
+G-8--¦      G-8-¦         G-7-¦      G-9--¦
+D-8--¦      D-7-¦         D-8-¦      D-9--¦
+A-10-¦      A-6-¦         A-6-¦      A-10-¦
+E-x--¦      E-x-¦         E-x-¦      E-x--¦
+
+
+[Verse 1]
+
+Eb/G                      A hf-dim7/Eb
+Looking in your eyes
+Ebmaj7                   Emin
+Kind of heaven eyes
+Eb/G                       A hf-dim7/Eb
+Closing both my eyes
+Ebmaj7                   Emin
+Waiting for surprise
+
+Chord shapes for Pre-chorus:
+Code Sample
+
+Eb      Bb     B/D#    C#/E#    Dmaj7  Dbmin7(add9)  Cmaj7  Dmin7(add9) D#min7/9
+E-x-¦   E-6-¦   E-x-¦    E-x-¦    E-x-¦    E-4-¦        E-x-¦     E-5-¦      E-6-¦
+B-8-¦   B-6-¦   B-4-¦    B-6-¦    B-7-¦    B-4-¦        B-5-¦     B-5-¦      B-6-¦
+G-8-¦   G-7-¦   G-4-¦    G-6-¦    G-6-¦    G-4-¦        G-4-¦     G-5-¦      G-6-¦
+D-8-¦   D-8-¦   D-4-¦    D-6-¦    D-7-¦    D-6-¦        D-5-¦     D-7-¦      D-8-¦
+A-6-¦   A-8-¦   A-6-¦    A-8-¦    A-5-¦    A-4-¦        A-3-¦     A-5-¦      A-6-¦
+E-x-¦   E-6-¦   E-x-¦    E-x-¦    E-x-¦    E-4-¦        E-x-¦     E-5-¦      E-6-¦
+
+
+[Pre-chorus]
+                  Eb                             Bb
+To see the heaven in your eyes is not so far
+         B/D#                            C#/E#
+Cause I'm not afraid to try and go it
+                 Dmaj7                              Dbmin7/9
+To know the love and the beauty never known before
+Cmaj7                        Dmin7/9
+I'll leave it up to you to show it
+
+Chord Shapes for Chorus:
+Code Sample
+
+  Ebmaj7  Emin(#7) Gmin(b7) C7(no 5th)  Abmaj7   Bmin/D
+  E-x-¦    E-x-¦    E-3-¦     E-0-¦       E-3-¦     E-2-¦
+  B-8-¦    B-8-¦    B-6-¦     B-1-¦       B-4-¦     B-3-¦
+  G-7-¦    G-5-¦    G-3-¦     G-3-¦       G-5-¦     G-4-¦
+  D-8-¦    D-5-¦    D-5-¦     D-2-¦       D-6-¦     D-0-¦
+  A-6-¦    A-6-¦    A-x-¦     A-x-¦       A-x-¦     A-x-¦
+  E-x-¦    E-x-¦    E-x-¦     E-x-¦       E-x-¦     E-x-¦
+
+
+[Chorus]
+     Ebmaj7 Emin(#7) Gmin(b7) C7(no5)
+And golden   lady,      golden     lady
+   Abmaj7
+I'd like to go there
+Ebmaj7 Emin(#7) Gmin(b7) C7(no5)
+Golden  lady,       golden     lady
+   Abmaj7
+I'd like to go there
+                   Bmin/D     Abmaj7
+Take me right away
+
+
+[Verse 2]
+Eb/G                      A hf-dim7/Eb
+Looking at your hands
+Ebmaj7                   Emin
+Hands can understand
+Eb/G                       A hf-dim7/Eb
+Waiting for the chance
+Ebmaj7                   Emin
+Just to hold your hand
+
+
+[Pre-Chorus]
+               Eb                                      Bb
+A touch of rain and sunshine made the flower grow
+B/D#                            C#/E#
+Into a lovely smile that's blooming
+              Dmaj7                           Dbmin7/9
+And it's so clear to me that here's a dream come true
+Cmaj7                           Dmin7/9
+There's no way that I'll be losing
+
+
+[Chorus]
+     Ebmaj7 Emin(#7) Gmin(b7) C7(no5)
+And golden  lady,       golden     lady
+   Abmaj7
+I'd like to go there
+Ebmaj7 Emin(#7) Gmin(b7) C7(no5)
+Golden  lady,       golden     lady
+   Abmaj7
+I'd like to go there
+                   Bmin/D     Abmaj7
+Take me right away
+
+
+[Organ Solo over Verse Chords]-twice
+Eb/G     A half-dim7/Eb       Ebmaj7       Emin
+
+[Pre-Chorus repeats]
+                Eb                                      Bb
+A touch of rain and sunshine made the flower grow
+B/D#                             C#/E#
+Into a lovely smile that's blooming
+                Dmaj7                         Dbmin7/9
+And it's so clear to me that here's a dream come true
+Cmaj7                             Dmin7/9   D#min7/9
+There's no way that I'll be losing
+
+ Chord Shapes for Outro Choruses
+This repeats the same shapes found in the initial choruses, but progressively 
+modulates them up a half step after they are played twice through.  It's not 
+hard to hear, but I have come this far, so here ya go!
+Like this:
+[First two times]
+Code Sample
+
+    Emaj7   Fmin(#7) G#min(b7) C#7(no 5th)   Amaj7  
+    E-x-¦    E-x-¦    E-4-¦      E-x-¦         E-4-¦    
+    B-9-¦    B-9-¦    B-7-¦      B-2-¦         B-5-¦    
+    G-8-¦    G-6-¦    G-4-¦      G-4-¦         G-6-¦    
+    D-9-¦    D-6-¦    D-6-¦      D-3-¦         D-7-¦  
+    A-7-¦    A-7-¦    A-x-¦      A-x-¦         A-x-¦    
+    E-x-¦    E-x-¦    E-x-¦      E-x-¦         E-x-¦    
+
+
+[Next two times]
+Code Sample
+
+    Fmaj7   F#min(#7) Amin(b7) D7(no 5th)     Bbmaj7  
+    E-x-¦    E-x-¦      E-5-¦     E-x-¦         E-5-¦    
+    B-10¦    B-10¦      B-8-¦     B-3-¦         B-6-¦    
+    G-9-¦    G-7-¦      G-5-¦     G-5-¦         G-7-¦    
+    D-10¦    D-7-¦      D-7-¦     D-4-¦         D-8-¦  
+    A-8-¦    A-8-¦      A-x-¦     A-x-¦         A-x-¦    
+    E-x-¦    E-x-¦      E-x-¦     E-x-¦         E-x-¦  
+
+
+[Next two times]
+Code Sample
+
+   F#maj7   Gmin(#7) Bbmin(b7) Eb7(no 5th)   Bmaj7  
+    E-x-¦    E-x-¦    E-6-¦      E-x-¦         E-6-¦    
+    B-11¦    B-11¦    B-9-¦      B-4-¦         B-7-¦    
+    G-10¦    G-8-¦    G-6-¦      G-6-¦         G-8-¦    
+    D-11¦    D-8-¦    D-8-¦      D-5-¦         D-9-¦  
+    A-9-¦    A-7-¦    A-x-¦      A-x-¦         A-x-¦    
+    E-x-¦    E-x-¦    E-x-¦      E-x-¦         E-x-¦
+
+
+[Final time - fades out here]
+Code Sample
+
+    Gmaj7   G#min(#7) Bmin(b7)  E7(no 5th)    Cmaj7  
+    E-x-¦    E-x-¦     E-7-¦      E-x-¦         E-7-¦    
+    B-12¦    B-12¦     B-10¦      B-5-¦         B-8-¦    
+    G-11¦    G-9-¦     G-7-¦      G-7-¦         G-9-¦    
+    D-12¦    D-9-¦     D-9-¦      D-6-¦         D-10¦  
+    A-10¦    A-8-¦     A-x-¦      A-x-¦         A-x-¦    
+    E-x-¦    E-x-¦     E-x-¦      E-x-¦         E-x-¦
+
+
+[Outro Choruses]
+
+    Emaj7 Fmin(#7) G#min(b7) C#7(no 5th)  
+And golden lady,     golden      lady
+   Amaj7
+I'd like to go there
+Emaj7 Fmin(#7) G#min(b7) C#7(no5)
+Golden lady,       golden      lady
+   Amaj7
+I'd like to go there
+--------
+Fmaj7  F#min(#7) Amin(b7) D7(no 5th)    
+Golden lady,         golden     lady
+   Bbmaj7
+I'd like to go there
+Fmaj7  F#min(#7) Amin(b7) D7(no 5th)  
+Golden lady,          golden    lady
+   Bbmaj7
+I'd like to go there
+---------
+F#maj7 Gmin(#7) Bbmin(b7) Eb7(no 5th)    
+Golden   lady,       golden      lady
+   Bmaj7
+I'd like to go there
+F#maj7 Gmin(#7) Bbmin(b7) Eb7(no 5th)  
+Golden   lady,        golden    lady
+   Bmaj7
+I'd like to go there
+----------
+Gmaj7  G#min(#7) Bmin(b7)  E7(no 5th)      
+Golden   lady,        golden     lady
+   Cmaj7
+I'd like to go there
+Gmaj7  G#min(#7) Bmin(b7)  E7(no 5th)  
+Golden lady,          golden     lady
+   Cmaj7
+I'd like to go there
+
+  [FADES OUT]
+</pre>

@@ -1,0 +1,75 @@
+[[Category: Covers]]
+[[Category: Loop]]
+<pre>
+As performed by Phish
+from Tyler Ricklers <ttstick@aol.com>
+from emil <tabs@redmedia.com>
+from <Seer Snively <seer@gamehendge.org>
+from Logan White <l.t.white18@gmail.com>
+
+Note:  I would just like to clear up some confusion 
+in the discusion part of this song. The organ actually 
+sounds better if you do something like this:
+ Bb A G E G:     Bb A G F G 
+and as far as the chords in the organ, 
+just let the guitar to the main part with the organ playing 
+what I have writen above. And end 
+on the chord specified by this tab.
+Email me with questions
+
+I was looking at the tab for Also Sprach Zarathustra "2001".  I
+just wanted to point out that the funky version that phish plays is really
+from Eumir Deodato and is recorded on the Sony label.  If you want to hear
+that version, check out the great movie "Being There" with Peter
+Sellers.  It's a clean, studio version with a very 70's feel to it.  
+
+Jam starts in Cmin7
+Bass/Organ line:
+
+
+G------------------------------------------
+D----8-7--------------8-7------------------
+A--------10--7--10--------10--8--10--6>7---
+E--8----------------8----------------------
+
+Alt Piano Bass Line
+
+C Bb A G E G, C Bb A G F G F G F E
+
+Trey does his little noodling over it:
+
+E--8---8---
+B-11--11---
+G--8---8---
+D-10---8---
+A-----10---
+E------8---
+
+Then this riff builds up the jam (have whoever's not playing lead hit the chords/
+notes listed above the tab)
+
+
+
+                Eb     C                  F                G   C                  
+     **
+e----------------------|-------------------|--------------------------------------------15----
+b--------13-----17-16--|-----13-----16-17--|--------13-----17-18--------------15--17-18-------
+g-----12---------------|---12--------------|-----12------------------14-16-17-----------------
+d--10------------------|-10----------------|--10----------------------------------------------
+a----------------------|-------------------|--------------------------------------------------          
+e----------------------|-------------------|--------------------------------------------------          
+** - can use a harmonic for sustain
+
+             F    G     C
+
+e--------15---17---19----20------------
+b--17-18-------------------------------
+g -------------------------------------
+d--------------------------------------
+a--------------------------------------
+e--------------------------------------
+
+</pre>
+== Loops ==
+Sampled:
+<gflash>100 40 /vb5/phish/2001.swf</gflash>

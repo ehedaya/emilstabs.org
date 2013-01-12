@@ -1,0 +1,157 @@
+<pre>
+
+Sleep Again
+
+(Transcribed by Carl Toborowsky)
+
+This is how they played it in Indio during the acoustic set.
+
+Intro: 
+        
+E-------------5--3--3--------------------------------------------------
+B----------5-----0--0--------------------------------------------------
+G-----4h6--------5--4--------------------------------------------------
+D-----4----------------------------------------------------------------
+A----------------------------------------------------------------------
+E----------------------------------------------------------------------
+
+Repeat intro as necessary.
+
+F#m   G         D                A   Asus4 A
+Slow slow, my brother, you will sleep again
+
+F#m    G           D                A  Asus4  A
+Long long, when it passes, you will live again
+
+F#m    A  G    Bm     G
+Snow falls, ohhhh, and it passes
+
+(Back to intro)
+
+F#m    G        D                 A
+Time time, in good time, you will be again
+Hold on, when it passes, you will live again
+
+F#m   A     G    Bm     G
+Snow falls, ohhhhh, and it passes
+
+(Intro)
+You will sleep again……
+
+A     D/A          Dm        A
+All you’ll be, and all that’s gone
+
+Dm        G     Dm    G   Dm
+Is leading you on and on
+
+On and on
+
+    Dm run:
+E----------------------------------------------------------------------
+B---10-12-13-12-10-----------------------------------------------------
+G---10-----------------------------------------------------------------
+D---12-----------------------------------------------------------------
+A----------------------------------------------------------------------
+E----------------------------------------------------------------------
+
+
+Ending chord progression: A  Amaj7  A7  Dm (Dm run)
+
+
+
+Sleep Again
+Trey:Shine
+
+I figured this out from the accoustic NPR recording, some of the chords I'm uncertain about,
+as well as the intro, but it sounds right for the most part
+
+Intro
+
+
+     G   A   E  A   G   G     G   A   E  A   G   G    G
+e------------------------------------------------7----7----
+B------------5--10--8---8-------------5--10--8----8----8---
+G----4->-6--------------7-----4->-6----------------7----7--
+D----5->-7---6--11--9---9-----5->-7---6--11--9-------------
+A----------------------------------------------------------
+E----------------------------------------------------------
+
+The underlying chords are all right, but combination of strings or
+the picking pattern may be a little different.
+
+Verse:
+A    G        D                 A
+Slow slow, my brother you will sleep again
+
+Verse ending:
+
+
+e------------------
+B--5------------5--
+G--6--------6-7----
+D--7---------------
+A------------------
+E------------------
+..sleep again
+
+Long long, when it passes you will breathe again
+A    G     Bm    G > ? (there is a slide here from G to something, but I can't figure it out)
+Snow falls, oh...and it passes
+
+Time time, in good time you will be again
+Hold on, when it passes you will live again
+Long long, on and on, care free and downstream(?)
+
+You will sleep again x3 (Sing over intro)
+
+Chorus:
+A      D         Dm               A
+   All you'll be, and all that's gone
+  D            A      A7 (not certain about this A7)
+Is leading you on and on
+A      Dm
+On and on
+
+Chorus ending:
+    Dm
+e--5-5h7-7-5-5-----
+B--6-6-6-6-6-6-----
+G--7-7-7-7-7-7-----
+D--5-5-5-5-5-5-----    x2
+A--5-5-5-5-5-5-----
+E------------------
+
+You will sleep again
+
+Repeat 1st verse
+
+You will live again x3
+
+Repeat Chorus x2
+
+You will sleep again x2
+
+Outro:
+
+e------------------------------5-5h7-7-5-5-
+B--5-----5--5-----5--5------5--6-6-6-6-6-6-
+G--6-6-7----6-6-7----6--6-7----7-7-7-7-7-7-     x3
+D--7--------6--------5---------5-5-5-5-5-5-
+A------------------------------5-5-5-5-5-5-
+E------------------------------------------
+
+End on A
+
+</pre>
+
+
+<pre>
+
+Here are alternatives to the intro & melody
+e|--------5-----7---::---------5--3--3----|
+B|------5---8---8---::-------2-------3----|
+G|-/--6---------7---::--/--2---------4----|
+D|-/7-----------9---::--/2-----------5----|
+A|------------------::--------------------|
+E|------------------::--------------------|
+</pre>

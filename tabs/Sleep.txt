@@ -1,0 +1,65 @@
+[[Category: Studio Release]]<pre>
+from DwlBskt@aol.com <DwlBskt@aol.com>
+lyrics from BR6879@aol.com <BR6879@aol.com>
+intro edits by Gianturtle
+
+Legend
+------
+
+h  = hammer-on
+p  = pull-off
+b  = bend
+r  = bend release
+/  = slide up/down
+<5> = natural harmonic
+[5] = artifical harmonic
+~  = vibrato
+tr = trill
+
+
+
+    Intro x3                                                     repeat as needed
+
+E|-------------------10-----8-------------------------------------------
+B|---3---1---0----------------6----0h1-------1-----1----3---3---1---1-0-
+G|----------------------0-------0------0---0-----0----------------------
+D|---3---2---0--------9-----7------------------2--------3---2---2---2-0-
+A|-------------------10-----8------------3------------------------------
+E|-3---3---3-----------------------------------------3---3---3---3---3-
+
+
+
+   Bridge  
+
+E--------------------------3------3------3------3-------
+B--------0h1-----1------------0-----0------0------------
+G---2--------0-----0------------0-----0------0----------
+D-----0--------2----------------------------------------
+A---3---------------------------------------------------
+E-1-------------------2/3-------------------------------
+
+
+Lyrics to sleep:
+
+<Intro G>
+I Can't describe the feeling when
+
+<Verse>
+I'm in my bed asleep at night
+I wake up when the visions blurred
+And all my efforts are detered
+To reconstruct this image lost
+
+<Bridge>
+Their certain things my mind must do
+and even though they're very few
+The image glistens like a gem
+
+<Verse>
+Repairing is not one of them
+So I'm awake though in my mind
+The image thats so unrefined
+is calling to me from the deep
+and tempting me to fall asleep
+
+</pre>

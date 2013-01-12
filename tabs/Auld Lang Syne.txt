@@ -1,0 +1,57 @@
+[[Category: Covers]]
+[[Category: Bass]]
+== Bass Tablature ==
+<pre>
+Auld Lang Syne Bass
+
+
+transcribed by DoubleB18@aol.com 
+
+
+Legend
+------
+
+
+h  = hammer-on
+p  = pull-off
+b  = bend
+r  = bend release
+/  = slide up/down
+<5> = natural harmonic
+[5] = artifical harmonic
+~  = vibrato
+tr = trill
+
+
+
+
+
+
+E|-----------------------------------------------------------------
+B|-----------------------------------------------------------------
+G|-------------------------------7-7-------------------------------
+D|---------7---------7------7-10-----10-7-7-----------7------0-----
+A|---8-8-8---10-8-10---10-8-----------------8-10-8-10---10-8-----8-
+E|-8-----------------------------------------------------------8---
+</pre>
+
+[[Category: Covers]]
+[[Category: Covers]]
+== Guitar Tablature ==
+<pre>
+Auld Lang Syne Guitar Tab
+
+Alright so I usually play this in G because it's the key that I'm most comfortable
+with messing around in, if you play it with your band just put it in the key you want.
+I think that Trey usually plays it in D but I'm not really sure I haven't listened
+that hard.  This is just the basic structure do with it what you wish.
+
+E|-3--2-3--7-5--3-5--7-5-3--3-7-10-12--12-10--7-7--3-5--3-5-7-5-3-0-0---3--
+B|--------------------------------------------------------------------3----
+G|-------------------------------------------------------------------------
+D|-------------------------------------------------------------------------
+A|-------------------------------------------------------------------------
+E|-------------------------------------------------------------------------
+
+any questions scottyd17@ksu.edu
+</pre>

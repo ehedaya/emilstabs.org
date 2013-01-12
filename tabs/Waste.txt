@@ -1,0 +1,192 @@
+[[Category: Studio Release]]<pre>
+Intro:
+E-3---3---3---3---3---3---1---0-------1---1---0---0--
+B-1---1---0---0---1---1---3---3---3---1---1---1---1--
+G-0---0---0---0---3---3---3---3---3---2---1---0---0--
+D-2---2---2---2---2---2---3-3-3-3-3-3-3-3-3-2-2-2-2--
+A-3-3-3-3-3-3-3-3-3-3-3-----------------------------3
+E----------------------------------------------------
+Don't want to be an actor, pretending on the stage
+Don't want to be a writer, with my thoughts out on the page
+Don't want to be a painter, 'cause everyone comes to look
+Don't want to be anything where my life's an open book
+ F  Fm  C
+E-1---1--0---
+B-1---1--1---
+G-2---1--0---
+D-3---3--2---
+A------------
+E------------
+
+F      Fm        C     F           Fm      C  
+  A dream, it's true     but I'd see it through
+
+If I could be (if I could be) wasting my time with you.
+Don't want to be a farmer, working in the sun
+Don't want to be an outlaw, always on the run
+Don't want to be a climber, reaching for the top
+Don't want to be anything where I don't know when to stop
+
+A dream, it's true   but I'd see it through
+If I could be (if I could be) wasting my time with you.
+
+Use these chords for this part:
+ Eb  Bb F  C
+E--------1--0-
+B--5--3--1--1-
+G--4--3--2--0-
+D--6--3--3--2-
+A--2--1-------
+E-------------
+Eb           Bb    F          C    Eb           Bb    F          C
+    So if I'm inside your head     don't believe what you might have read
+
+Eb           Bb    F          C           Eb      Bb        -->F
+    You'll see what I might have said      to hear it
+
+ F  Gm Bb
+E-1--3--1--
+B-1--3--3--
+G-2--3--3--
+D-3--5--3--
+A-3--5-----
+E----------
+
+
+F       Gm           Bb      
+   Come waste   your time with me
+</pre>
+
+== Live Version ==
+
+<pre>
+transcribed by Emil <tabs@redmedia.com>
+
+
+Intro:
+
+
+E-5---5---5---5---5---5---3---2-0-----------------------------------
+B-3---3---2---2---1---1---1-------1---3----3----3----3-----3---3----
+G-2---2---2---2---2---2---2-2------2--4----4----3----3-----2---2----
+D-0-0-0-0-0-0-0-0-0-0-0-0-0-----------5-5-(5)-5-5-5-(5)-5>4--4---0--
+A-------------------------------------------------------------------
+E-------------------------------------------------------------------
+
+
+Don't want to be an actor, pretending on the stage
+Don't want to be a writer, with my thoughts out on the page
+Don't want to be a painter, 'cause everyone comes to look
+Don't want to be anything where my life's an open book
+
+
+ G  Gm  D
+E------------
+B-3---3--3---
+G-4---3--2---
+D-5---5--4---
+A------------
+E------------
+
+
+G      Gm        D        G           Gm      C  
+  A dream, it's true     but I'd see it through
+
+
+
+If I could be (if I could be) wasting my time with you.
+
+
+Don't want to be a farmer, working in the sun
+Don't want to be an outlaw, always on the run
+Don't want to be a climber, reaching for the top
+Don't want to be anything where I don't know when to stop
+
+
+A dream, it's true   but I'd see it through
+If I could be (if I could be) wasting my time with you.
+
+
+
+Use these chords for this part:
+  F  C  G  D
+E-------------
+B--1--1--3--3-
+G--2--0--4--2-
+D--3--2--5--4-
+A-------------
+E-------------
+
+
+F           C    G          D    F          C              G            D
+    So if I'm inside your head     don't believe what you might have read
+
+F           C          G          D     F      C        -->G
+    You'll see what I might have said      to hear it
+
+ G  Am C  Cadd9
+E-3--0--0---0---
+B-0--1--1---3---
+G-0--2--0---0---
+D-0--2--2---2---
+A-x--0--3---3---
+E-3-------------
+
+
+G       Am           C         Cadd9
+   Come waste   your time with me
+</pre>
+
+== Live Solo ==
+
+<pre>
+transcribed by Kevin Weber phastball@mediaone.net
+
+
+
+
+
+This is the solo Trey plays for live shows, play around with it, You'll get it.
+
+
+
+E-------------------------------------------------------------------------
+B---------------------------------------15--------------------12---------
+G-------------12--------------------------------------------------------- section 1
+D-12h14p12h14-------12h14p12h14----------12h14p12h14------------
+A-------------------------------------------------------------------------
+E-------------------------------------------------------------------------
+ #1 riff x5                         #2 riff x2         then     #3 riff x1    
+     
+   then go back to riff #1 and repeat section 1 a few times
+
+
+E---------------------------------------------------------
+B------------------------------------15------------------
+G-12h14p12----------12h14p12---------------------------  section 2
+D------------14------------------14-----------------------
+A---------------------------------------------------------
+E---------------------------------------------------------
+ riff #4                        riff #5 x3
+
+then just fool around with those to sections a few times then do. . .
+
+E------------------15-------------------------15--19-17-15--------
+B-15h17p15h17----------------15h17p15h17----------------------
+G-------------------------------------------------------------------- section 3
+D--------------------------------------------------------------------
+A--------------------------------------------------------------------
+E--------------------------------------------------------------------
+ Riff #6 repeating until                      riff #7  
+
+Riff #1 x5
+Riff #2 x2
+Riff #3 x1
+Repeat section 1 a few times
+Riff #4 x5
+Riff #5 x3
+Repeat section 2 a few times
+Riff #6 repeating until you feel like doing
+Riff #7
+Repeat section 3 until whenever
+</pre>

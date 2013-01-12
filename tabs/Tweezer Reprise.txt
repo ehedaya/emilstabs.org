@@ -1,0 +1,54 @@
+[[Category: Studio Release]]<pre>
+E------------------------------------------
+B------------------------------------------
+G------------------------------------------
+D-0-12-0-0-10-0-0--------------------------
+A-----------------12-0-0-0-10-0-0----------
+E---------------------------------13^(14)--
+
+Mike plays something on his bass that resembles this, which
+actually requires that you hammer on with your picking hand to
+play the second note (watch him in concert!)
+
+              Hammer on hard then
+ H-O B        slide w/ pick (right?) hand
+E------------------------------
+B------------------------------
+G------------------------------
+D-0-2^(3)-------12>10----------
+A------------------------------
+E------------------------------
+
+I imagine, though, that if you needed to play it in a key that
+didn't coincide with open strings (as the band often does during
+those crazy Jam > Tweezer Reprise deals), this would be a better
+choice since you can play it with a barre, thus in any key:  here
+is Tweezer Reprise in Eb (barre on fret 6):
+
+E-------------------------------------------
+B-------------------------------------------
+G----8-----6--------------------------------
+D-----------------8-----6-------------------
+A--6---6-6---6-6---------------9^(10)-------
+E-------------------6-6---6-6---------------
+
+
+
+I figured out a way to "simulate" the band's playing the background part on the guitar.
+Use lots of distortion :), and keep the D string ringing the whole time
+
+The steps:
+
+
+ D   G   F   G   D   G   F   G   D   G   F   G   D   G   F   G    D*  |: G   F    G:|
+E-2---3---5---7---2---3---5---7---5---7---8---7---5---7---8---10---10----10---8---10-
+B-3---3---6---8---3---3---6---8---7---8--10---8---7---8--10---12---10----12--10---12-
+G-2---4---5---7---2---4---5---7---7---7--10---7---7---7--10---12---11----12--10---12-
+D-0~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A------------------------------------------------------------------------------------
+E------------------------------------------------------------------------------------
+
+After you reach the climax, marked *, repeat what's in the repeat brackets while screaming:
+
+Won't you step into the freezer?
+</pre>

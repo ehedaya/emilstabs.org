@@ -1,0 +1,128 @@
+[[Category: Studio Release]]
+<pre>
+From: Kyle Grieser < yuf@sequent.com >
+From: Eric Berman < ericbe@microsoft.com >
+From: kcjonz@wam.umd.edu ( David Douglas McCallum )
+
+BTW, the rhythm isn't in any way reflected here, you may try listening
+to it to get the right feel...
+
+I wanted to share a little secret that I learned while figuring out the
+song "From The Beginning", by Emerson, Lake, & Palmer in the hazy,
+distant past. It involves combining open strings with notes fretted
+higher up on the neck, creating a nice lush, "open" sound when the notes
+are left ringing. Check it out... [THANKS to Kyle Grieser for the
+original sTAB]
+
+ Am                     *-Begin repeat here  
+E|--------------------0----------------------0-------
+B|------------------0----------------------0---------
+G|----------------5----------------------5-----------
+D|--------------7----------------------7-------------
+A|0---0---0---0----------0---0---0---0---------0---0-
+E|---------------------------------------------------
+                                              ^   ^*
+*=Play 3 open A notes on repeat
+
+ Am       E       Fmaj7   Dmsus2
+E|-----------------------0-0----
+B|-------0---0---0-0---1---3----
+G|-----5---1---------2-----2----
+D|---7---------2---3-------3----
+A|-7----------------------------
+E|------------------------------
+
+    F     Am      H-O             1.Bb          slower
+E|-------------------------------0-|---------------------
+B|---1--3--5-6-5---5-6-5-3-1---1---|-3------3---3------3-
+G|---2--2--5-----7-5-7-5-4-2-------|-3-- --3---3-----3---
+D|---3--3--5-----------------2-----|-3----3---3----3-----
+A|---------------------------------|-1---1---1---1-------
+E|---------------------------------|---------------------
+
+The little Bb arpegio repeats a couple times then back to beginning... or...
+
+2. Bb                  G    / \/\ Am \/\/\ (/\=strum)
+|-------------------|-----3-------0-----------
+|--3-----3---3---0--|-----3-------1-----------
+|--3----3---3---3---|-----0-------2-----------
+|--3---3---3---3----|-----0-------2-----------
+|--1--1---1---0-----|-----2-------0-----------
+|-------------------|--3---------------------- then into verse...
+
+Am                    C                             G
+It's time I sling the baskets off this overburdened horse
+D              C                                 F        F/E
+Sink my toes into the ground and set a different course
+D                         C
+'Cause if I were here and you were there
+                 Am
+I'd meet you in between
+B                Em            C                G
+And not until my dying day, confess what I have seen
+
+
+The Horse
+Artist: Phish
+Comments: Transcribed by Mario J. Ferro (alternate take)
+Well, here's horse off of RIFT.  It was posted once, but sort of incomplete
+ so i fixed it up.  Make sure you veiw it in .txt in notepad, otherwise it
+ won't come out even.
+
+   Am(add9)                                   Fmaj7
+E  +--------------0----------------0--------------------0-0-+
+B  |------------0----------------0----------0-0-0-----1---3-|
+G  |----------5----------------5-----------5--------2-----2-|
+D  |--------7----------------7------------7--6-2--3-------3-|
+A  |0-0-0-0----------0-0-0-0---------0-0-0------------------|
+E  +--------------------------------------------------------+
+   Asus4/7        C                  Am     Bb
+E  +--------------------------------------0-----------------+
+B  |3--3--3---1-3--5-6-5---5-6-5--3---1------3----3---3---3-|
+G  |2--2--2---2-2--5-----7-5-7-5--4---2--2---3---3---3---3--|
+D  |3--3--3---3-3--5----------------2-2-2----3--3---3---3---|
+A  |-----------------------------------------1-1---1---1----|
+E  +---------------8----------------------------------------+
+   Am(add9)                       Fmaj7   Asus4/F
+E  +--------------0----------------------0-0----------------+
+B  |------------0------------0-0-0-----1---3--3--3--3--1-3--|
+G  |----------5-------------5--------2-----2--2--2--2--2-2--|
+D  |--------7--------------7--6-2--3-------3--3--3--3--3-3--|
+A  |0-0-0-0---------0-0-0-0---------------------------------|
+E  +--------------------------------------------------------+
+    C                Am     Bb                 G
+E  +----------------------0---------------------3-3--3-3-3-3+
+B  |-5-6-5---5-6-5--3--------3----3---3---0-----0-0--0-0-0-0|
+G  |-5-----7-5-7-5--4----2---3---3---3---3------0-0--0-0-0-0|
+D  |-5----------------2-2----3--3---3---3-------0-0--0-0-0-0|
+A  |-------------------------1-1---1---0--------2-2--2-2-2-2|
+E  +-8--------------------------------------3---3-3--3-3-3-3+
+So you strum that G for a little bit then you go into this(I thank
+eunaesia@aol.com
+the basic outline of the next part, i just strum the regular open chords,
+but the extra stuff he has could be right):
+
+Am(barre)
+
+Am(barre)             C(with G on top)               G
+It's time I slink the baskets off this silver burden horse
+D              C(E on top)                       F       E*      D
+Sink my toes into the ground and set a different course
+                         C(E on top)                       Am
+'Cause if I were here and you were there, I'd meet you in between
+B               Em         C(E on top)       G
+And not until my dying day confess what I had seen.
+
+*that E  is played something like this: [0221xx], and it's played for only
+like one count and then you go right into the D.
+That first Am(barre) could be a barre or not, the open one sounds just fine.
+The last four chords are only strumed once, with the G going right into
+'silent
+in the morning'.  For some of the parts in the intro, you could hear Trey
+sliding
+in between certain notes, and letting some notes ring, that's why some of the
+them are tabbed up and down the neck and not just on one position.
+Well that's about it, let me know if anything is wrong.
+</pre>
+
+This leads into [[Silent in the Morning]]

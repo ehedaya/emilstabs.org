@@ -1,0 +1,272 @@
+[[Category: Unreleased]]
+
+<pre>
+                                                                                                   COLONEL FORBIN'S ASCENT
+
+This transcription is pretty close.  The two chords at the end of the verse are tough to hear.  I feel like the melody  notes are D and C#, that's why I called it C#7b9--F#7.
+I don't think Trey plays Gmaj7 during the choruses, but I like the way they sound.  (Page might play the major 7ths there)  The verses are very unique in that Trey sings
+a straight-forward melody, but with very non-traditional chords behind it.  The instrumental bridge is another example of Trey taking a line and modulating it around
+almost seamlessly.  (Golgi, Bowie, Horn are other examples)
+
+    INTRO
+
+  Ab  Intro Riff   Adim7    Ab                Cdim7
+
+e--4-------|-------5---------------------------11---------------------------------------------------
+B--4-------|-------4----------------4----------10---------------------------------------------------
+G--5-------|-------5----------------5----------11---------------------------------------------------
+D--6-------|-------4----------------6----------10---------------------------------------------------
+A--6-------|----------------------------------------------------------------------------------------
+E--4-------|----------------4-----------------------------------------------------------------------
+
+
+         C#m7                    F#m9
+ Colonel Forbin stared up at the mountain 
+Ebdim7                                                           Emin(maj7)
+ and wiped away the beads of sweat that glistened on his brow
+     F#7                                           C#7b9--F#7  (not sure)
+ his tired feet were buried in the Quagmyre
+         Am7                                                                                       Intro
+ and his bloodshot eyes saw all the lay between him and fulfillment of his vow
+       C#m7                           F#m9  
+ And he felt his fingers wrap around a knotted root
+
+     Ebdim7                                              Emin(maj7)
+ and pulled his body upwards to a seagreen mossy boulder
+        F#7                                                       C#7b9---F#7
+ and he dragged weary shitass up the mountain
+        F#m7                 Gmaj7         F#m7              Gmaj7
+ And he climbed so slowly.. he climbed so slowly
+ 
+ A         F      F#m7      Gmaj7  
+ Ahead
+
+      Noise---Emin(maj7)  Form 2
+ 
+    A                                                    C# 
+ Suddenly he heard the crack of thunder
+         D                          G
+ and the rocks began to crumble overhead
+     A                                                                  C#    
+ and tumbled down the mountain to the dismal swamp that lay beneath
+     D                                        G  
+ the jagged cliffs through which his path had led
+         A                                                                C# 
+ and the earth began to quake beneath his feet
+         D                         G
+ and the mighty mountain changed before his eyes
+        A                                                          C#                       
+ and he stood amidst a sea of dust and rocks and stones
+                    D                                             G                   (Ab)                                  A
+ cascading down the mountain and a thousand birds were headed for the sky
+  C#m7              Bm7                   G 
+ Ohhh...... the sacred creed will be yours....
+         
+                                                       Chords for this section
+         A          C#m7        Bm7          G
+e---0------0------0------0--------------------------------------------------------------------------
+B---5------5------3------3--------------------------------------------------------------------------
+G---6------4------2------4--------------------------------------------------------------------------
+D---7------6------4------5--------------------------------------------------------------------------
+A---0-----------------------------------------------------------------------------------------------
+E---------------------------------------------------------------------------------------------------
+            A                C#m7                      Bm7            G  
+ and if you wait until tomorrow ... the sacred creed/greed
+                F#m7      Gmaj7         F#m7    Gmaj7             A        F     F#m7    Gmaj7
+ will be yours to devour, yours to seize, and to obey.....
+
+ Then---C#m7
+
+                                             BRIDGE   (Trey bends the E to F# and the G# to A.  I just didn't know how to write in bends)
+
+    D         A/C#     Bm7                      F#m       E                   D                  Ebm7          
+e---------------------------------------------------------------------------------------------------
+B---7-------5-------3-------------9------10-----9-------7--------HOLD-------------------------------
+G---------------------------------------------------------------------------------------------------
+D---------------------------------------------------------------------------------------------------
+A---------------------------------------------------------------------------------------------------
+E---------------------------------------------------------------------------------------------------
+
+          E    B/D#        C#m7     G#m        F#              E
+e---------------------------------------------------------------------------------------------------
+B--5---7-----9------7------5-----------11-----12-----11------9-----HOLD  NOTE BACK INTO THE INTRO------
+G---------------------------------------------------------------------------------------------------
+D---------------------------------------------------------------------------------------------------
+A---------------------------------------------------------------------------------------------------
+E---------------------------------------------------------------------------------------------------
+
+                    C#m7                                                  F#m9      
+ When the dust had cleared the colonel lifted up his head
+                  Ebdim7                               Emin(maj7)
+ and was driven to his knees by a blazing beam of light
+               F#7                                             C#7b9--F#7  
+ and he saw the silhouette that stood before him
+    Am7                                                                                                     Intro                                                                 
+ and he bowed in reverence, trembling, in the shadow of the mighty legend's form.
+ C#m7                                       F#m9
+ Icculus, the prophet, stood before his eyes
+                Ebdim7                                       Emin(maj7)                                           F#7
+ looking down on Colonel Forbin as he shuddered in the puddles and the muck
+                             C#7b9----F#7  
+ and he quietly addressed him
+               F#m7       Gmaj7          F#m7         Gmaj7
+ and he spoke so slowly ... he spoke so slowly..
+   
+ A    F   F#m7   Gmaj7 (x2)
+ he said.........................
+
+ Noise----Emin(maj7)  form 2
+
+
+ A                                                                      C#                  D                        
+ Colonel Forbin I know why you've come here, and I'll help you in your quest to
+         G
+ gain the knowledge that you lack.
+ 
+ 
+   A                                                       C#              D                
+ I call upon my faithful friend the Mockingbird, to fly and seize the
+ 
+                   G
+ Helping Book and bring it to your shack.
+       A                                                                  C#                       D              
+ And a tree of knowledge in your soul will grow, and the Helping Friendly
+ 
+                   G    
+ Book will plant a seed
+
+       A                                                                    C#                          
+ But I warn you that all knowledge seeming innocent and pure becomes a
+ 
+ D                                           G     (Ab)                 A
+ deadly weapon in the hands of avarice and greed..
+ 
+ 
+ C#m7                       Bm7          G                                    A    C#m7    Bm7    G
+ Oh...    the sacred creed/greed will be yours...
+            A                                      C#m7             Bm7                           G                  F#m7
+ And if you wait until tomorrow ........ the sacred creed/greed will be yours,
+ 
+         Gmaj7   F#m7         Gmaj7                       A     F    F#m7    Gmaj7  (x2)
+  to devour, yours to seize, and to obey..
+
+     Then C#m7
+
+
+                                    NARRATION JAM
+
+D   A/C#   Bm7  E-----A    C#m7      D    A/C#  Bm7  E   etc.....
+
+
+                                                                               CHORD FORMS
+
+C#m7      F#m9    Ebdim7     Emin(maj7)      F#7             Emin(maj7)  Form 2
+
+e----9------9--------------------------------------0------------------------------------------------
+B----9------9--------------------------------------0------------------------------------------------
+G----9------9------11------12--------15------------0------------------------------------------------
+D----9------7------10------13--------14------------1------------------------------------------------
+A----x------9------x-------x---------x-------------2---------------------------------------------
+E----9------------ -11------12--------14------------0------------------------------------------------
+</pre>
+:
+
+
+<pre>
+Colonel Forbin's Ascent
+
+by Phish
+Transcribed by Emil Hedaya ( emil@liii.com )
+There is one part that Trey plays (Oh, the sacred Creed will be yours . . ) which he picks 
+with the open E string:
+  A       Dbm        D          G  
+E-0--------0---------0----------0--
+B-5--------5---------3----------3--
+G-6--------4---------2----------4--
+D-7--------6---------4----------5--
+A----------------------------------
+E----------------------------------
+Intro:
+Ab7 > Adim (repeat)
+          Dbm7                    Gbm7
+  Colonel Forbin stared up at the mountain
+ B                                       E 
+  and wiped away the beads of sweat that glistened on his brow
+      Gbm                           ???
+  his tired feet were buried in the Quagmyre
+          Am                                                                Ab7 > Adim
+  and his bloodshot eyes saw all the lay between him and fulfillment of his vow
+        Db7                           Gbm7  
+  And he felt his fingers wrap around a knotted root
+ 
+      B                            E
+  and pulled his body upwards to a seagreen mossy boulder
+         Gbm                       ????
+  and he dragged weary shitass up the mountain
+         Gbm     G         Gbm          G
+  And he climbed so slowly.. he climbed so slowly 
+    A    F    Gbm   D  (this part I'm not sure about, but it sounds right played to a recording)
+  A-Heyyyyyyyyyyyyyyyyyyyyyyyyy
+[Funky Chords, sounds like Em]
+  A                              Db   
+  Suddenly he heard the crack of thunder
+          D                          G
+  and the rocks began to crumble overhead
+      A                                Db   
+  and tumbled down the mountain to the dismal swamp that lay beneath 
+      D                                        G  
+  the jagged cliffs through which his path had led
+          A                                Db  
+  and the earth began to quake beneath his feet
+          D                         G 
+  and the mighty mountain changed before his eyes
+         A                              Db                         
+  and he stood amidst a sea of dust and rocks and stones 
+                     D              G                   (Ab)           A
+  cascading down the mountain and a thousand birds were headed for the sky
+       Dbm7 D            G             A        Dbm7 D  G
+  Ohhh...... the sacred creed will be yours....
+             A                  Dbm7 D           G  
+  and if you wait until tomorrow ... the sacred creed/greed 
+          Gbm      G       Gbm      G             A        F  Gbm D
+  will be yours to devour, yours to seize, and to obey.....
+ 
+Dbm7 ...
+[Funky Chords, sounds like Em]
+           Dbm7                                Gbm7       
+  When the dust had cleared the colonel lifted up his head
+          B                        E
+  and was driven to his knees by a blazing beam of light
+         Gbm7                         ????   
+  and he saw the silhouette that stood before him
+         Am                                                                  Ab   A>Ab
+  and he bowed in reverence, trembling, in the shadow of the mighty legend's form.
+  Dbm7                        Gbm7
+  Icculus, the prophet, stood before his eyes
+          B                            E                                ??
+  looking down on Colonel Forbin as he shuddered in the puddles and the muck
+               ?? ??  
+  and he quietly addressed him
+         Gbm   G          Gbm         G
+  and he spoke so slowly ... he spoke so slowly.. 
+     A    F   Gbm   D (x2)
+  he said.........................
+[Funky Chords, sounds like Em]
+  A                                Db                  D                                  G
+  Colonel Forbin I know why you've come here, and I'll help you in your quest to gain the knowledge that you lack.
+    A                                Db              D                                  G
+  I call upon my faithful friend the Mockingbird, to fly and seize the Helping Book and bring it to your shack.
+        A                                   Db            D                                  G  
+  And a tree of knowledge in your soul will grow, and the Helping Friendly Book will plant a seed
+        A                                   Db                          D                             G     (Ab)  A
+  But I warn you that all knowledge seeming innocent and pure becomes a deadly weapon in the hands of avarice and greed..
+  A  Dbm7  D          G                   A    Dbm7  D    G
+  Oh...    the sacred creed/greed will be yours...
+             A                  Dbm7     D           G                   Gbm       G       Gbm      G             A  F Gbm D (x2)
+  And if you wait until tomorrow ........ the sacred creed/greed will be yours, to devour, yours to seize, and to obey..
+Dbm ....
+Chords underlying the "story"
+D Dbm Bm E  A Dbm (segue into Mockingbird)
+
+
+</pre>

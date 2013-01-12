@@ -1,0 +1,138 @@
+tablature attempt by Benjamin Betita (fresnosummer@comcast.net)<br>
+update from Nick Ver Voort ([[User:NickAVV|NickAVV]]) with help from "Mike in Japan"
+<pre>
+written by Michael Gordon
+
+Chords
+G#m   E   B   D   F#
+e-3- --- --- --- ---
+B-3- -5- -4- -7- -2-
+G-3- -4- -4- -7- -3-
+D--- -6- -4- -7- -4-
+A--- --- --- --- ---
+E--- --- --- --- ---
+
+Intro (Funk jam on Ab)
+e---
+B-9-
+G-8-
+D-9-
+A---
+E---
+
+G#m                         E                   B
+Standing on the edge of the cliff, I start to slip
+                  G#m
+Don’t mind if I slide off.
+G#m                         E                  B
+Now I feel my mood start to lift, I find my grip 
+                  D          F#         G#m
+and the screaming fades away below.
+G#m                         E                  B
+I grab myself and spin me around I start to sprint.
+                  G#m
+I climb down to steadier ground.
+G#m                                  E                  B
+If I can bushwhack it on back to the shack behind those hills
+              D                F#m
+I’ll find the world is finally still.
+
+C#dim
+e--
+B-5
+G-6
+D-5
+A-4
+E--
+
+B   F#      B    C#dim  D     C#dim  B       F#
+Run through pale dark   woods to        that Sugar Shack
+B       F#   B     C#dim D  C#dim    B        F#
+Breathe warm steam and   hide     in that old Sugar Shack.
+
+(Pre-solo Ascension)
+
+e-----------------------
+B-----------------------
+G----------------------1
+D------------0----2-----
+A--2----4---------------
+E-----------------------
+
+(Solo)
+
+ C#                                         G#7
+e-16---13-------------13-----------11-13---------14--------------------
+B---------14---------------14---11-------14-13-------------------------
+G------------15-13-----------------------------------------------------
+D----------------------------------------------------------------------
+A----------------------------------------------------------------------
+E----------------------------------------------------------------------
+
+                                                   C#
+ -11-12-13-14---11------------14---11--------------------13------------
+ ------------------13-11-------------------11-13-11--------------------
+ ------------------------13-------------13----------13-----------------
+ ----------------------------------------------------------------------
+ ----------------------------------------------------------------------
+ ----------------------------------------------------------------------
+
+                                                F#m
+ -13-14-15-16---13------------13--------13-14-16-17---14---------------
+ ------------------14--------------14--------------------14------------
+ ---------------------15-13---------------------------------14---------
+ ----------------------------------------------------------------------
+ ----------------------------------------------------------------------
+ ----------------------------------------------------------------------
+
+          F#              C#              G#7              C#
+ -14-16-17-18---14---------16---13---------14---11---------------------
+ ------------------16-14-----------16-14-----------13-11----14---------
+ --------------------------------------------------------13------------
+ ----------------------------------------------------------------------
+ ----------------------------------------------------------------------
+ ----------------------------------------------------------------------
+
+C#            G#7          C#           G#7
+Boiling heat, maple steam, frozen snow, then it flows.
+C#              G#7              C#                  G#7
+When you leave, your maple tree, wait till spring to go again.
+
+e-----------------------
+B------------------11---
+G---10h11-10--8-10------
+D-----------------------
+A-----------------------
+E-----------------------
+
+Bbm         F#                C#
+A mosaic of lies I tried to arrange 
+                         Bbm
+in ways that shelter the blame.
+Bbm                            F#                   C#
+I though I might have made off clear with all of the loot.
+              E           G#
+I plucked and ate all the fruit.
+Bbm                        F#                   C#
+Then I started hearing the yells and shattering plates 
+                     Bbm
+drowned out by your slithering stares.
+Bbm                           F#                         C#
+I was followed and chased and caught and tied up by the hate 
+              E           G#
+right until I made my escape.
+
+D#/Ebdim
+e--
+B-7
+G-8
+D-7
+A-6
+E--
+
+C#   G#     C#   D#/Ebdim E     B      C#       G#
+Run through pale dark     woods to        that Sugar Shack
+C#      G#   C#    D#/Ebdim E   B      C#       G#
+Breathe warm steam and      hide    in that old Sugar Shack.
+
+</pre>

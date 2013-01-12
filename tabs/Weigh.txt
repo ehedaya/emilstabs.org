@@ -1,0 +1,166 @@
+[[Category: Studio Release]]
+[[Category: Bass]]
+<pre>
+From: David Douglas McCallum  <netmail!kcjonz@wam.umd.edu>
+
+Intro
+       E7    A7  E7    A7  F#9  F#6/9
+
+  P-O    P-O   S/    S/
+E|-2-0-|--3-0-------0------|9---11--9---9-9-|
+B|0----|-2---2-----------4-|9---11--9---9-9-|
+G|-----|1-----0----1-------|9-9-11--9---9-9-|
+D|-----|-------------------|8-------8---8-8-|
+A|-----|--------1-2---3-4--|9----9--9---9-9-|
+E|-----|-------------------|----------------|
+
+E|9---9-----------------------|
+B|9----11-12----------10-11---|
+G|9---------11-10-9-8-------9-|
+D|8---------------------------|
+A|9---------------------------|
+E|----------------------------|
+
+ F#7     G#7 F#7        B7                    E7
+
+       S/               S/ P-O H-O P-O P-O    S/
+E|2-------4---2-2-2-|2------------------------|------0-0-|
+B|5-------7---5-5-5-|5------4-0---------------|------3-3-|
+G|3-------5---3-3-3-|3----------0-1-----------|------1-1-|
+D|2-------4---2-2-2-|2--------------2-0-------|----0-2-2-|
+A|4-------6---4-4-4-|4-0-2-6------------2-0---|----------|
+E|2-------4---2-2-2-|2----------------------3-|0-4-------|
+
+
+1.----------------|2.---------------
+  F6      F#+ B7    F6      E7        A       G         G G# A
+|  /   /   /   / :|  /   /   /   /  |  /   /   /   /  |  /    /   /   /  |
+              ^*
+
+  A     G        G G# A           A7      G7        G7 G#7 A7
+|  /  /  /  /  |  /    /  /  /  |  /   /   /   /  |  /      /   /   /  |
+
+  A7      G7        G7 G#7 A7      B7
+|  /   /   /   /  |  /      /   /   /  | repeat thru 1st end, then verse
+                                   ^*
+
+* - play the 3-note pickup over the B7 chord
+
+
+Verse
+       E7               A7
+   I'd like to cut your head off
+E7           Gdim7    F#m
+   So I can weigh it, what do you say?
+          F#7->G#7 F#7 B         A->B F#m E6           F6 F#+ B7
+Five pounds,            six pounds,        seven pounds
+   E7            A7
+I'd like to go to your house
+   E7              A7     <-sounds like Trey plays F#6
+and gather all your razors
+   E7                  A7      E7
+and pick all the little prickly hairs
+        Gdim7      F#m
+so I can weigh them, what do you say?
+          F#7->G#7 F#7 B         A->B F#m E6            F6 E7
+Five pounds,            six pounds,        seven pounds
+
+[play second ending of intro - A & G part]
+
+   E7             A7
+I'd like to gather all your friends
+   E7                 A7    E7
+And squish them into a small swimming pool
+        Gdim7      F#m
+So I can weigh them, what do you say?
+          F#7->G#7 F#7 B         A->B F#m E6            F6 E7
+Five pounds,            six pounds,        seven pounds
+
+Chorus
+
+F#m7 B6         E6
+Why  weigh on a sunny day
+F#m7       B6    G#m      C#7   B6
+So much to do so why, why weigh
+    A6      B7     E6    Gdim
+On a sunny day, why weigh-hey
+F#m7  B6         E6
+Why   weigh, why weigh
+
+Solos [repeat entire intro]
+
+   E7              A7
+I'd like to hear my options
+        Gdim7      F#m
+So I can weigh them, what do you say?
+          F#7->G#7 F#7 B         A->B F#m E6            F6 E7
+Five pounds,            six pounds,        seven pounds
+
+F#m7 B6         E6
+Why  weigh on a sunny day
+F#m7       B6    G#m        C#7   B6
+So much to do so why oh why weigh
+    A6      B6            E6    Gdim
+On a sunny day, why oh why weigh-hey
+F#m7          B6            E6
+Why oh why oh why oh why oh why oh
+             Gdim          F#m7
+Why oh why oh why oh why oh why oh
+B6        E6
+Why-y why weigh
+</pre>
+== Bass Tablature ==
+<pre>
+Weigh                                                               
+From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
+      
+      
+
+G|---------------------|
+D|----------------5-4--|
+A|------0-1-2-3-4------|
+E|--0-4----------------|
+  __
+ / 2
+G|-------------------------------------------------------8-7-------------|
+D|------------------5---5------------------------------------5-----------|
+A|-------------------------------------------------------------7-5-------|
+E|--1--0--2-3-4-5/----3---3---3--4--5------5--3---3-4-5------------7-----|
+
+G|----------------------0-2---------------------|
+D|--------------------2-------------------------|
+A|------------------------------------------2---|
+E|--5--3---3--4--5----------5--3---3-4-5--------|
+
+Repeat first part, through first ending...
+
+(I'd like to cut...)
+G|-------------------------------------------------------------------------|
+D|-----------------4-------------------------------------0-2-0-2-----------|
+A|-----0--------------------------------2---2--0--0----------------------2-|
+E|--0-----0--3--2----2--2--2--4--2--2----------------3-----------0--1--2---|
+
+(I'd like to go...)
+G|------------------------------------------------------------------------|
+D|-----------------------4--------------------------------0-2-0-2---------|
+A|----0---0---0------------------------------2--2--0--0-------------------|
+E|--0---0---0---0--3--2----2--2--2--4--2--2-------------3---------0--1--0-|
+
+Here, stick in the solo break thing, and then go into this:
+
+(I'd like to gather...)
+G|----------------------------------------------------|
+D|----------------------4-----------------------------|
+A|----0---0---------------------(etc., etc., etc...)--|
+E|--0---0----0--3----2----2--2------------------------|
+
+(Why weigh...)
+G|--------------------------------------------|
+D|--------------------------------------------|
+A|-----2--------2-----4--0--2-----------2-----|
+E|--2-----0--2-----4-----------0--3--2-----0--|
+
+That should be all the parts.  The piano and guitar solos are just
+chopped up versions of the 1st part (you can figure that out...), and
+that's that.
+</pre>

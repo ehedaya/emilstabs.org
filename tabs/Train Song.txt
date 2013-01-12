@@ -1,0 +1,85 @@
+[[Category: Studio Release]]
+    from Todd Lambert <phree@mindspring.com>
+    from Eric Oberbroeckling <erico@mciworld.com>
+    Minor edit to main theme from Andrew Russell ([[User:DeadHead|DeadHead]])
+<pre>
+
+Main theme:
+e---------5p3-----3-------3------------------|
+B-------3-----------5p3-----3p0----0---------|
+G-----0---------0-------0--------0---2p0-----|
+D--------------------------------------------|
+A--------------------------------------------|
+E--------------------------------------------|
+
+The main theme is played over all parts unless otherwise noted.  
+I am doing this from memory so some parts may be off.
+
+
+
+All the way home we felt we had a chance
+                                     A
+To review the coulds before we were born
+
+   D                       <main theme>
+And to invite a new game of can'ts
+
+
+
+
+Absorbed in the clouds a voice from afar said
+                                                 A
+"With the right device you can make a pattern grow
+D                         <main theme>
+ Or you can tune up your car"
+
+So we stayed on the train admiring the time
+                                  A
+As the lights of the city drew near
+D                   <main theme>
+ We drank a little wine
+
+They were blurry and green outer space in between
+With a depth and a form unclear
+Then we saw it up ahead
+
+[Use these chords for this part]
+
+   C9   G/B Bb6? Am7
+E--------------------
+B----3----3---2---1--
+G----0----0---0---0--
+D----2----0---0---0--
+A----3----2---1---0--
+E--------------------
+C9                 G/B
+A flickering lantern lit up on the tracks
+Bb6?                     Am7                <main theme x2>
+   In the rocks that had covered up the bridge
+
+   D    G/D  Am/D
+E---2----3----5-----
+B---3----3----5-----
+G---2----4----5-----
+D---0----0----0-----
+A-------------------
+E-------------------
+
+        D              G/D  
+From the banks of a river to the bed
+
+Am/D
+   Of the valley upstream to the place we live
+
+
+(continue this pattern until outtro which is basically
+just variations of the main theme
+The glass on the lantern cast back the sight
+Of a drive-in movie we drove by below
+We saw where we'd been in the pictures within
+Projecting all the places we would go
+So we follow the scene and flowed up your steps
+To a smooth wooden floor in a trance
+The train whistle melody wove through the trees
+And in through the door to signal the turns of a dance
+</pre>

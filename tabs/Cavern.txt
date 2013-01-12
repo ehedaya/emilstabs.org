@@ -1,0 +1,102 @@
+[[Category: Studio Release]]
+[[Category: Bass]]
+originally by Phish
+
+transcribed by Golan Mor (GolbiAZA@aol.com)
+
+Video clip available:  [[cavern01.mov]]
+
+I think that the following is a better representation of the way Trey
+plays it. I used the Cavern from Hampton Comes Alive as my basis.
+<pre>
+\=slide down
+/= slide up
+h= hammer on
+p= pull off
+
+Intro: At the beginning, Trey seems to just plays alterations of Em, and
+holds them for 4 measures each while Fishman plays lays down a groove.
+             Em
+E-------------0--------|-------------0------|
+B-------------0--------|-------------0------|
+G-------------0--------|-------------0------|
+D-------------2--------|-------------6------|
+A-------------2--------|-------------7------|
+E-----12\0----0--------|-----12\0----0------|
+
+Main Riff: This is very similar, in fact, the same as the main riff in
+Weekapaug Grove.  This is how I think Trey plays it, and it sounds
+pretty close.
+              Em                    D/F#        A
+E-------------7-------------7---|-----------------------------|
+B-------------8----7---h8---8---|----7---7------10------------|
+G-------------9----7---h9---9---|----7---7------9-------------|
+D-------------9----7---h9---9---|----7---7------7-------------|
+A-------------7--------h7---7---|----9----------x-------------|
+E-----12/0----------------------|---------------9-------------|
+
+On the album version Trey plays something like this between the verses, but live this section is mainly improvised.
+
+E-----------12---------------------
+B-----------12----12h14--12--------
+G-----------12----12h14--12--------
+D---(14)-14----14-----------14----- x4
+A----------------------------------
+E----------------------------------
+
+“Steal away before the dawn” Riff:
+        G      D      Em     B
+E---------------------------7------------------------------------------
+B-------12-----10-----8-----7------------------------------------------
+G-------12-----11-----9-----8(7)---------------------------------------
+D-------12-----12-----9-----9------------------------------------------
+A-------10-----12-----7-----9------------------------------------------
+E----------------------------------------------------------------------
+
+The high chord after "before I could think twice"
+
+E|----17/!-------
+B|----16/!-------
+G|----14/!-------
+D|---------------
+A|---------------
+E|---------------
+
+"The flesh from Satan's dog..." part is D - A - C - G
+
+Starting at "give the director" these chords ensue in these voicings~
+      E     A      D/F#    A
+E-----x-----x--------------x-----------------------
+B-----9-----10------7------10----------------------
+G-----9-----9-------7------9-----------------------
+D-----9-----7-------7------7-----------------------
+A-----7-----x-------9------x-----------------------
+E-----------9--------------9-----------------------
+
+these chords continue until the stops which occur on the D/F# right after both "dissector"'s, then continue through "whatever you do 
+take care of your shoe", then it goes back to the between verse funky fill riff before this lick
+
+E--12----12----12----12----12-------
+B--15b17-15b17-15b17-15b17-15b17----
+G-----------------------------------
+D-----------------------------------
+A-----------------------------------
+E-----------------------------------
+
+End on Em 
+
+</pre>
+== Bass Tablature ==
+<pre>
+Cavern
+Bass
+by Phish
+
+from Barry <antelope@optonline.net>
+
+|------------------------------7----------6------------------------|
+|------2-----------2-----------------------------------------------|
+|--------------------------5------4--4-----5--6--------------------|
+|--0------0-0-0----------------------------------------------------|
+Big ups to Chris Fischer on this one.
+</pre>

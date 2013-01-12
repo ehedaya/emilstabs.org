@@ -1,0 +1,365 @@
+[[Category: Unreleased]]
+<pre>
+Transcribed by Emil
+Help from Jon Trace
+
+Revisions by Billy T
+
+  I think McGrupp is a really great overview of early Phish.  It combines nice, jazzy lines, (the intro) a bit of prog-rock, (the verses and outro)
+some minor key themes that show up in other tunes, a little 7th chord groove, a lot of open-string enhanced chords, and a latin-flavored jam.
+This tune also works well on acoustic.  Have fun! 
+
+Intro:
+
+    Emaj7         Bm7                     Bm9
+|:                                                  :|
+E------------------7-----------------------9-------
+B------9\8/9-------7---------9\8/9---------7-------
+G------8\7/8-------7---------8\7/8---------7-------
+D------9\8/9-------7---------9\8/9---------7-------
+A------7\6/7-------x---------7\6/7---------x-------
+E----0-------------7-------0---------------7-------
+
+All upstrokes on these chords are played with a quick dead note (muted) down stroke scrape across the strings between them.
+
+    up  up up up up    down
+E----7---9--7--9--9-----9-----9------
+B----9---7--7--9--10----10h12---10---
+G----8---8--8--9--9-----9------------
+D----9---9--9-----11----11-----------
+A----7---7--7------------------------
+E------------------------------------
+                       ^^^
+        this down stroke is played as an arpeggio 
+
+    A  Emaj7/G#  F#m7  B    
+E------------------------------
+B-----10---7-----5------7------
+G----9----8-----6------8-------
+D--11----9----7~----7/9--------
+A------------------------------
+E------------------------------
+Repeat intro, this time going straight into Trey's favorite
+chord (he he)
+  A
+E--0-----
+B--0-----
+G--6-----
+D--7-----
+A--0-----
+E--0-----
+The words are all wrong, I know.. someone mail them to me, but for the time being
+this is what I've got:
+
+      A             Dmaj7              A                    Dmaj7
+ I've alternated my meager flock to the shores of the Baltic Sea
+     A        C#               F#m      B                      E
+ The teeth of time have stowed the rhyme of how things should(n't) be
+    F                  E                Eb               Bb
+ My cave, my house, my turning wheel, my little docking  pup
+     B                                Ab          
+ The march of Colonel Forbin, and his fleet hound called McGrupp
+
+(Hit Trey's favorite chord)
+ The grime of countless workdogs has collected in my sink
+ I tie my nose with spandex hose before i get a drink
+ We lay on frozen warthogs, with its poison in our minds
+ While the ferns that spot our children are encased in orange rinds...
+(Hit Trey's Favorite Chord )
+     F#m                       E       D                C#
+ All times and seasons are the reasons people and their clans
+      F#m               E                D               C#
+ Have stowed the Famous Mockingbird with glue and rubber bands
+      D               E         F#m            G
+ They writhe and cry in agony, as Rutherford the Brave
+        F#m          E             D           E
+ Chokes Tela and the Unic Monster, managing to save...
+
+[Same chords for next verses, I dont' have the words right now]
+         A      C#    F#m             B                   E
+ ... I'd like to get his autograph, but he looks too much like Dave
+    F                   E        Eb                  Bb
+ He looks too much like Dave, he looks too much like Dave,
+    Ab                    Abm               Bb                
+ He looks too much.... He looks too much... He looks to much ...
+
+    Abm                A
+ He looks too much.... He looks too much
+
+
+Here's the chords for the next part, although Trey will sometimes use different inversions
+
+   C#m             E        B
+E--------4-------------------------
+B--------5--------5----5----4------
+G--------6--------4----4----4------  Play 4 times
+D--------6--------6----6----4------
+A---4----4-------------------------
+E----------------------------------
+
+Repeat Intro
+
+The next section moves in 7/8 time.  Here are the chords.  Trey will play different inversions as well as the octave
+form of these chords.  He also plays with the rhythm against the band.  (Similar to what he does in YEM)
+
+ C#m7                       Amaj7         F#m7   G#m7
+E-----4---4-------4---4--------------------2-----4---------
+B-----5---5-------5---5---------5---5------2-----4---------
+G-----4---4-------4---4---------6---6------2-----4--------- Play 8 times
+D-----6---6-------6---6---------6---6------2-----4---------
+A--4--4---4---4---4---4---------x---x------x-----x---------
+E---------------------------5---5---5------2-----4---------
+
+   After the hits on the F#m7 chord and the G#m7 chord, they go into the next section which is a funky groove
+based on E9.  This section is also in 7. Listen to a recording for exact timing.  The hits at the end of the riff are tricky
+to hear.  I just play the E9 shape up an octave.
+
+E--6-7--7---7----7---7---7----6-7----7-------19----19-------------------------------
+B--6-7--7---7----7---7---7----6-7----7-------19----19-------------------------------
+G--6-7--7---7----7---7---7----6-7----7-------19----19-------------------------------
+D--5-6--6---6----6---6---6----5-6----6-------18----18-------------------------------
+A--6/7--7---7----7---7---7----6/7----7-------19----19-------------------------------
+E-----------------------------------------------------------------------------------
+
+The riff then modulates up to F#9 (One whole step or two frets up)
+
+Then the big descending riff--
+
+ E                     D    E    D        E    D  A/C# D/B  D  A/C# D/B  A  
+E--0---0---0---0---0-------------------|--------------------------------------------
+B--0---0---0---0---0-------------------|--------------------------------------------
+G-13--13--13--14--13---11----9---7-----|---9---7---6---4----7---6---4---2-----------  This gets played 4 times
+D-14--14--14--14--14---11----9---7-----|---9---7---6---4----7---6---4---2-----------
+A-14--14--14--14--14---12---11---9-----|--11---9---7---5----9---7---5---4-----------
+E--0---0---0---0---0-------------------|--------------------------------------------
+
+Then the transition into the Keyboard solo---
+A/C#  D/B  A  E/G# D/B  A  E        
+E--------------------------0---------------
+B--------------------------0---------------
+G--6---4---2---1---4---2---1---------------
+D--6---4---2---x---4---2---2---------------
+A--7---5---4---2---5---4---2---------------
+E--------------------------0---------------
+
+Keyboard Solo (E tonality)
+
+E-----------------------
+B-----------------------
+G-----------------------   ETC....
+D-----------------------
+A-----2-2--------2-2----
+E---0--------0-0--------
+
+Page then signals the end of the jam by playing Bb-E eight times
+
+Then the Bb buildup--
+
+  Bb
+E----------------------------
+B----------------------------
+G---7--------7-8-9-10--------   Play 2 times
+D-----8----------------------
+A-------8--------------------
+E----------------------------
+   Bb
+E----------------------------------------------------------------15-16-17-18--------
+B---15-----------15-16-17-18---------15----------15-16-17-18------------------------
+G------15-------------------------------15------------------------------------------
+D---------15-------------------------------15---------------------------------------
+A-----------------------------------------------------------------------------------
+E-----------------------------------------------------------------------------------
+
+It then goes back to the big descending riff which gets played 4 times.  (Same as above)
+
+Then the transition to the outro-- (Watch the rhythm)
+
+
+A/C#  D/B  A  E/G# D/B  A          
+E--------------------------------------------------
+B--------------------------------------------------
+G--6---4---2---1---4---2---------------------------
+D--x---x---x---x---x---x---------------------------
+A--7---5---4---2---5---4---------------------------
+E--------------------------------------------------
+
+Because of space, I'll just write Mike's bass note above the chords
+
+  E   C#  A#   B      E   C#  A#  B        B   A  B  A        B   A   D#  C# 
+E-----------------|-------------------|-------------------|-------------------------
+B-----------------|-------------------|-------------------|-------------------------
+G--1---6---3---4--|----1---6---3---4--|----8---6---8---6--|---8---6---8---6---------
+D--x---x---x---x--|----x---x---x---x--|----9---7---9---7--|---9---7---9---7---------
+A--2---7---4---5--|----2---7---4---5--|----9---7---9---7--|---9---7---9---7---------
+E-----------------|-------------------|-------------------|-------------------------
+
+    D    E    D    E       D    E    D    E
+E---0----0----0----0-------0----0----0----0-----------------------------------------
+B---0----0----0----0-------0----0----0----0-----------------------------------------
+G--11---13---11---13------11---13---11---13-----------------------------------------
+D--12---14---12---14------12---14---12---14-----------------------------------------
+A--12---14---12---14------12---14---12---14-----------------------------------------
+E-----------------------------------------------------------------------------------
+
+
+Then we have F#m--G--E/G# which slowly breaks down and slides up which then leads us back to the intro for the 
+ending of the tune.
+
+
+
+ 
+
+== Alternate Transcription ==
+
+<pre>
+
+
+By: Joshua Smith - mcgruppy@hotmail.com w/ help from Jarod Eddy and Cecil Davis
+
+
+Riff #1
+       Em9     Dm9     B7      p
+e-------7-------5-------7-----9-7---
+B-------9-------7-------7-----------
+G-------8-------6-------7----------- :
+D-------9-------7-------7-----------
+A-------7-------5-------9-----------
+E--0-0------------------7-----------
+
+Riff #2
+        E     E     E
+e-------x------------------------------
+B-------9-10--9-10--9-10----10--------
+G-------9-----9-----9----------9-7----
+D-------9-----9-----9--------------9--
+A-------7-----7-----7------------------
+E----------------------------------------
+
+Riff #2 (cont)
+    C#m       B      A     B
+e-------------------------------
+B----10------7------5-----7-----
+G---9------8------6-----8------- X6
+D-11-----9------7-----9---------
+A-------------------------------
+E-------------------------------
+
+Repeat Riff #1
+
+Then Riff #3
+	    Natural
+      Asus  Harmonics
+e-----0-------------^-7-------------
+B-----0------------^-7--------------
+G-----6------^-5--^-7---------------  x4
+D-----7-----^-5---7----------------
+A-----7----^-5----------------------
+E-----5----5-----------------------
+
+
+
+      A             Dmaj7              A                    Dmaj7
+ I've alternated my meager plot to the shores of the Baltic Sea
+     A        (Dbm)                Gbm      B                      E
+ The teeth of time have stowed the rhyme of how things should(n't) be
+    F                  E                Eb               Bb
+ My cave, my house, my turning wheel, my little docking  pup
+     B                                Ab
+ The march of Colonel Forbin, and his fleahound called McGrupp
+
+
+ The grime of countless workdogs has collected in my sink
+ I tie my nose with spandex hose before i get a drink
+ We lie on frozen warthogs, with its poison in our minds
+ While the ferns that spot our children are encased in orange rinds...
+
+     Gbm                       E       D                Db
+While times and seasons are the reasons people and their clans
+      Gbm               E                D               Db
+Have stole the Famous Mockingbird with glue and rubber bands
+      D               E         Gbm            G
+They writhe and cry in agony, as Rutherford the Brave
+        Gbm          E             D           E
+Chokes Tela and the Unit Monster,nestled in their cave...
+
+The spotted stripers multi-beast, looks upon my gaze.
+         A      (Dbm)    Gbm               B                   E
+I'd like to get his autograph, but he looks too much like Dave
+    F                   E        Eb                  Bb
+He looks too much like Dave, he looks too much like Dave,
+    Ab                    Abm               Bb
+He looks too much.... He looks too much... He looks to much ...
+
+    Abm                A
+He looks too much.... He looks too much
+
+Riff #4
+   E9     D  D \ C
+e---7------5--5---3-
+B---7------7--7---5-
+G---8------7--7---5-
+D---9------7--7---5-
+A---7------5--5---3-
+E-------------------
+
+
+Then Riff #5
+
+       E     E     E     D   C#m
+e-------x------------------------------
+B-------9-10--9-10--9-10--7---10---7---5---5---3--2---
+G-------9-----9-----9-----7----9---8---6---4---4--3---
+D-------9-----9-----9-----7---11---9---7---6---5--4--- :X4
+A-------7-----7-----7-----5---------------------------
+E-----------------------------------------------------
+
+Riff #6 is alternately picked and doubles the tempo
+(D=Down, U=Up)
+
+      C#                      A9    F#m   B
+      D  D  D   D  D  D  U   D D D   D  U  D  U  D
+e------4--4--4---4--4--4--4---5-5-5---2--2----------
+B------5--5--5---5--5--5--5---5-5-5---2--2--4--4--4-
+G------4--4--4---4--4--4--4---6-6-6---2--2--4--4--4- :X4
+D------6--6--6---6--6--6--6---5-5-5---4--4--4--4--4
+A------4--4--4---4--4--4--4---7-7-7---4--4--2--2--2-
+E-----------------------------5-5-5---2--2----------
+
+Riff #6 cont
+
+e-----------------------------12\----15\----
+B------8-8-8--8-8-7\8--8-8----12\----15\----
+G------7-7-7--7-7-6\7--7-7------------------
+D------6-6-6--6-6-5\6--6-6------------------ :
+A----6\7-7-7--7-7-6\7--7-7------------------
+E-------------------------------------------
+
+Riff #6 cont
+
+e------------------------------------------
+B-----10-10-10---10-10-9\10-10---15\----17\
+G-----9--9--9----9--9--8\9--9----15\----17\
+D-----8--8--8----8--8--7\8--8-------------- :
+A---8\9--9--9----9--9--8\9--9--------------
+E------------------------------------------
+
+Back into riff #5 descending finally to A major
+
+Then end with
+
+   A   A
+e---0---------------
+B---2---------------
+G---2---------------
+D---2--2-2------2-2- : and fade
+A---0------0-0-----
+E------------------
+
+
+
+
+Thanks, any help with the chords over the lyrics, especially you piano
+players,
+would be very ... helpful. Thanks to Phish for all the great music!
+
+</pre>

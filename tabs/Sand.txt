@@ -1,0 +1,173 @@
+[[Category: Studio Release]]
+[[Category: Bass]]
+<pre>
+Tab by-Damon Callisto ( PRSGTR@aol.com )
+
+Legend
+------
+
+h  = hammer-on
+/  = slide up/down
+~  = vibrato
+
+
+
+
+
+ Funk Intro     Main Riff
+E|-5-x-x-x--x-||-5-x---------|-5-x---------|-5-x---------|
+B|-5-x-x-x-10\||-5-x---------|-5-x---------|-5-x---------|
+G|-6-x-x-x--9\||-6-x-5~------|-6-x-5~------|-6-x-5~------|
+D|-7-x-x-x-11\||-7-x---5-5h7-|-7-x---5-5h7-|-7-x---5-5h7-|
+A|----------x-||-------------|-------------|-------------|
+E|----------x-||-------------|-------------|-------------|
+
+
+
+
+                            Let Ring
+E|-------------------||-0/5------------5---||---------
+B|-------------------||-----5--------5---5-||---------
+G|-------xxx-5-------||--------------------||---------
+D|5-55-5555x---7-----||--------------------||---------
+A|-------------------||--------------------||---------
+E|-------------------||--------------------||---------
+
+
+As far as the solo goes, just keep up the funk in A
+</pre>
+== Alternate Transcription ==
+<pre>
+transcribed by Benjamin Hudnall
+
+I just recently bought a compressor, which gives that distinctive Trey
+sound.  While jamming to the 9-11-99 Gorge tape, I learned most of this
+incredible new song.
+
+Notation Legend
+
+~ hold note   [this is when a compressor comes in handy]
+h hammer on/off
+() played sometimes   [whenever Trey feels like spicing it up a bit]
+
+
+
+The timing may be a little off, but I'm pretty sure the notation is
+correct.
+
+
+
+Bass Line:
+
+E--5---3---5-5-0-3-  (for the entire song, listen for timing :)
+
+
+Main riff:
+
+E--5-----------         E--------------
+B--5---5-------         B--------------
+G------5-------   x3    G----------5---
+D----------5-7-         D--555-555---7-
+A--------------         A--------------
+E--------------         E--------------
+
+
+
+
+Trey basically strums an Am barred on the 5th fret during the verse
+and occasionally plays the second part of the main riff as a filler.
+He also plays a simple riff that goes something like this at the end of
+each verse line:
+
+E--5~~~---------
+B------5~~~-----
+G---------------  
+D---------(5-7)-
+A---------------
+E---------------
+
+lyrics (taken from www.gadiel.com/phish/lyrics/sand.html)
+
+If you can heal the symptoms
+but not affect the cause
+it's quite a bit like trying to heal
+the gunshot would with gauze
+if you instead attempt to rest
+the pistol from the hand
+then I would not be able to
+equate my life with sand
+
+Flowing through the hourglass
+pushing through the funnel
+turn once more and racing
+all your siblings for the tunnel
+slide like the silicone
+embrace you as you fall
+then bounce around
+and let your brothers
+crush you to the wall
+
+I would choose my own religion
+worship my own spirit
+but if he ever preached to me
+I wouldn't want to hear it
+I'd drop him a forgotten god
+languishing in shame
+and then if I hit stormy seas
+I'd have myself to blame
+
+If you can heal the symptoms,
+but not affect the cause
+you can't heal the symptoms
+
+(Transcribed by T. Gaine)
+
+
+
+And here is the solo that leads to a funky jam
+
+
+E---------------------------------
+B---------------------------------
+G---------------------------------     x4
+D--7-7~~~7h5----------------------  
+A------------7h5-5h3------------3-
+E--------------------3-33-3h5-5---
+
+E---------------------------------
+B---------------------------------
+G---------------------------------     x2
+D---------------------------------
+A------5~~~~~~~7------------------
+E--3h5-----------3h5-5-5~~~~~~~~~~
+
+Now you repeat the entire solo once then play this:
+
+E---------------------------------
+B---------------------------------
+G---------------------------------    x2
+D---------------------------------
+A------3~~~~~~(7)-----------------
+E--3h5----------3h5-5-5~~~~~~~~~~~
+
+And the rest of the song is a pentatonic jam out of Am with an added F#
+(A C D E F# G)
+at the end of the jam Trey reprises the main lick
+
+
+Note:  I also found out that the song sounds a little better if it is
+played on the bridge pickup and with an occasional artificial harmonic
+thrown in when deemed neccesary
+</pre>
+== Bass Tablature ==
+<pre>
+Sand
+Transcribed by Big Bad Brent Dutcher
+
+Just play this over and over till your hands fall off.. it's kind of fast too.
+
+G--------------------------------------------
+D--------------------------------------------
+A--------------------------------------------
+E---5---0-0--3--0--5--5--0--3--4--5----------
+</pre>

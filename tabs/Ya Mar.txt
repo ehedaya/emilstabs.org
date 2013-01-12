@@ -1,0 +1,58 @@
+[[Category: Covers]] [[Category: Bass]] [[Category: Loop]]
+<pre>
+by The Mustangs
+Transcribed by Emil Hedaya, help from Adam
+
+It's a simple chord progression . . .
+A > F#m > Bm > E
+but Trey plays it like this:
+ 
+H-O
+    A  F#m   Bm          E
+E---9----9-----7------------
+B--10---10-----7---------9--
+G---9---11-----7---------9--
+D--11---11-----9---------9--
+A--12----9-----9---9-11-(11)
+E--------------7------------
+
+Remember all the days in the pond
+Catchin' wild trout till the break of dawn
+Now that you've become a man, looking very mean
+Got a nice shiny sports car, keep it very clean
+
+Don't ask him what it was, tell him what it is
+Sing the song now
+
+Ya mar, ya mar, ya mar, ya mar,
+ya mar, ya mar, ya mar, you're no good pah
+
+She used to be a vampire child, walkin' in the yard
+Now that she's become a woman, lookin' very proud
+You used to wear a piece of cloth tied around your head
+Now she looks so good, wanna love you dead
+
+Don't ask her what it was, tell her what it is
+Sing the song now
+
+Ya mar, ya mar, ya mar, ya mar, ya mar, ya mar,
+ya mar, you're no good pah
+</pre>
+== Bass Tablature ==
+<pre>
+Tabbed by: James Terrasi (beastie311j@aol.com) 
+Riff throughout song evolves around this notation 
+Chords are:      A   F#m    Bm    E 
+         
+G----------------------------------------------------------------------------------1--4--- 
+D---------2--4-------------------0--4--------------------0-4---------------2----------- 
+A----0-----------------------0------------------------2----------------------------------- 
+E-----------------------------------------------------------------------------------------
+---  
+</pre>
+== Loops ==
+Sampled:
+<gflash>100 40 /vb5/phish/yamar.swf</gflash>
+<gflash>100 40 /vb5/phish/yamar02.swf</gflash>
+Member recorded:
+<gflash>100 40 /vb5/member/yamar2.swf</gflash>

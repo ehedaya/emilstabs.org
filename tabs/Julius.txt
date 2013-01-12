@@ -1,0 +1,187 @@
+[[Category: Studio Release]]
+[[Category: Bass]]
+<pre>
+
+''intro & verse:''
+---------------------:---2--0--
+---------------------:---3--1--
+----2---0------------:---2--0--
+--/2---0-------------:---0--2--
+----------3^-0-------:------3--
+---------------3-----:---------
+        
+===============================
+intro 2x
+
+verse 4x 
+Danger I've been told to expect it 
+I begin my descent  Down the cold granite steps 
+      4x
+And who could have turned among those I confide in? 
+I think that I know what I haven't known yet 
+
+''chorus *D:''
+     * the upstrokes are muted so it would be played as a slide up to the D, a muted upstroke very quickly on the D, then down stroke on the C. If that sounds complicated listen to the timing on the song, it plays very naturally.
+------------------------------
+--/7-x-5---------/7-x-5-------
+--/7-x-5---------/7-x-5-------
+--/7-x-5---------/7-x-5-------
+---------8-5------------8-5---
+------------------------------
+===============================
+   *D 4x
+Cause a week is a month  and an hour a day 
+verse 4x
+When your reaching just pushes it further away 
+
+''chorus *E''
+---------------------------------
+--/9-x-7-----------/9-x-7--------
+--/9-x-7-----------/9-x-7--------
+--/9-x-7-----------/9-x-7--------
+---------10-7-------------10-7---
+---------------------------------
+===============================
+   *E 2x
+With your past and your future precisely divided 
+   *D 3x
+Am I at that moment?                I haven't decided   
+ intro 1x w/DC  
+ intro 1x w/DC (big ending)
+
+ repeat all intro>verse>chorus over:
+
+And stretching out into the sea... Aquitana 
+Is that what the prophet told me he saw? 
+   
+You gave it to me but I really don't want it 
+I came out on top by the luck of the draw 
+
+'Cause a week is a month and an hour a day 
+When your reaching just pushes it further away 
+And what's the return on the faith I've provided?
+I think that I know now but I haven't decided
+
+vocal
+dont take another, dont take another
+
+
+A                  D7   C#9>D9 (slide into the D9)
+Don't take another step
+Don't blame it on yourself 
+If you lay it on your brother while your sleeping 
+A                                               D9 C#9 D9
+When you wake up in the morning he'll be gone.
+
+Then Mike walks up to D while Page wails on the organ. Mikes walk can be played like this.
+
+------------------------------------
+------------------------------------
+------------------------------------
+------------------------------------
+--0-3-4-5--0-3-5--0-3-5--0-3-5------
+------------------------------------
+
+Trey plays this lick again over the D
+------------------------------
+--/7-x-5---------/7-x-5-------
+--/7-x-5---------/7-x-5-------
+--/7-x-5---------/7-x-5------- 2X
+---------8-5------------8-5---
+------------------------------
+Repeat intro lick 4X
+
+Repeat walk to D on Page wail sesh. Then take the last walk up to an E7#9 that sorta falls off as page descends down his organ.
+
+Repeat intro lick 4X
+
+Then back into the chorus.
+
+Then the Oom pa part
+
+The Oom pa pa chord and riff*
+---------------------------------------
+----8-8----8-8--------------5h7h8-10---
+----7-7----7-7-------5-6-7-------------
+----6-6----6-6-------------------------
+----7-7----7-7-------------------------
+--0------0-----------------------------
+
+Straight back into chorus after Oom pa, then solo till the walls fall.
+
+During the peak of the solo Trey usually throws in one of these.
+
+Tremelo picking these chords and moving up very quickly. The whole band does this theme continuously through the solo but Trey comes in with it to signify the upcoming chorus.
+--2--4-5-6-7-8-9!--------------------------
+--3--5-6-7-8-9-10!-------------------------
+--2--4-5-6-7-8-9!--------------------------
+-------------------------------------------
+-------------------------------------------
+-------------------------------------------
+
+Then back into chorus with solo continuing over it.
+Then the oom pa lick
+End on A.
+
+</pre>
+== Bass Tablature ==
+<pre>
+Julius
+From: David Lionelli ( LIONELLI_DAV@CSUSYS.CTSTATEU.EDU )
+
+
+Intro:
+G|----------------------------------------------------------|
+D|-0-0-0-0-0-0-0---------------2-2-2-2-2-2-2--0-0-0-0-0-0-0-|
+A|---------------0-0-0-0-0-0-0------------------------------|
+E|----------------------------------------------------------|
+
+G|-----2--------------2--------|
+D|---2---2--0-------2---2--0---|
+A|-0----------3---0----------3-|
+E|-----------------------------|
+
+Verse:
+G|---------0-2-----0-2---|-----------|
+D|*------2-----2-2------*|-0---------|
+A|*--0-0----------------*|----3------|
+E|-----------------------|-----------|
+
+G|-------0-2--------|
+D|-----2------------|
+A|-0-0--------2-3-4-| (repeat first half of intro)
+E|------------------|
+
+At this point, Mike takes a bunch of ideas and shuffles them around
+randomly.  They are all the same idea, over about two different octaves.
+The chords alternate between A and D, so I will show you each different
+way of doing each chord.
+
+Chorus:
+G|-----------------|-------------0-1-2-|-2-0-------------|-2-4-5-6-7-5-4-3-|
+D|---------0-------|-----2-1-0-4-------|-----4-2-0-------|-----------------|
+A|0-2-3-4----------|-0-4---------------|-----------3-2-1-|-----------------|
+E|-----------2-3-4-|-------------------|-----------------|-----------------|
+
+These all can be played interchangebly.  It's a really fun part to jam
+on.  Just go crazy.
+
+Horn solo:
+G|---------------------2-0-------------------|
+D|-0---------------0-4-----4-2-0-------------|
+A|---------0-2-3-4---------------0-0-0-0-0-0-|
+E|---2-3-4-----------------------------------|
+
+For the second half of the horn solo, Mike does a simple variation of
+the first half (the same, what I call, "climbing jazz bass"), but
+instead of end on the D, be ends on an E, like so:
+
+G|---------------------------|
+D|-2-1-0---------------------|
+A|-------4-3-2-1-0-----------|
+E|-----------------4-3-2-1-0-|
+
+During the "oom-pah-pah, oom-pah-pah" break, he just slides down the
+fretboard.  Pretty simple song, really, but a helluva lot of fun to
+play.
+</pre>

@@ -1,0 +1,60 @@
+[[Category: Unreleased]]
+[[Category: Bass]]
+<pre>
+From Eric Oberbroeckling < eric.oberbroeckling@wcom.com >
+
+This is a nice reggae-style tune, with a really cool chorus - not
+to mention the constant vocal (is it the wind? or a bug?)
+
+I'm not going to tab out the whole song - it's reggae style chords
+with a progression of A to G -- it moves up the neck using the forms
+below
+
+  A  G   A  G  A  G   A  G
+
+E--5--3---9--7--12-10--17-15----------------------------------
+B--5--3---10-8--14-12--17-15----------------------------------
+G--6--4---9--7--14-12--18-16----------------------------------
+D-------------------------------------------------------------
+A-------------------------------------------------------------
+E-------------------------------------------------------------
+
+It continues as far as you can go (depends on if you are playing
+a 22-fret or 24-fret guitar, I suppose)
+
+
+"We've got the rules down now and we're done learning how to speak.
+We're on the top of a cliff and we're wondering if we should leap."
+
+</pre>
+== Bass Tablature ==
+<pre>
+Windora Bug Bass
+
+by Phish
+transcribed by Eric Oberbroeckling <erico@mciworld.com> 
+
+
+* (By this I mean I have no actual recording, but I do have a photographic memory <DID have> and
+this is the correct line as I recall it)  ha ha ha 
+
+             ~                           T            ~
+G------------------------------------------------------------------
+D------------------------------------------------------------------
+A-----------0-2-0------------------------------------0-2-0---------
+E----5-5------------0--3--3---0*---------0-3-5--5----------0--3-3--
+
+* = sustain (don't mute it)
+~ = sounds better if you hit the open A and do a hammer/pull-off for the B note
+T = play it like a triplet or just listen to a tape for timing
+
+
+from Tom Cocca   jcocca@nycap.rr.com
+
+
+
+G|--------------------------------------------------------------------------------
+D|---------------------------------------------------------------------------------
+A|----------------0--2-----------------------------0--2--0---------------------
+E|--0--3--5-------------3-------0--3--5--5-----------------0--3------------
+</pre>

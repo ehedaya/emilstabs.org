@@ -1,0 +1,299 @@
+[[Category: Studio Release]]
+[[Category: Bass]]
+<pre>
+by Trey Anastasio and Tom Marshall
+Transcription by Jonathan Healey (makisupa@asu.uswest.net)
+
+
+I've been playing Bug since I got the Tom and Trey Demo Tape.
+This version is different from their live one. It requires mucho
+sustain. This is how I get the Trey-esque sustain for this song:
+Ross Compressor->TS9 (Light Crunch)->Ibanez DMD2000 Delay (.33ms).
+The light delay gives each note a searing/sonic sound. It also helps
+to sustain the notes.
+
+Problems: I'm having problems trying to figure out the EXACT chords to
+         the chorus. Also, I don't know the exact words used in the chorus.
+         Someone is saying something ("Don't need it) in harmony with "It
+         doesn't matter.". All summer it sounded like "Der-E-ned."
+
+
+Intro:
+Use distorition to get some feedback. Turn on your Univibe
+to get the rotation sound and then whip it off before going to
+the verse chords
+       
+    D
+E---------------------------------------------
+B---------------------------------------------
+G----7----------------------------------------
+D---------------------------------------------
+A----5----------------------------------------
+E---------------------------------------------
+
+Verse:
+Whether Trey plays these notes as power chords or not is debateable.
+You can either play them this way or just play the notes on G string.
+
+  F#   F#     E     D     E     C          F#     G             C      A
+E----------------------------------------------------------------------- ------
+B------------------------------------------------------------------------------
+G--11---11--/--9--/--7--/--9--/--5----------11--/--12------------16--/--14----- X4
+D------------------------------------------------------------------------------
+A--9----9---/--7--/--5--/--7--/--3----------9---/--10------------14--/--12-----
+E------------------------------------------------------------------------------
+
+Pre-Chorus:
+Hold this note for 8 measures and then add the F on the high E string during the
+eighth measure.
+     
+     D          F
+E---------------(22)--------------------------
+B---------------------------------------------
+G-----19--------------------------------------
+D---------------------------------------------
+A-----17--------------------------------------
+E---------------------------------------------
+
+Pre-Chorus (Alternative):
+Hold the first chord then, instead of adding the F on the high E, play this.
+
+   D    C    B    A
+E---------------------------------------------
+B---------------------------------------------
+G---19---17---16---14-------------------------
+D---------------------------------------------
+A---17---15---14---12-------------------------
+E---------------------------------------------
+
+Chorus:
+If you have another TS9 (or distortion channel), turn it on and
+belt out these three chords.
+
+  F    C    G
+E--------------------------------------------
+B--------------------------------------------
+G-------5------------------------------------
+D--3----5----5-------------------------------
+A--3----3----5-------------------------------
+E--1---------3-------------------------------
+
+Lyrics:
+
+Verse 1:
+
+There've been times that I've wondered
+And times that I don't
+Concepts I'll ponder
+And concepts I won't ever see
+God is not one of these
+Former or latter
+Which did you think I meant
+It doesn't matter to me
+
+Chorus:
+
+Bug
+It doesn't matter
+(Don't need it)
+Bug
+It doesn't matter
+(Don't feed it)
+Bug
+(My thoughts faded)
+It doesn't matter
+(Overrated)
+Overrated
+
+Verse 2:
+
+Gold in my hand
+In a country pool
+Standing and waving
+The rain, wind on the runway
+Spending or saving
+Credit or death
+Which did you think I meant
+Nothing I see can be taken from me
+
+Chorus:
+
+Bug
+It doesn't matter
+ (Don't need it)
+Bug
+It doesn't matter
+ (Don't need it)
+Bug
+It doesn't matter
+ (Overrated)
+Overrated
+</pre>
+== Alternate Transcription ==
+<pre>
+Bug     by phish     from Farmhouse
+
+
+intro                                       verse chords                      chorus chords
+
+    G            F               C     G    (play intro 2nd half of verse)        F     C   G
+E|---------------------------------------|  E|-----------------------------|  E|----------------
+B|-------------------------------8----/8-|  B|--12------10---x-/13--x-/12--|  B|----------------
+G|--14p12-14p12--12p10-12p10-----9----/7-|  G|--12------10---x-/12--x-/12--|  G|-(2)----5--(4)--
+D|------------12-----------10----10---/9-|  D|--12------10---x-/14--x-/12--|  D|-/3-----5---5---
+A|---------------------------------------|  A|-----------------------------|  A|--3-----3---5---
+E|---------------------------------------|  E|-----------------------------|  E|--1---------3---
+
+
+verse 
+G                             F          C                        G
+  There have been times when I wander,     and times when I don't.
+  Concepts I'll ponder, and concepts I won't ever seek.
+  God isn't one of these, former  or  latter
+  Which did you think I meant, it doesn't matter to me.
+
+
+lead in
+E|---------------------------------|-------------------------------------------------------------|
+B|---------------------------------|-----------------------15------------------------------------|
+G|-0-0-0---0-0-0---0-0-0---0-0-0-0-|-14b  -14b14-12--14b-14~14-12~----12-14b-14~----12-b14p12----|
+D|--5-5-5-5-3-3-3-3-2-2-2-0-0-0----|--------------------------------/14------------/14------14~\-|
+A|---------------------------------|-------------------------------------------------------------|
+E|---------------------------------|-------------------------------------------------------------|
+
+chorus
+
+F        C            G
+  Bug -- don't need it
+  Bug -- don't feed it
+  My thoughts faded
+  It doesn't matter/overrated
+
+verse
+Gold in my hands, in a old country pool
+standing and waving the rain wind on the runway.
+Standing or saving, credit  or death
+Which did you think I meant nothing I see can be taken from  me.
+  
+chorus 3x
+    
+outro
+E|-/15~~---------------------------------------------------|
+B|------17h18p17-17----------------------------------------|
+G|-------------19-------17h19-19~~17\16-------17p16--------|
+D|-------------------------------------------19---17-------|
+A|-------------------------------------------------17\14---|
+E|-----------------------------------------------------15--|
+
+</pre>
+
+== Bass Tablature ==
+<pre>
+Bug (Bass) 
+Album: Farmhouse 
+From: Bobby Menkedick ( Epoch19@aol.com ) 
+
+Song Arrangment: 
+Intro 
+Verse 
+Interlude 
+Chorus 
+2nd Verse 
+2nd Interlude 
+2nd Chorus 
+Outro 
+
+
+Intro: 
+                           _ 
+                         1/       2/ 
+G       F        C       G 
+G|0---0----------------------------|----------| 
+D|--------3---3-------------------0|------0-0-| 
+A|--------------2-3---3------------|----------| 
+E|------------------------3----3---|3---3-----| 
+
+
+ G       F      C       G 
+G|0---0-----------------------------| 
+D|--------3---3------------------0--| 
+A|---------------3---3--------------| 
+E|-----------------------3---3--3---| 
+
+
+ G       F          C       G 
+G|----0------------0----------------| 
+D|--------3---3---3-----------------| 
+A|-------------------3---3----------| 
+E|3--------------------------3---3--| 
+
+
+Interlude: 
+(The beginning of each chord change is actually on the 
+last upbeat of the previous measure) 
+
+ G5        Fsus2       C/E        G5/D        (fall) 
+G|19------21-|17------16|17-------19|16---12---------| 
+D|-----------|----------|-----------|--------12-\----| 
+A|-----------|----------|-----------|------------\---| 
+E|-----------|----------|-----------|-------------\--| 
+
+
+ G5        Fsus2       C/E        G5/D 
+G|19------21-|17--------|17-------19|16---12----------| 
+D|-----------|----------|-----------|--------12---5-\-| 
+A|-----------|----------|-----------|----------------\| 
+E|-----------|----------|-----------|-----------------| 
+
+
+Chorus: 
+
+ F     C     G     (2)           F      C     G 
+G|---------0-|0-------0----------|------------|---0-0-| 
+D|-----------|---------3-2-0-----|------------|-------| 
+A|----3-3----|---------------3-2-|---1-2-3-3--|-------| 
+E|1----------|-------------------|1-----------|3-3---3| 
+
+     
+ F    C      G           F      C       G 
+G|-----------|0---0-0----|--------------|-------------| 
+D|--------2-3|--3--------|--------------|-----------0-| 
+A|-----3-3---|-----------|-------3---3--|-------------| 
+E|1--1-------|-----------|1---1---------|3------------| 
+
+
+2nd Verse: (same as first) 
+
+
+2nd Interlude: 
+
+G5     Fsus2                C/E       G5/D        (fall) 
+G|19--21-|17---------12-14--17|17-----19|16---12---------| 
+D|-------|------12-14---------|---------|--------12-\----| 
+A|-------|--------------------|---------|------------\---| 
+E|-------|--------------------|---------|-------------\--| 
+
+
+G5    Fsus2          (2)          C/E    G5/D 
+G|16--21|17------12-14--17-----17--|17--19|16--12-------| 
+D|------|---12-14---------17-19--17|------|------12-5-\-| 
+A|------|--------------------------|------|------------\| 
+E|------|--------------------------|------|-------------| 
+
+
+2nd Chorus:  (same as first) 
+
+
+Outro: 
+
+
+ G 
+G|----------------|--------------| 
+D|----------------|--------0-3---| 
+A|----------------|------2-------| 
+E|3-3-3-3-3-3-3-3-|3-3-3---------| 
+
+(improvising with these corchanges): 
+
+G  G/F  G  G/D 
+</pre>

@@ -1,0 +1,51 @@
+Welcome to '''Emil's Tabs''', the official '''un'''official repository of guitar transcriptions to many of the songs played by Phish.  Official transcriptions can be purchased from [http://www.sheetmusicplus.com/s?q=phish&id=58840 Sheet Music Plus] or [http://drygoods.phish.com Phish DryGoods].  Being a [http://en.wikipedia.org/wiki/Wiki Wiki], this site is maintained by its [[Special:Listusers|users]], and all information here is the collaborative work of many fans.  The archive currently has [[Special:Statistics|{{NUMBEROFARTICLES}}]] [[Special:Allpages|pages]].  If you have a correction or new submission, please 
+[[Special:Userlogin|register an account]], read the [[Help:Contents|help files]], and [[Sandbox|practice editing]] before you contribute!  Here's a [[starting template]] if you need one.
+
+If you know which song you are looking for, the fastest way to find it is using the search field on the left.  [[Guitar Tuner|Tune up]], and dig in!  To see what's new or revised, use the [[Special:Recentchanges|Recent changes]] link on the left.
+
+== Phish Tablature ==
+
+*[[:Category: Studio Release|Studio releases]] - Songs from officially released studio albums
+**[[A Picture of Nectar]]
+**[[Lawn Boy (Album)|Lawn Boy]]
+**[[Junta]]
+**[[Rift (Album)|Rift]]
+**[[Hoist]]
+**[[Billy Breathes (Album)|Billy Breathes]]
+**[[Story of the Ghost]]
+**[[Farmhouse (Album)|Farmhouse]]
+**[[The Siket Disc]]
+**[[Round Room (Album)|Round Room]]
+**[[Undermind (Album)|Undermind]]
+**[[Joy (Album)|Joy]]
+**[[Party Time]]
+**[[The White Tape]]
+*[[:Category: Live Release|Live releases]]
+**[[A Live One]]
+**[[Slip, Stitch & Pass]]
+**[[Hampton Comes Alive]]
+**[[Live Phish CD Series]]
+**[[Live at Madison Square Garden NYE 1995]]
+
+
+*[[Unreleased (Phish)|Unreleased]] - Songs never formally recorded in the studio or that exist only on official live recordings can be found in this category.
+*[[Covers (Phish)|Covers]] - Songs by other artists often played by Phish
+*[[:Category:Bass|Bass]] tablature is available for some songs.
+*[[Media]] - Video clips and audio clips
+*[[Trey's Gear Setup]]
+*[[Trey's Acoustic Guitar]]
+
+== Trey Anastasio Tablature ==
+*[[Shine (Album)|Shine]] - Trey Anastasio
+*[[Trey Anastasio (Album)]] - Trey Anastasio Band
+*[[Live and Unreleased Material (Trey)]] - Trey Anastasio Band
+*[[Covers (Trey)| Covers]] - All Trey projects
+*[[The Grand Pecking Order (Album)|The Grand Pecking Order]] - Oysterhead album tablature
+*[[70 Volt Parade]] - New Trey project
+*[[Seis de Mayo]] - Trey Anastasio
+*[[Bar 17 (Album)|Bar 17]] - Trey Anastasio
+
+== General Resources ==
+*[[Guitar Tuner]]
+*[[:Category:Loop|Virtual Boomerang Loops]] are now embedded in the tablature entry for corresponding songs.
+*[[Book Recommendations]] from myself and fellow members.

@@ -1,0 +1,130 @@
+[[Category: Covers]]
+<pre>
+written by David Byrne of the Talking Heads
+As performed by Phish on "Slip Stitch and Pass"
+Transcribed by Jamey Boike (boikej@ibm.net)
+Rake strings and start funk...
+ {Throughout verses: D (x57775) (often followed by open A->C bass walk-up)}
+Think of London
+small City
+dark...
+dark in the daytime
+people sleep...
+[Fishman] sleeps in the daytime
+if they want to
+if they want to!!
+ {Then D->C# (x46664)}
+I'm checkin 'em out
+I'm checkin 'em out
+ {Back to D}
+I got it figured out
+I the one that's got it figured out
+there's some...
+ {Then up to high G (x10 12 12 12 10) followed by F->F# (same A-shape, 8 and  fret)}
+some good points
+some bad points
+ {low F (133211)}
+but it all works out
+I'm just a little freaked out
+ {For chorus: F#m->Em->Bm on 9th, 7th, 7th fret respectively}
+Find your city
+find yourself a city to live in
+I will
+find a city
+find yourself a city to live in
+ {Back to verse}
+A lot of bridges in
+Birmingham
+a lot of ghosts
+and a lot of houses
+look over there
+dry Ice factory
+good place to get some thinking done!
+I'm checkin' 'em out
+I'm checkin' 'em out
+I got it figured out
+I'm the one that got it figured out
+there's some...
+some good points
+some bad points
+ {chorus}
+ {Jam over chorus chords}
+ {Still another verse:}
+Did I forget to mention...
+forget to mention Memphis?
+home of Elvis and the
+ancient Greeks
+do I smell?
+I smell home cookin'
+it's only the river
+it's only the river
+I'm checkin 'em out
+I'm checkin em out
+I got it figured out
+I got it figured out
+there's some...
+some good points
+some bad points
+are those things real?
+NEIN!! *
+ {chorus to finish}
+
+Adam Healy (  aheadley@iusb.edu ) submitted this version, which he claims is a little more faithful to the
+Talking Heads' version:
+Intro:
+D
+
+Verse:
+D
+Chorus:
+C#->D  
+("I'm a little freaked out")
+Dm->D6
+F
+F#m  Em  Bm
+repeat and jam!
+</pre>
+
+== Alternate Transcription ==
+
+<pre>
+From: "Dean" <shlongwoodian@cfl.rr.com>
+as performed by Phish    Verse   Bridge    Chorus                  
+                                       
+   D  C#   G   F     f#  e  b          
+                                     
+E --------------------9---7--7-------|
+B --7--6----12--10----10--8--7-------|
+G --7--6----12--10----11--9--7-------|
+D --7--6----12--10----11--9--9-------|
+A --5--4----10--8-----9---7--9-------|
+E ---------------------------7-------|I
+
+noticed Trey uses hammer-on's during the f# (minor) and the e (minor) chords of
+the chorus, in which you would actually start those chords as a Sus2 bar chord.  
+Basically, hammer on from the 9th fret to the 10th fret (utilizing your middle
+finger) on the B string for the f# chord and then like-wise from the 7th fret
+to the 9th fret on the B string as well, for the e chord.  It makes for a
+funkier voicing.  Playing it with a little bit of wah-wah helps too!
+Also, while the G (major) chord is going on during the "bridge" (i.e., "Some
+good points, some bad points..."), you can "walk" the individual notes D and F
+between each accented G chord, then leading into the following F chord.  This
+would be 10th fret Low E and then 8th fret A.
+This is a real loose, light, funky tune.  I like to add in what Mike would play,
+here and there, try and sort of make up for some of the sparse-ness left when
+playing the song by yourself...or not :)
+
+* - Its not "niiiigh", its "NEIN" as in the German word for "no".  The show was
+recorded in Hamburg, Germany, famous for the St. Pauli Girls.  I was at the
+show and spoke to Mike.  Phish had spent the day drinking where the St.
+Pauli's girls serve big beers.  The girls are the German equivalent of
+Hooters girls, all with big breasts and skimpy German outfits.
+Trey asks "Are those things real?" (boobs) and the answer he got from his
+German counterparts was "NEIN" (or "no"), meaning that the tits were fake.
+I think the lyrics were totally off the cuff.
+All factors taken into consideration (setting, venue, vibe, etc.), Hamburg
+was one of the best shows ever (certainly out of the 100+ i've seen).  The
+Markethalle (venue) only held about 500 people.  It was awesome.
+
+(from chrisking <chrisking@triad.rr.com>)
+</pre>

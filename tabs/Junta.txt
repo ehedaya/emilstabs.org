@@ -1,0 +1,32 @@
+[[Category:  Studio Release]]
+<websiteFrame>
+website=http://widgets.itunes.apple.com/itunes.html?wtype=2&app_id=300951918&country=us&partnerId=30&affiliate_id=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fstat%3Fid%3DYCKyo6e*azk%26offerid%3D146261%26type%3D3%26subid%3D0%26tmpid%3D1826%26RD_PARM1%3D&wh=370
+height=370
+width=250
+border=0
+scroll=no
+align=right
+</websiteFrame>
+*Original Release Date: November 10, 1992
+*Label:  Elektra
+*Purchase album:
+**[http://www.amazon.com/exec/obidos/ASIN/B000002HBV/emilsphishtablat Amazon.com]
+**[http://click.linksynergy.com/fs-bin/click?id=YCKyo6e*azk&subid=1&offerid=78941.1&type=10&tmpid=1826&RD_PARM1=http%3A%2F%2Fphobos.apple.com%2FWebObjects%2FMZStore.woa%2Fwa%2FviewAlbum%3Fid%3D1698652 iTunes] ($9.99)
+== Track Listing ==
+===Disc 1===
+#[[Fee]]
+#[[You Enjoy Myself]]
+#[[Esther]]
+#[[Golgi Apparatus]]
+#[[Foam]]
+#[[Dinner and a Movie]]
+#[[Divided Sky]]
+#[[David Bowie]]
+
+===Disc 2===
+#[[Fluffhead]]
+#[[Fluff's Travels]]
+#[[Contact]]
+#[[Union Federal]] (Live)
+#[[Sanity]] (Live)
+#[[Icculus]] (Live)

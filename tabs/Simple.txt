@@ -1,0 +1,65 @@
+[[Category: Unreleased]] [[Category: Loop]]
+<pre>
+Transcribed by Emil Hedaya
+
+Barebones, yes, but I don't have time to do more.  Just wanted to get
+this one down.
+
+
+|-----Lick 1----------| |--------Lick 2--------|
+
+
+                 S                       S
+E-----------------------|------------------------
+B-----------------------|------------------------
+G----------------2------|-----------------2>3----
+D----3---3----------3---|-----3---3-----------3--
+A----------0-2-3--------|-----------0-2-3--------
+E-1---------------------|--1---------------------
+
+F              Fmaj7          Bb
+We've got it simple   Cause we've got a band
+      Bb        C             F
+And we've got cymbals in the band
+
+We've got it simple    Cause we've got a band
+And we've got cymbals in the band
+
+   Dm       Bb            F        Fm  Gm7   C            <- (Gm7 might be a Bb. up to you)
+What is a band without cymbals?   Ooh ooh    cymbals are grand
+
+We've got a saxophone   Cause we've got a band
+And we've got a saxophone in the band
+
+We've got a saxophone   Cause we've got a band
+And we've got saxophone in the band
+
+What is a band without saxophone Ooh ooh saxophone is grand
+
+Cymbals and saxophones      Saxophones and cymbals (2x)
+
+We've got Be-bop    Cause we've got a band
+And we play Be-bop in the band
+
+We've got skyscrapers   And it seems a pretty tune
+Every band needs skyscrapers too
+
+What is a band without skyscrapers  Ooh ooh skyscrapers is grand
+
+Sim-Bop & Be-Bophone Sky-Balls & Sax-Scraper
+
+</pre>
+== Bass ==
+<pre>
+G-------------2-----------
+
+D---3-3---------3---------
+
+A-------1h2h3-------------
+
+E-1-----------------------
+</pre>
+
+== Loops ==
+Member recorded:
+<gflash>100 40 /vb5/member/simple.swf</gflash>

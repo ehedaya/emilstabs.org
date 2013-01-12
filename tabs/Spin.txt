@@ -1,0 +1,113 @@
+"Spin" from *Shine*
+
+<pre>
+  Here's the basic chord structure.  In concert Trey will play the organ
+ line in unison on his guitar, as shown here:
+ 
+E|----------------------------------12-------12-17-16----------------13------------------------12-|
+B|----------------------------12-12----13-15----------17----------13---------18-15-------13-16----|
+G|----------------------12-13----------------------------16-13-14---------15-------15-13----------|
+D|----------14----12-14---------------------------------------------------------------------------|
+A|----11-14----15---------------------------------------------------------------------------------|
+E|-12------------------------------------By: Ryan Laughlin----------------------------------------|
+
+
+ Organ: E  C  E  C  E  C  Bb  Ab  E
+
+
+ Little riff on E
+
+ E-----------------------------------------|
+ B-9---9----9-9-----------------10------9~-|
+ G-9---9----9-9---11^(13)-9-11~----11-9----|
+ D-9---9-h11-------------------------------|
+ A-11--------------------------------------|
+ E-----------------------------------------|
+
+VERSE 1
+
+E                                   C  A>B
+The days go by and I'm still alive
+
+E                             C   D
+Lost inside but I will arrive
+
+
+CHORUS
+
+G                   A                          C
+And I'm starting to fall, can't escape from it all
+
+               G
+It's better to go down easy
+
+G                      A                                C
+When I'm stuck in this spin, look at the shape that I'm in
+
+                F            D
+It's pulling me down but I'm enjoying the view
+
+
+ VERSE 2
+
+E                                  C  A>B
+So lift up now if you're all alone
+
+E                                     C    D
+Better start now or you'll never know
+
+
+ CHORUS
+
+G                 A                            C
+Time goes by in a flash, If you're starting to crash
+
+               G
+It's better to go down easy
+
+G             A                     C
+In a circular dive, when I finally arrive
+
+               F             D
+It's taking me down but what else can I do?
+
+
+ VERSE 3
+
+E                                     
+Time goes past still it's all the same
+
+C                A        B
+  (and I've been with you all these nights)
+
+E
+In time when you change the game
+
+C                D
+  (and hold yourself up to the light)
+
+E                              C             A        B
+It's past and you're all alone   (But I will be here 'till the end)
+
+E                      C               D
+And I'll lead you home   (If you can't see it through my friend)
+''
+Return to opening progression, except it goes:
+
+ ||: E  C  E  C  E  C  Eb  Bb :||  2nd ending: Bb  Ab
+
+
+ CHORUS
+
+G                        A                               C
+Now we're caught in this slide, seems like one hell of a ride
+
+          G                              A
+Taking me down, so easy,  When I finally rise
+
+              C             F               D
+And I open my eyes, Looking around, and I'm enjoying the view.
+
+  [Then return to opening chord progression]
+
+ </pre>

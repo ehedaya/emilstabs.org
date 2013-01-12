@@ -1,0 +1,423 @@
+== 20 Years Later ==
+
+Transcribed by:<br>
+Andrew Russell ([[User:DeadHead|DeadHead]])
+
+Enjoy.
+
+<pre>
+
+Intro
+Notes:  There is no intro in the studio version, however, when they play it live, Trey plays the following lick.
+
+E|------0---------|----------------|
+B|----7-----7-----|----7---7-------|
+G|--8---------8---|--7-------------|  x How many times you want
+D|9-------------9-|9---------------|
+A|----------------|----------------|
+E|----------------|----------------|
+
+
+Verse
+Notes: Let ring throughout the entire verse.
+
+E|--------0---------|----------------|------0---------|----------------|
+B|*-----7-----7-----|----7---7-------|----7-----7-----|----7---7-------|
+G|----8---------8---|--7-------------|--8---------8---|--7-------------|
+D|--9-------------9-|9---------------|9-------------9-|9---------------|
+A|*-----------------|----------------|----------------|----------------|
+E|------------------|----------------|----------------|----------------|
+
+E|------0---------|----------------|----------------|------------------|
+B|----7-----7-----|----7---7-------|----5-5---5---5-|----5---5--------*|
+G|--8---------8---|--7-------------|--6---------6---|--6---------------|
+D|9-------------9-|9---------------|7---------------|7-----------------|
+A|----------------|----------------|----------------|-----------------*|
+E|----------------|----------------|----------------|------------------|
+
+E|----------------|----------------|----------------|----------------|
+B|----3---------3-|----3-------3---|----------------|----------------|
+G|--4---------4---|--4-------2-----|1---------------|----------------|
+D|5---------------|5-------4-------|2---------------|----------------|
+A|----------------|----------------|----------------|----------------|
+E|----------------|----------------|----------------|----------------|
+
+
+
+Chorus
+Notes:  This is a loose guideline.  Sometimes, Trey plays them as power
+chords, in the studio version, he sometimes arrpegiated them a bit, and
+I've also heard him hit the low note of the chord and then the chord, etc.
+But these are always the positions he plays the chords in that I've heard/ seen.
+
+                                                     (2/4 Bar)
+E|----------------|----------------|----------------|--------|
+B|----------------|9-------9-------|----------------|--------|
+G|8-------8-------|9-------9-------|6-------9-------|6-------|
+D|9-------9-------|9-------9-------|7-------11------|7-------|
+A|9-------9-------|7-------7-------|7-------11------|7-------|
+E|7-------7-------|----------------|5-------9-------|5-------|
+
+E|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|
+G|8-------8-------|4-------4-------|6-------6-------|9-------6-------|
+D|9-------9-------|5-------5-------|7-------7-------|11------7-------|
+A|9-------9-------|5-------5-------|7-------7-------|11------7-------|
+E|7-------7-------|3-------3-------|5-------5-------|9-------5-------|
+
+                                                     (2/4 Bar)
+E|----------------|----------------|----------------|--------|
+B|----------------|9-------9-------|----------------|--------|
+G|8-------8-------|9-------9-------|6-------9-------|6-------|
+D|9-------9-------|9-------9-------|7-------11------|7-------|
+A|9-------9-------|7-------7-------|7-------11------|7-------|
+E|7-------7-------|----------------|5-------9-------|5-------|
+
+E|----------------|----------------|----------------|----------------|
+B|----------------|----------------|3-------3-------|0-------0-------|
+G|8-------8-------|4-------4-------|2-------2-------|1-------1-------|
+D|9-------9-------|5-------5-------|0-------0-------|2-------2-------|
+A|9-------9-------|5-------5-------|0-------0-------|2-------2-------|
+E|7-------7-------|3-------3-------|2-------2-------|0-------0-------|
+
+E|----------------|----------------|
+B|0-------0-------|0-------0-------|
+G|1-------1-------|1-------1-------|
+D|2-------2-------|2-------2-------|
+A|2-------2-------|2-------2-------|
+E|0-------0-------|0-------0-------|
+
+
+
+Solo
+Notes:
+This is the studio solo.  It is played almost exactly like this live, but still
+has some minor differences.
+
+  G
+E|--------------------------------|--------------------------------|
+B|12------------------------------|(12)--------10--12--10--12--13--|
+G|--------------------------------|--------------------------------|
+D|--------------------------------|--------------------------------|
+A|--------------------------------|--------------------------------|
+E|--------------------------------|--------------------------------|
+
+  A
+E|--------------------------------|------------15------------------|
+B|14-------------------------15-14|12-----(12)---------------------|
+G|--------------------------------|---(13)---------13--------------|
+D|--------------------------------|--------------------------------|
+A|--------------------------------|--------------------------------|
+E|--------------------------------|--------------------------------|
+
+  E                                                |---Triplets---|
+E|--------------------------------|--------------------------------|
+B|--------------------------------|--------------------------------|
+G|(13)----------------------------|---------------------13---16----|
+D|--------14----------14----------|(14)------------14--------------|
+A|------------12-/14--------------|--------14-/16------------------|
+E|--------------------------------|----16--------------------------|
+
+  C
+E|--------------------------------|12------------------------------|
+B|------------------------------13|--------15------13--------------|
+G|-----------------------------12-|--------------------12----------|
+D|----------------------------14--|------------------------14------|
+A|15-------------------------15---|----------------------------15--|
+E|--------------------------------|--------------------------------|
+
+  B
+E|--------------------------------|--------------------------------|
+B|--------------------------------|--------------------------------|
+G|--------------------------------|-----16-------------------------|
+D|16--------------------------13--|16---------16-13----------------|
+A|------------------------14------|----------------14\-12-/14----9-|
+E|--------------------------------|--------------------------------|
+
+  D
+E|--------------------------------|--------------------------------|
+B|--------------------------------|15------------------------------|
+G|----------------11--14------14--|------------------------14--15--|
+D|12------------------------------|--------------------16----------|
+A|--------------------------------|--------------------------------|
+E|--------------------------------|--------------------------------|
+
+  F#
+E|--------------------------------|--------------------------------|
+B|--------------------------------|--------------------------------|
+G|(15)----16--15--16--18----------|15----16--18p16p15--16--18--16--|
+D|--------------------------------|--------------------------------|
+A|--------------------------------|--------------------------------|
+E|--------------------------------|--------------------------------|
+
+  F#
+E|----14--------------------------|(14)----------------------------|
+B|--------------------------------|--------------------------------|
+G|--------------------------------|--------------------------------|
+D|16------------------------------|--------------------------------|
+A|--------------------------------|--------------------------------|
+E|--------------------------------|--------------------------------|
+
+
+
+Bridge
+Notes:
+Like the chorus, this is just a loose definition, but the chord forms are correct.
+
+  E                (3/4 Bar)    D                A (3/4 Bar)
+E|----------------|------------|----------------|------------|
+B|9-------9-------|9---9---9---|7-------7-------|------------|
+G|9-------9-------|9---9---9---|7-------7-------|6---6---6---|
+D|9-------9-------|9---9---9---|7-------7-------|7---7---7---|
+A|7-------7-------|7---7---7---|5-------5-------|7---7---7---|
+E|----------------|------------|----------------|5---5---5---|
+
+  B
+E|----------------|----------------|
+B|----------------|----------------|
+G|8-------8-------|8-------8-------|
+D|9-------9-------|9-------9-------|
+A|9-------9-------|9-------9-------|
+E|7-------7-------|7-------7-------|
+
+  E                (3/4 Bar)    D                A (3/4 Bar)
+E|----------------|------------|----------------|------------|
+B|9-------9-------|9---9---9---|7-------7-------|------------|
+G|9-------9-------|9---9---9---|7-------7-------|6---6---6---|
+D|9-------9-------|9---9---9---|7-------7-------|7---7---7---|
+A|7-------7-------|7---7---7---|5-------5-------|7---7---7---|
+E|----------------|------------|----------------|5---5---5---|
+
+  F#
+E|----------------|----------------|----------------|----------------|
+B|11--11--11--11--|11--11--11--11--|11--11--11--11--|11--11--11--11--|
+G|11--11--11--11--|11--11--11--11--|11--11--11--11--|11--11--11--11--|
+D|11--11--11--11--|11--11--11--11--|11--11--11--11--|11--11--11--11--|
+A|9---9---9---9---|9---9---9---9---|9---9---9---9---|9---9---9---9---|
+E|----------------|----------------|----------------|----------------|
+
+
+
+Outro
+Notes:
+The outro is all in Bm, but the scale that they jam over is B Dorian (F#m).
+End on Bm.
+
+  Bm
+E|----------------|----------------|----------------|----------------|----------------|
+B|----------------|----------------|----------------|----------------|----------------|
+G|----------------|----------------|----------------|----------------|----------------|
+D|--------9---7---|(7)-------------|7---------------|----------------|----------------| x However many times you feel like
+A|----------------|--------9-------|----7-----------|7---9-----------|----7-----------|
+E|7---------------|----------------|----------------|--------10------|9-------9-------|
+
+
+
+Layout:
+The song goes:
+(Intro)
+Verse
+Chorus
+Verse
+Chorus
+Solo
+Bridge
+Chorus
+Outro
+
+</pre>
+
+
+
+<pre><nowiki>20 Years Later-Acoustic:Transcribed by Douglas Talley  coltfan420@msn.com
+
+(please feel free to correct and someone please do the next part!!!)
+ 
+Verses sang over noodled B on the first 3 Lines and noodled A over the fourth.
+ 
+      B(1) chord for verse                  A(1) chord for verse
+(Dstrg) ----9---------------------------7------
+(Gstrg) -----8---------------------------6-----
+(Bstrg) ------7---------------------------5----
+(Estrg) ------(7)-------------------------(5)— (optional notes)
+ 
+B chord type 1(noodled)
+I can hold my breath for a minute or so
+Five days without food is as long as I'll go
+I didn't sleep once for four days and three nights
+ 
+A chord type 1(noodled)
+I once didn't stop for seven red lights
+ 
+B chord type 1(noodled)
+I jumped into water that's fifty degrees
+I've rowed in a kayak in thirty-foot seas
+I've stayed in the woods for a week with a knife
+ 
+A chord type 1(noodled)
+A flint, when I lost it, nearly cost me my life
+
+(Listen to Album for right timing on chords and vocals (It takes two to sing this tune) )
+ 
+G >F#> E
+Twenty years later, I'm still upside down
+ 
+(Chorus) Now regular barré Chords
+         B(7th Fret) G(3rd Fret)                   A(5th Fret)
+It's a small world, but it's turning real fast (We're upside down)
+ 
+         B(7th Fret)G                   A(5th Fret)
+It's a new day, and the morning has passed (Turned upside down)
+ 
+         B(7th Fret)>E(7th Fret)>A(5th Fret)>E(7th Fret)
+It's a short road, but the mountains are tall (Land upside down)
+ 
+         B(7th Fret)G(3rd Fret)    A(5th Fret)         E(2nd Fret not barred)
+It's a small world, but we all start out small
+
+(All the same for the next verse too)
+
+I hurdle through air though i feel i'm alone,
+I stick with the others to the skin of the stone
+I stop for a stranger just to give him a lift
+I cling like a lizard to the side of the cliff
+I treat every minute like an hour and then,
+It seems like a year has flashed by again
+We build a foundation but where do we stand
+When all air is water and all water is land
+Twenty years later, i'm still upside down
+
+(chorus)
+and it's a small world, and it's turning real fast
+(we're upside down)
+It's a new day, and the morning has passed
+(turned upside down)
+It's a short road, but the mountains are tall
+(Land upside down)
+It's a small world, and we all start out small
+
+(Then the breakdown-maybe I'll get to this part tomorrow if no one beats me to it. It's past my bedtime!)
+ 
+Thanks and have phun!!!!
+</nowiki></pre>
+
+<pre><nowiki>First off, I'd like to comment about this song in particular.  Twenty Years Later is in my opinion the finest studio
+recording Phish has ever done.
+
+Based on the studio version here are a couple of small changes:
+
+Verse - Arpeggio or fingerpick the verses.  I believe these chords are correct.
+
+   Badd2    Bmin   Aadd2
+e----0--------------0----------------
+b----7-------7------5----------------
+g----8-------7------6----------------
+d----9-------9------7----------------
+a----9-------9------7----------------
+e------------------------------------
+
+
+B(add2)                 B(min)
+I can hold my breath for a minute or so
+Five days without food is as long as I'll go
+I didn't sleep once for four days and three nights
+A(add2)
+I once didn't stop for seven red lights
+
+B(add2)                B(min)
+I jumped into water that's fifty degrees
+I've rowed in a kayak in thirty-foot seas
+I've stayed in the woods for a week with a knife
+(Aadd2)
+A flint, when I lost it, nearly cost me my life
+
+Prechorus:
+     G
+e--------------------------------0------
+b----3-------------------3----3--0------
+g----4------------------4----4---1------
+d----5-----------------5----4----2------
+a----5---------------------------2------
+e--------------------------------0------
+
+Twenty years Later,                I'm still upside down
+
+Chorus chords - can either strum or fingerpick, both sound nice.  I use traditional chord formations here.
+
+
+       B      E              A                  C#m   A
+It's a small world, but it's turning real fast (We're upside down)
+       B    G           A                   C#m   A  
+It's a new day, and the morning has passed (Turned upside down)
+       B     E             A                   C#m   A
+It's a short road, but the mountains are tall (Land upside down)
+       B     G      D/F#           E 
+It's a small world,           but we all start out small
+
+B(add2)                 B(min)
+I hurdle through air though i feel i'm alone,
+I stick with the others to the skin of the stone
+I stop for a stranger just to give him a lift
+A(add2)
+I cling like a lizard to the side of the cliff
+
+B(add2)                 B(min)
+I treat every minute like an hour and then,
+It seems like a year has flashed by again
+We build a foundation but where do we stand
+A(add2)
+When all air is water and all water is land
+
+     G
+e--------------------------------0------
+b----3-------------------3----3--0------
+g----4------------------4----4---1------
+d----5-----------------5----4----2------
+a----5---------------------------2------
+e--------------------------------0------
+Twenty years Later,                     I'm still upside down
+
+       B      E              A                   C#m   A
+It's a small world, but it's turning real fast (We're upside down)
+       B    G           A                    C#m   A                           
+It's a new day, and the morning has passed (Turned upside down)
+       B     E             A                    C#m   A
+It's a short road, but the mountains are tall (Land upside down)
+       B     G      D/F#            E 
+It's a small world,           but we all start out small
+
+Solo - (This is the part where someone else fills in the blanks)
+
+
+
+Bridge:
+
+E(7th fret)   D (5th fret)     A(5th fret)       B(7th fret)
+Feel it turning in circles and you're never the same again
+E(7th fret)  D(5th fret) A(5th fret)         F#
+Spin slowly while sounds      cascade and decay   (I'm here upside down)
+
+
+       B      E              A                  C#m   A
+It's a small world, but it's turning real fast (We're upside down)
+       B    G           A                    C#m   A
+It's a new day, and the morning has passed (Turned upside down)
+       B     E             A                    C#m   A
+It's a short road, but the mountains are tall (Land upside down)
+       B     G      D/F#            E 
+It's a small world,           but we all start out small
+
+Build up the E chord and then on to the outro in Bmin:
+
+
+e------------------------------------------------------------- there are some percussive rakes in between some of the notes as well.
+b------------------------------------------------------------- Repeat ad nauseum.  There is all some overdubbed psychadelic
+g------------------------------------------------------------- blues licks.
+d------9--7-----------7---------------------------------------
+a---------------9------7---7--9-------------7-----------------
+e-7-------------------------------10----10------9/9.5\9----
+
+
+Inside this silent scene, all are free, all are free, second time around</nowiki></pre>
+
+Todd Lambert

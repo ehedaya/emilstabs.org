@@ -1,0 +1,198 @@
+[[Category: Studio Release]]
+==Transcription==
+
+<pre>
+From: Chris Corsale (ccorsale@cosi.stockton.edu)
+(edited breakdown by Annonymous)
+
+Intro:
+Strum that first chord, occasionally pulling off the D as shown
+in the second chord and hammering it back on.  You can simulate
+Page's piano notes if you play the third thing listed below.
+
+ strum  h-o
+E--3-----3---------3--3-3--3--3---
+B--3-----2>3-------3--3-3--3--3---
+G--0-----0---------4--4-4--2--0---
+D---------------------------------
+A---------------------------------
+E---------------------------------
+
+Verse:
+    G/G/G/G/C/C/C*/A7/D7/D7/
+    G/G/G/G/C/A7/D7/D7
+
+* means that this last measure of C is only a half measure.  watch out.
+
+
+
+
+
+PRE-BREAKDOWN LICK:
+
+"...for a UFO, in Tomahawk County"
+
+|-------10----------8-----------5------1/2--
+|-------------------------------------------
+|10/11(hold)-x-8/9(hold)-x-4/5(hold)-x-1/2--
+|-------------------------------------------
+|-------------------------------------------
+|-------------------------------------------
+
+
+BREAKDOWN ("Well she kicked the mule...")
+
+D D/C D/B D/A (2x)
+
+
+Chorus:
+
+F C G G F C D D
+F C G G F C A7 D D D
+
+jam on G for a while.
+
+verse 2 = only the first half of verse 1.
+That crazy fill again, the D/C/B/A thing twice, then a chorus.
+
+Jam on G again under the banjo solo.
+
+</pre>
+===Duel Outro===
+When they play it live, they do a "duel" usually, then the outtro is as follows:
+
+<pre>
+Initialy in 2/4, then 2/8, then 2/16 as the emphasis changes.
+
+(start slow)
+(rake)
+
+Chord progression:
+
+G Cm Fm D
+
+              G                                     Cm
+E----------------------------------------------------------
+B-8-9-8------------------8-9-8----------8-9-8--------------
+G-x-----8-7--------------------8-7------------8-7-10-8-----
+D-x---------10-9-------------------10-9--------------------
+A-x--------------------------------------------------------
+E----------------------------------------------------------
+
+                Fm                                                        D
+                       s s
+E----------------------------------------------------------------------------
+B--------------8-9---8-----------------------------------------------------7-
+G-------7-8-10-----7---7>6>7--10-(7)-8--------7----------7-8-10-8-7----------
+D--9-10-------------------------------10-9-10---10-9-10------------10-9-10---
+A----------------------------------------------------------------------------
+E----------------------------------------------------------------------------
+
+
+Then up an octave:
+
+E---15-16-15--------------15-16-15------------15-16-15----------------
+B-----------16-15-----------------16-15----------------16-15-18-16----
+G-----------------17-16-----------------17-16-------------------------
+D---------------------------------------------------------------------
+A---------------------------------------------------------------------
+E---------------------------------------------------------------------
+
+
+
+                               s  s
+E-----------------15-16----15------------------------------------------
+B--------15-16-18-------15----15>14>15--18-15-16---------15------------
+G--16-17----------------------------------------17-16-17----17-16-17---
+D----------------------------------------------------------------------
+A----------------------------------------------------------------------
+E----------------------------------------------------------------------
+
+
+E--------------------------14--
+B--15-16-18-16-15--------------
+G-----------------17-16-17-----
+D------------------------------
+A------------------------------
+E------------------------------
+
+Then trey breaks into stacatto picked half steps...
+
+E----15-16-15-16-15-----------------------------14-15-16-15-16-15-19-20-
+B--------------------------18-17-16-15-16-17-18-------------------------
+G-------------------16-17-----------------------------------------------
+D-----------------------------------------------------------------------
+A-----------------------------------------------------------------------
+E-----------------------------------------------------------------------
+
+E--20-19-18-17-16-15-14-15-(back to start)-
+B------------------------------------------
+G------------------------------------------
+D------------------------------------------
+A------------------------------------------
+E------------------------------------------
+
+Insanity in the form of a bluegrass lick over G.. Mike screams out
+
+"Heeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee....eeeeeeeey"
+
+then
+Verse 3 is the same as verse 2.
+
+Cut to "heeeeere's a place of elegance" part:
+
+D C F F G C F F  4X, last time, cut to chorus.
+
+One extra chorus, with D/C/B/A at the end.
+
+It ends up with some nutso "poor heart" type ending that i'm not even
+going to TRY to transcribe.
+</pre>
+
+== Lyrics ==
+<pre>
+Kitty Malone sat on a mule
+Was riding in style
+When suddenly, like the sound of a buzzard's breaking
+Kity felt laser beams being fired at her head
+She said, "I hate laser beams
+And you never done see me askin'
+For a UFO
+In Tomahawk County"
+
+Well she kicked the mule
+And it walked the path
+And the aliens fired from behind
+Till she stopped the mule
+And she kicked the rump
+And the big old mule took a big old dump
+
+Scent of a mule, you better watch out where you go
+Take your laser beams away
+Scent of a mule, you better watch out where you go
+You better stop that laser game
+Or you'll smell my mule
+
+She felt the fire against her neck
+And it saddened her to feel it burn
+When suddenly, like the sound of a breeding Holstein
+Kitty said, "Stop, we ain't lookin' for fightin'
+In Tomahawk County."
+
+A little guy from the UFO
+Came on out and said his name was Joe
+She said, "Come on over for some lemonade
+Just follow me now with the whole brigade"
+
+Chorus
+
+They walked into her cabin shack
+They had never seen a southern home
+And they liked it, better than their UFO
+They liked it, they really liked it
+They said, "Here's a place of elegance
+Here we shower ourselves in lightness"
+
+Chorus
+
+</pre>
