@@ -1,0 +1,85 @@
+[[Category: Covers]]
+
+<pre>
+
+Ride Captain Ride     by Blues Image      covered by phish
+                 
+verse chord progression
+    Dsus2  D        Dsus2  D      E        E7       E  F  F#
+ ---0--2--2--2-----0--2--2--2-----0--0--0--0--0-----0--1--2--
+ ---3--3--3--3-----3--3--3--3-----0--0--0--3--3-----0--1--2--
+ ---2--2--2--2-----2--2--2--2-----1--1--1--1--1-----1--2--3--
+ ---0--0--0--0-----0--0--0--0-----2--2--2--2--2-----2--3--4--
+ ---------------------------------2--2--2--2--2-----2--3--4--
+ ---------------------------------0--0--0--0--0-----0--1--2--
+                                                                      
+   G7                   G6    G6     Dsus2 D    Dsus2 D
+ --3--3--3--3--3--3--3--3--3--3--3-----0--2--2-----0--2--2--
+ --3--3--3--3--3--6--3--5--3--5--3-----3--3--3-----3--3--3--
+ --4--4--4--4--4--4--4--4--4--4--4-----2--2--2-----2--2--2--
+ --3--3--3--3--3--3--3--3--3--3--3-----0--0--0-----0--0--0--
+ --5--5--5--5--5--5--5--5--5--5--5--------------------------
+ --3--3--3--3--3--3--3--3--3--3--3--------------------------
+                                                                 
+end of verse chords         pre-solo riff
+  D5 Dsus4 D                            A
+---5--3--2--          -----------------0--
+---3--3--3--          -----------------2--
+---2--2--2--          -----------------2--
+---0--0--0--          -----------------2--
+------------          -----------------0--
+------------          --2--3--4--4--5-----
+
+
+intro  D-C-D-C
+    
+ Dsus2  D         Dsus2  D
+ seventy three men sailed up
+          E          E7    E F F#
+ from the san francisco bay
+ G7
+ rolled off of their ship
+      G6             Dsus2 D   Dsus2 D
+ and heres what they had to say
+       Dsus2  D              Dsus2  D
+ we're calling everyone to ride along
+ E      E7       E F F#
+ to another shore
+ G7                     G6
+ we can laugh our lives away
+        Dsus2  D       Dsus2  D
+ and be free once more
+ Dsus2  D          Dsus2  D
+ no one heard them calling
+ E            E7    E F F#
+ no one came at all
+ G7
+ cause they were too busy watching
+   G6      Dsus2 D        D5  Dsus4  D ('end of verse'
+ those old raindrops fall                  chords)
+ Dsus2  D       Dsus2  D
+ as a storm was blowin
+ E            E7      E F F#
+ out on a peaceful sea
+ G7                        G6    Dsus2 D   D5  Dsus4  D
+ seventy three men sailing on to history
+
+         -----------(chorus)------------
+ D                             A
+ ride captain ride   upon your mystery ship
+ A  B  C                                  D
+ be  amazed at the friends  you're having on your trip
+ D                             A
+ ride captain ride   upon your mystery ship
+ A   B   C                            D
+ on your way  to a world  that others might have missed
+
+  (next, play pre-solo riff 1x, and then play D-Bb-D-Bb-A chords
+   during 1st solo...)
+
+  (...now go back and sing/play 1st eight lines of verse (up to
+   and including "and be free once more" line...))
+
+  (..finally, sing/play chorus again 2x, and then just play
+     chorus chords as 2nd solo fades out)
+</pre>

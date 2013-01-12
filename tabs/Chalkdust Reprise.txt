@@ -1,0 +1,18 @@
+[[Category: Unreleased]]
+<pre>
+from Chris Brooks ( cbrooks@runet.edu )
+
+E7 > A > F#m > B
+
+--------------0---0--2--2--  I   --And repeat roundabout.
+--------------0---2--2--4- . I
+--------------1---2--2--4--  I
+--------------0---2--4--4--  I
+--------------2---0--4--2--. I
+--0-3b-0-3b-0-0---0--2--2--  I
+
+Trey did the 0-3 bend on the low E in one recording for Deer Creek '00 and the
+other he seemed to just hit the chords.
+
+Chris Brooks (C.B.) 
+</pre>

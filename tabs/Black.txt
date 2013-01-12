@@ -1,0 +1,89 @@
+"Black" from *Shine*
+
+ <nowiki> Transcribed 2/4/06 by L. Ballard</nowiki>
+ 
+The intro transitions straight out of "Spin," as it starts with the same chords, pattern, and tempo, with some variation:
+  
+  Intro Chords: E C G D A Edim
+   
+   A  Edim
+ E--------|
+ B-5---5--|
+ G-2---3--|
+ D-2---2--|
+ A--------|
+ E--------|
+
+''' Verse I''' - Just use barre chord shapes for this - drop your index finger one fret for the slash chords.
+
+  Cm       Dm       Eb              F
+  Tried to maintain    All that you can
+   
+           Bb          Bb/A           Eb+     Eb+    Ebm
+  When the story that ends is not so clear   E---|  E---|
+                                             B-4-|  B-7-|
+  Cm       Dm      Eb             F          G-4-|  G-8-|
+  Tried to replay    All that was good       D-5-|  D-8-|         
+                                             A-6-|  A-9-|
+           Bb   Ab  Eb   Ebm          Fdim   E---|  E---|
+  When the lullaby, lullaby-, ends in darkness
+
+    Fdim
+ E-----------|
+ B-6-------6-|
+ G-4-4h5-----| 
+ D-3-----3---|
+ A-----------|
+ E-----------|
+
+'''CHORUS'''  Sounds best in first position
+
+  E      C         G               D               A         Bb
+  Black, black, to see you now, to see you now, to see you now
+   
+  E      C         G               D                    A         Bb
+  Black, black, to see you now, to see you now . . . to see you now
+
+  Transition chords: E C G D F Fsus9-8 Dmin
+
+'''VERSE II'''
+
+ Cm       Dm        Eb              F
+ Time for drifting,   ropes turn to sand
+   
+           Bb           Bb/A           Eb+
+ You'll be borne on the winds, off the sea
+
+ Cm      Dm       Eb            F  
+ On your own now,   our time is through
+ 
+         Bb      Ab  Eb      Ebm   Fdim
+ Let the promise-es, promise-es be broken
+
+  '''CHORUS'''
+ 
+  E      C         G               D               A         Bb
+  Black, black, to see you now, to see you now, to see you now
+  E      C         G               D                     A         Bb 
+  Black, black, to see you now, to see you now . . . to see you now
+
+  E             A       G  D>G>E             A      Bb  G>D>E
+    Just let it slip away,       Just let it slip away
+
+  E             A       G  D>G>E             A      Bb    C
+    Just let it slip away,       Just let it slip away
+
+ 
+'''BRIDGE''':  Eb  Bb/D  Fdim  (2x)
+
+ Repeat Chorus    Solo in Emin pentatonic
+
+'''OUTRO''' - Organ chords: Build on last Bb - E - Esus#4-4-3
+
+ Esus#4-4-3
+  E-------|
+  B-0-0-0-|
+  G-3-2-1-|
+  D-2-2-2-|                    Enjoy.
+  A-2-2-2-|
+  E-0-0-0-|

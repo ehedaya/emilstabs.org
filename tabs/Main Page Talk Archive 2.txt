@@ -1,0 +1,152 @@
+== Spammers ==
+
+Well we had our first spambot wave attack today.  I am looking into figuring out if there is a way to prevent them from posting comments, other than blacklisting IPs.  The irony is that because the Wiki has features that prevent user-embedded links from improving any search enging rank, spamming is pointless -- but since when do they care about anything?  Anyway, if you see a file that has been spammed, please feel free to go in and either edit out the links or roll the file back.  I appreciate everyone's help!  --[[User:Admin|Emil]] 00:30, 24 May 2005 (EDT)
+
+== Registration now required ==
+
+In an effort to prevent these bots from filling our Wiki with links to viagra and home equity loans, I have made registration required to edit any file.  --[[User:Admin|Emil]] 00:04, 25 May 2005 (EDT)
+
+== Requests? ==
+
+Fellow Wikians
+Im not sure how anyone feels about requests, but I was wondering if anyone knows how to play the song "And So to Bed' on the White Disc.  If anyone does know it, I would be totally appreciative if you would tab it.  Sucks about the Spammers, Ill keep looking for more files.
+
+== And So To Bed ==
+
+We have a tab for [[And So To Bed]] already -- is this not what you are looking for?  It's under the [[Unreleased (Phish)]] section.  The spam seems under control for now, as I have required registration to edit any of the pages.  This will hold the bots at bay until they figure out a way around it.  If you want to request a file, all you have to do is create a link to the song you want tabbed under the appropriate section.  This will add a space for people to transcribe it.  Of course, make sure that a file doesn't already exist for it before you create a new page.  --[[User:Admin|Emil]] 13:46, 31 May 2005 (EDT)
+
+== Closing the old forum ==
+
+I will be removing the old forum by the end of the week.  Any tablature that has not been moved over should be moved over by then.  I will be archiving the forum to a CD backup locally, but removing it from the live server, effectively deleting it for all intents and purporses.  --[[User:Admin|Emil]] 16:52, 31 May 2005 (EDT)
+
+== Some change questions ==
+
+Emil, I figure that since you definitely know how to do everything on this site, i was hoping to get a few pointers.  I would like to add the White Disc to the main page, as well as create a White Disc page.  I took a look at help and such and couldnt find much on it there, so maybe you could either direct me to a page that shows me (since youre probably busy) or explain it yourself or whatever you feel.  Thanks
+Yak
+
+== New pages ==
+
+Hm, can't believe I missed that one!  If there an entire album I missed, let me know, and I will add the appropriate page.  I have added it, you can now click on the red links (songs that aren't in the archive yet) and start putting in your transcriptions.  If you want to add a song to the Unreleased or Covers section, you can just edit that index page and add in a link to the new song (in its alphabetical place, and following the syntax of the surrounding files).  --[[User:Admin|Emil]] 00:59, 14 Jun 2005 (EDT)
+
+== Antelope ==
+
+For those of you who don't hit up the Bus, I recently wrote out all of the Lawn Boy Antelope in PowerTab.  I just figured out how to export to a text file, and figured I'd post it on this site.  This transcription is long, and was wondering if it'd be worth it to just obliterate the one thats on here, for this detailed account when a simpler version is much easier on the eyes.  Anyway, just wanted to see if there was any interest for this.
+
+== Why obliterate? ==
+
+Why not post it as an alternate transcription below the current one, and we can go from there?  --[[User:Admin|Emil]] 12:09, 23 Jun 2005 (EDT)
+
+== Yeah Dont Obliterate ==
+
+I agree with Emil on not obliterating, because whoever did that transcription did work a long time on it.  However, at the same time, i definitely understand that you worked a long time on your piece and you might feel you should have an empty page to work with.  However, and im sure most members would agree that we have all seen the current antelope tab a million times and i know i was just hoping the other day to find a new, even more complete antelope.  Perhaps, if its is cool with everyone else, you could just post it above the current piece, so it might still be there for reference or whatever, with the ======New Transcription===== heading or something.  Either way, i have been dying for a new antelope.
+-Yak
+
+== Trey Jammin...? (Update)==
+
+Hey I was wondering if anyone knew Trey's technique of jaming? Like what scales and intervals does he use? Thanks
+
+
+Mark Johnson (WilsonTwin) sez:
+
+I've spent many years trying to figure it out and basically I'm on the edge of comlpetely understanding and utilizing it. But he uses arpeggios a lot, which everyone says, but its important to learn as many arpeggios as possible so you can just pop em in there. What makes his jamming sound great is his knowledge, cause once you got your arpeggios and chords and  scales down pat, you can really start to play from your soul. 
+
+Jamming concerning '''chords'''. Learn the I ii iii IV V etc chords from the root, so you have lots of options off anything someone plays. I ii iii IV V chords refer to the chords in a scale, like for instance a blues progression is usually called a I-IV-V. capital roman numerals are major, lowercase are minor. It usually goes                                  <pre>        Maj    Min   Min   Maj   Maj   Min   Dim 
+        I      ii    iii   IV     V     vi    vii
+        2       2     1     2     2      2     1   =FRETS Apart
+</pre>
+It also works if u had 7 to everything, making Maj7 and Min7. So for instance in a G Major progression, GMaj is root on 3rd fret, Amin is ii on 5th fret, Bmin is iii on 7th, etc.  I'm sure if u look online you'll find a better explanation of it, but basically playing any of these chords keeps it in a key, so playing from the I to the V quickly is a cool way to progress to the next chord or add tension. These are also the key to creating good progressions so u don't use wrong notes in a chord if your using anything more complex than Major chords. Or thats what i think anyway, theres so much you can do with it if you get into jazz theory its ridiculous. There are substitution and all sorts of progressions, minor, major7, etc. You can go up and up with these chords for tension. Intresting jams can be made by making a chord progression up there, but with the right chords it will stay in the same key and use the same notes. Another thing is Trey likes to use this chord in songwriting and jamming:
+<pre>
+e|   |    |    |     |
+b|   |    |  2 |     |
+g|   | 1  |    |     |
+d|   |    |    |  3  |
+a|   |    |    |     |
+e|   |    |    |     |
+</pre>
+You may have noticed this lovely chord in tons of his songs, but recently i've noticed how fucking awesome it is. Say you play it with the first finger on the 5th fret. It can either be an Fmaj chord, a Dmin7 chord, or a A/D chord. Trey uses this shape alot around the neck to get a unique sound. 
+
+Trey also uses little '''slides''' like this to get some of his unique sound:
+<pre>
+A minor
+e|------------------------------
+b|---------10-------------------5
+g|--9/8/9--------or-------------
+d|-----------------------5/4/5--
+a|-----------------------------
+e|-----------------------------
+</pre>
+These may sound shitty but you get the point of the quick slides then up an arpeggio or to a higher note. Any 2 notes a 1/2 step away in a diatonic scale can work, or even anywhere else as long as the primary note is in the scale, and u can slide down to any chromatic.
+
+Of course, what I do a lot to adjust my style is listen to a lick over and over, learn how to play it, then figure out whats going on, doodle around and see what works, then add it to your bag of soloing tricks.
+
+'''Jamming''' is based on dynamics, and its what Phish does best. Quieting down and playing low on the neck is great, and you can slowly work up the neck til your guitar is screaming. Playing bends is good. Tension and release is a great concept used by phish alot, which is were the enrgy really picks up. Playing the wrong notes at the right times is better than anything else you can learn about tension. Simply taking a chord and moving it up by a fret at a time quickly right before a chord changes or the drums are filling causes that great build up feeling and sets up for the release.
+ 
+'''Double stops''' are great here, too, cause they are just the a note from the E and G strings, with the B string muted, and follow the I ii iii IV.... pattern.
+In G ( I like to do this, and trey does it everytime he plays these, is the little slide.
+ <pre>
+E------3-----5------7-----8-------
+B---------------------------------
+G----3/4---4/5----6/7---8/9---....
+D---------------------------------
+A---------------------------------
+E---------------------------------
+       G  Amin    Bmin    C
+       I    ii    iii     IV
+ </pre>
+Sorry, didnt feel like writing whole thing out. But u get the picture. Bar chord versions of the I ii iii IV...
+Then take the E string note and the G string note. Good for bluegrass or major jams, but gets tricky in blues, still havent nailed that.
+
+Lastly is '''arpeggios''', which in combination with the last technique gets that little catch and pulls you in. Once you learn arpeggios like the back of your hand, you learn to play them anywhere and hit the notes that are unique to a chord in a pregression. Many wonder How the hell do you solo to ACDC BAG!?!?!?! The key is playing the changes. The chords are
+A C D C F A G. Trey uses a minor pent or diatonic scale as a base, then uses arpeggios to create a sound that highlights each chord. In an article in GuitarWorld he talked about it, and said you should be able to tell what the chords are without any accompliament. Land on "Guide notes" for blues or use the 9ths, 11ths, and 14ths in a scale. Try playing acdc bag but hitting the 3rds to highlight the chord changes. Solo using the notes in the chords and notice how it sounds. Using static scales over whole progressions, but then using arpeggios or the notes from a chord inside of it will make it sound nice and intresting. Knowing many versions of chords and arpeggios will take you a long way. Look at the tab for You Enjoy Myself, those are all arpeggios and you could probably find a few from there by just looking at the notes and what chord they are played over, then finding which note is the root. Then you can move those around. But there are tons of different arpeggios positions for every chord type. There hard to learn, and even harder to utilize. I've been using them since the summer, and the only help they are is to help you think more across the neck than up and down when soloing. The other way is to sit down, write a chord progression or something, then find the arpeggios for each chord and pick a few to play over each chord to come up with something like YEM. The point of them is to accent the notes that stick out in a chord, the root, 3rd, 5th, and 7th, sometimes 9th or 11th, but mostly not. I really don't know much else about arpeggios other than there good to sit down with and arpeggate chord progression to make them really cool, and throwing them in here or there for soloing/jamming. Trey said in Guitar World "If you don't know anything else, you can always just play arpeggios." Instead playing chords when you have multiple guitars, you can arpeggiate and sound different.
+
+Hope this helps, it's mostly everything I've learned through hours of playing, listening, and watching. You can figure anything out yourself if you want to, thats how i learned everything ive just said: by myself. Listen to the trey lecture from Nation Guitar Workshop for concepts of tension and release. Thanks to Dennis McCumber who teaches the jamband class at NGW now. Any questions or if you live in NJ and want to jam, email me at Markj806@gmail.com
+Remember always to play from your heart and soul, don't fall into the stolen riff trap that so many SRV and Jimi copiers do. A single note by Santana has more talent than 1000 in the same time from Steve Vai. And your never gonna sound just like Trey, so don't try, try to sound like yourself with flavors from all your favorite guitarists.
+
+Mark Johnson
+
+
+== Jam Section? ==
+
+Hey you might want to make a seperate section for Jam tips, cause mine is already really long, and I'm sure other people have other stuff to add, we could make one section for everyone to look at. Just runnin it by you emil
+-WilsonTwin
+
+== Tips? ==
+
+Why don't you put the tips on [[User:WilsonTwin|your user page]] for now?  That'll give you room to spread out; this is not really the best place to put stuff like that.  If we accumulate enough tips, we'll make a page for it.
+
+== RSS? ==
+
+The RSS feed for the "'''Recent Changes'''" page doesn't seem to be working, or at least not for me.  I copied the RSS link and it couldn't find the page.  I want to link that page to my Google homepage so I can see updates right away.
+
+== RSS Bug fixed ==
+
+Should be working now...
+
+== Golgi Ending ==
+
+The Golgi tab does not have the end lick Trey plays. Anyone know it?
+
+ It goes like this, though I still can't play it as smoothly as Trey:
+
+
+<pre>
+                           tremolo strum
+ E--------------------------------------|
+ B-6---------------6--------------9--2--|
+ G---5^(6)--5---3----5^(6)-p3-----9--2--|
+ D--------5---5---------------5---9--2--|
+ A--------------------------------7--0--|
+ E--------------------------------------|
+
+</pre>
+
+== External URLs ==
+
+The only way I can effectively combat the recent spam attacks, which are beyond annoying, is to prohibit any edits containing an external URL.  If making changes to an existing file that has a URL embedded in it, the edits may not go through.  If this is a problem, please contact me.
+
+== Cars Trucks Buses? ==
+
+Anyone have a tab for Cars Trucks Buses for guitar? I know the melody line is mostly Page on Keys, but I still think it would be fun to play around with on guitar.
+
+
+It's in the Billy Breath tab book, i know for sure. When i get a chance ill tab it out up here.

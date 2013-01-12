@@ -1,0 +1,282 @@
+[[Category: Studio Release]]
+<pre>
+From: Jonah.David.Seiger@um.cc.umich.edu
+From: Eric Berman (ericbe@microsoft.com)
+
+
+Hello everyone, I was bored yesterday afternoon, so I decided to
+transcribe the music to Golgi.  I am pretty sure that this is correct,
+but if you find a  mistake or know a better way to play this, please let
+me know.  Also, I have given the  chord formations for those of you how
+may not  know how to fret some of these notes. Golgi Apparatus: music
+notation for guitar w/lyrics from the "lyrics file" (chords are placed
+over lyrics for emphasis, but the rhythm is obviously much more complex)
+
+->Opening Chord
+From: William (wfort91481@hotmail.com)
+
+The opening chord to the song has a higher note in it played by the piano. It's close to the same chord played by the guitar, but an octave up.
+This is the piano chord arranged for guitar.
+
+E---18----
+B---19----
+G---19----
+D---20----
+A---------
+E---------
+
+
+
+F#+    G                               G                  G
+    I look into the finance box just to check my status,
+       no chord    
+        (status)
+     
+E------------------------|
+B------------------------|
+G---5-7-5---3-4----------|
+D---------5-----5-3------|
+A------------------------|
+E----By: William Fort----|
+
+-> Trey plays the above lick when they sing, (status)
+
+
+         G                  G            G                  G
+I look into the microscope, See a Golgi Apparatus
+G7#9 -> F#7#9 -> F7#9 -> E7#9 (SEE BELOW FOR CHORD FORMATIONS)
+
+  Eb    F        Bb
+Golgi, oh, woe is me
+
+    Eb     F            Bb
+You can't even see the sea
+
+Eb      F             Bb
+Golgi, olgi, ho ooo olgi
+Golgi
+ C9 -> C#9 -> D9
+
+    G                       G       G      G               G
+They call him lysasome 'Cause he runs so fast
+
+                                      E--------------------------------------------4---4-8--|
+                                      B--------------------------------3---3-6p3h6---6------|
+                                      G--------------------------4---4---4------------------|
+                                      D--------------3---3-6p3h6---6------------------------|
+                                      A--------5---5---5-------------------------------------|
+                                      E--6p3h6---6------------By: Ryan Laughlin----------------|
+                        
+           
+                                      E------10-----------------10--10---------------10--8----|
+                                      B----------12------10--12--------12-----10--12----------|
+Piano run over the                    G--------------10--------------------10-----------------|
+above riff arranged  ->               D-------------------------------------------------------|
+for guitar                            A-------------------------------------------------------|
+                                      E---------------------By: William Fort------------------|
+
+-> Listen to the timing of the notes over the guitar riff. Trey plays about 3 notes to every note Page hits. 
+    
+
+C
+Runs like a junkyard dog with a brain of brass
+
+G7#9 -> F#7#9 -> F7#9 -> E7#9 (SEE BELOW FOR CHORD FORMATIONS)
+
+  Eb    F        Bb
+Golgi, oh, woe is me
+
+    Eb     F            Bb
+You can't even see the sea
+
+Eb      F             Bb
+Golgi, olgi, ho ooo olgi
+Golgi
+ C9 -> C#9 -> D9
+
+CHORUS:*
+G             
+I saw you...
+                                                       (x3)
+C                                G
+With a ticket stub in your hand
+
+G        G
+I saw you....
+
+       F--->----->---------->------------>-------  (pedal on E string)
+Under the light, middle of the night, couldn't get it wrong...
+
+(REPEAT CHORUS)
+
+So I had to..... (and into Trey's most excellent solo.... tablature follow)
+
+Chord Forms:
+(intro)  (See a Golgi Appa...) (Golgi woe) (before chorus)
+  F#+    G7#9  F#7#9  F7#9 E7#9    Eb  F  Bb   C9   C#9  D9
+E--x-------x----x------x----x-------x--x---x---3----4----5
+B--7-------11---10-----9----8-------4--6---3---3----4----5
+G--7-------10---9------8----7-------3--5---3---3----4----5
+D--8-------9----8------7----6-------1--3---3---2----3----4
+A--9-------10---9------8----7-------x--x---x---3----4----5
+E--x-------x----x------x----x-------3--5---3--------------
+
+
+
+Golgi Solo
+From: Jonah.Seiger@um.cc.umich.edu
+From: mdbruce@leland.Stanford.EDU (Michael David Bruce)
+
+---> A few things for those who are not totally familiar with guitar
+tablature notation: Tablature cannot convey precise information about
+timing and the duration of notes. Nor does it help you to understand
+harmonic structure.  BUT, it is very helpful for those like me who are
+not totally comfortable reading and writing in music notation.
+
+I hope that you can at least get the drift of Trey's brilliant piece of
+guitar playing from the notation below.  I suggest you listen to the
+song while reading/playing this for the first time. Pretty soon you'll
+get it
+
+The first thing that you *should* know about the golgi solo part is that
+it is *not* in a straight (i.e multiple of 4) time signature--count it
+out!!
+
+There are 15 beats per phrase (where you would expect 16).  It doesn't
+matter how you do it, but I find three 4/4 measures and one 3/4 measure
+convienient.
+
+For the 1st part of the solo (starting @ 1:25), play:
+
+Beats:(* = downbeat)
+    * ^  ^ ^ *  ^ ^ ^ *   ^ ^ ^ * ^ ^
+E|--------------------------------------|
+B|--3--3-4-6-66-4-3---1-4b6-4-3--4--6-4-|
+G|--3--3-3-3-33-3-3---1-----------------|
+D|--3--3-5-3-33-5-3---1---------3--3--5-|
+A|--------------------------------------|
+E|--------------------------------------|
+                               ^^^^
+This little thingy is *very* important, IMHO.  Trey does it quite a bit
+in his playing. i.e. rather than just playing two notes consecutively,
+he sticks another note in there (cf. The divided sky slow part).
+They're not always that easy to hear, but without them, the music loses
+its feel, it's color--everything.  This is what makes it interesting.
+
+
+The second half of the solo is the same thing with everything jacked up
+2 frets (i.e. now in the key of C rather than Bb).
+
+Above is for 4 repetitions, then go up two frets:
+    * ^  ^ ^ *  ^ ^ ^ *   ^ ^ ^ * ^ ^
+E|---------------------------------------|
+B|--5--5-6-8-88-6-5---3-6b8-6-5---6--8-6-|
+G|--5--5-5-5-55-5-5---3------------------|
+D|--5--5-7-5-55-7-5---3---------5---5--7-|
+A|---------------------------------------|
+E|---------------------------------------|
+
+Above repeats 3 times, and the fourth is played differently:
+E|------------------------------------------|
+B|--5--5-6-8-88-6-5--->>8-6-4-6-8-9-11>>>13-|
+G|--5--5-5-5-55-5-5---3---------------------|
+D|--5--5-7-5-55-7-5---3----------------5--7-|
+A|------------------------------------------|
+E|------------------------------------------|
+
+NOTE: numbers directly above one another (like 5/5/5 above) are played
+at the SAME TIME;  numbers that are not directly above one another (like
+B/5...G/7 above) are played in succession.
+
+
+AND THIS LEADS INTO THE SOLO....
+
+E|-------------------------------------------------------------------|
+B|-13-11->>9-9--11>>13-11-9-8-8-8^^9-11-9----------------------------|
+G|-------------8------------------------------11-8--11-10-9-8---10-13|
+D|-------------------------------------------------9---------9-11----|
+A|-------------------------------------------------------------------|
+E|-------------------------------------------------------------------|
+
+E|---------------------------------------------------------------|
+B|-11-9>>7-7--9>>11-9-7-6-6-6^^7-9-7-----------------------------|
+G|-----------6-------------------------9-6--9-8-7-6---8---11>>>--|
+D|-----------------------------------------7-------7-9-----------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+E|----------------------------------------------------------------|
+B|-9-7>>5-5--7>>9-7-5>4-4-4^^5-7-5--------------------------------|
+G|----------4-----------------------7-4--7-6-5-4-----6-9>>>-------|
+D|--------------------------------------5--------5-7--------------|
+A|----------------------------------------------------------------|
+E|----------------------------------------------------------------|
+
+E|---------------------------------------------------------------|
+B|-7-5>>3-3--5>>7-5-3>2-2-2^^3-5-3-------------------------------|
+G|----------2----------------------5-2--5-4-3-2-----4-7>---------|
+D|-------------------------------------3--------3--5-------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+*Trey often plays the solo in this alternate pattern
+
+E|-------------------------------------------------------------------------------------------------|
+B|---13-11------11b13r11---------------------------------------------------------------------------|
+G|---------13------------13-12--12-12-12-12h13-15-13-----------------------------------------------|
+D|-----------13--------------------------------------16-13----16----15---14----13-----------15-18--|
+A|---------------------------------------------------------14----14---14----14----14--14/16--------|
+E|-------------------------------------------------------------------------------------------------|
+                                                              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                                                               this part played very quickly
+And then back to:
+    * ^  ^ ^ *  ^ ^ ^ *   ^ ^ ^ * ^ ^
+E|------------------------------------|
+B|--5--5-6-8-88-6-5---3->>8-6-5-6-8-6-|
+G|--5--5-5-5-55-5-5---3---------------|
+D|--5--5-7-5-55-7-5---3----------5--7-|
+A|------------------------------------|
+E|------------------------------------|
+
+Four times through. After the solo (which I won't repost), you go back
+to that main riff above (here again, it's two frets up--in C) and then
+suddenly, you chop it off right after the end of measure three and play:
+
+A ^ ^ ^ A ^ ^ ^ Asus4 ^ ^ ^ Asus4 ^ ^ ^
+
+over and over again, until it feels just right.  And of course, if
+you're phish, you change your volumes, lie down, jump up and down, play
+ditties over that and so on.  Then for that fantastic glorious build,
+you play
+
+F ^ Eb ^ D ^ Eb ^ F ^ Eb ^ D ^ Eb ^ F ^ G ^ A ^ Bb ^ C ^ C# ^ D!!!!!!!!
+
+And back to the chorus.  All of these are played with the D-shaped chord
+and  then slid up and down the fretboard starting at fret 5.  Play
+around with it.  Of course, I have seen Trey use the A-shaped chord as a
+substitute for the first coupla bars.  Depends on what you've been doing
+just prior to that.  The beauty is that with improvisational music,
+nothing is set in stone.
+
+Ending lick:
+
+tremolo strum
+ E--------------------------------------|
+ B-6---------------6--------------9--2--|
+ G---5^(6)--5---3----5^(6)-p3-----9--2---|
+ D--------5---5---------------5---9--2--|
+ A--------------------------------7--0--|
+ E---------------------------------------|
+
+
+NOTES: 1)  I have done my best to show the timing of the notes, but the
+rhythm is difficult to convey in tablature.  You're going to have to
+listen to the song to get the time.
+
+2)  A ">" or a ">>" means that the previous note "slides" up to the
+next... A " ^^ " means that the note is "hammered"
+
+3)  The numbers correspond to the FRET on which that particular STRING
+is played
+
+</pre>

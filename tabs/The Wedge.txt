@@ -1,0 +1,118 @@
+[[Category: Studio Release]]<pre>From: David Douglas McCallum  <netmail!kcjonz@wam.umd.edu>
+The Wedge [Music - Trey Anastasio, Lyrics - Tom Marshall]
+
+Main riff
+ A
+E|----------------|------------------------|
+B|----------------|------------------------|
+G|--2---2-2---2---|2-2-0-0---0-------------|
+D|----------------|------------4-4-4-3-3-2-|
+A|0---------0---0-|------------------------|
+E|----------------|------------------------|
+
+Fill riff 1                  Fill riff 2
+                                  H-O       H-O
+E|------------------|        E|--------------------|
+B|------------------|        B|7---5-----7---5-----|
+G|--2---2-0-0-0-----|        G|7---5-6---7---5-6---|
+D|--------------4-2-|        D|7---5-----7---5-----|
+A|0-----------------|        A|--------------------|
+E|------------------|        E|--------------------|
+
+---------
+[fade in drums]
+[Main riff - 4x, verse 1
+
+A                      G
+ We're bobbing on the surface
+         D               A
+ And the shadow glides below
+                           
+ They say she feels my heartbeat
+G         D                   A
+ Oh, but how, I'll never know
+
+[repeat verse]
+
+G               D             A
+ That it's the ocean flowing in our veins
+G                   D                  A
+ Oh, that it's the salt that's in our tears
+G               D                  A
+ Oh, 'cause we could have come so very far
+G           D             E
+ Oh, in at least as many years
+        D                   C       A   [fill riff 1, 2x]
+Take the highway through the great divide
+        D                   C       E
+Take the highway through the great divide
+
+A                    G
+ I'm building you a pyramid
+      D                   A
+ With limestone blocks so large
+
+ I drag them from the mountaintop
+G                  D
+ You'll need a, a two-car garage
+
+[repeat verse]
+
+G              D             A           [fill riff 2]
+ And it's the ocean flowing in our veins
+G                     D                  A    [fill riff 2]
+ Oh, 'cause it's the salt that's in our tears
+G               D                  A       [fill riff 2]
+ Oh, 'cause we could have come so very far
+G           D             E
+ Oh, in at least as many years
+        D                   C       A   [fill riff 2, 2x]
+Take the highway through the great divide
+        D                   C       E   [begin solo on E chord]
+Take the highway through the great divide
+
+                 .   .  [chords with a "." played stacatto]
+D A E D A B A E B A E E
+
+A                 E             B
+ 'cause it's the ocean flowing in our veins
+A                     E                  B
+ Oh, 'cause it's the salt that's in our tears
+A               E                  B
+ Oh, 'cause we could have come so very far
+A           E             F#
+ Oh, in at least as many years
+
+|:         E                   D       B
+ Take the highway through the great divide
+          E                   D       F#  :| [Repeat to fade]
+ Take the highway through the great divide
+
+
+
+E|--16-------12----9-----------|---12p10----12p10---10-9----------------------|
+B|-----------------------------|--------------------------------10------------|
+G|-----------------------------|-------------------------------------9--------|
+D|-----------------------------|----------------------------------------11----|
+A|-----------------------------|----------------------------------------------|
+E|-----------------------------|----------------------------------------------|
+
+
+E|------------------------|
+B|------------------------|
+G|--------------9---9~~---|
+D|--9h11------------------|
+A|---------11-------------|
+E|------------------------|
+
+
+
+E|-------------------------|--9---9-------9b(10)--|--12p11/12---16---16---14---19--|
+B|----10h12-----------10---|-----------12---------|--------------------------------|
+G|--9---------11-11------9-|----------------------|--------------------------------|
+D|-------------------------|----------------------|--------------------------------|
+A|-------------------------|----------------------|--------------------------------|
+E|-------------------------|----------------------|--------------------------------|
+
+
+</pre>

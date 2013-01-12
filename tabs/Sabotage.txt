@@ -1,0 +1,182 @@
+[[Category: Covers]]
+<pre>
+originially by The Beastie Boys
+covered on Hampton Comes Alive.
+Version-distinguishing notation included.
+
+Main theme - heavy distortion; I recommend turbo overdrive or better
+   Ab
+e|----------|---------|------|
+B|-Strum:---|---------|------|
+G|--^---^-v-|-^---v-^-|-^-v--|
+D|--4h6-6-6-|-4h6-6-6-|-4h6--|
+A|--4h6-6-6-|-4h6-6-6-|-4h6--|
+E|--4---4-4-|-4-4-4-4-|-4-4--|
++  1 2 3 4 + 1 2 3 4 + 1 2  +
+
+   What is this time signature?
+   It's very definitive, but I don't know what it is.
+NOTE: This is the rhythm I get when I play along. Who knows if it
+is correct; it requires practice, but sounds good once you get it.
+   Repeat MANY MANY times. There are variations, but they are random.
+
+Other parts
+
+Little scale lick - I'll try and note all the places it goes;
+it's used a lot w/changes.
+   Ab
+e|----------------------|
+B|----------------------|
+G|------------4---------|
+D|---------4-6----------|
+A|------4-6-------------|
+E|---4-6----------------|
+             ^ tiny little vibrato. too much sounds way off!
+Back into main theme
+
+
+Unison Bend part
+Beastie Boys:
+    B     D     D
+e|---9-----12----12-----|
+B|--12b14--15b17-15b17--|
+G|----------------------| 4x
+D|----------------------|
+A|----------------------|
+E|----------------------|
+
+Phish:
+    B     D     E
+e|---9-----12----14-----|
+B|--12b14--15b17-17b19--|
+G|----------------------| 4x
+D|----------------------|
+A|----------------------|
+E|----------------------|
+
+
+End-of-Jam part
+Beastie Boys
+e|----------------------|
+B|----------------------|
+G|----------------------|
+D|----------------------|
+A|----------------------|
+E|---4}}}}}}}}}}}}}}}}--|
+w/ wah       ^ moves back to main theme w/ variations
+
+Phish
+
+ sustain/delay/whammy/feedback trick like Creature or Harry Hood intro
+(ALO)
+e|-------------------------------|
+B|-------------------------------|
+G|-------------------------------|
+D|-------------------------------|
+A|-------------------------------|
+E|--12>>>>>15(?)<<<<<<<0}}}}}}}--|
+                             ^ moves back to main theme w/ variations
+
+And now, bass, I think. I only read this somewhere; I don't play bass,
+so I can't vouch for correctness. In the Beastie Boys version, this might be
+the
+harsh "dun-nuh-nuh-nuhnt" stabbing-thing way in the background. I don't
+know. I could
+have it backwards and that is guitar and this whole file is overextended
+bass tab.
+Corrections welcome!
+
+ Picked fast ("1-2-1-2-(3)")
+   Ab
+G|--x--x-----|
+D|--x--x-----|
+A|--11-(11)--|
+E|--x--x-----|
+   1  2
+
+
+2nd bass track (Page) plays a descending scale with the drums during chorus.
+goes something like this... I just made it up.
+
+G|---12-11------------|
+D|--------10-9--------|
+A|------------8-7-----|
+E|---------------6-5--|
+
+ Here are the lyrics.
+
+(Main theme>
+(Little scale lick>
+Verse 1: (And belt it!) (main theme throughout>
+
+Aw, I can't stand it!
+I know you planned it!
+I'm 'a' set it straight,
+This Watergate!
+Can't stand rockin' when I'm in here,
+'Cause your crystal ball ain't so crystal clear!
+So while you sit back and wonder why
+I got this fuckin' thorn in my side...
+Oh my God, it's a mirage!
+I'm tellin' all o' y'all
+It's SABOTAGE!
+
+(Beastie Boys version: throw in scratch effects here; you can do it on a
+keyboard if you don't have a DJ, or just jam instead like Phish...
+crazy Moog a definite plus! Band stays the same in BBoys version.>
+(Little scale lick>
+
+Verse 2(?):
+
+So-so-so listen up, 'cause you can't say nothin'!
+You'll shut me down with a push of your button,
+But I'm out, and I'm gone!
+I'll tell you now I'll keep it on and on!
+(Unison Bend part)
+
+Verse 3(?):
+
+'Cause what you see you might not get,
+And we can bet,
+So don't you get souped yet!
+You're schemin' on a thing that's a mirage!
+I'm 'a' tell you now it's SABOTAGE!
+
+(scratch jam 2)
+(fade into End of Jam lick)
+(main theme for a few measures)
+(little scale lick)
+
+Chorus:
+
+(not in Phish version down to "listen... sabotage!"; Unison Bend part for
+Phish)
+(band plays) (Scratch effects)
+Ohhhhhhhh (note descends)
+(yeeeeeah....)(note rises)
+(little scale lick)
+(Our backs are up agai-ainst the wa-all...)
+Listen all o' y'all, this is sabotage,
+Listen all o' y'all, this is sabotage,
+Listen all o' y'all, this is sabotage,
+LISTEN ALL O' Y'ALL, THIS IS SABOTAGE! (or is that "it's a sabotage"? I
+dunno.)
+(little scale lick)
+
+Verse 4(?):
+
+Aw, I can't stand it!
+I know you planned it!
+I'm 'a' set it straight,
+This Watergate!
+I can't stand rockin' when I'm in this place,
+'Cause I feel disgraced,
+'Cause you're all in my face!
+Well, make no mistakes and you switch up my channel,
+I'm Buddy Rich when I fly off the handle!
+What could it be, it's a mirage! (that's what's said, actual lyric debated)
+You're schemin' on a thing: IT'S SABOTAGE!
+
+(mini-scratch jam) (End of Jam lick (fades down to E harmonic (?) on BBoys))
+End.
+</pre>

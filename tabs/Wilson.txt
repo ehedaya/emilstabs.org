@@ -1,0 +1,174 @@
+[[Category: Unreleased]] [[Category: Loop]]
+<pre>
+     Greetings,
+   
+    Here are some additions to Wilson.  This is actually a really cool tune
+    with a couple key changes.  I tried to get the chords to match the lyrics
+    but listen to the song for better timing.
+   
+   
+    E-E                E-E
+       Wilson             Wilson
+   
+    E-E                E-E
+       Wilson             Wilson
+   
+    E            C                A               E
+    Oh out near  Stonehenge,      I lived alone
+   
+    E           C                 A               E
+    Oh out near Gamehenge,        I chafed a bone
+   
+    A            D                E               E
+    Wilson,      King of Prussia  I lay this hate on you
+   
+    A            D                E (hold and feedback)
+    Wilson,      Duke of Lizards, I beg it all trune for you
+   
+    Repeat the above for second verse
+   
+    Second Verse
+   
+    Talk my Duke a mountain, Helping Friendly Book
+    Inasfar as fiefdom, I think you bad crook
+    Wilson, king of Prussia, I lay this hate on you
+    Wilson, Duke of Lizards, I beg it all trune for you
+   
+   
+    Solo 1 (chords under the solo)
+   
+    B           G               D (A?)           E
+   
+   
+    B           G               D (A?)           E
+   
+   
+    "Reggae" Chording Break
+   
+   
+    F#m          D               E  (Trey does a three note, double octave      
+                                     walk-up after this chord on G#,A,A#)
+   
+    F#m          D              
+   
+   
+    Solo 2
+   
+    A           F               D                A
+   
+   
+    A           F               D
+   
+   
+    "Reggae" Chording Break
+   
+    Em          C               D  (Trey does a three note, double octave      
+                                    walk-up after this chord on F#,G,G#)
+   
+   
+    Em          C                
+   
+   
+    Solo 3
+   
+    F           Ab              Bb
+   
+   
+    F           Ab              Bb
+   
+   
+    F           Ab              Bb
+   
+   
+    C           D    D#  (The timing of this varies depending on the version
+                          listen to the song a couple times and play it how
+                          it sounds best to you
+   
+    E-E                E-E
+       Wilson             Wilson
+   
+   
+    E-E                E-E
+       Wilson             Wilson
+   
+   
+    E                  C               A              E
+    I talked to Mike Christian,        Rog and Pete the same
+   
+    E               C         A              E
+    When we had that meeting, over down near Game  (Hendge)
+   
+    A            D                E          E
+    Wilson,      King of Prussia, I lay this hate on you
+   
+    A            D                E (hold and feedback)
+    Wilson,      Duke of Lizards, I beg it all trune for you
+   
+   
+    Heavy Metal Strumming
+   
+    E            C               A               E
+   
+   
+    E            C               A (hold and feed back)
+   
+   
+    E               C        A                   E          
+    You got me back thinkin' that your the worst one
+   
+   
+    E                       G                  A
+    I must inquire, Wilson, can you still have fun
+   
+    E                       G                  A
+    Oh Wilson,              can you still have fun
+   
+    Repeat a couple time then hold and feedback the A, and use a spacey
+    or "swirling" effect.  Trey often uses his Digitech Whammy pedal in
+    conjunction with tremolo or univibe.
+   
+    Blap! Boom ....... (I still don't know what Trey says here :)
+   
+    Solo 4 and Outro
+   
+    E            C               A               E
+   
+    The above repeats however many times you want to keep the jam going
+    then ends with:
+   
+   
+    E            C               A (hold and feedback)              
+   
+   
+    The most parts of the solos can be figured out by using the first
+    position of the minor Pentatonic scale the key of the chords the
+    passages start in:
+   
+    Solo 1:  First Position Bm Pentatonic (7th fret)
+    Solo 2:  First Position Am Pentatonic (5th fret)
+    Solo 3:  First Position Fm Pentatonic (1st fret)
+    Solo 4:  First Position Em Pentatonic (12th fret)
+   
+    1st Position B Minor Pentatonic
+   
+    fret    E   A   D   G   B   E
+            |   |   |   |   |   |
+            ----------------------
+   
+       7th  1   1   1   1   1   1
+            ----------------------
+   
+            |   |   |   |   |   |
+            ----------------------
+   
+       9th  |   3   3   3   |   |
+            ----------------------
+   
+            4   |   |   |   4   4
+            ----------------------
+   
+
+</pre>
+== Loops ==
+Sampled:
+<gflash>100 40 /vb5/phish/wilson.swf</gflash>

@@ -1,0 +1,184 @@
+[[Category: Studio Release]]<pre>
+from Chuck Newsome <chaz429@idt.net>
+from Brian Healey <bhealey@zoo.uvm.edu>
+
+
+Magilla is a "rhythm changes" tune.  Stay tuned for details on this
+specific jazz form.
+
+The form is: A A B A, and there are 32 bars.
+
+The A sections are eight bars each, and contain four 2-bar phrases, each
+bar containing two chords.  In the first A section, the first two
+2-bar-phrases are I-vi-ii-V, the third is a walking bluesy idea
+(I-iii-IV-#iv«), and the fourth is another I-vi-ii-V. The second A
+section has a slightly different final 2-bar phrase, as it ends with
+just ii-V-I, resolving, and setting up the bridge.
+
+
+The B section (or bridge) is eight bars in length, and begins on the
+dominant seventh chord formed over the major third of the key of the
+song.  This section, like the A section, is broken into four
+2-bar-phrases, although, UNlike the A section, during the 2-bar
+duration, the same chord is played twice.  The pattern follows the
+circle of fifths using dominant seventh chords until the tonic is
+reached again, bringing you to the final A section (III7-VI7-II7-V7).
+
+Magilla is in Bb, much like most other rhythm changes standards.  Thus,
+the chords are:
+
+
+Main Theme:
+The Easy way:
+{BbMaj.7  Gm7} {Cm7  F7} {BbMaj.7  Gm7} {Cm7  F7}
+{BbMaj.7  Gm7} {Cm7  F7} {BbMaj.7  Gm7} {Cm7  F7}  then repeat
+
+Bridge:
+{ D7 } { D7 } { G7 } { G7 } { C7 } { C7} { F7 } { F7 }
+
+
+The Hard "Jeffery Goldberg" way (advanced users only, please):
+||: Bb6  Gm7 | Cm7  F7 | Bb  Gm7 | Cm7  F7 |
+| Bb  Dm | E  F« |  1: Bb  Gm7 | Cm7  F  :||
+|  2: Cm7  F7 | Bb |
+
+| D7 | % | G7 | % | C7 | % | F7 | % |
+
+| Bb6  Gm7 | Cm7  F7 | Bb  Gm7 | Cm7  F7 |
+| Bb  Dm | E  F« |  1: Bb  Gm7 | Cm7  F |
+|  2: Cm7  F7 | Bb ||
+
+  Bb7
+
+E:----6--5/6--------------------------------------------------
+B:------------6---9/8/9-----7--6h7p6------6-------------------
+G:-----------------------8------------9------7------------6---
+D:-8---------------------------------------------8p5----------
+A:-----------------------------------------------------8------
+E:------------------------------------------------------------
+          
+E-----------------------------------------------------------
+B-----------------------------------------------------------
+G----6/5----------------------------------------------------
+D------------7--8-------------------------------------------
+A-8-------8-------------------------------------------------
+E-----------------------------------------------------------
+
+
+I'll try and figure out some of the chords for the rest of the song,
+but I think it's pretty much improv.  They usually do some ii-V7-I
+stuff through some key changes.
+
+Listen to the Alpine show from '98 for an amazing Trey chord solo.
+</pre>
+
+== Jazz Transcription ==
+
+<pre>
+trascribed by mario ferro <Piper59702@aol.com>
+(with much much much much help from his music teacher, the great Bob Grebb)
+
+this is just a skeleton of the song, but i wanted to get what i had
+posted rather than putting it off until i had more done, because it might
+never get done, and then i might never post it. so heres what i got and i hope
+you can make something of it.
+good luck.
+
+
+here's the main chord progression for magilla.
+we're of the key of Bb
+
+
+
+                                  (iii)
+  I     vi    ii    V     I     vi    ii    V
+  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /
+
+
+
+  I     I7    IV    iv    iii vi ii V  I
+  /  /  /  /  /  /  /  /  /   /  /  /  /  /  /  /
+
+
+
+  III7        VI7         II7         V7
+  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /
+
+
+
+                                  (iii)
+  I     vi    ii    V     I     vi    ii    V
+  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /  /
+
+ 
+
+  I     I7    IV    iv    iii vi ii V  I
+  /  /  /  /  /  /  /  /  /   /  /  /  /  /  /  /  
+
+
+I:repeat as needed:I
+
+
+the above shows the roman numerals of the chords being used in
+the key of Bb, and how many beats each chord gets.  This is
+repeated a few times, with thier solos in between.
+
+now as i said were in the key of Bb, so heres what each roman numeral
+stands for:
+
+I    Bbmaj7
+vi   Gmin7
+ii   Cmin7
+V    F7
+
+I    Bbmaj7
+I7   Bb7
+IV   Eb
+iv   Ebm
+iii  Dm7
+
+III7 D7
+VI7  G7
+II7  C7
+V7   F7
+
+
+above two if the I's the are iii's, which means that they could be
+substituting this chord in its place.
+
+from what i can tell, trey is just soloing in the key of Bb major. (i
+will try to later tab this out, later).
+
+
+for the most part this is all very basic jazz stuff, so if your able it
+learn this song, you'll be on your way to the world of jazz:
+
+-the I-vi-ii-V7 progression has been around since Bach, as is still used
+to death today.  phish uses it all the time, so once you get it down in
+one key, it'll be pretty easy to transpose it to others. the whole idea
+if this progression is based around the V to I chord progression(which
+is the corner stone of all music): the vi chord is the V of the ii
+chord, the ii chord is the V of the V chord; and well, the V chord is
+the V of the I chord. (and the I chord goes very nicely to the vi
+because they share two out of the three notes that make each
+up....(which is also why we can substitute the iii chord for the I,
+becasue these chords also share two out of the three notes that make
+them up....on the guitar play an open am and then play a C, see how
+closly related they are, thats going from vi to I))
+
+
+-the I-I7-IV-iv progression is used a lot also. one song that comes to
+mind right away is pink floyds 'nobodys home'.  IV-iv-I is a basic
+cadence used a lot. (its also used in radiohead's creep, the chords to
+the song are G-B-C-Cm. going from C-Cm-G is IV-iv-I.)
+
+-the III7 IV7 II7 V7, is the same as the i vi ii V7 except that all the
+chords are made dominant, so each chord constantly pulls to the next,
+also very common, and very usefull, the beatles did it all the time.
+(the iii chord is the V of the vi chord, so it naturally comes before
+the vi)
+
+
+well thats all i have right now, again i'm hoping to do more and get
+that up as soon as possible. thanks a lot for listening, hope this helps.
+</pre>

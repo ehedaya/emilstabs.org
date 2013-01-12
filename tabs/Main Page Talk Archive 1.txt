@@ -1,0 +1,217 @@
+== Greg's first post ==
+Hey, this is pretty cool.  So, Emil has changed the board from the old forum style to a "wiki," which means that it should be easier for all of us to use.  It looks to me like most of the old stuff is still here (aside from the forum aspect), so this should still be pretty cool.
+
+Now, who's got my heady new Trey tabs?
+
+-Greg
+
+== Some pages are locked ==
+
+Pages like indexes for the albums, for example, are locked.  I'm eager to see how this is going to pan out.  Hopefully it will be great!  --[[User:Admin|Emil]] 12:03, 5 Apr 2005 (EDT)
+
+this seems pretty cool, my only question is w/validating the accuracy of new additions. Like what if someone posts something that is obviously 'wrong'? is there a way to take care of that? Hopefully that shouldn't be to much of an issue though, most of the people lurking around these boards seem to be pretty knowledgable musicians.  overall it's a great idea, nice work emil
+
+-Matt
+
+== History of each page ==
+
+Each page has a 'history' tab, if something is obviously wrong, that's what the rollback feature is for.  Nothing gets overwritten, at any moment you can restore a prior version, especially if a new version is inaccurate or vandalized.  I actually did this earlier to the sandbox page. For example, go back to the [http://www.emilstabs.org/wiki/index.php?title=Talk:Main_Page&oldid=792 first version] of this exact page, and you can use the 'next' and 'previous' links to watch the evolution of this page.  --[[User:Admin|Emil]] 16:32, 5 Apr 2005 (EDT)
+
+== Adding Songs ==
+
+I've added a song - [[Love is Freedom]] - how do I go about getting it indexed?  The only public place I could add it to was [[Sandbox| The Sandbox]], which isn't really the best place to link from, as it's meant to be a free-for-all editing testarea.
+
+--[[User:Phnord|Phnord]] 22:42, 5 Apr 2005 (EDT)
+
+== Re: Adding songs ==
+
+Phnord, I've expanded the Help section to include this.  The [[Unreleased (Phish)]] and [[Covers (Phish)]] pages are both editable, the link should be placed on whichever is appropriate, then followed to insert the tab. The file should also have category tags so it will show up with similar files.
+
+As a side note, the toolbar above the text input area is rather useful for inserting tags like bold, italics, links, etc.  I made some changes to the file you added to keep it consistent, for example, it's unnecessary to include the name of the song, as it is at the top of the page being the name of the article.  Also, while HTML tags can be used, WIKI ones are preferred (for bold, etc.).  
+
+Lastly, whenever you add a 'talk' comment, it is a good idea to click on the 'signature' button (second from the right in the toolbar) so we know who said what ;)   --[[User:Admin|Emil]] 21:56, 5 Apr 2005 (EDT)
+
+== Signatures? ==
+
+Hey Emil, I just cleaned up the Roses are Free verses, but when I put the 'your signature with timestamp' icon it just shows up like this --[[User:Heyman|Heyman]] 22:08, 5 Apr 2005 (EDT).  Am i missing something?
+
+== When to use your signature ==
+
+While everyone wants to receive credit for their help, signatures are '''not''' appropriate within the body of an article whenever you make an edit.  If everyone signed their changes, the site would be flooded with signatures.  Your signature is for use on Talk pages only!  It showed up the way you describe because it was within the preformatted tags.  Wiki markup doesn't work, rightly, within this tag.
+
+Also, Heyman, rather than appending it to the end of the file, why not make the change throughout the file?  Let's try to keep these things compact, you know? If you have an ENTIRE alternate transcription, maybe it can get appended, but ideally, we want to have ONE document that represents the most accurate tab.  If the existing one is out of key, and you are sure of this, edit it so it is right!  --[[User:Admin|Emil]] 22:10, 5 Apr 2005 (EDT)
+
+== D'oh ==
+
+Ha Ha, I guess it looks different in the preview mode, I see now.--[[User:Heyman|Heyman]] 22:10, 5 Apr 2005 (EDT)
+
+== Tab ==
+
+Ok, I wasn't really sure if I was supposed to change the original or not.  I'll fix it here in a minute--[[User:Heyman|Heyman]] 22:12, 5 Apr 2005 (EDT)
+
+== Learning ==
+
+Just want to remind you all that this is part of the learning process.  Getting all the rules and guidelines down is important, as the more people are aware of them (and on the same page with respect to them), the larger our "staff" grows for keeping things in line.  You are all learning the skills to be moderators, in a sense, if you choose to be very involved, in that you can help teach new users on the "rights and wrongs" of how to use this site.  --[[User:Admin|Emil]] 22:18, 5 Apr 2005 (EDT)
+
+== Re: Re: Adding Songs ==
+
+What I've tabbed out falls into neither category - as I mentioned, it's Trey material, specifically [[Love is Freedom]] from the 70 Volt Parade show.  Where should I put that?
+
+EDIT: I've also added a category - since it's not really applicable to any thus-listed, I've put <nowiki>[[Category: 70 volt Parade]]</nowiki>
+
+EDIT AGAIN: Nevermind, I found that the Unreleased Trey category was modifiable, so I added it there.  There was no Trey-specific unreleased category (or any trey-specific category for that matter), so I added it to the general Unreleased.  I also edited the Trey unreleased page to contain a seperate section for 70 volt parade specific material
+
+--[[User:Phnord|Phnord]] 22:45, 5 Apr 2005 (EDT)
+
+== Lessons/Help ==
+
+I know there were a few people I was helping with some theory stuff. If you have questions you need answered along those lines in the future, head on over to therhombus.com. There are people over there much more knowledgeable than me anyway.
+
+== Ugh, Phnord ==
+
+I don't know who 70 volt parade is, or why you are going through and recategorizing pages that have already been categorized, but it is not helping.  Please keep the categories as they were, and new bands do not get to have their tablature on this page.  If it's Trey's song, but it under Trey... don't make a new category for a SHOW he played a song at.  --[[User:Admin|Emil]] 23:14, 5 Apr 2005 (EDT)
+
+== Reverts ==
+
+Emil, why do you keep reverting all of the category changes I try to make?  Alot of the Trey material has no category label - I'm just trying to give the album material appropriate title of Studio Release (some was labeled as such already, and some wasn't).  I also was trying to establish a category "Trey" to add all trey material to as well - therefore, say Alive Again would be in two cagetories: Trey and Studio Release.  However, every time I make a change like this, you revert it about a minute later - I'm not sure if it's automated or what, but it says that it's you in the Recent Changes log.
+
+--[[User:Phnord|Phnord]] 23:17, 5 Apr 2005 (EDT)
+
+== 70 Volt Parade ==
+
+70 Volt Parade is tha name of Trey's new project, which debuted last Friday.  As soon as I realized that you had the general live category open, I got rid of the 70 volt parade category.
+
+--[[User:Phnord|Phnord]] 23:16, 5 Apr 2005 (EDT)
+
+== Categories and Bands ==
+
+Again, not sure what 70 volt parade is but songs are not categorized by SHOW here... if it's a trey song, add it to the trey list. if it's a new band that trey is in, email me and i'll add a page for that band.
+
+as far as the categories go, sorry, those are fine, i didn't mean to revert those, but "Trey" is not an existing category, so please stop labeling songs with it!!!
+
+== 70 Volt Parade ==
+
+OK, project meaning .. band?  If it's a band, I will happily add a new page for this band.
+
+== New page added ==
+
+Sorry for the confusion.  Trey has a number of projects, so let's try to keep things organized here.  I have added a link to a new page which can index tabs for songs from Trey's new project.  I apologize, I was wrong.  But I still stick by the new category thing .. let's try to use the existing categories, yes?
+
+== Re: Categories ==
+
+yes, 70 volt parade is the name of his new band.
+
+Also, regarding the Trey category, I realized that it wasn't already established - I was trying to establish it myself.  If you don't want me to do that that's fine; however, I had already created a category page for it if you'd like to use it.
+
+--[[User:Phnord|Phnord]] 23:21, 5 Apr 2005 (EDT)
+
+== New categories ==
+
+"Trey" is a very broad category to use, I think too broad.  There are sub categories the song could better go under.  --[[User:Admin|Emil]] 23:23, 5 Apr 2005 (EDT)
+
+== "Trey" category ==
+
+I had added Trey because I felt "Unreleased" would be too broad of a category for [[Love is Freedom]], because that could mean anything from Phish, to Trey, to whatever.  I thought that maybe a more specific "Trey Unreleased" category would work well, but felt that might be too specific.  In addition, I felt that it categories can work well as a more general system like that, because songs can be in multiple categories (for example, Push On till the Day can be "Studio Material" and "Trey", or Love is Freedom could be "Unreleased" and "Trey", etc.)  I got the impression that you wanted a more general system for the categories because they were so few, and were limited to general discriptions rather than album names -- and that as a more specific system, we'd have the index pages where the songs have been listed.
+
+--[[User:Phnord|Phnord]] 23:29, 5 Apr 2005 (EDT)
+
+== Categories ==
+
+I see.  Well, I dont' know, I guess I am going to have to release control over how this site is governed, so if you think you have a better way, I guess you can go ahead and add new categories, and I wil try not to step in.  I am just worried that if everyone has an idea like yours, and puts some songs in new categories, things will become dispersed and inconsistent.  Striking a balance between government and anarchy is going to be a challenge, I think.  Do you see what I mean? --[[User:Admin|Emil]] 23:32, 5 Apr 2005 (EDT)
+
+== Re: Categories ==
+
+I do see what you mean by that.  I think, however, with Categories, there's no need for limitation really because it doesn't affect the outline of the site.  The index pages are what organize the site; the way I see it Categories are just ways to search for songs with simmilar attributes.  Think about the way people normally access categories: they access them after going to the song, not in order to find the song itself.  I agree that there should be tight controls upon the main index or else everything will get chaotic, but no matter how many categories there are it will still be easy to find a song through that index.  I feel that Categories are more Keywords than an index system, if that makes sense.
+
+Just my $.02
+
+--[[User:Phnord|Phnord]] 23:40, 5 Apr 2005 (EDT)
+
+== Re: Categories ==
+
+OK, I mean, I agree with you, but I guess what threw up a red flag for me was "Trey" as a category seemed rather broad.  The ONLY limitation with categories is ''consistency'' throughout the site.  If we are going to implement new categories, whether broad or narrow, let's try to think of it in the scope of what categories on the same 'Plane' might be (like how if you are making an outline, there can be no A if there is no B, or no I if there is no II).  So, other categories would be "Mike", "Page", and "Jon"?  I'm not saying necessarily that it's not good, just trying to explain my thought process.  It might not be a bad idea to discuss new categories like this before going and implementing them, to prevent the push-and-pull we just experienced ;) .. --[[User:Admin|Emil]] 23:49, 5 Apr 2005 (EDT)
+
+== Category ==
+
+I think they're fine right now, it's pretty easy to find what youre looking for.  It's a probably a good idea to discuss it before changes are made, just so everyones on the same page. Plus there shouldn't be any reason to change the way the phish stuff is arranged, but Trey has so many damn projects he's hard to keep track of.  Anyways the new site rocks.
+--[[User:Heyman|Heyman]] 00:00, 6 Apr 2005 (EDT)
+
+== Drifting ==
+
+hey I noticed that drifting (trey song) has the song money love and change in it's place.  I cant find a copy of drifting on the site, but I can throw that together pretty quickly, Ive got the cd right here.--[[User:Heyman|Heyman]] 00:54, 6 Apr 2005 (EDT)
+
+== Moma Dance ==
+
+I added a solo to moma dance, but I left the original chords there, even though that's not how it's played live.  Im guessing the original is taken from the studio version.  Can anyone verify that? Live verison is Cm7>F7, but the original tab says it starts on Eb7.
+So i'll leave it at that unless someone knows that the studio version doesn't follow the original tabs progression. (i don't have a copy of SOTG, so i'm not sure.)--[[User:Heyman|Heyman]] 14:12, 6 Apr 2005 (EDT)
+
+== Improv ==
+
+we should have an improv section like the old version had, i always found that to be helpful and i'm sure it could be greatly expanded in this new format. yes?no? --[[User:Heyman|Heyman]] 00:36, 11 Apr 2005 (EDT)
+
+== Improv tips ==
+
+I think that's fine -- they should be added at the bottom with a <nowiki>== Improv Tips==</nowiki> header to delineate what it is.  --[[User:Admin|Emil]] 23:55, 12 Apr 2005 (EDT)
+
+
+== Where is the replaced "Guitar Tablature Submissions" page for Phish? ==
+ 
+<nowiki></nowiki>I'm having a little trouble navigating the new site set-up and am trying to find where all the user submissions went - I mean the ones that were never archived into the read-only section.  Where can I find those, or have they not been imported from the old site?  I have some revisions to submit for "Talk" (want to see what else was suggested) and also for "Blue and Shiny", which I can't seem to find anywhere on this site.  So is the transfer process not yet completed or am I just looking in the wrong place? ==  --[[User:140.142.174.125|140.142.174.125]] 17:26, 20 Apr 2005 (EDT)
+
+== Member tabs ==
+
+The old [http://emilstabs.org/forums/ forum] is still open, anything that didn't transfer is not moved because I didn't see it.  Please, help me out! :)  --[[User:Admin|Emil]] 00:33, 21 Apr 2005 (EDT)
+
+
+[Emil - when I try to access the old site it says that it has been disabled and even when I sign in I cannot access anything.  It would be good to import all of those member tabs in the "Guitar Tab Submissions" section for Phish because there were a lot of good things in there.  Often those were better than the read only files for getting you started in the right direction to figure songs out.  Ya know what I mean, ya know what I mean?]
+
+[I have re-opened the forum.   Let me know if you still have problems.]  --[[User:Admin|Emil]] 09:58, 26 Apr 2005 (EDT)
+
+== Formating New Tabs==
+<nowiki>
+   Trying to submit a new tab for "Talk, and it looks good when I am working with it, but when I try to preview or save the page the formatting is just jacked!  And just when I figure out how to do it on the old site!  What to I need to do to adjust the formatting for my tab so that it is readable?  Wiki / no-wiki?  Help me out here . . .</nowiki>
+
+== priti wikid ==
+
+I just wanted to post in this forum.  I like the new look and I'm sure we're going to get some good corrections/additions to the site.  I'm still getting used to this place.
+
+Who's got my Life on Mars?
+moandj
+
+== PRE tags ==
+
+Make sure any tablature is enclosed by <nowiki><pre> and </pre></nowiki> tags.  For an example, look at any of the existing tabs (click 'edit', but then do not save changes).  --[[User:Admin|Emil]] 09:57, 26 Apr 2005 (EDT)
+
+== Manteca Tab ==
+
+hey i love the new format, i just had a request for a manteca tab, but probably not the studio version.  this version is extremely limited, and if you guys listen to the 10.30.98 cd in las vegas (ending with free bird), manteca serves as an absolutely disgusting transition song from stash into tweezer.  this song is insane live, but unfortunately its been only on this cd that i've heard it.  so, if you guys have the time, i urge you to tab this thing out.
+
+== Requests ==
+
+Maybe post that on the [[Talk:Manteca|Manteca talk page]] rather than on the Main talk page.. though, honestly, I think we should probably get something down for the album version before we start requesting specific live performance versions .. ;)  --[[User:Admin|Emil]] 02:58, 3 May 2005 (EDT)
+
+== FX settings?` ==
+
+hey just wondering if there was any way to set up a page for recommended fx settings for different songs (i can be more specific if need be).
+
+== does neone else not like this new setup ==
+
+its really hard tryin to find my way around here, i liked the old site a lot better
+
+I kinda liked the old setup as well.  Maybe in time it will improve, but it definitely lightens the load of the mods.  Now, the next step is to be able to upload audio clips with our tabs, so we can actually listen to how people play through their versions of these songs.  Techies??
+
+== I Didn't Know ==
+
+Does anyone have the lyrics to i didn't know? i cant understand some of them, cus the only version i have is the vegas, and all the echoing and harmonics make it hard to understand
+
+They are in the Pharmers Almanac 1st Edition
+
+== And So to Bed... ==
+
+Hey everyone, great site as always.  I had two quick questions...first, does anyone know how to play the guitar part of the song "And So to Bed" on the White Disc?  Its an awesome song and would make a great addition to the site.  The other one is since The Whit Disc was released, why are songs from it (eg. Aftermath, Slave) under unreleased?  I am definately not criticizing, because i would be nowhere without these tabs.  Once again, great site everyone!
+--[[User:Yak shavings|Yak shavings]] 17:39, 16 May 2005 (EDT)
+
+
+== Anyway to download the loops? ==
+
+Hey yall, i was just wondering if theres a way to download the loops so i can burn them and practice with them.  is this possible?

@@ -1,0 +1,50 @@
+<pre>Note: You'll have to tune your strings 30% sharp because the recording's speed was manipulated (probably by Mike during mixing). 
+
+Chords Used:
+
+    C#m9        Amaj       Bmaj
+E|-----------------------------
+B|--4-----------2-----------4--
+G|--4-----------2-----------4--
+D|--2-----------2-----------4--
+A|--4-----------0-----------2--
+E|-----------------------------
+
+
+The song is AB and just loops over and over.
+
+Part A:
+Finger pick C#m9 for about 6 measures 
+E|-------------------
+B|--4--------5\4-----
+G|-----4----------4--
+D|--------2----------
+A|--4--------4-------
+E|-------------------
+			
+Part B:
+Alternate between Amaj, Asus, and Bmaj, Bsus about 4 times
+
+E|-------------------------
+B|----2h3p2---/4h5p4-------
+G|----2----2--/4----4------
+D|----2-------/4-----------
+A|--0----------------------
+E|-------------------------
+
+Gtr2 Fill:
+E|--10--9------/12--11-----
+B|--------10-----------12--
+G|-------------------------
+D|-------------------------
+A|-------------------------
+E|-------------------------
+
+Solo in C#min or Emaj
+
+The link below contains a play-along track that uses the same chords and is in proper tuning, but the timing is different:</pre>
+[http://omband.com/playalong/NO2%20play-along.mp3 NO2 play-along.mp3]
+
+Enjoy, 
+
+D/S

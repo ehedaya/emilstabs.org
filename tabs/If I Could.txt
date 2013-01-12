@@ -1,0 +1,86 @@
+[[Category: Studio Release]]
+From: [mailto:ccorsale@cosi.stockton.edu Chris Corsale]
+<pre>
+If I Could      by phish
+ 
+ Intro         Verse chords
+  D11*        |  G  B7  C   G     F  C     D  A  C C/B Am G
+e|------------|-------------------------------------------3--|
+B|-----5--3---|--8---0--0---0--0--0--1--:--3--5--1--1--1--0--|
+G|----0--0----|--0---8--9---4--4--2--0--:--0--6--0--0--2--0--|
+D|---4--4-----|--9---7--10--5--5--3--2--:--4--7--2--0--2--0--|
+A|--5---------|--10--9--10--5--5--3--3--:--5--0--3--2--0--2--|
+E|------------|-use-*-pattern-basically-throughout--------3--|
+
+Alternate Intro fretting:
+
+e|-----0--------
+B|------3-------
+G|----0--0-0---
+D|---4----4----
+A|--5-----------
+E|--------------
+
+G      B7    C       G            G      
+Take me to another place she said, 
+F          C          D11*
+take me to another time
+G      B7     C       G        
+Run with me across the oceans, 
+F            C      D      A  C  C/B  Am
+float me on a silver cloud--------------.
+
+(strum open chords)
+G                  C                       
+If i could i would, but i don't know how, 
+G                 C
+if i could i would, but i don't know how
+Bm           C                       D  C  C/B  Am   G
+If i could i would, and i'd take you now
+
+D11, or a G9 arpeggio:
+
+e|--------------
+B|-----10-8-----
+G|----0----0-0--
+D|---9------9---
+A|-10-----------
+E|--------------
+
+Stay with me till time turns over  
+I wanna feel me feet leave the ground
+Take me where the whispering breezes can  
+lift me up and spin me around...
+
+If i could i would, but i don't know how, 
+if i could i would, but i don't know how
+Bm           C                       D    
+If i could i would, and i'd take you now 
+D          A             C         G  
+Hear you laughing as we go...(i'd take you now )
+D         A                  C                  G       
+Flipping backwards through the doors and through the windows(i'd take you now )
+D            A                   C  C/B  Am
+         I'm melting into nothing
+
+Chorus 2x
+
+Instrumental(cellos?) play progression 2x
+  G      4x C      4x G      4x C      4x Bm     4x C      4x C/B    4x Am     4x
+e|---------|---------|---------|---------|---------|---------|---------|---------|
+B|---------|---------|---------|---------|15p14----|13p12----|15p14----|13p12----|
+G|---------|17p14----|---------|17p14----|----16p14|----14p12|----16p14|----14p12|
+D|17p14----|----17p15|17p14----|----17p15|---------|---------|---------|---------|
+A|----17p15|---------|----17p15|---------|---------|---------|---------|---------|
+E|---------|---------|---------|---------|---------|---------|---------|---------|
+{^improvement welcome. loisten to it live,  it is like Bouning Aroundthe Room end^}
+
+D   A        C                   G
+If i could i would.....but i don't know how
+D   A        C                   G
+If i could i would.....but i don't know how 
+D   A         C                  G             A    C     Am/B   Am     G
+If i could i would....but i don't know how
+
+</pre>
+'''Bold text'''

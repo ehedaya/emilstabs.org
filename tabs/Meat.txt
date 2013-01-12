@@ -1,0 +1,30 @@
+[[Category: Studio Release]]<pre>
+Alan Packman  <apackman@gwu.edu>
+
+this is my first stab at a phish tab so please go easy on me...
+
+intro chords:
+
+E----8-8-8-8---
+B----8-8-8-8---
+G----8-8-8-8---
+D----7-7-7-7---
+A----8-8-8-8---
+E--------------
+
+Listen for the timing on the main theme:
+
+E----10--
+B----10--
+G----10--
+D-----9--
+A----10--
+E--------
+
+After the pause its the same chords as the intro with a slightly different
+rythym.
+
+Feel free to make any corrections
+
+
+</pre>

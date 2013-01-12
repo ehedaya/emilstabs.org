@@ -1,0 +1,148 @@
+[[Category: Unreleased]]
+See also:  [[Axilla II]]
+
+<pre>
+From: JSARNA@vax.clarku.edu
+From: David Douglas McCallum  < netmail!kcjonz@wam.umd.edu >
+Intro:
+A#   C# D#  }4x
+
+Riff (2x):
+
+E|-------------------------------------------------------|
+B|-------------------------------------------------------|
+G|------6------------------------6-----------------------|
+D|--8-----8--6-8----6--------8-----8--6-8----------------|
+A|-8-------8-----8----------8-------8--------------------|
+E|6---6---------------8----6---6----------8--------------|
+                     ^Bend up 1/2 step   ^
+
+ I droppped the buzzard in the sand  and trudged off slowly toward the town
+ I needed dinner and a place         where I could throw my weight around
+E|-------------------------------------------------------|
+B|-------------------------------------------------------|
+G|------6------------------------6-----------------------|
+D|--8-----8--6-8----6--------8-----8--6-8----------------|
+A|-8-------8-----8----------8-------8--------------------|
+E|6---6---------------8----6---6----------8--------------|
+                     ^Bend up 1/2 step   ^
+
+  I detected faint axilla scent       that put me off my appetite
+E|-------------------------------------------------------|
+B|-------------------------------------------------------|
+G|------3------------------------3-----------------------|
+D|--5-----5--3-5----3--------5-----5--3-5----------------|
+A|-5-------5-----5----------5-------5--------------------|
+E|3---3---------------5----3---3----------5--------------|
+                     ^Bend up 1/2 step   ^
+
+
+  But mouflon warring where I went     renewed in me the will to fight!
+<Tab below not quite right>
+E---------------|---------------------|----------------------------
+B---------------|---------------------|----------------------------
+G--------8------|---------------------|--------13------------------
+D------8---10---|----8-10-------------|------13---15-13 15---------
+A---10----------|--10----8h10--6------|----15-------5--------------
+E---------------|---------------------|----------------------------
+
+Repeat intro chords
+Repeat riff
+
+Then revelling in mirror mask, I soon was lost in foggy ditch
+Without a feather grey or white to tickle that piano witch
+ Fearing that I must expose my worm to holographic haze
+ My clinometer error rose, and spawned in her new mawkish ways!
+
+
+Piano solos over intro changes...
+
+D#                    A#          G#                   A#  
+I woke the witch with reverence reserved for serpents, snails and slugs
+D#                      A#            G#                     A#
+I pulled the witch from out the ditch and turned to face the furry thugs
+D#                         A#            G#                   A#
+The sheep they smiled with teeth agleem, the weapons in their hooves revolved
+D#           A#                G#                 F
+I detected a prostatic ream--I gulped and felt my loins dissolve!!!!!
+
+
+intro changes (yet again)
+
+F
+AXILLA, AXILLA, AXILLA, AXILLA  (yeah!)
+(ad nauseum)
+*****************************************************************************
+key:
+
+---8h10-------
+hammer-on from 8th fret to 10th
+
+----4^--------
+bend at 4th fret
+
+the A# in the intro should be played like this...
+
+E----------------
+B-------6--------  Index finger
+G---------78^----  bend the 8th fret with ring finger, and use middle finger
+D----------------  on 7th fret for easier bend  (trick learned by slavishly
+A----------------  listening to jimmy page, i should guess :-))
+E----------------
+
+Alternate way to play the main riff:
+E|-------------------------------------------------------|
+B|-------------------------------------------------------|
+G|------6------------------------6-----------------------|
+D|--8-----8--6-8----6--------8-----8--6-8----------------|
+A|-8-------8-----8----------8-------8--------------------|
+E|6---6---------------8----6---6----------8--------------|
+                      ^Bend up 1/2 step   ^
+
+Last verse:
+
+
+I woke the witch with reverence
+reserved for serpents, snails, and slugs,
+I pulled the witch from out the ditch
+and turned to face the furry thugs,
+The sheep they smiled with teeth agleam,
+The weapons in their hooves revolved
+I detected a prostatic ream,
+I gulped and felt my loins dissolve!</pre>
+
+<pre>
+From: Jake Wood
+Edited: 11/27/05
+Version: Axilla Pt.1 10/31/98 Las Vegas, NV
+
+E|-------6--6----6-6-----6-6------------------| x4
+B|-------6--6----6-6-----6-6---6--6----8\-----|
+G|-----8^-------8^------8^-----6--6----8\-----|
+D|-----------------------------6--6----8\-----|
+A|--------------------------------------------|
+E|--------------------------------------------|
+
+E|--------------------------------------------------------| x2
+B|--------------------------------------------------------|
+G|------6~------------------------6~----------------------|
+D|--8------8--6-8----6--------8-----8---6-8---------------|
+A|-8--------8-----/8---------8-------8--------------------|
+E|6---6----------------9\---6---6-----------9~------------|
+
+E|--------------------------------------------------------|
+B|--------------------------------------------------------|
+G|------3~------------------------3~----------------------|
+D|--5------5--3-5----3--------5-----5---3-5---------------|
+A|-5--------5-----/5---------5-------5--------------------|
+E|3---3----------------6\---3---3----------6~-------------|
+
+E|--------------------------------------------------------|
+B|--------------------------------------------------------|
+G|------8~--------------------------13~----------8^-------|
+D|--10-----10--8-10---8--------15------15~~~--------------|
+A|-10-------10-----/10--------15--------------------------|
+E|8---8----------------11~---13---13----------------------|
+                                              slow bend and start
+                                               main theme again
+</pre>

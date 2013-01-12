@@ -1,0 +1,111 @@
+[[Category: Unreleased]] [[Category: Loop]]
+<pre>
+From: Emil Hedaya -- emil@emilstabs.org
+From kassak@athena.mit.EDU
+From: kcjonz@wam.umd.edu (David Douglas McCallum)
+
+The beginning I sense goes as C#m D A... What about the rest?
+
+Well, I started this one with the best of intentions, setting out to TAB
+the whole thing, but I fizzled out after not too long! The end of Mike's
+Song isn't very complicated, but I couldn't think of a way to express it
+easily and compactly, so I kind-of "punted" and described it to the best
+of my ability.
+
+Intro riff: repeat through verse
+
+ C#m                      D         A
+     *                   S/      H-O
+E|----9-------------------|------------------|
+B|----9-------------------|10-------10--10~--|
+G|----9-------------------|11--------9-------|
+D|--------------------9-11|12-----9-11-------|
+A|--------9---9-10-11-----|------------------|
+E|9-9---------------------|------------------|
+     ^Trey sometimes substitutes with a low E note on 12th fret
+
+Alternate intro from Tim Bullock <tbulloc1@ic3.ithaca.edu>
+
+                          HO   HO                                
+E|----9-------------------|------------------|
+B|----9-------------------|---------(10)-----|
+G|----9-------------------|9>11------(9)-----|
+D|--------------------9-11|0----9>11-11------|
+A|--------9---9-10-11-----|-----0------------|
+E|9-9---------------------|------------------|
+
+
+[note: Words marked with an "*" are sung at the same time as the "E-A"
+double stop in the intro riff]
+
+*  C#m                D                  A
+Trapped in time and I don't know what to do
+C#m   *                      D         A
+These friends of mine, I can see right through.
+     C#m *                 D             A
+You don't gotta tell me and I don't gotta move
+  C#m   *                 D           A
+`Coz I'm sittin' back here sharin' the groove.
+
+ E
+ trill  +  2  +  3  +  4 +
+E|-------------------------|
+B|-------------------------|
+G|-------------------------|
+D|-------------------------|
+A|9-11^^^^^^^^^^^^^^^^^----|
+E|---------------------12--|
+
+ 1 +  2     +   3      +     4   +
+     H-O   P-O S\               H-O       H-O   P-O S\       H-O
+E|------------------------------------|----------------------------|
+B|9-9-9-10-10-9-9-7-----7------7------|9-9-9-10-10-9-9-7-7--7------|
+G|9-9-9--9--9-9-9-7-----7------8------|9-9-9--9--9-9-9-7-7--8------|
+D|9-9-9-11-11-9-9-7-----7------9------|9-9-9-11-11-9-9-7-7--9------|
+A|-------------------------------9-11-|-----------------------9-11-|
+E|------------------------------------|----------------------------|
+          [Trey] Me no are no nice guy                Me..nice
+                      [Page] Me no are no nice guy        Me..nice
+
+     H-O   P-O S\               H-O       H-O   P-O S\
+E|------------------------------------|-------------------7---8----|
+B|9-9-9-10-10-9-9-7-----7------7------|9-9-9-10-10-9-9-7-x7-x-8----|
+G|9-9-9--9--9-9-9-7-----7------8------|9-9-9--9--9-9-9-7-x8-x-9----|
+D|9-9-9-11-11-9-9-7-----7------9------|9-9-9-11-11-9-9-7-x9-x10----|
+A|-------------------------------9-11-|-------------------9--10----|
+E|------------------------------------|-------------------7---8----|
+          [Trey] Me no are no nice guy            [Mike] I-i-i-...
+                      [Page] Me no are no nice gui-hi
+
+..walk through the hallways inside my mind
+I chase the backbeat from behind
+Big dude in the doorway was blockin' my way
+He reached to grab me and this is what he said:
+
+Me no are no nice guys  (X 3)
+
+Then go stacatto between these two chord formations , 4 times the first
+time, then 8, then 10:
+
+E|-------|
+B|---9-7-|
+G|---9-7-|
+D|---9-7-|
+A|-------|
+E|-------|
+
+Then back to the "me no are no nice guys" riff, then back to the
+stacatto chords, then switch over to the "trampoline jam" :
+
+F#m7 --> B   back and forth for a LONG time, then D E F#m7 a couple of
+times, back to F#m7 --> B then D E F#m7 twice, then the 12-tone
+chromatic walk down from F#-G to |F#m7 A E F# :| repeated 8 times,
+stopping on the E and letting it ring on the last time.
+
+</pre>
+
+This usually leads into [[I Am Hydrogen]]
+
+== Loops ==
+Sampled:
+<gflash>100 40 /vb5/phish/mikessong.swf</gflash>

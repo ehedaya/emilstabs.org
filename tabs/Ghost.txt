@@ -1,0 +1,126 @@
+[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
+<pre>
+transcribed by Brian Gilstein ( gilstein@gateway.net )
+
+Well I finally got around to finishing this, although there really isn't
+that much too it. The chords are played like this:
+  Am7  Am6  D9 E7+9
+E|----------(5)-----|
+B|-10---10---5---8--|
+G|-12---11---5---7--|
+D|-10---10---4---6--|
+A|-----------5---7--|
+E|-12---12----------|
+
+I find this fingering easier to use, though it's the
+same thing essentially.
+
+  Am7 Am6
+E|-5----5---|
+B|-8----7---|
+G|-5----5---|
+D|-7----7---|
+A|-0----0---|
+E|----------|
+Listen to a tape for the timing, its pretty simple but hard to describe here.
+Also, Trey doesn't always play the Am6, leaving it to Page.
+
+Am7         Am6
+I feel I've never told
+
+Am7      Am6
+you the story of the
+
+Am7      Am6            
+ghost who I once knew and
+
+Am7                  Am6
+talked to of whom I'd never boast
+
+D9
+But this was my big secret
+
+D9
+How I get ahead
+
+D9
+And never have to worry
+
+D9           E7+9
+I'd call him instead
+
+Am7         Am6    
+His answer came in action
+
+Am7       Am6
+He never spoke a word
+
+Am7      Am6
+Or maybe I lay down the
+
+Am7     Am6
+phone before he could be heard
+
+D9
+I somehow feel forsaken
+
+D9
+Like he had closed the door
+
+D9
+I guess I just stopped needing him
+
+D9              Am7
+I much as once before
+
+Jam over 1 verse of chords; Am7 to Am6, then D9 part
+
+Am7      Am6
+But maybe he's still
+
+Am7     Am6
+with me the latch was left unhooked
+
+Am7          Am6
+He's waiting in the wind and rain
+
+Am7                   D9
+I simply haven't looked
+
+Am7      Am6
+I feel I never told you
+
+Am7  Am6           A7#9     (4x)
+the story of the ghost
+
+Jam on Am7 Am6
+
+That's it. Suggestions welcome.
+</pre>
+== Bass Tablature ==
+<pre>
+Ghost
+
+by Phish
+Transcribed by Phil Lucks
+
+For the most part it's all:
+
+G |-------------------------------------------
+D |--------7---------------------7-----------
+A |------7---------------------7-------------
+E |---5---------5-5--------5----------5-5---   
+ 
+That repeats a lot.  Im not sure of the slap section, but when they come back in 
+from that little break and Trey's pick slide, it's:
+
+G |-------------
+D |---5---7---
+A |------------
+E |-----------
+
+Thats all the important stuff
+</pre>
+== Loops ==
+Member recorded:
+<gflash>100 40 /vb5/member/ghost.swf</gflash>

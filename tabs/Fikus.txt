@@ -1,0 +1,21 @@
+[[Category: Studio Release]]
+[[Category: Bass]]
+== Bass Tablature ==
+<pre>
+Fikus 
+
+Tabbed by Dr. Mushroom Octopuss < drmushroomoctopuss@yahoo.com >
+
+A simple collection of notes that overlaps on itself in a way that implies much  more.
+
+
+
+
+    H          H P H P                                          H       H
+G|--------------------------14-15-----12-------------------------------12-13-14-|
+D|--0--12---0-----------------------------14--------------------12-15-----------|
+A|---------12--0-5-0-8-0--------------------15-12-----13-14---------------------|
+E|------------------------------------------------------------------------------|
+
+Repeat, repeat, repeat.
+</pre>

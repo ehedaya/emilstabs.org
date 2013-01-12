@@ -1,0 +1,204 @@
+[[Category: Unreleased]] [[Category: Bass]] [[Category: Loop]]
+<pre>
+From Tim Fallon  <no net access>
+
+Here comes Runaway Jim, real basic stuff:
+Intro: D-C-G (4/4 time)
+
+( Full Lyrics )
+
+ verse: D
+        Had a dog.....
+
+        C      G     D
+    Runaway  Runaway Runaway
+
+      C  G/B  Am   F             D
+      Whoaaaaaaah  oh   Runaway jim
+
+  H-O  H-O P-O P-O H-O
+E---------------------------
+B---------------------------
+G---------------------------
+D-------0--2--0----------0--
+A--0--2---------2--0--2-----
+E---------------------------
+
+
+
+
+Solo:
+|:                                              :|
+E---------------------------------------------------
+B---------------------------------------------------
+G----------------------------------------12-9-------
+D----12--12-12-12----------9-------------------12---
+A--12-------------12-12-12---12-10--10-10-----------
+E---------------------------------------------------
+                  H-O P-O
+|:                                              :|
+E---------------------------------------------------
+B---------------------------------------------------
+G----12--11--9--------------------------------------
+D--9-----------10--10-12-10----12-------------------
+A---------------------------12----------------------
+E---------------------------------------------------
+|:                                               :|
+E-10-10-10-101010101010--8-8-8--10------------------
+B---------------------------------------------------
+G--7-7--7--7-7-7-7-7-7->-5-5-5->7-------------------
+D---------------------------------------------------
+A---------------------------------------------------
+E---------------------------------------------------
+ |:                  :|
+E-----------------------------(10)------------------
+B----8-----8-----8------------(10)------------------
+G----7^(9)-7^(9)-7^(9)---------10>11----------------
+D---------------------------------------------------
+A---------------------------------------------------
+E---------------------------------------------------
+
+
+Here's a nice way to play that solo if you are playing solo acoustic..
+at the *'s, switch the rest of your fingers to the corresponding open
+chord - so you are playing the lead over the chords in the background.
+To accentuate the switch, you can even do a quick light rake over the
+chord from the bass strings at these  points, making the last string
+played the one with the lead on it.  It's hard to explain.  But during
+the "rest" section (between repeats, etc.), I like to keep the open D
+string going.
+
+
+
+
+  D                             C      G      D
+  *                             *      * P-O  *
+E-(2)-------------------------------------3-0------
+B-(3)-----3--3-3-3---------------1--1-1--------2---
+G-(2)---2----------2-2-2->-4->-2-------------------
+D--0~(Let ring throughout)-------------------------
+A--------------------------------------------------
+E--------------------------------------------------
+
+
+
+[ Repeat once ]
+
+
+
+  G         C                D
+  *         *                *
+                  H-OP-O
+E----3---2---0-------------------------------------
+B--0------------1---1-3-1-----3--------------------
+G--------------------------2-----------------------
+D--0~(Let ring throughout)-------------------------
+A--------------------------------------------------
+E--------------------------------------------------
+
+
+
+For this part, obviously repeat the individual parts as many is
+necessary (I'm not going to write the same fingering six times.. listen
+to a recording to hear how it should be played)
+
+
+
+E--5-5-5--3--5--------10-10-10--8-10----
+B--7-7-7--5--7---------7--7--7--5--7----
+G--7-7-7--5--7---------7--7--7--5--7----
+D--7-7-7--5--7---------7--7--7--5--7----
+A---------------------------------------
+E---------------------------------------
+
+
+
+
+               [ repeat ]
+E-8-8-8--10-------------------------------
+B-8-8-8--10-------------------------------
+G-9-9-9--11-------------------------------
+D-0~~(Let Ring)~~~~~~~~~~~~~~~~~~~~~~~~~~~
+A-----------------------------------------
+E-----------------------------------------
+
+You can even use your ring finger during that last formation (d chord)
+to hammer on the B and E notes on the 12th fret of the 5/6th strings -
+sounds a lot like the way Trey played it occasionally on Solo Tour
+
+
+Full Lyrics
+
+
+I had a dog. His name was Jim
+(Runaway, runaway, runaway)
+Took all of my old clothes with him.
+(Runaway, runaway, runaway)
+
+Whoa-ooooooooooooooo oh Runaway Jim
+Whoa-ooooooooooooooo oh Runaway Jim
+
+He was twelve years old when his trip began,
+(Runaway, runaway, runaway)
+Hauling down the highway in my old sedan.
+(Runaway, runaway, runaway.)
+
+Now I wish someone'd tell me where old Jim went,
+(Runaway, runaway, runaway)
+'Cause he took all the money that I saved for rent.
+(Runaway, runaway, runaway)
+
+By the time he came home he was seventeen.
+(Runaway, runaway, runaway)
+That's a hundred nineteen to you and me.
+(Runaway, runaway, runaway)
+
+Now I'm gonna go up to the mountain.
+(Runaway, runaway, runaway)
+Singing for Jim who's swimming in the fountain.
+(Runaway, runaway, runaway)
+</pre>
+== Bass Tablature ==
+<pre>
+Runaway Jim Bass Tab
+Mike Carcaise mrminor3@aol.com
+
+I listened to a few versions of this song to get a basis for what to put down 
+- mainly 6/30/00 and 7/25/92.
+
+
+The notes in parentheses can be substituted with many variations
+
+ D        C     G    
+G----------------------|
+D----------------------|
+A-5-----5--3-(2)-------|
+E---5-7----------3-(5)-|
+
+ C    G/B  Am   F
+G--------------------|
+D--------------------|
+A-3----2----0----1---|
+E--------------------|
+
+After the "Whoooaaaa, ooohhhh, ooohhh, ooooohhh" part there seems to be a D 
+chord followed by an A chord before it goes back to the verse.
+
+Middle Jam:
+
+I have found this to be very similar in many versions of the tune. Of course 
+Mike throws in variations all the time, but he keeps this groove going until 
+they go back into the verse.
+
+G----------7-7----7-----|
+D-----7h9------9-----9--|
+A--5--------------------|
+E-----------------------|
+
+The end jam is in D.
+</pre>
+== Loops ==
+Sampled:
+<gflash>100 40 /vb5/phish/runawayjim2.swf</gflash>
+Member recorded:
+<gflash>100 40 /vb5/member/runawayjim.swf</gflash>

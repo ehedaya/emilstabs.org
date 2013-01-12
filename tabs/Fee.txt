@@ -1,0 +1,126 @@
+[[Category: Studio Release]]
+[[Category: Bass]]
+
+From: [mailto:ericbe@microsoft.com Eric Berman]<br>
+From: [mailto:kcjonz@wam.umd.edu David Douglas McCallum]
+
+<pre>
+    Cm  Abm   Bbm   Gbm    Gbm7   Db  Ab
+E|--3----4-----1------2------5-----0---4|                                                      
+B|--4----4-----2------2------5-----6---1|     
+G|--5----4-----3------2------6-----6---1|
+D|--5----6-----3------4------4-----6---1|
+A|--3----6-----1------4------0-----4---x| 
+E|--x----4-----x------2------x-----0---x|
+
+intro/verse 
+                                                
+In the (Cm)cool shade of the (Abm)banana tree         
+On the (Bbm)rugged trail toward the (Gbm)balcony      
+A (Gbm7)child of the twentieth (Db)century            
+A (Ab)dried up Goliath and a weasel named Fee        
+
+Far away in another place 
+A fading beauty named Milly Grace
+A gospel singer with pox on her face
+And a bamboo cane to help her keep the pace
+
+Fee was a Buddhist prodigy 
+Long past the age of maturity
+Someday he knew it would set him free 
+Like it did for Floyd the chimpanzee
+
+chorus
+
+(Eb)Oh, Fee(Bb), you're (Db)trying to live a life  That's (Ab)completely free.
+You're (Eb)racing with the wind You're (Bb)flirting with death
+So (Gm7)have a cup of coffee  And (Ab) catch your breath
+
+Piano solo after the chorus: Cm Bb Ab Eb Fm7 Cm7 Bb
+   
+
+Fee first met Milly in a bar in Peru  
+His heart was jumping like a kangaroo
+Like a beast in a cage in an old Dutch zoo 
+It was hopping and thumping in wooden shoes
+
+But Floyd was jealous and alone 
+He wanted Milly for his own
+A desperate craving in his bones 
+"Their love", he said, "I will not condone."
+
+Then one day on a ship to 
+Quebec Floyd found Milly on a lover's trek
+He picked up a bottle and broke off the neck 
+It sliced through the air, and Fee hit the deck
+
+Oh, Fee, you're trying to live a life that's completely free
+You want to stay with Milly until you're dead
+But you just got a bottle upside your head
+
+Milly turned and began to scream 
+At Floyd, she said "You think you're pretty mean"
+And though she was as thin as a small string bean 
+She slammed him in the face with a nectarine
+
+Floyd fell back over the edge of the ship 
+Till he hung from the rail by his fingertip
+said, "Floyd I'll make you lose your grip 
+With this tiny piece of paper I can make you slip"
+
+So Milly took that paper and did the deed 
+Floyd hit the water with astonishing speed
+And as the sharks circled and began to feed 
+Milly knew her weasel was finally free
+
+Oh, Fee, you're trying to live a life that's completely free
+Floyd is dead; he's nothing but a ripple
+Cause Milly took that paper and sliced him on the nipple
+</pre>
+
+<pre>
+live (key of Bm) verse:
+   Bm  Bb6  Am  Fm  Fm7  C  G                      
+E|--2---3----3---1---1---0--3--|                                                      
+B|--3---3----1---1---4---1--0--|     
+G|--3---3----0---1---1---0--0--|
+D|--4---3----2---3---1---2--0--|
+A|--2---1----0---3---3---3--2--| 
+E|--x---x----x---1---1---x--3--|
+
+live chorus:
+    D   A    C   G   D   A   C   Gmaj9                   
+E|--2---0----0---3---2---0---0---2-or-3-|                                                      
+B|--3---2----1---3---3---2---1---3-or-0-|     
+G|--2---2----0---0---2---2---0---2-or-2-|
+D|--0---2----2---0---0---2---2---0-or-0-|
+A|--x---0----3---2---x---0---3---x-or-0-| 
+E|--x---x----x---3---x---x---x---3-or-3-|
+   
+live piano section chords: Bm,A,G,D,Em7,Bm,A
+</pre>
+
+
+== Bass Tablature ==
+<pre>
+Fee
+From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
+
+Verse:
+G|-----0--------------------------------1----------------|
+D|---1-------1------3-------------2---2------------------|
+A|-3-------2----1-4-----0-4---0-4---4------------6-------|
+E|-------4------------2--------------------4--4-----4--4-|
+
+Chorus:
+G|-----3------------1------------3-------------------|
+D|---5-------3----3-------1----5-------3-----0-----1-|
+A|-6-------5----4-------3----6-------5-----2-----3---|
+E|-------6------------4------------6-----3-----4-----|
+
+Piano solo: 
+G|---------------------|
+D|----------1----------|
+A|-3--1-----------3--1-|
+E|-------4-----1-------|
+</pre>

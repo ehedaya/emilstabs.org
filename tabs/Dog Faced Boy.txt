@@ -1,0 +1,79 @@
+[[Category: Studio Release]]
+<pre>
+Chris Corsale (ccorsale@cosi.stockton.edu)
+Itay Chamiel (itaych@gSPAMmail.com)
+
+Chord formations (mostly the usual):
+
+   C  G  Am F E7 G7 Bb C7 D
+E|-0--3--0--1-0--1-----0--2-
+B|-1--0--1--1-3--0--3--1--3-
+G|-0--0--2--2-1--0--3--3--2-
+D|-2--0--2--3-2--0--3--2--0-
+A|-3--2--0--3-2--2--1--3----
+E|(3)-3-----1-0--3----------
+
+
+Intro (Get a feel for the picking pattern, note alternating bass in ALL C chords
+in this song):
+
+   C           G           C
+E|-0-----------3-----------0-----------0-----
+B|---------1-----------0-----------1---------
+G|-----0-----------0-----------0-------------
+D|---2-------2---0-------0---2-------2-------
+A|-3-----------------------3-----------3-----
+E|-------3-----3-----3-----------3-----------
+
+C               G             Am
+I can't spare a moment on the dog faced boy
+F            G                   C
+I won't lend another hand to the worm-girl of Hanoi
+E7                              F
+Don't deplete my oxygen for the guy who's turning blue
+    C                   G            C
+But ask me, and I'll do anything for you
+
+C                                             G   G7
+Whenever I think of you it only makes me feel sad
+G7                                              C
+Whenever I think of you, the best friend I ever had...
+         Bb                 C
+before I gave it up all for nothing
+C
+Well, I lied and I cheated
+                    G  G7
+And it made me feel bad
+G7
+It made me feel guilty for not being true
+Oh the months I spent trying for a way to explain
+                                              C
+In the end all I could do was turn my head in shame
+
+C                   C7      F                         D
+Whenever I think of you, oh darling, it makes me feel sad
+G7
+Cause you deserve better and once I was it
+                                           C
+Somehow my good intentions just got up and git
+
+   F               G             C
+So I can't spare a moment on the dog faced boy
+F            G                   C
+I won't lend another hand to the worm-girl of Hanoi
+E7                              F
+Don't deplete my oxygen for the guy who's turning blue
+    C                   G            C(*)
+But ask me, and I'll do anything for you
+
+(*) Played like this:
+
+   C
+E|-0---------0---------12--
+B|---------1----(5)----13--
+G|-----0--------(5)--------
+D|---2---------------------
+A|-3---------3-------------
+E|-------3-----------------
+
+</pre>

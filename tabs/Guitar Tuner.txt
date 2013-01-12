@@ -1,0 +1,15 @@
+[[Category: Loop]]
+
+This tuner uses computer generated sine waves which are mathematically perfectly pitched.  They correspond to the open strings.
+
+<gflash>240 40 /vb5/tuner_truetone.swf</gflash>
+
+This tuner uses computer generated sine waves which are mathematically perfectly pitched also, except they correspond to the 5th fret harmonic on the E, A, and D strings, and the 12th fret harmonics on the G, B, and high E strings.  This is the most accurate of the three tuners.
+
+<gflash>240 40 /vb5/tuner_truetone_harmonics.swf</gflash>
+
+This tuner has samples of each string of my guitar, tuned as best as I could.  It is the least accurate of the three, and is not recommended, but is fun to play with. :)
+
+<gflash>250 100 /vb5/tuner.swf</gflash>
+
+As a tip, if you are ever out of reach of a tuner, reach for the telephone instead - a dial tone is a low F note (hold down the first fret) on the low E string.  That will at least put you in the right range.
