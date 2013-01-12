@@ -1,5 +1,4 @@
 
-
 From: Eric Berman ( ericbe@microsoft.com )
 From: kcjonz@wam.umd.edu ( David Douglas McCallum )
 From: John Greene  ( jg@titan.ucs.umass.edu )
@@ -106,8 +105,3 @@ G----15-14-15-14 ...-15-/-17-------------------------------------------
 D--------------------------------------------17-15---14 ...  trails off
 A----------------------------------------------------------------------
 E----------------------------------------------------------------------
-
-
-
-== Loops ==
-<gflash>100 40 /vb5/member/fefy.swf</gflash>
