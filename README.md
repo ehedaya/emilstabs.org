@@ -11,7 +11,7 @@ Feel free to suggest edits to any of the files in the project.  To do so:
 
 ## Submitting a new transcription
 
-If you have a new tab you would like to submit, [click here](https://github.com/ehedaya/emilstabs.org/new/master)).  The rest of the process is similar to editing files above.
+If you have a new tab you would like to submit, [click here](https://github.com/ehedaya/emilstabs.org/new/master).  The rest of the process is similar to editing files above.
 
 ## Collaborators
 
