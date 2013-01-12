@@ -1,5 +1,5 @@
 == Alternate Transcription ==
-<pre>
+
 
 This is one of my favorite songs, so when I came to this page to learn it,
  I realized something was wrong... the tuning.
@@ -43,7 +43,7 @@ Phish on!
 
 
 -----------------------------------------------------------------
-[[Category: Studio Release]]<pre>
+
 transcribed by wes zeppelinrules99@aol.com
 
 This may or may not help, but i noticed there was no tab for TALK.
@@ -65,11 +65,11 @@ standard tuning (acoustic of course, sounds good with a little echo)
 
 -timing isn't difficult to figure out, i use finger picking
 
-</pre>
+
 
 __________________________________________________________________________
 
-<pre> <Alternate Transcription>
+ <Alternate Transcription>
 By: Lincoln Ballard
 <nowiki>"Talk" - The full studio version
 
@@ -82,13 +82,13 @@ precede the piano interlude section.
 <nowiki>
    Intro:                 Verse:               Last 3 verse chords  
 (rake with pick) (chromatic voice-leading)       (1:02 / 2:16)
-<pre> 
+ 
 E-x-------|    E-0--x--x--x--x--x--x--x-|       E-0--x--x--x--|
 B-x-1-----|    B-1--1--1--1--1--x--x--x-|       G-1--5--5--5--|
 G-0----0--|    G-0--4--3--2--1--5--5--5-|       B-0--5--5--5--|
 D-2-----2-|    D-2--2--2--2--2--5--4--3-|       D-2--6--5--4--|
 A-2-------|    A-3--3--3--3--3--3--3--3-|       A-3--7--7--x--|
-E-3-------|    E-0--x--x--x--x--3--3--3-|       E-0--x--x--x--|</pre> 
+E-3-------|    E-0--x--x--x--x--3--3--3-|       E-0--x--x--x--| 
 
   
  Interlude: starts at 1:06 and 2:20
@@ -97,27 +97,27 @@ E-3-------|    E-0--x--x--x--x--3--3--3-|       E-0--x--x--x--|</pre>
 strings to keep things moving).  This whole thing is played twice before you return to the 
 second verse.
 
-<pre> 
+ 
                              1:11    [1st ending]      [2nd ending-1:21]
 E-x-x-x-x--0-0-[s]-x-x-x-x-x--x-[s]-x-x-x-x-x-x--3-| ]--x------x-x--x-x-|
 B-1-1-1-1--1-3-[t]-0-0-0-0-1--1-[t]-0-0-0-0-1-1--3-| ]--x---1--4-4--2-2-|
 G-0-0-0-0--0-0-[r]-0-0-0-0-0--2-[r]-0-0-0-0-0-2--0-|.]----2----5-5--3-3-|
 D-2-2-2-2--2-2-[u]-2-2-2-2-2--3-[u]-2-2-2-2-2-3--0-|.]--3------6-6--4-4-|
 A-3-3-3-3--3-3-[m]-3-3-3-3-0--0-[m]-3-3-3-3-0-0--2-| ]--x------x-x--x-x-|
-E-0-0-0-0--0-x-[x]-x-x-x-x-x--x-[x]-x-x-x-x-x-x--3-| ]--x------x-x--x-x-|</pre> 
+E-0-0-0-0--0-x-[x]-x-x-x-x-x--x-[x]-x-x-x-x-x-x--3-| ]--x------x-x--x-x-| 
 
    Then the song ends on this augmented chord:
-<pre> 
+ 
 E-4-|
 B-5-|
 G-5-|
 D-6-|
 A-x-|
 E-x-|
-</pre> 
-    Let me know what you think of this transcription!</nowiki></pre>
+ 
+    Let me know what you think of this transcription!</nowiki>
 
-<pre>
+
 I can't talk my talk with you
 Nothing's ever soaking through
 The filter that surrounds your thoughts
@@ -143,4 +143,3 @@ And holds out lessons left untaught
 I can't sing my song with you
 I can't talk my talk with you 
 
-</pre>

@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 Simple progression, simple shapes (open) - make up the words.
 
 C > G > Am > G
@@ -21,7 +21,7 @@ A cold and lonely night
 
 
 (no chord)
-Runnin' the pace of her fright <?>
+Runnin' the pace of her fright 
 
 
 Eclectic ascending bassline with strange guitar accompaniment
@@ -91,4 +91,3 @@ To read ICCULUS
 A cold and lonely night
 Running the pace of her fright
 Look at her face tonight!
-</pre>

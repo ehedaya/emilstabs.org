@@ -1,5 +1,5 @@
-[[Category: Unreleased]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 From Tim Fallon  <no net access>
 
 Here comes Runaway Jim, real basic stuff:
@@ -157,9 +157,9 @@ Now I'm gonna go up to the mountain.
 (Runaway, runaway, runaway)
 Singing for Jim who's swimming in the fountain.
 (Runaway, runaway, runaway)
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Runaway Jim Bass Tab
 Mike Carcaise mrminor3@aol.com
 
@@ -196,7 +196,7 @@ A--5--------------------|
 E-----------------------|
 
 The end jam is in D.
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/runawayjim2.swf</gflash>

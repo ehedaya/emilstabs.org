@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 
 Origionally Tabbed by Neil Berkman
 Tablature Expansion by Cleantone
@@ -358,6 +358,6 @@ A-4--(4)--4---(4)--|      toggling him pick-up selector back and forth
 E------------------|
  Da-vid  Bo- wie
 
-</pre>
+
 
 [www.emilstabs.org/media/davidbowiefromIT.ptb David Bowie from iT Powertab file]

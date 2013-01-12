@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 By Billy Strayhorn
 from clinton vadnais <cleantone@hotmail.com>
 
@@ -116,11 +116,11 @@ G|---------------------------------|----------------------------------
 D|-10------------------------------|---------9---10-------------------
 A|---------------------------------|-10--12---------------------------
 E|-----12--------------------------|-------------------------8--------
-</pre>
+
 
 == Alternate Transcription ==
 
-<pre>
+
  This is the way I play the main A-Train theme. Like Trey, I try to throw in a few comp chords where I can. This was not, however, figured out from a recording of Trey playing, so it could be very different from his version.
 
 CODE
@@ -175,4 +175,3 @@ Then back to A section once
 
 Song form is AABA  
 
-</pre>

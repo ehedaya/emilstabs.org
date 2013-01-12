@@ -1,14 +1,14 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
+
+
 originally by Phish
 
 transcribed by Golan Mor (GolbiAZA@aol.com)
 
-Video clip available:  [[cavern01.mov]]
+Video clip available:  cavern01.mov
 
 I think that the following is a better representation of the way Trey
 plays it. I used the Cavern from Hampton Comes Alive as my basis.
-<pre>
+
 \=slide down
 /= slide up
 h= hammer on
@@ -85,9 +85,9 @@ E-----------------------------------
 
 End on Em 
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Cavern
 Bass
 by Phish
@@ -99,4 +99,3 @@ from Barry <antelope@optonline.net>
 |--------------------------5------4--4-----5--6--------------------|
 |--0------0-0-0----------------------------------------------------|
 Big ups to Chris Fischer on this one.
-</pre>

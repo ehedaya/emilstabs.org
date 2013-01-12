@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 Chris Corsale (ccorsale@cosi.stockton.edu)
 Itay Chamiel (itaych@gSPAMmail.com)
 
@@ -76,4 +76,3 @@ D|---2---------------------
 A|-3---------3-------------
 E|-------3-----------------
 
-</pre>

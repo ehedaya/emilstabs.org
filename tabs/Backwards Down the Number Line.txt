@@ -22,7 +22,7 @@ Enjoy.
 
 ALTERNATE:
 
-<pre>
+
 Backwards Down the Number Line
 Tom Marshall/Trey Anastasio
 
@@ -138,4 +138,3 @@ G-|-4-4-2--------------
 D-|-------5-3-2--------
 A-|-------------5-3----
 E-|-----------------3--
-</pre>

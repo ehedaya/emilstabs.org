@@ -1,4 +1,4 @@
-<pre>Crowd Control   Phish
+Crowd Control   Phish
 Intro   E B E
 Verse
 E
@@ -27,4 +27,3 @@ D|---------------------
 A|---------------------
 E|--------------------- ...help
 
-</pre>

@@ -1,6 +1,6 @@
-[[Category: Unreleased]]
-[[Category: Bass]]
-<pre>
+
+
+
 By Phish
 Tabbed by Chris Temeles < casuite211@aol.com >
 
@@ -202,9 +202,9 @@ G|-10--
 D|--9--
 A|-10--
 E|-----
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 BURIED ALIVE
 By: PHiSH
 Transcribed by: Ryan Chamlin( PhishyMAN@netscape.com )
@@ -242,4 +242,4 @@ E|------------------------------------------------------------------------------
 repeat part A once and then the second time end on the  C# of the G string
 
 THen repeat the whole thing while guitar solos over it 
-</per></pre>
+</per>

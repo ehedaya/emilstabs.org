@@ -1,6 +1,6 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-<pre>
+
+
+
 Silent in the Morning    from Rift
 
 from Paul Marin, phix
@@ -101,9 +101,9 @@ D|-7-----7-----7-----7-----|-----9\7-5----|
 A|-------------------------|--------7--5--| 
 E|----------------------10x|----------7---| 
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Silent in the Morning
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 
@@ -143,4 +143,3 @@ D|-----5--5-2------5--5-2------5--5-2------5--5-2------|
 A|--3---------5-3---------5-3---------5-3---------5-3--|
 E|-----------------------------------------------------|
 
-</pre>

@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 Transcribed by Emil Hedaya skjut@usa.net
 Additional help from Matthew Weber webermp@polaris.clarkson.edu
 
@@ -100,4 +100,3 @@ D--1--
 A-----
 E-----
 
-</pre>

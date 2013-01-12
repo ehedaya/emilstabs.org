@@ -1,4 +1,4 @@
-<pre>
+
 Light
 Phish
 edited by Saint
@@ -97,12 +97,12 @@ The trick to playing this in time is to do the first 4 pretty quickly
 (almost without regard to the timing of the rest of the song), 
 wait a split second, then finish the last 2 and bend up to that Bb.
 
-</pre>
 
 
 
 
-<pre>
+
+
 
 B -> E (A bunch of times. If you know the song you know what I mean.)
 B               F#
@@ -177,4 +177,3 @@ And the light is growing brighter now
 
 
 
-</pre>

@@ -1,8 +1,8 @@
-[[Category: Unreleased]]
+
 70 Volt Parade<br>
 Transcribed by: Andy Buch (phnord) - AndyScores@aol.com<br>
 Based upon live debut at Higher Ground, 04/01/2005<br>
-<pre>
+
 TUNING/CHORDS:
   A   D/A G6/A G/A Gm/A
 D|-0---0---0----0---0---|
@@ -173,4 +173,3 @@ G|4---------------|----------------|
 D|5-2-2-2-4-4-4-4-|5-5-5-5-4-4-4-4-|
 A|0---------------|----------------|
 D|----------------|----------------|
-</pre>

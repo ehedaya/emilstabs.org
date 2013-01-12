@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 All Of These Dreams
 
 Intro:
@@ -64,4 +64,3 @@ Piano solo over chorus chords
 Repeat Chorus 1
 Repeat last line of chorus with “if you keep your heart open”
 End on intro
-</pre>

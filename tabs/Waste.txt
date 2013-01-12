@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 Intro:
 E-3---3---3---3---3---3---1---0-------1---1---0---0--
 B-1---1---0---0---1---1---3---3---3---1---1---1---1--
@@ -55,11 +55,11 @@ E----------
 
 F       Gm           Bb      
    Come waste   your time with me
-</pre>
+
 
 == Live Version ==
 
-<pre>
+
 transcribed by Emil <tabs@redmedia.com>
 
 
@@ -135,11 +135,11 @@ E-3-------------
 
 G       Am           C         Cadd9
    Come waste   your time with me
-</pre>
+
 
 == Live Solo ==
 
-<pre>
+
 transcribed by Kevin Weber phastball@mediaone.net
 
 
@@ -189,4 +189,3 @@ Repeat section 2 a few times
 Riff #6 repeating until you feel like doing
 Riff #7
 Repeat section 3 until whenever
-</pre>

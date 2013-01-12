@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 From: John.Greene@student.umass.edu (John Greene)
 From: David Douglas McCallum <kcjonz@wam.umd.edu>
 
@@ -149,7 +149,7 @@ stuff...let your ears be your guide!
 Also, in places where the chords are G#dim -> Fdim, you can just hold
 the G#dim if you want, since Fdim is just another inversion of the same
 chord.
-</pre>
+
 
 ----
 
@@ -159,8 +159,8 @@ chord.
     You'll have to listen to the recording for the right rhythms, phrasing, and articulation:
    
     Transcribed by: Lincoln Ballard
-    Edit by:        Andrew Russell ([[User:DeadHead|DeadHead]])
-<pre>
+    Edit by:        Andrew Russell ()
+
 
 KEY: ~ = vibrato   ^ = upward bend    \ = downward slide  
 / = upward slide   h = hammer on   p = pull off
@@ -217,11 +217,11 @@ D|-----16-------------------16~~-----|
 A|-----------------------------------|
 E|-----------------------------------|
 
-</pre>
+
 
 == Outro Solo ==
 
-Transcribed by: Andrew Russell ([[User:DeadHead|DeadHead]])
+Transcribed by: Andrew Russell
 
 I'll put in the timings later.
 
@@ -231,7 +231,7 @@ rb is release bend
 I'll try to find a better way to write it all out
 when I put it all in time and have them all in bars, etc.
 
-<pre>
+
 
 E|-----------------------------------------------------------------|
 B|-----------------------------------------------------------------|
@@ -291,4 +291,3 @@ A|-9---9--9---8-------8-8-9-------9--9--9-----8------7h8h9--9--9-8---8---5---5--
 E|----------------7-9--------------------------------------------------------------------7--7--7-5---5---4---4---1---1---2-------|
 
 
-</pre>

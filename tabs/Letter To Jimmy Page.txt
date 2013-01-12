@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 Transcribed by Jonathan Healey  ( makisupa@asu.uswest.net )
 
  A  B  D
@@ -47,4 +47,3 @@ E------------------
 
 Then back to the top. Repeat it one more time, but change the
 ending from B E B B C#m D to B E B B C#m D Eb->Alumni Blues Riff.
-</pre>

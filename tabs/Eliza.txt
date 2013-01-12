@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>                   
+
+                   
 From: jpatchak@asu.edu                  
 Trey Anastasio
 Guitar
@@ -176,12 +176,12 @@ E||----------------|--------------------|----------------|--------------------|
 -----------------|-------3---------|--3------------|--------------||
 -----------------|--3---------3----|--3------------|--------------||
 
-</pre>
+
 
 ----
 == Alternate Transcription ==
 
-<pre>
+
 Notes:
   All notes on the low E string are played via 'thumb-overs', the    notes
   are fretted with the left hand thumb reaching over the neck.
@@ -208,4 +208,3 @@ Notes:
   E-------------------------------------------------------------------
  
   (harm)
-</pre>

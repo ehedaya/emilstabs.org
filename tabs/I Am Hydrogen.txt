@@ -1,7 +1,7 @@
-[[Category: Unreleased]]
-This song is usually preceded by [[Mike's Song]]
 
-<pre>
+This song is usually preceded by Mike's Song
+
+
 We've heard it all before:  Listen to a recording for timing info.  Figuring
 out the notes they play is tough enough -- no point figuring out something
 you can get the gist of if you listen to a recording.
@@ -144,6 +144,6 @@ D-14-------------------4-7-4-7---7------------------------------------2---------
 A--------------------6------------------------------------------------2------------
 E---------------------------------------------------------------------0------------
 
-</pre>
 
-This leads into [[Weekapaug Groove]]
+
+This leads into Weekapaug Groove

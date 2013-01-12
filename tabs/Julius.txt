@@ -1,6 +1,6 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-<pre>
+
+
+
 
 ''intro & verse:''
 ---------------------:---2--0--
@@ -123,9 +123,9 @@ Then back into chorus with solo continuing over it.
 Then the oom pa lick
 End on A.
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Julius
 From: David Lionelli ( LIONELLI_DAV@CSUSYS.CTSTATEU.EDU )
 
@@ -184,4 +184,3 @@ E|-----------------4-3-2-1-0-|
 During the "oom-pah-pah, oom-pah-pah" break, he just slides down the
 fretboard.  Pretty simple song, really, but a helluva lot of fun to
 play.
-</pre>

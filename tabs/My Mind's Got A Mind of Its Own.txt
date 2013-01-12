@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 From: David Douglas McCallum <kcjonz@wam.umd.edu>
 chorus: My mind's got a mind of its own
        It takes me out a-walkin' when I'd rather stay at home
@@ -45,4 +45,3 @@ I've been getting into trouble without ever meaning to
 I no sooner settle down when I'm right back up again
  G                D               G
 I feel just like a leaf out in the wind
-</pre>

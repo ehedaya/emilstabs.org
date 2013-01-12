@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 From: David Douglas McCallum  <netmail!kcjonz@wam.umd.edu>
 "This next song is a story...and as with all good stories, this story
 begins with an um-pa-pa"
@@ -117,4 +117,3 @@ A DOG
 A DOG!!
 
 
-</pre>

@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 (from The White Tape)
 from Lake_James_M ENS <jlake@bridge.navy.mil>
 
@@ -65,4 +65,3 @@ D|-------------------------------------7--||
 A|-------------------------------------5--||
 E|----------------------------------------||
 
-</pre>

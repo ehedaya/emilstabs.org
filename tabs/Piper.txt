@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 from: Joe Kanakaraj [ jfkanaka@syr.edu ]
 (Lyrics by Tom Marshall, music by Trey Anastasio)
 from:  Emil Hedaya (skjut@usa.net)
@@ -55,4 +55,3 @@ From Kelly, Michael John (ADR) <mjohnkelly@jhancock.com>
 /---12----12-H-14-----/----14--------------------/----9--------10------/  /
 /---10----12----------/----15--------------------/----7--------8-------/  /
 /---10----------------/----x---------------------/----7--------8-------/  /
-</pre>

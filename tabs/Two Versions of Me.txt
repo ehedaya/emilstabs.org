@@ -1,4 +1,4 @@
-<pre>
+
 
 Two Versions of me
 
@@ -40,4 +40,4 @@ two minor corrections on the lyrics.
 first:
 "No more fish, in the sea"
 think we should change that to:
-"No more PHISH, in the sea"</pre>
+"No more PHISH, in the sea"

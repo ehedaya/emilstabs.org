@@ -1,8 +1,8 @@
-[[Category: Studio Release]] [[Category: Loop]]
-==Video clips==
-# [[stash02.mov]]
+
+==
+# stash02.mov
 #[http://youtube.com/watch?v=T904Y8k-jWc, WDR Festival, Germany 1997-06-22 (YouTube.com)]
-<pre>
+
 David Douglas McCallum (kcjonz@wam.umd.edu)
 
 Okay, axe-slingers, here's my stab at tab for the opening jam of Stash.
@@ -357,11 +357,11 @@ G-|------------12-|13--12------------|------12----13-14-14----|
 D-|---12-14-15----|-------15--14-12--|11-14-------------------|
 A-|---------------|------------------|------------------------|
 E-|---------------|------------------|------------------------|
-</pre>
+
 
 == Alternate Transcription ==
 
-<pre>
+
 from Devin Johnson <devobones@netscape.net>
 
 Perfection. It may not be. But I am positively certain that this
@@ -707,7 +707,7 @@ Well, that’s it for now fellas. I am currently working on the solo, but
 it’s not too easy to follow. All I really know right now is that it’s centering
 around Dminor with heavy chromaticism and highly atonal feedback noises. Anyway,
 Good Luck my fellow guitarists
-</pre>
+
 == Loops ==
 Member recorded (J. Golberg):
 <gflash>100 40 /vb5/member/stash.swf</gflash>

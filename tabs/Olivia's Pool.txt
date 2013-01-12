@@ -1,7 +1,8 @@
-This is the alternate version of [[Shafty]] found on Trampled by Lambs and Pecked by the Dove, and played occasionally live.<br>
+This is the alternate version of Shafty found on Trampled by Lambs and Pecked by the Dove, and played occasionally live.<br>
 It has an upbeat bluesy feel.<br>
-Transcribed by [[User:NickAVV|NickAVV]]
-<pre>
+
+Transcribed by NickAVV
+
 [Walk-up to C]
 e|---------|
 B|---------|
@@ -62,4 +63,3 @@ E|-------------------------------------------------------------------------|
 
 [Walk-down to G]
 [Repeat chorus]
-</pre>

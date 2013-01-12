@@ -1,5 +1,5 @@
-[[Category: Studio Release]][[Category:Loop]]
-<pre>
+
+
 From: Eric Berman ( ericbe@microsoft.com )
 From: kcjonz@wam.umd.edu ( David Douglas McCallum )
 From: John Greene  ( jg@titan.ucs.umass.edu )
@@ -108,6 +108,6 @@ A----------------------------------------------------------------------
 E----------------------------------------------------------------------
 
 
-</pre>
+
 == Loops ==
 <gflash>100 40 /vb5/member/fefy.swf</gflash>

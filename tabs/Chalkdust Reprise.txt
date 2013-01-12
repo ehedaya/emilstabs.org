@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 from Chris Brooks ( cbrooks@runet.edu )
 
 E7 > A > F#m > B
@@ -15,4 +15,3 @@ Trey did the 0-3 bend on the low E in one recording for Deer Creek '00 and the
 other he seemed to just hit the chords.
 
 Chris Brooks (C.B.) 
-</pre>

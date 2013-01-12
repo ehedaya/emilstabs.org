@@ -1,5 +1,5 @@
-[[Category: Unreleased]] [[Category: Loop]]
-<pre>
+
+
 Transcribed by Emil Hedaya
 
 Barebones, yes, but I don't have time to do more.  Just wanted to get
@@ -48,9 +48,9 @@ What is a band without skyscrapers  Ooh ooh skyscrapers is grand
 
 Sim-Bop & Be-Bophone Sky-Balls & Sax-Scraper
 
-</pre>
+
 == Bass ==
-<pre>
+
 G-------------2-----------
 
 D---3-3---------3---------
@@ -58,7 +58,7 @@ D---3-3---------3---------
 A-------1h2h3-------------
 
 E-1-----------------------
-</pre>
+
 
 == Loops ==
 Member recorded:

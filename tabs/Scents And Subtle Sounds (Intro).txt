@@ -1,4 +1,4 @@
-<pre>e|---6---------------||-----------------|
+e|---6---------------||-----------------|
 B|---7--7-----6------||--4---2---2—--3--|
 G|---8----8-----7----||--4---3---2---3--|
 D|---8------9-----8--||--6---4---2---3--|
@@ -18,4 +18,4 @@ and if the moment passes you should try it once again,
 for if you do it right youll find, the moment never ends...
 
 
-*D#m B Ab intro notes mesh with Abm F# A Bb progression</pre>
+*D#m B Ab intro notes mesh with Abm F# A Bb progression

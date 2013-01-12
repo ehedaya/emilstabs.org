@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 Tab by: Sebastian D.
 Corrections by Ben Whitlock
 additions by Dan Spilka
@@ -144,4 +144,3 @@ plays a distorted chord for two bars that is something like this.....
 
 Then the overlapping lyrics are played DCG, and not just D & G.  Hope this helps a
 little bit. 
-</pre>

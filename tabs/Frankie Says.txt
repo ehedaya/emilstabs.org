@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 from  Ryan Donohue <nachalo@hotmail.com>
 
 
@@ -64,4 +64,3 @@ With threats and hopes beyond compare
 
 (I've lost my mind, I've lost my way)
 (I'm bound to lose, I don't know where I am)
-</pre>

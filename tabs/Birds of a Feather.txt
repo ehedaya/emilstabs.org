@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 transcribed by Brian Gilstein ( gilstein@gateway.net )
 
 
@@ -99,4 +99,3 @@ E|------------------------|
 That it! Any and all coments or suggestions are welcome and appreciated.
 
 
-</pre>

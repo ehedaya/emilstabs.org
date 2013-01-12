@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 From: mhoffman@encore.com (Mike Hoffman)
 ~Subject: TAB: LaGrange (Rhythm only)
 
@@ -90,4 +90,3 @@ When the solo comes to an end, this is the pattern and the break:
 Repeat the break between |: and :| twice, then go back to the
 clean part (same as the very first section). Play it 4 times,
 hit the distortion, and play the same as the first verse until the fade...
-</pre>

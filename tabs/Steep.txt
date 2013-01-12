@@ -1,4 +1,4 @@
-<pre>
+
 
 
 From Danny Behar
@@ -58,4 +58,3 @@ Light Jamming on the form:
 [ F ] [ C ] [ Cm ] [ Bb ]
 [ F ] [ C ] [ B ] [ Bb]
 
-</pre>

@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 by Trey Anastasio and Tom Marshall
 Transcribed by Brian Trumpatori <bjt11@cornell.edu>
 
@@ -276,9 +276,9 @@ d|-12-|
 a|-10-|
 e|----|
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Heavy Things (Bass)
 Phish 
 From: Bobby Menkedick ( Epoch419@aol.com ) 
@@ -347,8 +347,8 @@ E|-------------|------------|--------|
 
 (the jam continues for 28 more measures with the same 
 chord changes) 
-</pre>
-== Video Clips ==
+
+== 
 #[http://youtube.com/watch?v=xAC9DzV-tGs Big Cypress NYE 1999 (YouTube.com)]
 
 == Loop ==

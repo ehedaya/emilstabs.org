@@ -1,6 +1,6 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-<pre>
+
+
+
 From: David Douglas McCallum  <netmail!kcjonz@wam.umd.edu>
 
 Intro
@@ -108,9 +108,9 @@ Why oh why oh why oh why oh why oh
 Why oh why oh why oh why oh why oh
 B6        E6
 Why-y why weigh
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Weigh                                                               
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
       
@@ -163,4 +163,3 @@ E|--2-----0--2-----4-----------0--3--2-----0--|
 That should be all the parts.  The piano and guitar solos are just
 chopped up versions of the 1st part (you can figure that out...), and
 that's that.
-</pre>

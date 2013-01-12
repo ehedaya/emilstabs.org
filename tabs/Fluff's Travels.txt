@@ -1,8 +1,8 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
-This song is preceded by [[Fluffhead]].  This song's relevant loop is embedded in [[Fluffhead]].
 
-<pre>
+
+This song is preceded by Fluffhead.  This song's relevant loop is embedded in Fluffhead.
+
+
 Transcription by Tim Corley (of Hoobis Doobis)
 Typed in by Neil Berkman (berkman@cs.umass.edu)
 Minor editorials by Eric Berman (ericbe@microsoft.com)
@@ -634,9 +634,9 @@ Fluff-Head          (repeat and fade)
 
 Then play opening theme from Fluffhead.
 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 
 G|-------------2--1------2------|
@@ -660,4 +660,3 @@ E|--3--3---------3--3--------3--3-----------------------|
 G|----------------------4-7-5--------------------------------------------|
 D|--------0--3----0-3-7--------------------------------------------------|
 A|-----2--------2--------------------------------------------------------|
-</pre>

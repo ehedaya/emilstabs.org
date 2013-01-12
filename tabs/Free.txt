@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 Note:  the album version is up a half step.  The live version is in D.  Because
 of the open stringings, if you want to play it in Eb I suggest you use a capo :).
 
@@ -139,4 +139,3 @@ Free!
 Free!
 
 
-</pre>

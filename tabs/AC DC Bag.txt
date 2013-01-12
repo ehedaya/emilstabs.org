@@ -1,7 +1,7 @@
-[[Category: Unreleased]]
-[[Category: Bass]]
-[[Category: Loop]]
-<pre>
+
+
+
+
 AC/DC Bag
 Phish
 
@@ -74,9 +74,9 @@ A-----------------------------------7--5-------------------------
 E------------------------------------------8--6--4---------------
 
 Repeat chorus chords & jam out 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 AC/DC Bass Tab
 Submitted by doubleb18@aol.com 
 
@@ -140,7 +140,7 @@ E-|-1-1-1-1-|--------|---------|---------|---------|---------|--
                 Repeat this during verses.  Then during solo at end
                 repeat chorus.  Chorus can also be slapped
 
-</pre>
+
 == Loops ==
 Member recorded:
 <gflash>100 40 /vb5/phish/acdcbag2.swf</gflash>

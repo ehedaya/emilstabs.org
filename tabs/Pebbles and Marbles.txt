@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 E :-----0---3^-0-0--|----------------|
 B :0-h3---0-------3-|2---------------|
 G :---------------4-|2---------------|
@@ -72,9 +72,9 @@ Make us hold tight but are lost in the end
 When we're alone we all seem to tend
 If we find a marble in dust
 To wish someone left it for us
-</pre>
+
 == Live Acoustic Intro ==
-<pre>
+
 Transcribed by: Dave Kahler (davekahler@verizon.net)
 As heard on 12/03/2005 - The Warfield, San Francisco, CA
 
@@ -104,4 +104,3 @@ E|------------|----3--2-----|---------------------------------------------------
 
 Then that goes right into the main theme.
 
-</pre>

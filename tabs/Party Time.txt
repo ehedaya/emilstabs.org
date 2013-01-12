@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-[[Image:Joy_Box.png|200px|thumb|right|Joy Box]]
+
+Image:Joy_Box.png|200px|thumb|right|Joy Box
 
 *Original release date: August 10 2009
 *Label: JMP
@@ -7,16 +7,16 @@
 **[http://www.amazon.com/exec/obidos/ASIN/B002TSNFWG/emilsphishtablat Amazon.com]
 
 == Track Listing ==
-#[[Party Time (Song)|Party Time]]
-#[[Alaska]]
-#[[Windy City]]
-#[[In a Misty Glade]]
-#[[Gone]]
-#[[Only a Dream]]
-#[[The Birdwatcher]]
-#[[Let Me Lie]]
-#[[If I Told You]]
-#[[Splinters of Hail]]
-#[[Can't Come Back]]
-#[[Shrine]]
-#[[Liquid Time]]
+#Party Time (Song)|Party Time
+#Alaska
+#Windy City
+#In a Misty Glade
+#Gone
+#Only a Dream
+#The Birdwatcher
+#Let Me Lie
+#If I Told You
+#Splinters of Hail
+#Can't Come Back
+#Shrine
+#Liquid Time

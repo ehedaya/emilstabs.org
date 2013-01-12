@@ -1,6 +1,6 @@
-[[Category: Unreleased]]
-[[Category: Bass]]
-<pre>
+
+
+
 From: David Douglas McCallum <kcjonz@wam.umd.edu>
 Note: NICU debuted as "In An Intensive Care Unit" - 3/6/92; NICU stands
 for Neonatal Intensive Care Unit .
@@ -104,9 +104,9 @@ Then if you want rake down the low E string to complete the vamp and
 quickly head back into the SKa-like Eb form for more verses..That's it.
 -MK
 .
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 NICU 
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 
@@ -139,4 +139,3 @@ G|--7-7-5---------------|
 D|--------7--------5----|
 A|0---------5--5-3----2-| repeat 5.5 times (I think)
 E|----------------------|
-</pre>

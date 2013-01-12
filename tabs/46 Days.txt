@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 its essentially B7 and E(7)
 verse: B7
 he does some sliding from Bb7 > B7
@@ -13,13 +13,13 @@ G :----8--8---------|----9-9-7-h8------|
 D :----9--9----9-7--|--9-9-9------9----|
 A :--9-------9-----9|7--------------9--|
 E :7----------------|------------------|
-</pre>
+
 
 -------------ALT. VERSION-----------------------------
 submitted by Deadnphishman17 (smorris2@niu.edu)
 
 Song: 46 Days
-<pre>
+
 
 E ----------------------------------|
 B ------------------------7---------|
@@ -42,4 +42,3 @@ E --------------------------------0-|
 Then back to verse 1
 
 Solo around in B Minor
-</pre>

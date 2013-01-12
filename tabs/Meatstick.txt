@@ -1,6 +1,6 @@
-[[Category: Unreleased]]
-[[Category: Bass]]
-<pre>
+
+
+
 from Eric Beaupre
 from Tony Hume
 from Tim Louis
@@ -59,10 +59,10 @@ G----7(slide)9(slide)---------------------------------------
 D------------------------8--11--12 ---------------------------
 A-------------------------------------------------------------
 E-------------------------------------------------------------
-</pre>
+
 
 == Alternate Transcription ==
-<pre>
+
 It may sound wierd, but if you play it with any 1999 summer show it
 sounds right.
 
@@ -128,9 +128,9 @@ Meatosticku Toridashta
 Jiuan  (clap)
 Do Do Atamaga Shock
 Do Do Atamaga Shock 
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Meatstick Bass Tab
 from Gamehenge3@aol.com
 
@@ -140,4 +140,3 @@ G-------------------------------------------------------------------------------
 D---------6----------------------6--------------------------4---------------------4-----
 A------------4h6-------------------4h6-----------------------2h4------------------2h4---
 E-----4-------------4---------4-------------4-----------2------------2--------2-------2-
-</pre>

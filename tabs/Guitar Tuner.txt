@@ -1,4 +1,4 @@
-[[Category: Loop]]
+
 
 This tuner uses computer generated sine waves which are mathematically perfectly pitched.  They correspond to the open strings.
 

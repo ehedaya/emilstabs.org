@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 transcribed by Ben Whitlock
 
 G             Am7
@@ -17,11 +17,11 @@ G  0   0      2     0
 D  0   2      3     2
 A  2   0            3
 E  3 
-</pre>
+
 
 == 02/16/1997 Live Version ==
 
-<pre>
+
 
  intro           Verse
   F               F                     Eb/Bb  Eb  Bb/G  F      
@@ -50,4 +50,3 @@ E|------------------------------------------1----1----1----1------------------|
 Til I'm finally swept awaaaaaaaaaaayyyy
 
 >into steep
-</pre>

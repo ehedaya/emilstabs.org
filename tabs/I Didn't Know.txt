@@ -1,4 +1,4 @@
-<pre>
+
 I Didn’t Know
 Phish
 
@@ -41,4 +41,3 @@ Pardon me, Doug (pardon me, Doug)
 Is this a picture of Otis Redding? 
 Yes! Yes! Taken right before he died 
 Well you can give me his hide (well you can give me his hide!!!!!!)
-</pre>

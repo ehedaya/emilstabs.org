@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 
 E----------------------------------------------------
 B----------------------------------------------------
@@ -10,10 +10,10 @@ E---------10-----------------------10-------------------
 
 
   Play that riff over the lyrics, it keeps repeating so listen to the song for the time. 
-</pre>
 
 
-<pre>
+
+
 
 ~Alternate version~
  09/20/2005
@@ -44,4 +44,3 @@ In a round room they can't find me anywhe-e-e-e-ere
 
 -More to come
 
-</pre>

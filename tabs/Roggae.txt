@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 Intro:
 
         s
@@ -62,7 +62,7 @@ E-----------------------------------------------------------------
 
 [repeat and fade]
 
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/roggae.swf</gflash>

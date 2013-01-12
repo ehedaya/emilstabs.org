@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 tab by Damon Callisto
 
 Legend
@@ -35,4 +35,3 @@ D|-5--||-
 A|---*||-
 E|----||-
 
-</pre>

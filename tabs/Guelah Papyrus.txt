@@ -1,13 +1,13 @@
-[[Category: Studio Release]]
+
 From: John Greene <s3583045@titan.ucc.umass.edu>
 
 From: "Anthony J. Went" <twent@wam.umd.edu>
 
 From: Eric Berman (ericbe@microsoft.com)
 
-Asse Festival From: [[User:DeadHead|DeadHead]]
+Asse Festival From: 
 
-<pre>
+
 
 Bm7 A A E E  (3x) E9 held out F#7#9
 
@@ -289,4 +289,3 @@ E|-------------|---1---------|-------------|-------------|-------------|--------
 
 
 
-</pre>

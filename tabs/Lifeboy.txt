@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 From: Jon Harrod, submitted by Chris Corsale (ccorsale@cosi.stockton.edu)
 
                                                            
@@ -88,7 +88,7 @@ and you don't get a refund     if you overpray
 
 outro
 god never listens to what i say (over intro,repeat)   end on #
-</pre>
+
 == Loops ==
 Member recorded:
 <gflash>100 40 /vb5/member/lifeboy.swf</gflash>

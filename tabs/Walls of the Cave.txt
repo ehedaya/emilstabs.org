@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 Walls of the Cave
 album:Round Room
 by:Phish
@@ -132,4 +132,3 @@ E  B  E  F#(rise it to the climax) B
 Listen toooo the silent trees
 
 B->A
-</pre>

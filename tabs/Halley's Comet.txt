@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 Opening acapella bassline:
 
 G-----------------------------------------------------------------|
@@ -152,4 +152,3 @@ I'm going down to the central part of town
 I'm going down to the central part of town
 I'm going down, central part of town
 I'm going down to the central part of town
-</pre>

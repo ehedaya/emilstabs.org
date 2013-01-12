@@ -1,4 +1,4 @@
-<pre>
+
 From: "Scott Taylor" 
 Subject: o/oysterhead/radon_balloon.tab
 Date: Tue, 26 Feb 2002 03:10:53 -0500
@@ -304,4 +304,3 @@ The End
 Scott Taylor
 School of Music
 The Florida State University
-</pre>

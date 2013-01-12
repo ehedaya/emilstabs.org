@@ -1,4 +1,4 @@
-<pre>
+
 intro:    A|--5--5--5--5---
 
 G                C     G    D
@@ -40,4 +40,3 @@ Then repeat chorus
 then solo over verse
 then back to "understand the movements" 
 then chorus
-</pre>

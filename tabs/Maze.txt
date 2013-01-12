@@ -1,12 +1,12 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
+
+
 From: David Douglas McCallum < kcjonz@wam.umd.edu >
 
 From:  Chris Temeles < casuite211@aol.com >
 
 
 ==Intro==
-<pre>
+
 Transcribed by Lincoln Ballard
 
 <#>=harmonic np=don't pick /=slide into h=hammer p=pull ~=vibrato
@@ -59,10 +59,10 @@ Inside me a voice was repeating the phrase:
       Bb                    G
 You'll never get out of this maze.     x7
           (jam)
-</pre>
+
 ==Solos==
 ===First Solo===
-<pre>
+
 
    1     1              1                    1              
 e----------------------18^--18--15-----------------15--------
@@ -157,10 +157,10 @@ e-------------------------------------------------------------------------------
 
 end on Gm7
 
-</pre>
+
 ===Second Solo===
 
-<pre>
+
 5:07
 E----------------------------------------------------------------------|
 B-12^(13)--------------------------------------------------------------|
@@ -359,10 +359,10 @@ A|--------------------------------------------------------|
 E|--------------------------------------------------------|
 play the whole cycle again(starting where it says pretty fast!!)
 or play it as many times as you want-and end on Gm7
-</pre>
+
 
 == Bass Tablature ==
-<pre>
+
 Maze
 From: David Lionelli ( LIONELLI_DAV@CSUSYS.CTSTATEU.EDU )
 
@@ -440,4 +440,3 @@ G|----------3--4----|
 D|--4--4--6---------|
 A|----------------2-|
 E|------------------|
-</pre>

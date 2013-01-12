@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 From: Chris Corsale (ccorsale@cosi.stockton.edu)
 From: Jim Vegeais (vegeais@aspentec.com)
 
@@ -141,7 +141,7 @@ d-----------------------------------------
 a-----------------------------------------
 e-----------------------------------------
 
-</pre>
+
 == Loops ==
 Member recorded (J. Goldberg):
 <gflash>100 40 /vb5/member/sample.swf</gflash>

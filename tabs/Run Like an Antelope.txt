@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 From Tim Fallon
 Help from Mike Kelly
 
@@ -170,8 +170,8 @@ G---------
 D---------
 A---------
 E---------
-</pre>
-[[Run Like an Antelope solo|Solo transcription]]
+
+Run Like an Antelope solo|Solo transcription
 [http://www.emilstabs.org/media/Antelope.ptb Power tab file]
 == Loops ==
 Sampled:

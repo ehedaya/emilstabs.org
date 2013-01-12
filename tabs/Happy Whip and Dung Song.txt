@@ -1,4 +1,4 @@
-<pre>Phish - The Siket Disc - Happy Whip and Dung Song
+Phish - The Siket Disc - Happy Whip and Dung Song
 
 
 
@@ -19,4 +19,3 @@ G||---------------|
 D||-4-------4-----|
 A||---6-4-----6-4-|
 E||---------------|
-</pre>

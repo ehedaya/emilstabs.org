@@ -1,5 +1,5 @@
-[[Category: Unreleased]] [[Category: Loop]]
-<pre>
+
+
      Greetings,
    
     Here are some additions to Wilson.  This is actually a really cool tune
@@ -168,7 +168,7 @@
             ----------------------
    
 
-</pre>
+
 == Loops ==
 Sampled:
 <gflash>100 40 /vb5/phish/wilson.swf</gflash>

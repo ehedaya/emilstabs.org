@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]] [[Category: Loop]]
-<pre>
+
+
 From Eric Berman (ericbe@microsoft.com)
 Itay Chamiel (itaych@gmSPAMail.com)
 
@@ -400,12 +400,12 @@ D--6-6-6-6-10-10-10-10-14-14-14-14-18-18-18-18---------
 A------------------------------------------------------
 E-------------------------------------------------2----
 
-</pre>
+
 == Instrumental Section (alternate 1) ==
 
 transcribed by Kenji Julius Yamaguhchi ( mjkenji@earthlink.net )
 
-<pre>
+
 I've tried to make it as easy as possible to read but no timing info given.
 I'm sure you know how it goes. The parts indicated * may be changed to something else.
 I am not so sure about those parts but should at least sound similar.
@@ -761,13 +761,13 @@ G--6--6--6-6-10-10-10-10-14-14-14-14-18-18-18-18---------
 D--6--6--6-6-10-10-10-10-14-14-14-14-18-18-18-18---(3)---
 A--------------------------------------------------------
 E---------------------------------------------------2----
-</pre>
+
 
 == Instrumental Section (alternate 2) ==
 
 Transcribed  : Benjamin Betita [Kungphoo5678@aol]
 
-<pre>
+
 Tuning (low to high) = E A D G B E
       I watched trey on a video of 12/31/95...best i could do...
 
@@ -1080,9 +1080,9 @@ the first time ends on 14th fret of B string and last time 17th fret of high E
 ||-8-8-----10--10-----8-8-----10-10---8-8---10-10-----8-8---10-10-*||
 ||----------------------------------------------------------------*||
 ||----------------------------------------------------------------*||
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Reba
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 
@@ -1232,9 +1232,9 @@ E|-----------------------------------------------------------------------|
 That is the basis for the end jam.  Go sick until the break, then repeat
 the "Bag it, Tag it" chorus part until the end.  The very end is the
 notes as the climb before the middle break.  It ends on a Gb.
-</pre>
 
-Also available:  [[Reba (alt)]]
+
+Also available:  Reba (alt)
 [www.emilstabs.org/media/reba1.ptb Reba powertab file]
 == Loops ==
 Member recorded:

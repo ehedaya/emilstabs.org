@@ -1,4 +1,4 @@
-[[Category: Studio Release]]<pre>
+
 
 E--------------
 B--------------
@@ -35,4 +35,3 @@ and Tequila's where that starts and where it ends
 
 Jam between C and F
 
-</pre>

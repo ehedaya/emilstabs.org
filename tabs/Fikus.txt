@@ -1,7 +1,7 @@
-[[Category: Studio Release]]
-[[Category: Bass]]
+
+
 == Bass Tablature ==
-<pre>
+
 Fikus 
 
 Tabbed by Dr. Mushroom Octopuss < drmushroomoctopuss@yahoo.com >
@@ -18,4 +18,3 @@ A|---------12--0-5-0-8-0--------------------15-12-----13-14---------------------
 E|------------------------------------------------------------------------------|
 
 Repeat, repeat, repeat.
-</pre>

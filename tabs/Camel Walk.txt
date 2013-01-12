@@ -1,5 +1,5 @@
-[[Category: Unreleased]]
-<pre>
+
+
 by Jeff Holdsworth (Phish, for our purposes)
 
 E---------------------------------------------
@@ -16,9 +16,9 @@ B--------------------------------
 D------------7--9--7---7---------
 A-------7--9---------9---9--7----
 E-7--10--------------------------
-</pre>
+
 == Alternate Transcription ==
-<pre>
+
 CAMEL WALK - from alpine valley
 
 from david chapman < dpcmuhs@aol.com >
@@ -91,7 +91,7 @@ it sounds right on).
 
 ***Note*** I found it more comfortable to play the little Minor
 3rd/Major 3rd fill up on the 5 & 6th frets of D and the 7th fret
-of A.</pre>
+of A.
 
 
 Chris' Transcription

@@ -1,6 +1,6 @@
-[[Category: Unreleased]]
 
-<pre>
+
+
                                                                                                    COLONEL FORBIN'S ASCENT
 
 This transcription is pretty close.  The two chords at the end of the verse are tough to hear.  I feel like the melody  notes are D and C#, that's why I called it C#7b9--F#7.
@@ -168,11 +168,11 @@ G----9------9------11------12--------15------------0----------------------------
 D----9------7------10------13--------14------------1------------------------------------------------
 A----x------9------x-------x---------x-------------2---------------------------------------------
 E----9------------ -11------12--------14------------0------------------------------------------------
-</pre>
+
 :
 
 
-<pre>
+
 Colonel Forbin's Ascent
 
 by Phish
@@ -269,4 +269,3 @@ Chords underlying the "story"
 D Dbm Bm E  A Dbm (segue into Mockingbird)
 
 
-</pre>

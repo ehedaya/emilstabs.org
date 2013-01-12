@@ -1,4 +1,4 @@
-[[Category:  Studio Release]]
+
 
 <websiteFrame>
 website=http://widgets.itunes.apple.com/itunes.html?wtype=2&app_id=300953673&country=us&partnerId=30&affiliate_id=http%3A%2F%2Fclick.linksynergy.com%2Ffs-bin%2Fstat%3Fid%3DYCKyo6e*azk%26offerid%3D146261%26type%3D3%26subid%3D0%26tmpid%3D1826%26RD_PARM1%3D
@@ -17,14 +17,14 @@ align=right
 *[http://www.sheetmusicplus.com/a/item.html?id=58840&item=2962261 Official Tablature Book] 
 
 == Track Listing ==
-#[[Julius]]
-#[[Down with Disease]]
-#[[If I Could]]
-#[[Riker's Mailbox]]
-#[[Axilla II]]
-#[[Lifeboy]]
-#[[Sample in a Jar]]
-#[[Wolfman's Brother]]
-#[[Scent of a Mule]]
-#[[Dog Faced Boy]]
-#[[Demand]]
+#Julius
+#Down with Disease
+#If I Could
+#Riker's Mailbox
+#Axilla II
+#Lifeboy
+#Sample in a Jar
+#Wolfman's Brother
+#Scent of a Mule
+#Dog Faced Boy
+#Demand

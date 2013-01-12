@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Loop]]
-<pre>
+
+
 From: kcjonz@wam.umd.edu (David Douglas McCallum)
 
 Here's what I could figure out of this crazy tune. My tab features a new
@@ -90,7 +90,7 @@ A----8---
 E--------
 
 
-</pre>
+
 == Loops ==
 Member recorded:
 <gflash>100 40 /vb5/member/dinner_and_a_movie.swf</gflash>

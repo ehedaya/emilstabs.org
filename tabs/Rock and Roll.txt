@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 From: dmsinge@erenj.com (Dave Singer)
 
 
@@ -95,11 +95,11 @@ chorus
 1st verse
 
 chorus-end on last "alright"
-</pre> 
+ 
 
 == Alternate Transcription ==
 
-<pre>
+
 from Andrew <stex@pinkfloyd.com>
 
 as performed by Phish
@@ -258,4 +258,3 @@ D ---------8-10---------------------------------------------
 A ------10--------------------------------------------------
 E ---^8-----------------------------------------------------
 
-</pre>

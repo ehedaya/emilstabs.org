@@ -1,4 +1,4 @@
-<pre>
+
 Show Of Life
 Anastasio/Pollak
 edited by Saint
@@ -89,12 +89,12 @@ A ------------------------------------------------------------
 E ------------------------------------------------------------
 
 
-</pre>
 
 
 
 
-<pre>
+
+
 "Show Of Life"
  
 Written by: (Anastasio/Pollak)
@@ -175,4 +175,3 @@ In the show of life
 
 Solo / Jam in  A
 
-</pre>

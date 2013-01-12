@@ -1,4 +1,4 @@
-<pre>
+
 Golden Age
 TV On The Radio
 
@@ -75,4 +75,3 @@ Chorus/bass riff:
 
 D|-----5--------3--|
 A|--3--------1-----|
-</pre>

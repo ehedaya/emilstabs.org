@@ -1,5 +1,5 @@
-[[Category: Unreleased]] [[Category: Loop]]
-<pre>
+
+
 Intro:
 
 Let all the notes ring ...
@@ -137,7 +137,7 @@ G----6---
 D----7---
 A----0---
 E----0---
-</pre>
+
 
 ==Alternate Transcription==
 

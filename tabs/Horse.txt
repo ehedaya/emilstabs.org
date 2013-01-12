@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 From: Kyle Grieser < yuf@sequent.com >
 From: Eric Berman < ericbe@microsoft.com >
 From: kcjonz@wam.umd.edu ( David Douglas McCallum )
@@ -123,6 +123,6 @@ sliding
 in between certain notes, and letting some notes ring, that's why some of the
 them are tabbed up and down the neck and not just on one position.
 Well that's about it, let me know if anything is wrong.
-</pre>
 
-This leads into [[Silent in the Morning]]
+
+This leads into Silent in the Morning

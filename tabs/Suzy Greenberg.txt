@@ -1,7 +1,7 @@
-[[Category: Unreleased]] [[Category: Loop]]
-From Tim Fallon <no net access><br>
-Small fixes and slight cleaning by [[User:DeadHead|Andrew Russell]]
-<pre>
+
+From Tim Fallon 
+Small fixes and slight cleaning by Andrew Russell
+
 Verse 1:
 D            C                  G
 Little Suzie Greenberg with her head caved in
@@ -70,7 +70,7 @@ C             G
 Suzie, Suzie, Greenberg
 
 
-</pre>
+
 == Loops ==
-Member recorded - I recorded this using Reason v2.0.  It sounds nothing like Phish, obviously, but I think it's an interesting variation.  The progression is the middle section where Page usually rocks out.  --[[User:Admin|Emil]] 01:14, 25 Oct 2005 (EDT)
+Member recorded - I recorded this using Reason v2.0.  It sounds nothing like Phish, obviously, but I think it's an interesting variation.  The progression is the middle section where Page usually rocks out.  -- 01:14, 25 Oct 2005 (EDT)
 <gflash>100 40 /vb5/member/suzy.swf</gflash>

@@ -1,5 +1,5 @@
-[[Category: Studio Release]] [[Category: Bass]]
-<pre>
+
+
 From: Chris Corsale (ccorsale@cosi.stockton.edu)
 Mike starts, then Trey comes in with a D#9 chord on beats 2 and 4.  he
 does the chords for 3 measures and then slides from an F chord to a G.
@@ -82,9 +82,9 @@ G----------------------------------------------------------------
 D----------------------------------------------------------------
 A----------------------------------------------------------------
 E----------------------------------------------------------------
-</pre>
+
 == Guitar Leads(Album Version) ==                      
-<pre>
+
 From: Scott Hannay (hannay@hotmail.com) 
 myspace.com/scotthannay
 
@@ -191,9 +191,9 @@ G---------------------/5---------------------||
 D---------------------/5---------------------||
 A---------------------/3---------------------||
 E--------------------------------------------||
-</pre>
+
 == Bass Tablature ==
-<pre>
+
 Down with Disease
 From: David Lionelli (LIONELLI_DAV@CSUSYS.CTSTATEU.EDU)
 *(Note: Tune E-string down a whole step to D, or get a 5-string bass)
@@ -267,4 +267,3 @@ Solo
 Intro (bass only)
 
 Chorus `till end....
-</pre>

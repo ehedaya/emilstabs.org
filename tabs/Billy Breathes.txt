@@ -1,5 +1,5 @@
-[[Category: Studio Release]]
-<pre>
+
+
 by Phish
 from OneArmSteve16@aol.com <OneArmSteve16@aol.com>
 
@@ -168,7 +168,7 @@ G---15-------------------------(14)------------------------
 D----------------------------------------------------------
 A----------------------------------------------------------
 E----------------------------------------------------------
-</pre>
+
 
 == Solo from Studio Cut ==
 
@@ -176,7 +176,7 @@ Transcribed by Lincoln Ballard
 
 I have been meaning to tab this out for some time, as the solo posted in the read-only section is just all over the place. This arrangement keeps things together very nicely and makes for a great arpeggio exercise taboot! Timings and chord changes were added to make it easier to follow, but everything is spelled as flat chords for consistency. This works really well for two guitars - my buddy and I have the vocal harmonies down and everything - it sounds awesome! It's always been one of my favorite tracks they ever did. Two performance notes: the Bbm7 sounds best in first position, and the final progression Eb-Db-Cm-Bb is repeated twice before the last three chords (indicated).
 
-<pre>
+
 
 
                   4:05                                        4:09                                  
@@ -253,4 +253,3 @@ G--------------------------15----------------15--------------14--|
 D------------------------13--------------------------------------|
 A----------------------------------------------------------------|
 E----------------------------------------------------------------|
-</pre>

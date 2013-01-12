@@ -2,7 +2,7 @@ The Birdwatcher is an A Cappella barbershop quartet song.<br>
 The studio version on Party Time has occasional percussive chimes,<br>
 but these are not present when performed live.<br>
 
-<pre>
+
 Da dooooo, da-dum
 Da dooooo, da-dum (Birdwatcher)
 
@@ -48,4 +48,3 @@ I sleep I dream, I dream I sleep,
 but sometimes dreaming is too deep.
 If I could shed one layer now,
 I still would be asleep somehow.
-</pre>

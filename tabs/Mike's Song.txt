@@ -1,5 +1,5 @@
-[[Category: Unreleased]] [[Category: Loop]]
-<pre>
+
+
 From: Emil Hedaya -- emil@emilstabs.org
 From kassak@athena.mit.EDU
 From: kcjonz@wam.umd.edu (David Douglas McCallum)
@@ -102,9 +102,9 @@ times, back to F#m7 --> B then D E F#m7 twice, then the 12-tone
 chromatic walk down from F#-G to |F#m7 A E F# :| repeated 8 times,
 stopping on the E and letting it ring on the last time.
 
-</pre>
 
-This usually leads into [[I Am Hydrogen]]
+
+This usually leads into I Am Hydrogen
 
 == Loops ==
 Sampled:

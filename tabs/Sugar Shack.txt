@@ -1,6 +1,6 @@
-tablature attempt by Benjamin Betita (fresnosummer@comcast.net)<br>
-update from Nick Ver Voort ([[User:NickAVV|NickAVV]]) with help from "Mike in Japan"
-<pre>
+tablature attempt by Benjamin Betita (fresnosummer@comcast.net)
+update from Nick Ver Voort  with help from "Mike in Japan"
+
 written by Michael Gordon
 
 Chords
@@ -135,4 +135,3 @@ Run through pale dark     woods to        that Sugar Shack
 C#      G#   C#    D#/Ebdim E   B      C#       G#
 Breathe warm steam and      hide    in that old Sugar Shack.
 
-</pre>

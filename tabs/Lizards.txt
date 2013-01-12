@@ -1,5 +1,5 @@
-[[Category: Unreleased]] [[Category: Loop]]
-<pre>
+
+
 From: John Greene <s3583045@titan.ucc.umass.edu>
 From: David Douglas McCallum <kcjonz@wam.umd.edu>
 From: Hayduke lives! <92MDB@vax.cc.williams.edu> (Mikey ?)
@@ -353,10 +353,10 @@ then repeat the entire outro twice more. The second time the outro is repeated, 
 the guitar melody up one octave, and instead of
 going to the 2nd ending of the repeat, go back into the G F figure as in CHORUS III.
 End the CHORUS III this time with the staccato C
-chord. That's it! </pre>
+chord. That's it! 
 
 ==Alternate Transcription #1==
-<pre>
+
 (Alternate view From: John Greene <s3583045@titan.ucc.umass.edu>)
 Verse:  C -> E -> Edim -> F -> Fm -> C -> F#dim  (ALL WITH A C BASS!)
        G7   G7   G7   G7 ->  Bdim7 (hold this for a while)
@@ -386,11 +386,11 @@ Neat jam part: (this part comes after the chorus, but instead of playing
 Abmaj7 -> Gm7 -> Bbmaj7 ->Am7 (repeats a whole bunch of times)
 This part culmiates by playing an Am instead of the Am7, then
 playing a D > D7 > D > D7 which leads back into the G F G F G F G F
-</pre>
+
 
 ==Alternate Transcription #2==
 
-<pre>
+
 From: Hayduke lives! <92MDB@vax.cc.williams.edu> (Mikey ?)
 
 Ok, I have this feeling that this might sound like a flame of some sort, but I rather
@@ -437,12 +437,12 @@ PIANO SOLO: WHOAAA
    C:        Ab    Eb       |:  F  C   Eb  Bb  :|
            ^^^^^^^^^^        ^^^^^^^^^^^^^^^^^^^
            lead ins          chords under solo
-</pre>
+
 == Loop ==
 Member recorded (J. Golberg):
-<pre>
+
 Progression:  F  C   Eb  Bb 
 or
 Abmaj7  Gm7  Bbmaj7  Am7
-</pre>
+
 <gflash>100 40 /vb5/member/lizards.swf</gflash>

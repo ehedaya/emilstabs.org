@@ -1,8 +1,6 @@
-[[Category: Unreleased]]
+
 By: ( PhishyMAN@netscape.net )
-<br>
-Edits: [[User:DeadHead|Andrew Russell]]
-<pre>
+Edits: Andrew Russell
 
 
   Ebm7             Bb7             Ebm7                                      Db    Ebm7
@@ -64,4 +62,3 @@ Guitar Solo
 Outro
 (Same chords as verse/chorus)
 
-</pre>

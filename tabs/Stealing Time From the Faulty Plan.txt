@@ -1,4 +1,4 @@
-<pre>
+
 
 '''Stealing Time From the Fauty Plan'''
 
@@ -103,10 +103,10 @@ Gotta blank space where my mind should be…
 Gotta blank space where my mind should be…
 Gotta blank space where my mind should be…
 
-</pre>
 
 
-<pre>
+
+
 
 I think this offers more accurate chords than above:
 
@@ -176,9 +176,9 @@ G 9      G 5
 D 9      D 5
 A 11     A 7
 E x      E x
-</pre>
 
-<pre>
+
+
 Ok...
 
 This song is only Aminor to D, with an E7 (with open low E) in the middle to spice it up.   References to Dminor, C/E, E/G#, or G are wrong.
@@ -187,4 +187,3 @@ don't complicated things guys.  This is a simple song.
 
 Thanks
 
-</pre>

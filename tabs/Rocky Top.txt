@@ -1,5 +1,5 @@
-[[Category: Covers]]
-<pre>
+
+
 (Recorded by the Osborne brothers, but written by Boudleaux and Felice Bryant.
 Ranked #47 of all time by Country America magazine, October '92 issue)
 
@@ -71,11 +71,11 @@ Down in the Tennesse hills
 Ain't no smoggy smoke on Rocky top
 Ain't no telephone bills
 repeat chorus)
-</pre>
+
 
 == Alternate Transcription ==
 
-<pre>
+
 I was strumming through rocky top today and realized that the boys play it out of
 G, rather than Cmaj.  So the verse would be as follows
 
@@ -99,4 +99,3 @@ C       G
 Good ol Rocky top
 Em        D       G           Em        D       G
 Rocky top tennessee           Rocky top Tennessee
-</pre>
