@@ -19,7 +19,7 @@
 				$.getJSON('https://api.github.com/repos/ehedaya/emilstabs.org/commits', function(data) {
 					console.log(data[0]);
 					var d = new Date();
-					$('#updatedOn').html('Last updated '+d);
+					$('#updatedOn').html(d);
 				});
 			});
 		</script>
