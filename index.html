@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+	<head>
+		<title>Emil's Tabs</title>
+		<script type="text/javascript" src="components/ga.js"></script>
+		<script type="text/javascript" src="components/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="components/mustache/mustache.js"></script>
+		<script type="text/javascript" src="components/datejs/build/date.js"></script>
+		<link href="components/bootstrap/css/bootstrap.css" type="text/css" rel="stylesheet" />
+		<link href="components/bootstrap/css/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
+		<style type="text/css">
+			footer { text-align: center; border-top: 1px solid #ccc; margin-top: 5em; padding-top: 2em; }
+		</style>
+		
+		<script type="text/javascript">
+	        $(document).ready(function() {
+	        	updatesTemplate = $('#updatesTemplate').html();
+	        	$('#updates ul').html($('#loadingBar').html());
+				$.getJSON('https://api.github.com/repos/ehedaya/emilstabs.org/commits', function(data) {
+					console.log(data[0]);
+					var d = new Date();
+					$('#updatedOn').html('Last updated '+d);
+				});
+			});
+		</script>
+	</head>
+	<body>
+		<div class="container">
+			<div class="content">
+				<div class="row">
+					<div class="col-span-12">
+						<h1>Emil's Tabs</h1>
+						<p>Welcome to the official unofficial repository of guitar transcriptions to many of the songs played by Phish. Actual official transcriptions can be purchased from <a href="http://www.sheetmusicplus.com/s?q=phish&id=58840">Sheet Music Plus</a> or <a href="http://drygoods.phish.com/">Phish DryGoods</a>. If you have a correction or new submission, please add or edit the file directly in <a href="https://github.com/ehedaya/emilstabs.org">Github</a> or <a href="https://github.com/ehedaya/emilstabs.org/issues">open an issue</a>. There's also a small selection of old video clips of Trey playing on <a href="http://www.youtube.com/emilstabs">YouTube</a>.</p>
+						
+						<p>
+							<a href="tabs/" class="btn btn-large btn-primary">Tabs</a>
+							<a href="loops/" class="btn btn-large btn-primary">Loops</a>
+							<a href="loops/tuners/" class="btn btn-large btn-primary">Tuners</a>
+						</p>
+						<hr/>
+						<h4>Why Github?</h4>
+						<p>In an effort to make the information both more freely available to anyone who wants it and easier to maintain, all transcriptions are now simple text files. This information belongs to the community, so you can <a href="https://github.com/ehedaya/emilstabs.org/archive/master.zip">download a snapshot</a>  of the entire archive (tabs, loops, and all) and save it to your hard drive at any time.</p>
+					</div>
+				</div>
+			</div>
+			<footer>
+				<p>Hosted and maintained by <a href="https://github.com/ehedaya">Emil</a>. <a href="https://github.com/ehedaya/emilstabs.org/commits/">Last updated</a> <span id="updatedOn">...</span> </p>
+			</footer>
+		</div>
+	</body>
+</html>
+

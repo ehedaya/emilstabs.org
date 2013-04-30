@@ -2,8 +2,8 @@
 <html>
 	<head>
 		<script type="text/javascript" src="../../components/ga.js"></script>
-		<link href="../../components/bootstrap/docs/assets/css/bootstrap.css" type="text/css" rel="stylesheet" />
-		<link href="../../components/bootstrap/docs/assets/css/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
+		<link href="../../components/bootstrap/css/bootstrap.css" type="text/css" rel="stylesheet" />
+		<link href="../../components/bootstrap/css/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
 		<div class="container">
@@ -12,8 +12,8 @@
 					<div class="span12">
 						<h1>Loops</h1>
 						<ul class="breadcrumb">
-						  <li><a href="../../index.php">Home</a> <span class="divider">/</span></li>
-						  <li><a href="../index.php">Loops</a> <span class="divider">/</span></li>
+						  <li><a href="../../">Home</a></li>
+						  <li><a href="../">Loops</a></li>
 						  <li class="active">Tuners</li>
 						</ul>
 						<ul class="media-list">
