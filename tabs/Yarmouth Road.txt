@@ -15,7 +15,7 @@ G#m                     A
 I dig a deep hole, bees buzzing all around
       E             
 But I know you'll be happy
-         B                       G#m 
+         B                       G#m         A       G#m
 That I'm pouring concrete on the ground
 
 G#m                A
@@ -25,12 +25,20 @@ Garden plot's beautiful, painter gets at it
       G#m                      A             G#m
 But I guess I should've checked with you somehow
 
+(slide-thing)
+e|-----------|
+B|-6s9s6s9s6-|
+G|-----------|
+D|-----------|
+A|-----------|
+E|-----------|
+
 G#                         Eb               Bbm       Db
-Thought I could get you to come to Yarmouth Road
+Thought I could get you to come to Yarmouth Road      (slide-thing)
 G#                     Eb                Bbm          Db
-Hang with the bees and buzz in the honeycomb
+Hang with the bees and buzz in the honeycomb 
 G#                       Eb                Bbm        Db
-All I ever wanted you to do was to come on home
+All I ever wanted you to do was to come on home       (slide-thing)
 G#                     Eb                Bbm          Db
 Hang with the bees and buzz in the honeycomb
 
@@ -49,11 +57,11 @@ G#m                   A               G#m
 Does any of this even start to ring a bell?
 
 G#                         Eb               Bbm       Db
-Thought I could get you to come to Yarmouth Road
+Thought I could get you to come to Yarmouth Road      (slide-thing)
 G#                     Eb                Bbm          Db
 Hang with the bees and buzz in the honeycomb
 G#                       Eb                Bbm        Db
-All I ever wanted you to do was to come on home
+All I ever wanted you to do was to come on home       (slide-thing)
 G#                     Eb                Bbm
 Hang with the bees and buzz in the honeycomb 
 F#              Db     Eb     Fm
@@ -83,10 +91,10 @@ G#m                       A                G#m
 Don't make me feel like a guest in our own home
 
 G#                         Eb               Bbm       Db
-Thought I could get you to come to Yarmouth Road
+Thought I could get you to come to Yarmouth Road      (slide-thing)
 G#                     Eb                Bbm          Db
 Hang with the bees and buzz in the honeycomb
 G#                       Eb                Bbm        Db
-All I ever wanted you to do was to come on home
+All I ever wanted you to do was to come on home       (slide-thing)
 G#                     Eb                Bbm          Db
 Hang with the bees and buzz in the honeycomb
