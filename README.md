@@ -11,7 +11,11 @@ Feel free to suggest edits to any of the files in the project.  To do so:
 
 ## Submitting a new transcription
 
-If you have a new tab you would like to submit, [click here](https://github.com/ehedaya/emilstabs.org/new/master) and click "Create fork."  The rest of the process is similar to editing files above.
+
+- Click [Submit a new guitar transcription](https://github.com/ehedaya/emilstabs.org/new/master/tabs) or [Submit a new bass transcription](https://github.com/ehedaya/emilstabs.org/new/master/bass)
+- Paste or type in the transcription, then click "Propose new file"
+- On the next page, click "Send pull request" to send a request to have your transcription file merged into the main project.
+
 
 ## Collaborators
 

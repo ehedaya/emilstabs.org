@@ -1,9 +1,18 @@
 
 
-
 From: David Douglas McCallum <kcjonz@wam.umd.edu>
 Note: NICU debuted as "In An Intensive Care Unit" - 3/6/92; NICU stands
 for Neonatal Intensive Care Unit .
+
+The intro and verses repeat this (from Kevin Cupp <kevin.cupp@gmail.com>)
+
+    Eb                  Db
+E|--11---11---11--------9/---|
+B|--11---11---11--------9/---|
+G|--12---12---12--------10/--|
+D|--13---13---13---11---11/--|
+A|-----------------11--------|
+E|-----------------9---------|
 
  Eb                        Db         Eb [repeat]
 Appendages flailing, you're running at me
