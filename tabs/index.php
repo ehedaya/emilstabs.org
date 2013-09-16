@@ -2,6 +2,8 @@
 <html>
 	<head>
 		<script type="text/javascript" src="../components/ga.js"></script>
+		<script type="text/javascript" src="../components/jquery/jquery.min.js"></script>
+		<script type="text/javascript" src="../components/filter.js"></script>
 		<link href="../components/bootstrap/css/bootstrap.css" type="text/css" rel="stylesheet" />
 		<link href="../components/bootstrap/css/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
 	</head>
@@ -15,14 +17,15 @@
 						  <li><a href="../">Home</a></li>
 						  <li class="active">Tabs</li>
 						</ul>
-						<table class="table table-striped table-bordered table-condensed">
+						<input type="text" id="filter" name="filter" placeholder="Filter"><br><br>
+						<table class="table table-striped table-bordered table-condensed searchable">
 							<tbody>
 							<?php
 							$directory = "";
 							$tabs = glob($directory . "*.txt");
 							foreach ($tabs as $file) {
 							?>
-							<tr>
+							<tr data-search="<?php echo strtolower($file)?>">
 								<td><a href="<?php echo $file; ?>"><?php echo $file; ?></a></td>
 							</tr>
 							<?php
