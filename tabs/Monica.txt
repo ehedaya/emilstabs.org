@@ -107,4 +107,4 @@ A|--10---9--|
 E|----------|
 
 Loop through outro:
-E D G A E G D E
+E D G A C G D
