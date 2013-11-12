@@ -2,33 +2,44 @@ Wingsuit
 Phish
 
 Intro (2x):
-Cm  Bb  Eb F
+E------------------------------------------------------------------
+B----11---11-----11---11-10-10------8---8s10--10-----8---8p6---6-
+G------------------------------------------------------------------
+D--13---13-----13---13------------8---8-----10------8---8-----7---
 
-Intro riff:
-E---6---6-----6--6-5-5------3---3h5-5-5------3--3s1-1--
-B------------------------------------------------------
-G--5---5-----5--5---------5---5------------5--5--------
+Verse:
+The verse is similar to the intro but with the following fingerings:
+E--------------------
+B--11---10---8---10--
+G--------------------
+D--13---10---8---10--
 
-Cm                Bb
+
+B----11---11-----11---11---10---
+G-------------------------------
+D--13---13-----13---13---10-----
+
 Steal away, let's steal a car
-Eb    	                      F
+
+
+B----8--8--8...   ------10---10-
+G-----------...   --------------
+D--8--8--8--...   ----10---10---
+
 You'll never win a major only shooting par
-Cm            Bb
+
 Step outside, feel the sun
-Eb                                      F
 It's only you, be you, cause you're the only one
 
-
 Chorus: (repeat 2x)
-       Dm   C
-[no vocals]
-       Dm    C
-And it feels good
-         Dm    C
-Cause it feels good
-       Dm    C
-And it feels good
+Trey only plays the D5/Dm sometimes, but it's implied
 
+       D5/Dm  C5
+And it feels good
+         D5/Dm  C5
+Cause it feels good
+       D5/Dm  C5
+And it feels good
 
 Nothing lasts, nothing stays
 Caught in this procession of unchanging days
@@ -44,12 +55,13 @@ There's nothing to say and nothing to lose
 
 [repeat intro]
 
-Cm          Bb             Eb    F
+[verse riff]
 Steal away, paint the sky
-         Dm       C
+
+          D5/Dm    C
 Put your wingsuit on (4x)
 
-Bb             F                     Dm    C  Dm  C
+Bb             F                     D5/Dm    C  D5/Dm  C
 And gliding away you fly where you choose
 Bb                 F                  Gm
 There's nothing to say and nothing to lose
