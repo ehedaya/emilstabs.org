@@ -1,5 +1,4 @@
 
-
 Note:  the album version is up a half step.  The live version is in D.  Because
 of the open stringings, if you want to play it in Eb I suggest you use a capo :).
 
@@ -124,6 +123,26 @@ G--7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-------------------------
 D------------------------------------------------------------------
 A--5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-------------------------
 E------------------------6-6-6-6-6-6-6-6-6-------------------------
+
+I'm not too sure about the above tab for this section, it may be
+true to the album version (i haven't listened to the album version 
+very much), however, recently in live versions they drop to Dm key 
+for the jam section.  The chord progression you hear is Dm to A# and 
+the scale Trey uses is a D natural minor scale most of the time.  I 
+like to play the Dm and A# like so:
+
+   Dm (x4)      A# (x4)
+E-----------------------------------------------------------------
+B--10---10------15---15-------------------------------------------
+G--10---10------15---15-------------------------------------------
+D--12---12------15---15--------------------------------------------
+A--12---12------13---13-------------------------------------------
+E-----------------------------------------------------------------
+
+You can also throw a D9 inbetween those two every now and then to 
+change it up a little, I think Trey does this sometimes, but played 
+from the 12th fret.
+
 
  I'm floating in the    blimp a lot
  I feel                 the feeling I forgot
