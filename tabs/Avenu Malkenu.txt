@@ -35,3 +35,75 @@ Translation:
 And answer us, for we are wanting, in good deeds.
 Deal with us in charity. And save us)
                                                  to be continued...
+                                                 
+                                                 
+- - - -
+
+Transcribed by John Greene - Keyboardist of Phish tribute band, Chum <http://facebook.com/chumphishtribute>
+
+I learned this one recently, but the above chords didn't seem correct to me.  Here's what I have:
+
+All timings from Phish 7/4/2012 Track 8
+
+Intro:
+Ab   A   Ab   Ebm7(no fifth?)*
+
+*My brain wants this to be Ebm7b5 but when I use “H” on ASD, I swear it’s only Db Eb Gb which i s the 7-1-3 of “Ebmin7 (no fifth)”  i.e the “A” which is the flat 5 of Eb is not there.  
+
+Verse
+Ab   A   Ab   Ebm7n5
+Ab   A   Ab   Ebm7n5
+Ab   A   x 3
+Ab   A   Ab   Ebm7n5
+Ab   A   Ab   Ebm7n5
+
+Verse 2
+
+Change: “Asseh imanu”
+C#m      B     A    F#m
+
+Verse 3 (same)
+
+01:33 - Modulation1
+Ebm7n5      /F#
+F#m7b5/A    /C
+
+01:36 
+B   C   B   C
+
+Note: Mike is a half-step off until 1:40 in this version.
+
+1:42 (bass solo over B groove)
+B   C
+
+1:55 (verse structure)
+B    C   B   F#m7n5
+
+2:02 (more bass solo over verse structure in B)
+B    C   B   F#m7n5
+B    C   B   F#m7n5
+B    C   x 3
+B    C   B   F#m7n5
+B    C   B   F#m7n5
+
+2:21 - Modulation2 (to get back to Ab)
+F#m7n5       /A
+Ebm7n5/C     /Eb
+
+Ab   A   Ab   Ebm7n5
+Ab   A   Ab   Ebm7n5
+
+Change: “Asseh imanu”
+
+Verse 4 (same)
+
+3:08 - Last Modulation to end
+I hear all these chords as the m7n5.  It goes up a minor third each time.  I’ll list the notes too
+
+Ebm7n5 - Db Eb Gb
+F#m7n5 - E  F# A 
+Am7n5  - G  A  C
+Cm7n5  - Bb C  Eb
+Ebm7n5 - Db Eb Gb
+
+
