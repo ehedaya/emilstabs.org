@@ -68,3 +68,159 @@ G-----------------------------------------------------
 D-------5------5----5---------------------------------
 A-5-7-8-----------------------------------------------
 E---------3-33---33---6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-6-
+
+- - - - - - - - -
+
+Foreplay/Longtime - Boston
+transcribed by John Greene of Phish tribute band, Chum <http://facebook.com/chumphishtribute>
+with help of Matt Riddle's Youtube video: https://www.youtube.com/watch?v=BfFcCka4ToE
+
+Notes:
+- most organ is triplet arpeggios over the specified chords
+- major/minor stuff sounds like organ to me
+- all guitar chords sound like power chords to me (i.e. no 3rd)
+
+0:00
+Keys: Bbm   Ab  loop  (Notes: Db F Db Eb Ab C)
+
+0:11
+Power guitar chord Bb + cymbal hits
+Keys: Descending run over Bbm Ab
+
+0:14
+Organ
+Bbm   Ab  loop 
+
+0:16.5
+Hi-hat
+
+0:19
+Organ/Hi-Hat
+Bbm   Ab/C  Db    Ab/C
+Bbm   Ab    Gdim  Fm
+Cm    Db    Bbm   Eb
+Fm    Fm    Fm    Fm   
+
+0:24
+Enter Drums/Bass
+Bbm   Ab/C  Db    Ab/C
+Bbm   Ab    Gdim  Fm
+Cm    Db    Bbm   Eb
+Fm    Fm    Fm    Fm 
+
+0:30
+Enter Guitar
+More Drums
+Organ higher
+Bbm   Ab/C  Db    Ab/C
+Bbm   Ab    Gdim  Fm
+Cm    Db    Bbm   Eb
+Fm    Fm    Fm    Fm  
+
+0:35
+Bbm   Ab/C  Bbm   Ab/C
+Db    Ab    Db    Ab
+Db    Ab    Bbm   Fm
+Gb    Db    Eb    F
+
+0:41
+Drum Fills galore!
+Bbm   /     /     Ab/C
+Db    /     /     Ab
+Bbm   /     /     Ab/C
+Db    /     /     Ab
+Bbm   Ab/C  Db    Ab
+Bbm   Ab/C  Db    Ab
+Bbm   Ab    Gb    Ebm
+Fsus4 /     /     /
+
+0:51.5
+Descending run over Bbm Ab
+
+0:54
+Organ w/ hi-hat
+Bbm   Ab  loop 
+
+0:57
+Piano/synthy thing left hand
+Repeat entire structure from 0:24 which gets you to
+
+1:24
+Bb <- major for the first time
+
+1:28
+Fm/C      organ right hand voicing: Ab C  F
+Eb/C      organ right hand voicing: Eb G  Bb Eb
+G/C       organ right hand voicing: D  G  B  D
+Fdim7/C   organ right hand voicing: F  Ab B  D  F
+Csus4     organ right hand voicing: G  C  F
+C         organ right hand voicing: G  C  E
+
+1:54
+single note organ C  (the C between the G and the E above)
+
+Eb6       organ voicing: Eb G  Bb C (right hand on high C at all times)
+F/C       organ voicing: C  F  A  C
+Dbmaj7    organ voicing: Db F  Ab C
+Gdim addC organ voicing: Bb Db G  C (right hand on G C)
+C         organ voicing: C  E  G  C
+
+2:23
+Build begins
+
+2:30
+drum fill
+
+Longtime Begins
+2:31
+Organ chords:
+F     Cm/F     Bbsus4/F   Bb/F
+
+Change (“myyyyy waayyy”)
+F/C  C  F/C  C
+Bb
+
+3:24 Chorus
+Acoustic guitar with hand-claps (Eric just use clean channel? John piano instead?)
+ 
+         F          Eb        Bb  
+Well I’m takin’ my time
+
+...
+
+     F               Eb         Dm
+It’s just outside of your front door
+
+3:49 walkup D E F G
+
+3:50
+G
+Bb
+
+3:58 Guitar solo over pre-verse
+
+4:13 Second Verse
+
+4:29 walkup D E F
+
+4:50 Chorus
+
+5:25 Break/jam
+F    /    /     /
+Cm   /    Eb    Bb
+F    /    /     /
+Cm   /    Eb/G  Bb/F
+
+Last time stays on F with big bass walkup to F G Ab
+
+6:05
+Organ: Abmaj7  Bb/Ab  Ab    Bb/Ab  x 2
+
+6:13.5
+Organ: Csus4   C      Bb/C  C
+       Csus4   C      
+
+6:21 Last Verse
+
+6:58 Last Chorus (electric guitar) and out - Takin my time
+
