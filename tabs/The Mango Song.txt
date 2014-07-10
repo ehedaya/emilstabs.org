@@ -218,3 +218,44 @@ D-----10----------------------------14/16----------------------------13/14
 A-10/11-------------------------------------------------------------------
 E-------------------------------------------------------------------------
 
+
+- - - 
+
+Submitted by John Greene of Phish tribute band, Chum <http://facebook.com/chumphishtribute>
+Originally charted by Nate Richardson.
+
+Just another view of this song in the form of a simple chord chart for those who just want to dabble on guitar or keys
+It's a little awkward due to irregular time signatures.  All bars with 3 chords are 6/4 bars
+
+Intro (also this is the chorus)
+||:   D   	G     	|  C   	G     	:||
+
+  	D   	G     	|  C   	B     	|  E
+
+||:   E   	Emaj7 	|  D   	A     	Adim      
+
+  	E   	F#    	|  B   	G#m   	C#
+
+  	F#m 	F#mMaj7	E      
+
+1st end     
+  	B             	|  B           	:||
+
+2nd end
+  	B             	|  A   	F#
+
+  	E   	C+    	|  C#m 	D   	D#7
+
+  	G#  	G#+   	|  A   	F# 
+
+  	E   	C+    	|  C#m 	D   	|  F#m7	B
+
+Last Chorus
+
+2/4   D	4/4||:   G   	C     	|  F   	C     	:||
+
+Last note diddle: E 
+
+Weird Blues ending in G walking up to D then:  Fdim7 Edim7 Ebdim7 Ddim7 
+
+
