@@ -8,13 +8,17 @@
  */
 $(document).ready(function()
 {
+	var filter = $('filter');
+	// Set the focus on the filter.
+	filter.focus();
+	
 	// Create a style element where we'll input the CSS needed
 	// to filter the table
 	var searchStyle = $('<style/>');
 	$('body').append(searchStyle);
 	
 	// Watch the filter input on keyup and then filter the results
-	$('#filter').bind('keyup', function()
+	filter.bind('keyup', function()
 	{
 		// Text box blank? Reset table to show all results
 		if ( ! this.value)
