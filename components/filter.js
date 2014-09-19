@@ -8,7 +8,7 @@
  */
 $(document).ready(function()
 {
-	var filter = $('filter');
+	var filter = $('#filter');
 	// Set the focus on the filter.
 	filter.focus();
 	
