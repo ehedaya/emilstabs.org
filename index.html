@@ -2,16 +2,19 @@
 <html>
 	<head>
 		<title>Emil's Tabs</title>
-		<script type="text/javascript" src="components/ga.js"></script>
-		<script type="text/javascript" src="components/jquery/jquery.min.js"></script>
-		<script type="text/javascript" src="components/mustache/mustache.js"></script>
-		<script type="text/javascript" src="components/datejs/build/date.js"></script>
-		<link href="components/bootstrap/css/bootstrap.css" type="text/css" rel="stylesheet" />
-		<link href="components/bootstrap/css/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="scripts/ga.js"></script>
+		<script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="bower_components/underscore/underscore-min.js"></script>
+		<script type="text/javascript" src="bower_components/backbone/backbone.js"></script>
+		<script type="text/javascript" src="bower_components/handlebars/handlebars.min.js"></script>
+		<script type="text/javascript" src="bower_components/moment/min/moment.min.js"></script>
+		<script type="text/javascript" src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+		<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
 		<style type="text/css">
 			footer { text-align: center; border-top: 1px solid #ccc; margin-top: 5em; padding-top: 2em; }
 		</style>
-		
+
 		<script type="text/javascript">
 	        $(document).ready(function() {
 	        	updatesTemplate = $('#updatesTemplate').html();
@@ -31,7 +34,7 @@
 					<div class="col-span-12">
 						<h1>Emil's Tabs</h1>
 						<p>Welcome to the official unofficial repository of guitar transcriptions to many of the songs played by Phish. Actual official transcriptions can be purchased from <a href="http://www.sheetmusicplus.com/s?q=phish&aff_id=58840">Sheet Music Plus</a> or <a href="http://drygoods.phish.com/">Phish DryGoods</a>. If you have a correction or new submission, please add or edit the file directly in <a href="https://github.com/ehedaya/emilstabs.org">Github</a> or <a href="https://github.com/ehedaya/emilstabs.org/issues">open an issue</a>. There's also a small selection of old video clips of Trey playing on <a href="http://www.youtube.com/emilstabs">YouTube</a>.</p>
-						
+
 						<p>
 							<a href="tabs/" class="btn btn-large btn-primary">Guitar tabs</a>
 							<a href="bass/" class="btn btn-large btn-primary">Bass tabs</a>
@@ -42,13 +45,13 @@
 						<hr/>
 						<h3>Bass tabs from Brad Weiger <span class="label label-success">NEW</span></h3>
 						<p>A trove of over 80 hand-written bass tabs has been generously made available to the community by Brad Weiger, former bassist of the tribute band <a href="https://www.facebook.com/lawnboys">The Lawn Boys</a>.  <strong>But we need your help!</strong> If you are able and willing to help transcribe these from their present hand-written-and-scanned format to digital, your help will be much appreciated.  Please save bass tabs in the <a href="https://github.com/ehedaya/emilstabs.org/tree/master/bass"><code>bass/</code> subfolder</a>.</p>
-						
+
 						<a href="http://static.emilstabs.org/82-Phish-Bass-Tabs-by-Brad-Weiger.pdf.zip" class="btn btn-large btn-primary">Download PDF</a>
 						<hr/>
 						<h3>Open-source archive</h3>
 						<p>In an effort to make the information both more freely available to anyone who wants it and easier to maintain, all transcriptions are now simple text files. This information belongs to the community, so you can <a href="">download a snapshot</a>  of the entire archive (tabs, loops, and all) and save it to your hard drive at any time.</p>
 						<p>
-							<a href="https://github.com/ehedaya/emilstabs.org/archive/master.zip" class="btn btn-primary">Download entire archive</a> 
+							<a href="https://github.com/ehedaya/emilstabs.org/archive/master.zip" class="btn btn-primary">Download entire archive</a>
 							<h4>How to contribute</h4>
 							<p>To contribute, you'll need to create a <a href="http://github.com/">Github</a> account, which is free.</p>
 							<h5>Edit a transcription</h5>
@@ -58,8 +61,8 @@
 								<li>Make your changes, then click "Propose File Change."</li>
 								<li>On the next page, click "Send pull request" to send a request to have your changes merged back into the main project. If you've changed your mind and want to delete your changes, click on the "Branches" tab and delete the branch.</li>
 								<li>Once your request has been accepted, you can delete the old branch (optional).</li>
-								
-								
+
+
 							</ol>
 							<h5>Create a new transcription</h5>
 							<ol>
