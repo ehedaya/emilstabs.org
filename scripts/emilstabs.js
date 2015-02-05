@@ -37,7 +37,7 @@ $(document).ready(function() {
                 $.get(uri, function(response) {
                     $this.set('body', response);
                     var name_decoded = decodeURIComponent(uri);
-                    $this.set('name', name_decoded.substr(0, name_decoded.indexOf(".txt")));
+                    $this.set('name', name_decoded.substr(0, name_decoded.indexOf(".txt")).replace(/\/files\/(tabs|bass)\//g, ""));
                     $this.set('uri', uri);
                 })
             } else {
@@ -57,6 +57,7 @@ $(document).ready(function() {
             var $this = this;
             stab.templateCache.get(this.template, function(template) {
                 $this.$el.html(template($this.model.toJSON()));
+                document.title = $this.model.get('name') + " - Emil's Tabs";
             });
         }
     });
