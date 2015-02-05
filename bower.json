@@ -1,0 +1,21 @@
+{
+  "name": "emilstabs.org",
+  "version": "0.0.0",
+  "homepage": "https://github.com/ehedaya/emilstabs.org",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "bootstrap": "~3.3.2",
+    "handlebars": "~2.0.0",
+    "moment": "~2.9.0",
+    "jstorage": "~0.4.12"
+  }
+}
