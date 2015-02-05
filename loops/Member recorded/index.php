@@ -1,9 +1,17 @@
 <!doctype html>
 <html>
 	<head>
-		<script type="text/javascript" src="../../components/ga.js"></script>
-		<link href="../../components/bootstrap/docs/bootstrap.css" type="text/css" rel="stylesheet" />
-		<link href="../../components/bootstrap/docs/bootstrap-responsive.css" type="text/css" rel="stylesheet" />
+		<script type="text/javascript" src="/scripts/ga.js"></script>
+		<script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="/bower_components/underscore/underscore-min.js"></script>
+		<script type="text/javascript" src="/bower_components/backbone/backbone.js"></script>
+		<script type="text/javascript" src="/bower_components/handlebars/handlebars.min.js"></script>
+		<script type="text/javascript" src="/bower_components/moment/min/moment.min.js"></script>
+		<script type="text/javascript" src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/bower_components/jstorage/jstorage.min.js"></script>
+		<script type="text/javascript" src="/scripts/emilstabs.js"></script>
+
+		<link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
 	</head>
 	<body>
 		<div class="container">
@@ -24,8 +32,8 @@
 							?>
 							<li class="media">
 								<div class="media-body">
-									<object type="application/x-shockwave-flash" 
-									  data="<?php echo $loop; ?>" 
+									<object type="application/x-shockwave-flash"
+									  data="<?php echo $loop; ?>"
 									  width="300" height="100">
 									  <param name="movie" value="<?php echo $loop; ?>" />
 									  <param name="quality" value="high"/>

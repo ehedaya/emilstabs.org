@@ -1,6 +1,6 @@
 $(document).ready(function() {
     stab = {};
-
+    stab.cacheTTL = 5 * 60 * 1000;
 	stab.templateCache = {
 		cache: {},
 		get: function(filename, callback) {
@@ -19,7 +19,7 @@ $(document).ready(function() {
 					callback(compiled_template);
 				} else {
 					$.get(filename, function(template) {
-						// $.jStorage.set(localStorageKey, template, {TTL: 5 * 60 * 1000 });
+						$.jStorage.set(localStorageKey, template, {TTL: stab.cacheTTL });
 						var compiled_template = Handlebars.compile(template);
 						self.cache[filename] = compiled_template;
 						callback(compiled_template);
@@ -64,13 +64,22 @@ $(document).ready(function() {
     stab.tabIndex = Backbone.Collection.extend({
         fetch: function(directory_path) {
 	        var $this = this;
+	        var cacheKey = "tabIndex-" + directory_path;
 	        if(!directory_path) {
     	        console.error("No path");
     	        return false;
 	        }
-	        $.getJSON(directory_path, function(response) {
-    	        $this.set(_.map(response, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: m }; }));
-	        })
+            var cached = $.jStorage.get(cacheKey);
+            if(cached) {
+                $this.set(cached);
+                console.debug("Cached");
+            } else {
+    	        $.getJSON(directory_path, function(response) {
+        	        var data = _.map(response, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: m }; });
+        	        $.jStorage.set(cacheKey, data, {TTL: stab.cacheTTL});
+                    $this.set(data);
+    	        })
+            }
         }
     });
 
