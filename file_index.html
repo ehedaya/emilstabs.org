@@ -12,10 +12,13 @@
 		<script type="text/javascript" src="/scripts/emilstabs.js"></script>
 
 		<link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+		<link href="/stylesheets/emilstabs.css" type="text/css" rel="stylesheet" />
+
 		<script type="text/javascript">
 	        $(document).ready(function() {
 
     	        var nav = new stab.nav();
+    	        var footer = new stab.footer();
 
                 tabIndexView = new stab.tabIndexView();
 			});
@@ -31,11 +34,18 @@
             	<div class="row">
                 	<div class="col-sm-12">
                         <div id="tabIndex">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+                                    <span class="sr-only">LOADING</span>
+                                </div>
+                            </div>
                         </div>
                 	</div>
             	</div>
 
             </div>
+            <footer></footer>
         </div>
+
 	</body>
 </html>

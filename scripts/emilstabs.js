@@ -100,10 +100,8 @@ $(document).ready(function() {
         }
     });
 
-    stab.nav = Backbone.View.extend({
-        el: $('#nav'),
+    stab.staticView = Backbone.View.extend({
         initialize: function() {
-            this.template = "/templates/nav.html";
             this.render();
         },
         render: function() {
@@ -112,7 +110,17 @@ $(document).ready(function() {
                 $this.$el.html(template({}));
             })
         }
+    })
+
+    stab.nav = stab.staticView.extend({
+        el: $('#nav'),
+        template: "/templates/nav.html"
     });
+
+    stab.footer = stab.staticView.extend({
+        el: $('footer'),
+        template: "/templates/footer.html"
+    })
 
 
 });

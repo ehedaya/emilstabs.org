@@ -12,10 +12,13 @@
 		<script type="text/javascript" src="/scripts/emilstabs.js"></script>
 
 		<link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+		<link href="/stylesheets/emilstabs.css" type="text/css" rel="stylesheet" />
+
 		<script type="text/javascript">
 	        $(document).ready(function() {
 
     	        var nav = new stab.nav();
+    	        var footer = new stab.footer();
 
 				var file = window.location.pathname;
 				if(file == "/tabs/" || file == "bass/") {
@@ -51,6 +54,7 @@
             	</div>
 
             </div>
+            <footer></footer>
         </div>
 	</body>
 </html>
