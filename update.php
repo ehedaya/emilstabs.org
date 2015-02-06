@@ -1,3 +1,3 @@
 <?php
-exec("git pull origin master");
+exec("../git/deploy_emilstabs.org");
 ?>
