@@ -108,13 +108,83 @@ $(document).ready(function() {
             var $this = this;
             stab.templateCache.get(this.template, function(template) {
                 $this.$el.html(template({}));
-            })
+                $this.postRender && $this.postRender();
+            });
         }
-    })
+    });
+
+    stabSearch = Backbone.View.extend({
+        initialize: function(options) {
+            this.el = options.el;
+            this.render();
+        },
+        render: function() {
+            var $this = this;
+			this.guitar = new Bloodhound({
+				datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+				queryTokenizer: Bloodhound.tokenizers.whitespace,
+				prefetch: {
+					url: '/files/tabs/index.php',
+					filter: function(list) {
+    					console.debug("Filtering");
+						return  _.map(list, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: '/tabs/' + m }; });
+					}
+				}
+			});
+			this.bass = new Bloodhound({
+				datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+				queryTokenizer: Bloodhound.tokenizers.whitespace,
+				prefetch: {
+					url: '/files/bass/index.php',
+					filter: function(list) {
+    					console.debug("Filtering");
+						return  _.map(list, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: '/bass/' + m }; });
+					}
+				}
+			});
+
+			this.guitar.initialize();
+			this.bass.initialize();
+
+			this.$('form input').typeahead({
+				highlight: true,
+    			}, {
+    				name: "Guitar",
+    				displayKey: "name",
+    				source: $this.guitar.ttAdapter(),
+    				templates: {
+    					header: '<li class="dropdown-header">Guitar tabs</li>'
+    				}
+    			}, {
+    				name: "Bass",
+    				displayKey: "name",
+    				source: $this.bass.ttAdapter(),
+    				templates: {
+    					header: '<li class="dropdown-header">Bass tabs</li>'
+    				}
+                });
+
+        },
+		events: {
+			"typeahead:selected" : "process",
+			"keypress" : "process"
+		},
+		process: function(event, datum) {
+			if(event.keyCode == 13) {
+				event.preventDefault();
+			}
+			if(datum && datum.uri) {
+				window.location.replace(datum.uri);
+			}
+		},
+    });
 
     stab.nav = stab.staticView.extend({
         el: $('#nav'),
-        template: "/templates/nav.html"
+        template: "/templates/nav.html",
+        postRender: function() {
+            this.stabSearch = new stabSearch({el: this.$('#nav-search')});
+        }
     });
 
     stab.footer = stab.staticView.extend({

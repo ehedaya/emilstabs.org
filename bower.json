@@ -16,6 +16,7 @@
     "bootstrap": "~3.3.2",
     "handlebars": "~2.0.0",
     "moment": "~2.9.0",
-    "jstorage": "~0.4.12"
+    "jstorage": "~0.4.12",
+    "typeahead.js": "~0.10.5"
   }
 }
