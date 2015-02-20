@@ -175,7 +175,7 @@ $(document).ready(function() {
 				event.preventDefault();
 			}
 			if(datum && datum.uri) {
-                ga('send', 'event', 'search', datum.name);
+                ga('send', 'event', 'search', 'process', datum.name);
 				window.location.replace(datum.uri);
 			}
 		},
