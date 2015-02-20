@@ -167,13 +167,15 @@ $(document).ready(function() {
         },
 		events: {
 			"typeahead:selected" : "process",
-			"keypress" : "process"
+			"keypress" : "process",
+			"submit form" : "process"
 		},
 		process: function(event, datum) {
 			if(event.keyCode == 13) {
 				event.preventDefault();
 			}
 			if(datum && datum.uri) {
+                ga('send', 'event', 'search', datum.name);
 				window.location.replace(datum.uri);
 			}
 		},
