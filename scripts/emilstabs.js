@@ -176,6 +176,7 @@ $(document).ready(function() {
 			}
 			if(datum && datum.uri) {
                 ga('send', 'event', 'search', 'process', datum.name);
+                ga('send', 'pageview', '/search?q='+datum.name);
 				window.location.replace(datum.uri);
 			}
 		},
