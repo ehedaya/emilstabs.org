@@ -58,6 +58,7 @@ $(document).ready(function() {
             stab.templateCache.get(this.template, function(template) {
                 $this.$el.html(template($this.model.toJSON()));
                 document.title = $this.model.get('name') + " - Emil's Tabs";
+                $this.comments = new stab.commentsView({model: $this.model, el: this.$('.comments')});
             });
         }
     });
@@ -193,7 +194,11 @@ $(document).ready(function() {
     stab.footer = stab.staticView.extend({
         el: $('footer'),
         template: "/templates/footer.html"
-    })
+    });
+
+    stab.commentsView = stab.staticView.extend({
+        template: "/templates/comments.html"
+    });
 
 
 });
