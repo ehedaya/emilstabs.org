@@ -3,111 +3,110 @@
 transcribed by Tim Louis   guyutetup@aol.com
 
 E-------------------------------------------------------
-B-2-----1-----------------------------------------------
-G---3-1---1---1-----------------------------------------
-D-----------4---4-3-----4-3-----4-1---3--4-3-4-3-4------
-A-------------------4-2-----4-2-----2--------------2----
+B-1-----0-----------------------------------------------
+G---2-0---0---0-----------------------------------------
+D-----------3---3-2-----3-2-----3-0---2--3-2-3-2-3------
+A-------------------3-1-----3-1-----1--------------1----
 E-------------------------------------------------------
 
 
 E----------------------------
-B------------------------2---
-G--3---1-----------1-3-4-----
-D----4---3---1-3-4-----------
-A----------4-----------------
+B------------------------1---
+G--2---0-----------0-2-3-----
+D----3---2---0-2-3-----------
+A----------3-----------------
 E----------------------------
 
-I'm not sure about a lot of these lyrics.  I checked the lyrics file
-at Phish net but this tune wasn't in there.
+Intro:  C  F
 
-C#            B
+C             Bb
 Goin' down to Lushington
 
-F#             C#
+F              C
 Ray-Bans on my nose
 
-C#                  B
+C                   Bb
 The sun is beatin' down on me
 
-        Bbm                Eb
+        Am                D
 I've got cheese between my toes
 
-C  F  Bb
+B  E  A
 
-Eb                 C#
+D                  C
 Traffic is movin' slowly
 
-       G#                Eb
+       G                 D
 and I'm feeling a little sick
 
-Eb                 C#  
+D                  C  
 I bend down where nobody can see me
 
-     Cm              E#
+     Bm              E
 and I give my nose a pick
 
-D  G  C
+C#  F#  B
 
-E#                   Eb             Bb                E#
+E                    D              A                 E
 I've been down about Reagan, about bombs and wars and tax
 
-E#                 Eb
+E                  D
 I put my little finger in my ear
 
-     Dm                   G
+     C#m                  F#
 and I pull out a clump of wax
 
-Eb  G
+D  F#
 
 
 play next part 4X
 
-         C#        
+         C        
 Well it's miles and miles of
 
-F#
+F
 Lushington miles and
 
-C#                      F#  
+C                      F  
 Every one is brutal
 
-then play G#
+then play G
 
 play "Chase" section of "Fluff's Travels" from "Junta" album
 
-C#                   B
+C                    Bb
 I've been drivin' on down now
 
-F#                    C#
+F                     C
 And things are gettin' scary
 
-C#            B
+C             Bb
 I bend down between my sweaty cheeks
 
-Bbm              Eb
+Am               D
 And I pull out a dingleberry
 
-C  F  Bb
+B  E  A
 
 play next part 4X
 
-         D#
+         D
 Well it's miles and miles of
 
-G#
+G
 Lushington miles and
 
-D#                    G#
+D                    G
 Every one is brutal
 
-then play Bb
+then play A
 
 jam to these chords:
 
-Eb  C#  G#  Eb  Eb  C#  Cm  E#  D  G  C
+D  C  G  D  D  C  Bm  E  Db  F#  B
 
-E#  Eb  Bb  E#  E#  Eb  Dm  G  Eb  G  G
+E  D  A  E  E  D  C#m  F#  D  F#  F#
 
-play 4X>  C#  F#  C#  F#
+play 4X>  C  F  C  F
 
-C#  
+C
