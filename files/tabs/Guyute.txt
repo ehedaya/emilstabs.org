@@ -19,7 +19,7 @@ Then stopped and did some other tricks
     Am      G        C        D
 Like pulling weapons from his coat
 
-  C        G     C           F
+  Am        G    C           F
 And holding them against my throat
 
   C        G     C         F
@@ -524,4 +524,4 @@ D--------------------------------
 A--------------------------------
 E--------------------------------
 
-The song ends on four C Chords..
+The song ends on four C Chords.
