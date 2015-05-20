@@ -102,13 +102,17 @@ $(document).ready(function() {
     });
 
     stab.staticView = Backbone.View.extend({
-        initialize: function() {
+        initialize: function(options) {
+            if(options && options.model) {
+	            this.model = options.model;
+			}
             this.render();
         },
         render: function() {
             var $this = this;
             stab.templateCache.get(this.template, function(template) {
-                $this.$el.html(template({}));
+				var template_data = $this.model ? $this.model.toJSON() : {};
+                $this.$el.html(template(template_data));
                 $this.postRender && $this.postRender();
             });
         }
