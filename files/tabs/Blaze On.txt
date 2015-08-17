@@ -1,7 +1,21 @@
 "Confirmed" lyrics from http://phish.net/song/blaze-on/lyrics
 https://twitter.com/TomMarshall111/status/623877198898966528
 
-Missing some of the nuances and change ups, but it's pretty fun to play over.
+Capo on 1
+
+Riffs
+
+Trey plays around with these little transition licks between chords in the beginning of the song.
+
+leading into the C    leading into the G
+
+------------------    ------------------
+------------------    ------------------
+------------------    ------------------
+------------------    -----5------------
+-----3------------    -5s7---7s5-3------
+-3h5---(5)--------    ------------------
+
 
 C
 climb that hill, stay on your feet
@@ -86,3 +100,4 @@ so now the band plays on, you got one life, blaze on
 you got your nice shades on, and the worst days are gone
            G                          C
 so now the band plays on, you got one life, blaze on
+
