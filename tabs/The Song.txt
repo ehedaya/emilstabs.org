@@ -28,7 +28,7 @@ E               A          C#m       B
  A                        B
  there's an empty space instead
  
- [repeat chorus]
+[repeat chorus]
  
      Bb                       C
  You hit me like a hurricane, I did not detect
@@ -39,9 +39,32 @@ E               A          C#m       B
     D
  if this is how the story ends
  
- [repeat chorus]
+         G            C                   Em            D
+ And the hands on the clock keep ticking, just rolling along
+        F                           G         F   C
+ in the end all that's left is the song
+         G              C               Em              D
+ Tried to keep the fire burning, but it didn't last too long
+        F                                                      G 
+ in the end all that's left is the, end all that's left is the song
+ 
+ G   C   Em   D    F          G 
+ [guitar solo ***]
+ 
+          G            C                   Em            D
+ And the hands on the clock keep ticking, just rolling along   [x4]
  
  G      C   Em         D           G    C   Em          D 
  Woa-oh-oh, all that's left is the so-o-ong, all that's left is the
  
  [repeat G, C, Em, D progression til end]
+
+
+
+*** guitar solo! Trey starts this by playing a 12th fret G note 12 times. Clock symbolism???
+e|------------------------------------------------------------------------------|
+B|--------------------------------------------------10--------10-10-------10----|
+G|-12-12-12-12-12-12-12-12-12-12-12-12-11-12-11-12-----10-----------10-------12-|
+D|--------------------------------------------------------10-----------10-------|
+A|------------------------------------------------------------------------------|
+E|------------------------------------------------------------------------------|
