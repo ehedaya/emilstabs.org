@@ -3,77 +3,72 @@ Phish
 
 Intro (2x):
 E------------------------------------------------------------------
-B----11---11-----11---11-10-10------8---8s10--10-----8---8p6---6-
+B----11----------11---11-10-10------8---8s10--10-----8---8p6---6---
 G------------------------------------------------------------------
-D--13---13-----13---13------------8---8-----10------8---8-----7---
+D--13----------13-----------------8-----------------8--------------
+A------------------------------------------------------------------
+E------------------------------------------------------------------
 
 Verse:
-The verse is similar to the intro but with the following fingerings:
-E--------------------
-B--11---10---8---10--
-G--------------------
-D--13---10---8---10--
-
-
-B----11---11-----11---11---10---
-G-------------------------------
-D--13---13-----13---13---10-----
 
 Steal away, let's steal a car
-
-
-B----8--8--8...   ------10---10-
-G-----------...   --------------
-D--8--8--8--...   ----10---10---
-
 You'll never win a major only shooting par
-
 Step outside, feel the sun
 It's only you, be you, cause you're the only one
 
-Chorus: (repeat 2x)
-Trey only plays the D5/Dm sometimes, but it's implied
+Pre-Chorus: (repeat 2x)
 
-       D5/Dm  C5
+       D5    C5
 And it feels good
-         D5/Dm  C5
+         D5   C5
 Cause it feels good
-       D5/Dm  C5
+       D5    C5
 And it feels good
+
+Verse
 
 Nothing lasts, nothing stays
 Caught in this procession of unchanging days
 What's new is old, what's old is gone
 You're pushed up to the edge so put your wingsuit on
 
-[repeat chorus 1x]
+[repeat Pre-Chorus 1x]
 
-Bb            F                      Dm    C
+Chorus
+
+Bb            F                    C
 And gliding away you fly where you choose
 Bb                 F                  Gm
 There's nothing to say and nothing to lose
+
+At the C Trey plays this lick twice.
+
+E----------------------------------------------
+B------6------5-------1------------------------
+G----------------------------------------------
+D--6/7----4/5----1/2----------------------------
+A----------------------------------------------
+E----------------------------------------------
 
 [repeat intro]
 
 [verse riff]
 Steal away, paint the sky
 
-          D5/Dm    C
+          D5      C
 Put your wingsuit on (4x)
 
-Bb             F                     D5/Dm    C  D5/Dm  C
+Bb             F                   C
 And gliding away you fly where you choose
 Bb                 F                  Gm
 There's nothing to say and nothing to lose
 
 (single guitar notes)
-G A Bb D E F G
+G A Bb D E F Bb
 G A Bb D E F
-G
+Bb
 Time to put your winsuit on
 
 Outro:
 Gm Am Bb C
 Gm Am Bb
-
-Trey plays a Gm pentatonic solo over the outro chords
