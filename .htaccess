@@ -2,5 +2,5 @@ Options +FollowSymLinks
 Options +Indexes
 RewriteEngine On
 RewriteBase /
-RewriteRule ^(tabs|bass)\/([A-Z0-9a-z\s\'\(\)]+)\.txt file.html
+RewriteRule ^(tabs|bass)\/([A-Z0-9a-z,\s\'\(\)]+)\.txt file.html
 RewriteRule ^(tabs|bass)\/$ file_index.html
