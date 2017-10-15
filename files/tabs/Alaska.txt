@@ -6,9 +6,9 @@ shakedown_04092@yahoo.com
 (bluesy shuffle on most chords...listen to a copy to get the feel)
 
 Verse 1 & 2:
-C7 
+C    C6    C    C6    C
 I always had to tell her to relax
-        F                              C7
+        F    F6    F    F6             C    C6    C    C6
 And the cat can slip in doors, through multitudes of cracks
          Eb                 C         Eb                  C
 And it’s funny what they’ll do, cause cracks lead outside too
@@ -17,9 +17,9 @@ When I asked her where she’s goin’
          G
 She said far away from you
 
-C7
+C    C6    C    C6    C
 Stuck here on my own now, diggin’ down deep
-F                          C7
+F    F6    F    F6         C    C6    C    C6
 I don’t understand it, but I ain’t losin’ sleep
               Eb  C        Eb                C
 I’m not gonna lay down, or head north out of town
@@ -30,13 +30,13 @@ And try dog mushin’ with an Eskimo
 
 
 Chorus:
-    C7
+C    C6    C    C6    C
 In Alaska, Alaska...I think I’ll try Alaska
-F                                G
+F    F6    F    F6         C    C6    C    C6
 Somewhere she could wait for me, I’ll catch up just wait and see
-C7                        Em7       F
+C  C6  C       C6         Em7       F
 Idaho, Nebraska...I don’t know I’ll ask her
-G                                    C7       *riff
+G                                   C     C6   C  C6       *riff
 I think I’ll try...I think I’ll try Alaska
 
 *Riff
@@ -49,9 +49,9 @@ E --------------
 
 
 Verse 3 & 4:
-C7
+C    C6    C    C6    C
 I sold my old piano for the rent
-F                              C7
+F    F6    F    F6         C    C6    C    C6
 I loaded up on bug spray and I found my daddy’s tent
            Eb   C           Eb    C
 Now I’m in high gear, doin’ forty-five
@@ -60,9 +60,9 @@ I’m hummin’ a tune, I won’t see the moon
      G
 Till sometime in July
 
-C7
+C    C6    C    C6    C
 I guess I could’ve flown or took a train
-F                                    C7
+F    F6    F    F6         C    C6    C    C6
 But you won’t see a moose, if you’re sittin’ on a plane
                 Eb      C                 Eb    C
 And now there’s no more road, but I got a light load
@@ -73,13 +73,13 @@ I’ll stay and pan for gold
 
 
 Chorus:
-    C7
+C    C6    C    C6    C
 In Alaska, Alaska...I think I’ll try Alaska
 F                                G
 Somewhere she could wait for me, I’ll catch up just wait and see
-C7                        Em7       F
+C    C6    C    C6        Em7       F
 Idaho, Nebraska...I don’t know I’ll ask her
-G                                    C7
+G                                    C    C6    C    C6
 I think I’ll try...I think I’ll try Alaska
 
 
@@ -94,11 +94,11 @@ Big ol’ ‘laskan mama come walkin’ down the road
 
 
 Chorus:
-C7
+C    C6    C    C6    C
 Alaska, Alaska...I’ll stay right here in Alaska
 F                                G
 All settled down and hav’in fun, here in the land of the midnight sun
-      C7                                 Em7       F
+C    C6    C    C6                       Em7       F
 Is it time to call the pastor?...I don’t know I’ll ask her
 G                              
 I’ll stay right here...I’ll stay right here	(repeat this part 4x, ending is F to C)
