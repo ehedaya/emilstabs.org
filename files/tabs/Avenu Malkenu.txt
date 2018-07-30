@@ -106,4 +106,56 @@ Am7n5  - G  A  C
 Cm7n5  - Bb C  Eb
 Ebm7n5 - Db Eb Gb
 
+- - - - - - -
 
+Transcription by Eric Landsberg
+
+The above two transcriptions have some errors.
+
+Here are the correct chords. These can also be used for single acoustic guitar as I used Trey's solo acoustic performance from 2/15/18 at Sixth and I Historic Synagogue to help clear up how this can be played solo; this would of course be good for band arrangements as well.
+
+The prior transcription uses an Ebm7 without the fifth, and the one above that uses a DMaj7. The truth is that it is in fact an Ebm7b5 (Idk how it sounds on a keyboard, but this is definitely what Trey is doing on guitar), likewise the modulation uses an F#m7b5.
+
+Ebm7b5: x-6-7-6-7-x
+F#m7b5: x-9-10-9-10-x
+
+Additionally, the B part ("Asseh imanu") uses an Ab instead of an F#m, it sounds much better and fits the harmonic minor scale that the song is in.
+
+I've also included the weird time changes, as Phish's arrangement of this traditional Jewish tune goes between 5/4 and 6/4 time, and that's what makes it sound so Phishy.
+
+Part A: Intro/"Avenu Malkenu..."
+
+(5/4 time)
+|Ab - - A - |Ab - - Ebm7b5 -|
+"Avenu Malkenu"
+Ab  A  Ab  Ebm7b5
+"Chanenu v'anenu"
+(6/4 time)
+|Ab - - A - - |
+"Avenu Malkenu"
+Ab  A
+"Chanenu v'anenu"
+(Back to 5/4)
+Ab  A  Ab Ebm7b5
+"Ki ain banu ma'asim"
+
+Part B: (6/4 time)
+|C#m |B |A |Ab|
+"Asseh imanu, tsadaka vichesed"
+|C#m |B |
+"Asseh imanu tsadaka vichesed"
+(Back to 5/4 time)
+|A - - Ab - - | Ab - - Ebm7b5 - -|
+"V'hoshi'ainu"
+
+Then you repeat A part until you do the key modulation from Ebm7b5 into F#m7b5, then you jam on the modulated A part (Mike solos here):
+(5/4)
+B  C  B  F#m7b5
+(6/4)
+B  C  B  C
+(5/4)
+B  C  B  F#m7b5
+
+Then modulate F#m7b5 -> Ebm7b5, back to the A part and B part, rinse, repeat as desired. Then you can do the outro as listed on the prior transcription but using all m7b5 chords is good and kosher instead of just not including the b5 like the other guy wrote.
+
+Enjoy!
