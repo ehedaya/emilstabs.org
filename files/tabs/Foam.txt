@@ -559,4 +559,4 @@ E|-----------------------|--------|
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/foam2.swf</gflash>
+<gflash>100 40 /loops/phish/foam2.swf</gflash>

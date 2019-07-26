@@ -941,4 +941,4 @@ E|---S---------L----------------------12\---------------0---|
 #[http://youtube.com/watch?v=Jjg4IaFqTIA Glens Falls, NY 1994-10-31 (YouTube.com)]
 == Loops ==
 Member recorded (J. Goldberg):
-<gflash>100 40 /vb5/member/dividedsky.swf</gflash>
+<gflash>100 40 /loops/member/dividedsky.swf</gflash>

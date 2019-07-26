@@ -147,4 +147,4 @@ I play the first progression after that as A>G>A then a quick E>D (Another easy 
 
 == Loop ==
 Member recorded:
-<gflash>100 40 /vb5/member/slave.swf</gflash>
+<gflash>100 40 /loops/member/slave.swf</gflash>

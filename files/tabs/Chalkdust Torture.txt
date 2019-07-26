@@ -243,6 +243,6 @@ the main theme to finish the chorus.
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/chalkdust2.swf</gflash>
+<gflash>100 40 /loops/phish/chalkdust2.swf</gflash>
 Member recorded:
-<gflash>100 40 /vb5/member/chalkdust.swf</gflash>
+<gflash>100 40 /loops/member/chalkdust.swf</gflash>

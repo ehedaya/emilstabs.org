@@ -123,4 +123,4 @@ Thats all the important stuff
 
 == Loops ==
 Member recorded:
-<gflash>100 40 /vb5/member/ghost.swf</gflash>
+<gflash>100 40 /loops/member/ghost.swf</gflash>

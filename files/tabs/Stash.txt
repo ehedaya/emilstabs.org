@@ -710,4 +710,4 @@ Good Luck my fellow guitarists
 
 == Loops ==
 Member recorded (J. Golberg):
-<gflash>100 40 /vb5/member/stash.swf</gflash>
+<gflash>100 40 /loops/member/stash.swf</gflash>

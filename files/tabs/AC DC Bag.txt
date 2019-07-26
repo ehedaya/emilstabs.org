@@ -11,7 +11,7 @@ F		       C			Bb B C
 Just like Roger he's a crazy little kid
 C			    Bb
 I've got the time if you've got the inclination
-   F			   C			Bb B C			
+   F			   C			Bb B C
 So cheer up Palmer, you'll soon be dead
 
     C 			 Bb
@@ -36,7 +36,7 @@ D	C 	Bag
 
 Time to put your money where your mouth is
 Put 'em in a field and let 'em fight it out
-I'm running so fast my feet don't touch the ground		
+I'm running so fast my feet don't touch the ground
 I'm a stranger here I'm going down
 
 Let's get down to the nitty gritty
@@ -44,7 +44,7 @@ Let's get this show on the road
 I'll show you mine if you show me yours
 I'm breathing hard - open the door
 
-[repeat chorus] 
+[repeat chorus]
 
 
             C > Bb
@@ -52,7 +52,7 @@ Brain dead,        and made of money
 F                 Bb B C
 No future at all
                           C > Bb
-Pull down the blinds and          run for cover 
+Pull down the blinds and          run for cover
 F
 No future at all
 
@@ -62,10 +62,10 @@ F
 No future at all
 C               Bb
 Don't sweat it, that's where I am
-D		         (walk-down)	  
+D		         (walk-down)
 Whoa, carry me down, down, down, down
 
-End riff:   
+End riff:
 E----------------------------------------------------------------
 B----7----5------------------------------------------------------
 G---------------7---5--------------------------------------------
@@ -73,12 +73,12 @@ D------------------------8--6--4---------------------------------
 A-----------------------------------7--5-------------------------
 E------------------------------------------8--6--4---------------
 
-Repeat chorus chords & jam out 
+Repeat chorus chords & jam out
 
 == Bass Tablature ==
 
 AC/DC Bass Tab
-Submitted by doubleb18@aol.com 
+Submitted by doubleb18@aol.com
 
 
 Legend
@@ -143,6 +143,6 @@ E-|-1-1-1-1-|--------|---------|---------|---------|---------|--
 
 == Loops ==
 Member recorded:
-<gflash>100 40 /vb5/phish/acdcbag2.swf</gflash>
+<gflash>100 40 /loops/phish/acdcbag2.swf</gflash>
 Sampled:
-<gflash>100 40 /vb5/member/acdcbag.swf</gflash>
+<gflash>100 40 /loops/member/acdcbag.swf</gflash>

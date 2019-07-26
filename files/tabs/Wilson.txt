@@ -171,4 +171,4 @@
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/wilson.swf</gflash>
+<gflash>100 40 /loops/phish/wilson.swf</gflash>

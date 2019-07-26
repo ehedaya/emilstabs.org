@@ -7,6 +7,19 @@
 
 <h2 class="file_name">{{name}}</h2>
 <pre class="file_contents">{{body}}</pre>
+{{#if flash}}
+  <ul>
+  <li class="media">
+	<div class="media-body">
+		<object type="application/x-shockwave-flash" data="{{flash.url}}" width="{{flash.width}}" height="{{flash.height}}">
+			<param name="movie" value="wolfman.swf">
+			<param name="quality" value="high">
+		</object>
+	</div>
+</li>
+
+  </ul>
+{{/if}}
 <div class="page-header">
     <h3>Comments</h3>
 </div>

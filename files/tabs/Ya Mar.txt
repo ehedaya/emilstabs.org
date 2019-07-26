@@ -52,7 +52,7 @@ E-------------------------------------------------------------------------------
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/yamar.swf</gflash>
-<gflash>100 40 /vb5/phish/yamar02.swf</gflash>
+<gflash>100 40 /loops/phish/yamar.swf</gflash>
+<gflash>100 40 /loops/phish/yamar02.swf</gflash>
 Member recorded:
-<gflash>100 40 /vb5/member/yamar2.swf</gflash>
+<gflash>100 40 /loops/member/yamar2.swf</gflash>

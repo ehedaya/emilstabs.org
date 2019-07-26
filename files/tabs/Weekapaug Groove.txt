@@ -67,6 +67,6 @@ E|--------------------------|
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/weekapaug.swf</gflash>
+<gflash>100 40 /loops/phish/weekapaug.swf</gflash>
 Member recorded:
-<gflash>100 40 /vb5/member/weekapaug3.swf</gflash>
+<gflash>100 40 /loops/member/weekapaug3.swf</gflash>

@@ -126,4 +126,4 @@ E|----------------------------------|
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/tweezerjam.swf</gflash>
+<gflash>100 40 /loops/phish/tweezerjam.swf</gflash>

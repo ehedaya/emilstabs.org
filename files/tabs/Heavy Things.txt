@@ -353,4 +353,4 @@ chord changes)
 
 == Loop ==
 Member recorded:
-<gflash>100 40 /vb5/member/heavythings.swf</gflash>
+<gflash>100 40 /loops/member/heavythings.swf</gflash>

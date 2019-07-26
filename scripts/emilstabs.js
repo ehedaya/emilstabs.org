@@ -39,7 +39,13 @@ $(document).ready(function() {
                     var name_decoded = decodeURIComponent(uri);
                     $this.set('name', name_decoded.substr(0, name_decoded.indexOf(".txt")).replace(/\/files\/(tabs|bass)\//g, ""));
                     $this.set('uri', uri);
-                })
+                    var flashRegex = /<gflash>(.*)<\/gflash>/g;
+                    var matches = flashRegex.exec(response);
+                    if(matches !== undefined && matches.length > 1) {
+                      var flashData = matches[1].split(" ");
+                      $this.set('flash', { "url" : flashData[2], "width" : flashData[0], "height" : flashData[1] });
+                    }
+                });
             } else {
                 // no uri set
                 ga('send', 'event', 'tab', 'error', 'noUri');

@@ -109,4 +109,4 @@ This usually leads into I Am Hydrogen
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/mikessong.swf</gflash>
+<gflash>100 40 /loops/phish/mikessong.swf</gflash>

@@ -232,4 +232,4 @@ E|------------------------------|-----|
 
 
 == Loops ==
-<gflash>100 40 /vb5/member/poorheart.swf</gflash>
+<gflash>100 40 /loops/member/poorheart.swf</gflash>

@@ -62,4 +62,4 @@ E-1-----------------------
 
 == Loops ==
 Member recorded:
-<gflash>100 40 /vb5/member/simple.swf</gflash>
+<gflash>100 40 /loops/member/simple.swf</gflash>

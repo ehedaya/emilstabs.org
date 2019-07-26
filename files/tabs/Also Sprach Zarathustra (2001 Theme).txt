@@ -72,4 +72,4 @@ e--------------------------------------
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/2001.swf</gflash>
+<gflash>100 40 /loops/phish/2001.swf</gflash>

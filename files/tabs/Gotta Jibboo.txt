@@ -213,4 +213,4 @@ Just keep on playing the main theme
 
 == Loops ==
 Member sampled:
-<gflash>100 40 /vb5/member/gottajiboo.swf</gflash>
+<gflash>100 40 /loops/member/gottajiboo.swf</gflash>

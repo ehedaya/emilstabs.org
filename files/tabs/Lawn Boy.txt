@@ -139,4 +139,4 @@ E------------------------------------------
 
 == Loops ==
 Member recorded:
-<gflash>100 40 /vb5/member/lawnboy.swf</gflash>
+<gflash>100 40 /loops/member/lawnboy.swf</gflash>

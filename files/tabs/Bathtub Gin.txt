@@ -131,4 +131,4 @@ E ---------------------|------------------|
 
 == Loops ==
 Member recorded:
-<gflash>100 40 /vb5/member/bathtub.swf</gflash>
+<gflash>100 40 /loops/member/bathtub.swf</gflash>

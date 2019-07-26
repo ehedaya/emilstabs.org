@@ -105,4 +105,4 @@ instead of going from D to G, go to A.
 [http://youtube.com/watch?v=E4tFX51imvQ Woodbury Sit & Ski, 1990 (YouTube.com)]
 == Loops ==
 Member recorded:
-<gflash>100 400 /vb5/member/fluffhead.swf</gflash>
+<gflash>100 400 /loops/member/fluffhead.swf</gflash>

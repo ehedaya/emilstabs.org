@@ -328,4 +328,4 @@ E-------------------------------------------------------------
 
 == Loops ==
 Member recorded (J. Goldberg):
-<gflash>100 40 /vb5/member/possum.swf</gflash>
+<gflash>100 40 /loops/member/possum.swf</gflash>

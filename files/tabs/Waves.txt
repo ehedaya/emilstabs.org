@@ -51,4 +51,4 @@ E|-5---------3-3---5--:-----------------:------------------:------------------|
 
 == Loops ==
 Member recorded:
-<gflash>100 40 /vb5/member/waves.swf</gflash>
+<gflash>100 40 /loops/member/waves.swf</gflash>

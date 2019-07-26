@@ -138,4 +138,4 @@ but it's hard without my bass in my hands.
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/momadance.swf</gflash>
+<gflash>100 40 /loops/phish/momadance.swf</gflash>

@@ -17,24 +17,21 @@
 		<link href="/stylesheets/emilstabs.css" type="text/css" rel="stylesheet" />
 
 		<script type="text/javascript">
-	        $(document).ready(function() {
-
-    	        var nav = new stab.nav();
-    	        var footer = new stab.footer();
-
-				var file = window.location.pathname;
-				if(file == "/tabs/" || file == "bass/") {
-                    ga('send', 'event', 'tab', 'index');
-
-                    window.location.replace("/");
-				} else if (file) {
-    				var file = new stab.tab({uri: file});
-    				var view = new stab.tabView({model: file});
-    				file.fetch();
+      $(document).ready(function() {
+				App = {};
+				App.nav = new stab.nav();
+				App.footer = new stab.footer();
+				let filename = window.location.pathname;
+				if(filename == "/tabs/" || filename == "bass/") {
+	        ga('send', 'event', 'tab', 'index');
+	        window.location.replace("/");
+				} else if (filename) {
+    				App.file = new stab.tab({uri: filename});
+    				App.view = new stab.tabView({model: App.file});
+    				App.file.fetch();
 				} else {
-    				// redirect ?
-                    ga('send', 'event', 'tab', 'error', 'noFile');
-                    window.location.replace("/");
+          ga('send', 'event', 'tab', 'error', 'noFile');
+          window.location.replace("/");
 				}
 			});
 		</script>

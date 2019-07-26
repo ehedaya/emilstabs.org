@@ -260,4 +260,4 @@ C# to D.  I play roots and fifths for that too.
 
 == Loops ==
 Member recorded
-<gflash>100 40 /vb5/member/wolfman.swf</gflash>
+<gflash>100 40 /loops/member/wolfman.swf</gflash>

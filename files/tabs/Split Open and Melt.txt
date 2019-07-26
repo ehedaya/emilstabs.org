@@ -311,4 +311,4 @@ E|-----------------------------------------------------------------------|
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/soamelt.swf</gflash>
+<gflash>100 40 /loops/phish/soamelt.swf</gflash>

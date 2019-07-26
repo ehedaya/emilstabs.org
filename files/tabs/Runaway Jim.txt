@@ -199,6 +199,6 @@ The end jam is in D.
 
 == Loops ==
 Sampled:
-<gflash>100 40 /vb5/phish/runawayjim2.swf</gflash>
+<gflash>100 40 /loops/phish/runawayjim2.swf</gflash>
 Member recorded:
-<gflash>100 40 /vb5/member/runawayjim.swf</gflash>
+<gflash>100 40 /loops/member/runawayjim.swf</gflash>

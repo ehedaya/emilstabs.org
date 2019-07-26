@@ -144,4 +144,4 @@ e-----------------------------------------
 
 == Loops ==
 Member recorded (J. Goldberg):
-<gflash>100 40 /vb5/member/sample.swf</gflash>
+<gflash>100 40 /loops/member/sample.swf</gflash>
