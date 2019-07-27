@@ -9,15 +9,16 @@
 <pre class="file_contents">{{body}}</pre>
 {{#if flash}}
   <ul>
+  {{#each flash}}
   <li class="media">
 	<div class="media-body">
-		<object type="application/x-shockwave-flash" data="{{flash.url}}" width="{{flash.width}}" height="{{flash.height}}">
-			<param name="movie" value="wolfman.swf">
+		<object type="application/x-shockwave-flash" data="{{url}}" width="{{width}}" height="{{height}}">
+			<param name="movie" value="{{url}}">
 			<param name="quality" value="high">
 		</object>
 	</div>
-</li>
-
+  </li>
+  {{/each}}
   </ul>
 {{/if}}
 <div class="page-header">

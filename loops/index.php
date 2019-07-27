@@ -24,8 +24,8 @@
 						  <li class="active">Loops</li>
 						</ul>
 						<ul>
-							<li><a href="Sampled/">Sampled</a></li>
-							<li><a href="Member recorded/">Member recorded</a></li>
+							<li><a href="phish/">Sampled</a></li>
+							<li><a href="member/">Member recorded</a></li>
 							<li><a href="Tuners/">Tuners</a></li>
 						</ul>
 					</div>
@@ -34,4 +34,3 @@
 		</div>
 	</body>
 </html>
-

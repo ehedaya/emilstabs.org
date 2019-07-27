@@ -40,11 +40,19 @@ $(document).ready(function() {
                     $this.set('name', name_decoded.substr(0, name_decoded.indexOf(".txt")).replace(/\/files\/(tabs|bass)\//g, ""));
                     $this.set('uri', uri);
                     var flashRegex = /<gflash>(.*)<\/gflash>/g;
-                    var matches = flashRegex.exec(response);
-                    if(matches !== undefined && matches.length > 1) {
-                      var flashData = matches[1].split(" ");
-                      $this.set('flash', { "url" : flashData[2], "width" : flashData[0], "height" : flashData[1] });
-                    }
+                    var matches = response.match(flashRegex);
+                    if(matches !== undefined && matches.length > 0) {
+                      var flash = matches.map(function(m) {
+                          var parts = m.split(" ");
+                          return {
+                              url: parts[2].split("<")[0],
+                              width: parts[0].split(">")[1],
+                              height: parts[1]
+                          };
+                      });
+                      $this.set('flash', flash);
+                      console.debug("Found Flash parts", flash);
+                  }
                 });
             } else {
                 // no uri set
