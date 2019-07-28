@@ -10,7 +10,7 @@ I made a few edits to the one below.
 Intro: B -> E 
 
 Chorus:
-B               F#            C#m       E
+B               F#            A       E
 I can't see the light between me and my mind
       B        F#       A          E
 I can feel the memories fall---- behind
@@ -20,13 +20,13 @@ And the light is growing brighter now
 And the light is growing brighter now
 
 Verse 1:
-B         E         F#m           E
+B         E         A           E
 I see the future is less and less there
         B        G#m             F#
 and the past has vanished in the air
-        F#m         E
+        A/E         E
 and I'm left in the now
-        F#m     E
+        A/E     G#m
 with a wondrous glow 
   C#m             B
 I think I'm still me 
@@ -40,13 +40,13 @@ Verse ending: E   A   D  A
 Repeat Chorus
 
 Verse 2:
-B              E          F#m       E
+B              E          A       E
 It takes a few moments of whirling around
            B            G#m       F#
 'till your feet finally leave the ground
-    F#m         E
+    A/E         E
 and fending off fears
-    F#m         E
+    A/E         E
 and heeding the call
     C#m     B
 and finally waiting
