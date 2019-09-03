@@ -1,31 +1,17 @@
 $(document).ready(function() {
     stab = {};
     stab.cacheTTL = 5 * 60 * 1000;
-	stab.templateCache = {
-		cache: {},
+	  stab.templateHelper = {
 		get: function(filename, callback) {
 			var self = this;
 			var localStorageKey = "template-" + filename;
 			if(!filename) {
     			console.error("No filename");
 			}
-			if(this.cache[filename]) {
-				callback(this.cache[filename]);
-			} else {
-				var local_storage_cache = $.jStorage.get(localStorageKey);
-				if( local_storage_cache ) {
-					var compiled_template = Handlebars.compile(local_storage_cache);
-					self.cache[filename] = compiled_template;
-					callback(compiled_template);
-				} else {
-					$.get(filename, function(template) {
-						$.jStorage.set(localStorageKey, template, {TTL: stab.cacheTTL });
-						var compiled_template = Handlebars.compile(template);
-						self.cache[filename] = compiled_template;
-						callback(compiled_template);
-					});
-				}
-			}
+  		$.get(filename, function(template) {
+  			var compiled_template = Handlebars.compile(template);
+  			callback(compiled_template);
+  		});
 		}
 	}
 
@@ -41,7 +27,7 @@ $(document).ready(function() {
                     $this.set('uri', uri);
                     var flashRegex = /<gflash>(.*)<\/gflash>/g;
                     var matches = response.match(flashRegex);
-                    if(matches !== undefined && matches.length > 0) {
+                    if(matches && matches.length > 0) {
                       var flash = matches.map(function(m) {
                           var parts = m.split(" ");
                           return {
@@ -69,10 +55,9 @@ $(document).ready(function() {
         },
         render: function() {
             var $this = this;
-            stab.templateCache.get(this.template, function(template) {
+            stab.templateHelper.get(this.template, function(template) {
                 $this.$el.html(template($this.model.toJSON()));
                 document.title = $this.model.get('name') + " - Emil's Tabs";
-                $this.comments = new stab.commentsView({model: $this.model, el: this.$('.comments')});
             });
         }
     });
@@ -109,9 +94,9 @@ $(document).ready(function() {
         },
         render: function() {
             var $this = this;
-            stab.templateCache.get(this.template, function(template) {
+            stab.templateHelper.get(this.template, function(template) {
                 $this.$el.html(template($this.data.toJSON()));
-            })
+            });
         }
     });
 
@@ -124,10 +109,12 @@ $(document).ready(function() {
         },
         render: function() {
             var $this = this;
-            stab.templateCache.get(this.template, function(template) {
-				var template_data = $this.model ? $this.model.toJSON() : {};
+            stab.templateHelper.get(this.template, function(template) {
+				        var template_data = $this.model ? $this.model.toJSON() : {};
                 $this.$el.html(template(template_data));
-                $this.postRender && $this.postRender();
+                if($this.postRender) {
+                  $this.postRender();
+                }
             });
         }
     });
@@ -139,49 +126,49 @@ $(document).ready(function() {
         },
         render: function() {
             var $this = this;
-			this.guitar = new Bloodhound({
-				datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
-				queryTokenizer: Bloodhound.tokenizers.whitespace,
-				prefetch: {
-					url: '/files/tabs/index.php',
-					filter: function(list) {
-    					console.debug("Filtering");
-						return  _.map(list, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: '/tabs/' + m }; });
-					}
-				}
-			});
-			this.bass = new Bloodhound({
-				datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
-				queryTokenizer: Bloodhound.tokenizers.whitespace,
-				prefetch: {
-					url: '/files/bass/index.php',
-					filter: function(list) {
-    					console.debug("Filtering");
-						return  _.map(list, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: '/bass/' + m }; });
-					}
-				}
-			});
+      			this.guitar = new Bloodhound({
+      				datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+      				queryTokenizer: Bloodhound.tokenizers.whitespace,
+      				prefetch: {
+      					url: '/files/tabs/index.php',
+      					filter: function(list) {
+          					console.debug("Filtering");
+      						return  _.map(list, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: '/tabs/' + m }; });
+      					}
+      				}
+			       });
+      			this.bass = new Bloodhound({
+      				datumTokenizer: Bloodhound.tokenizers.obj.whitespace('name'),
+      				queryTokenizer: Bloodhound.tokenizers.whitespace,
+      				prefetch: {
+      					url: '/files/bass/index.php',
+      					filter: function(list) {
+          					console.debug("Filtering");
+      						return  _.map(list, function(m) { return { name : m.substr(0, m.indexOf(".txt")), uri: '/bass/' + m }; });
+      					}
+      				}
+      			});
 
-			this.guitar.initialize();
-			this.bass.initialize();
+      			this.guitar.initialize();
+      			this.bass.initialize();
 
-			this.$('form input').typeahead({
-				highlight: true,
-    			}, {
-    				name: "Guitar",
-    				displayKey: "name",
-    				source: $this.guitar.ttAdapter(),
-    				templates: {
-    					header: '<li class="dropdown-header">Guitar tabs</li>'
-    				}
-    			}, {
-    				name: "Bass",
-    				displayKey: "name",
-    				source: $this.bass.ttAdapter(),
-    				templates: {
-    					header: '<li class="dropdown-header">Bass tabs</li>'
-    				}
-                });
+      			this.$('form input').typeahead({
+      				highlight: true,
+          			}, {
+          				name: "Guitar",
+          				displayKey: "name",
+          				source: $this.guitar.ttAdapter(),
+          				templates: {
+          					header: '<li class="dropdown-header">Guitar tabs</li>'
+          				}
+          			}, {
+          				name: "Bass",
+          				displayKey: "name",
+          				source: $this.bass.ttAdapter(),
+          				templates: {
+          					header: '<li class="dropdown-header">Bass tabs</li>'
+          				}
+            });
 
         },
 		events: {
@@ -213,10 +200,5 @@ $(document).ready(function() {
         el: $('footer'),
         template: "/templates/footer.html"
     });
-
-    stab.commentsView = stab.staticView.extend({
-        template: "/templates/comments.html"
-    });
-
 
 });
