@@ -1,0 +1,169 @@
+
+Originally by Son Seals from the 1978 album Live and Burning
+
+Funky Bitch is sort of like 12 bar blues in C in that it almost follows the same pattern - in 12 bar blues you might play bass phrases around the following root notes for each bar and play a guitar bit on top of that:
+
+C C C C   
+F F C C
+G G C C
+
+but unlike 12 bar blues, after the second bar of G we go back and repeat the intro bar. so the bass phrases for the first 12 bars of Funky Bitch might look like so:
+
+(intro bar)
+C C C C   
+F F C C
+G G
+(repeat intro bar)
+
+first time through Trey tends to stick to the following Cm pentatonic phrases so the transcription for the first 12 bars is pretty much note for note.
+
+intro bar
+
+E----------------------------|
+B--11b-------11b-------11-13-|
+G------12-12-----12-12-------|
+D----------------------------|
+A----------------------------|
+E----------------------------|
+
+C C C C
+                    
+             P-O H-O                          P-O                           P-O
+E--13B---11-------------|-------13B--13B-11-|----------(11/)-|-----11--------------------|
+B------------13-11-13~~~|-------------------|13-11---13~~----|---11---13~~-13-11---13-13-|
+G-----------------------|-------------------|------12--------|-12---------------12-------|
+D-----------------------|-------------------|----------------|---------------------------|
+A-----------------------|-------------------|----------------|---------------------------|
+E-----------------------|-------------------|----------------|---------------------------|
+
+F F C C
+ 
+             P-O H-O                          P-O                           P-O
+E--13B---11-------------|-------13B--13B-11-|----------(11/)-|-----11--------------------|
+B------------13-11-13~~~|-------------------|13-11---13~~----|---11---13~~-13-11---13-13-|
+G-----------------------|-------------------|------12--------|-12---------------12-------|
+D-----------------------|-------------------|----------------|---------------------------|
+A-----------------------|-------------------|----------------|---------------------------|
+E-----------------------|-------------------|----------------|---------------------------|
+
+G G
+
+           P-O H-O               P-O    P-O
+E--13B---B13-11--13-13B~~----|--13-11--------------11~~----|
+B----------------------------|---------13-11----13---------|
+G----------------------------|---------------12------------|
+D----------------------------|-----------------------------|
+A----------------------------|-----------------------------|
+E----------------------------|-----------------------------|
+
+repeat intro bar
+
+E----------------------------|
+B--11b-------11b-------11-13-|
+G------12-12-----12-12-------|
+D----------------------------|
+A----------------------------|
+E----------------------------|
+
+
+
+the bends, sustain and timing are critical! 
+
+using a slightly more compact notation for bends and releases:
+
+lower case b after a note means it’s a half-step bend e.g. 11b
+upper case B after a note means it’s a whole-step bend e.g. 13B
+lower case b before a note means it’s a half-step release e.g. b11
+upper case B before a note means it’s a whole-step release e.g. b13
+~ after a note indicates additional sustain e.g. 13~~
+
+during the intro, there are two small bends, approx half-step, on the 11th fret of the B-string (11b i.e. Bb->B) the attack on this phrase is a little different then the ones that follow - it has a more punchy/bouncy staccato feel and you might want to pick it a bit flatter then the rest. once you’ve heard the song this phrase is pretty much locked into your head though so chances are you won’t have much trouble here.
+
+there are a lot of whole-note bends on the 13th fret of the E-string (13B i.e. F->G) these are BIG ole bends and they are l a z y - s l o w.. you might want to try a three-finger bend here to give your index finger some extra leverage. it’s important that you be able to bend the string pretty far and hold it while it sustains. nailing the timing on the bends is key.
+
+there is also a release going from G->F during the first bar of G. here you pull a whole-note bend on the 13th fret of the E-string then pick again while the note is still bent, slowly releasing it back to F. timing is a little trickier here so you may have to pay extra attention to those last two bars before the intro repeats. listen for how long to bend and sustain. getting the timing of the last phrase is key to resolving back into the start of the intro.
+
+the ghost note and slide on 11th fret of the E-String ((11\) i.e Eb\) is not super critical but Trey often slides down the neck during that small pause - sometimes the note or the slide is more audible. sometimes the slide back up to the next phrase is also audible.
+
+
+some notes on arrangement:
+
+the staves are staggered in size to illustrate the missing two bars from traditional 12 bar blues and how the intro bar fits in. while the bass might play 4 bars of C C C C followed by F F C C the guitar is actually repeating the same staggered phrases over each of those 4 bar sections - you’ll notice that the two long staves are note for note identical although the underlying bass notes change from CCCC to FFCC. 
+
+after the initial 12 bars the following 11 bar structure repeats. the guitar part is improvised with the exception of the intro bar which repeats. listen for the bass to change to G on the 9th bar as it’s important to be ready to resolve back into the intro.  if you count the beat (~92bpm) from the start of lyrics 1-2-3-4, 2-2-3-4, 3-2-3-4, 4-2-3-4, 5-2-3-4, ... on “9” you should be back on G, on “11” be back at intro
+
+C C C C   
+F F C C
+G G
+(intro bar)
+
+the 11 bar structure approx spaced over lyrics
+
+C                         C                                  C                           C   
+Every time I see her,                she got new fancy clothes
+F                         F                                  C                           C
+Every time I see her,                she got new fancy clothes 
+G                         G                                   
+She took up all my money
+                           (intro bar)
+And threw poor me out the door
+
+
+
+C                         C                                  C                           C   
+Lord now standing there,               ain't got nowhere to go
+F                         F                                  C                           C
+Lord now standing there,               ain't got nowhere to go
+G                                     G                                   
+I've been down in bad condition now boy
+                         (intro bar)
+'Cause I'm alone down here
+
+
+
+
+== Bass Tablature ==
+
+Bass Funky Bitch
+from Robert Kistler < spaceantelope2001@hotmail.com >
+
+Intro:
+G |-------------------------------------|
+D |-------------------------------------|
+A | -1-----------1-----------1h3--------|
+E |-----3---3-------3----3--------------|
+
+1st
+G |----------5-3-------3-5----|
+D |------2----------5---------|    Repeat 4 X
+A | -3------------------------|
+E |---------------------------|
+
+2nd
+G |---------------------------|
+D |-----------3-1-----1-3-----|    Repeat 2 X
+A |------0----------3---------|
+E | -1------------------------|
+
+repeat 1st part twice
+
+3rd
+G |---------------------------|
+D |-----------5-3------3-5----|
+A |------5-----------5--------|
+E | -3------------------------|
+
+play 2nd part once
+then the into
+
+so it is ultimately:
+
+intro
+1st part 4 times
+2nd part 2 times
+1st part 2 times
+3rd part once
+2nd part once
+
+and then rinse, lather, and repeat! 
+

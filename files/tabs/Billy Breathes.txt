@@ -1,0 +1,199 @@
+Phish - Billy Breathes
+
+OneArmSteve16@aol.com
+Ian Camfield <icamfield@snet.net>
+Lincoln Ballard
+Itay Chamiel <itaych at gmail>
+
+Intro over D. In acoustic versions Trey fingerpicks an open C-shaped chord like this:
+
+E|-0-------------|
+B|---------3-----|
+G|-----0-------0-| (4x)
+D|---4-------4---|
+A|-5-------------|
+E|-------5-------|
+
+D                   Am               F              G
+Tumbling greens and pick up screams alone above the square,
+Bb C       Bb    F
+Whoa, sing softly
+D                     Am                F              G
+Above the trees where Billy breathes we float upon the air,
+Bb C  Eb   Bb
+Whoa, whoa (whoa)
+
+F      Dm7        C  Bb  F      Dm7        Eb Bb
+Softly sing sweet songs, Softly sing sweet songs,
+[backing vocals: Tumbling greens, pick up screams, float upon the air]
+F      Dm7        C C/Bb C/A C/G  Bb Am D5
+Softly sing sweet songs,          ooooh
+
+[see Note 1 below for how to play those C chords.]
+
+D               Am                 F                   G
+Silent scenes, emotion beams, I'll wake you when we're there,
+Bb C       Bb    F
+Whoa, sing softly
+D                Am               F                G
+Time it seems in broken dreams to sleep beside the stair,
+Bb C  Eb    Bb
+Whoa, whoa (whoa)
+
+F      Dm7        C  Bb  F      Dm7        Eb Bb
+Softly sing sweet songs, Softly sing sweet songs,
+F      Dm7        C C/Bb C/A C/G  C  Bb
+Softly sing sweet songs,          ooooh
+
+Bridge:
+Eb  Bb
+F   Cm  Ab  Bb  Db  Eb  Gb  Db
+Ab  Cm  Ab  Bb  Db  Eb
+
+Then the chorus again:
+
+F      Dm7        C  Bb  F      Dm7        Eb Bb
+Softly sing sweet songs, Softly sing sweet songs,
+F      Dm7        C  Bb  F      Dm7        Eb Bb
+Softly sing sweet songs, Softly sing sweet songs,
+F      Dm7        C C/Bb C/A C/G  C Bb  Eb F
+Softly sing sweet songs,          ooooh
+
+Break [see Note 2 below]:
+D Am/D F/D G Bb C (x4)
+
+Solo [see Note 3 below]:
+Eb  Bb
+F   Cm  Ab  Bb  Db  Eb  Gb  Db
+Ab  Cm  Ab  Bb  Db  Eb  Gb  Ab
+Bb  Fm  Db  Eb  Gb  Ab  B   B
+Db  Fm  Db  Eb  Gb  Ab  B   Db
+Eb Eb/Db Eb/C Eb/Bb (2x)
+Db  Cm  F
+
+Note 1: In the choruses, the C chord with descending bass line can be played like this:
+   C C/Bb C/A C/G
+E|----------------|
+B|-5--5----5---5--|
+G|-5--5----5---5--|
+D|-5--5----5---5--|
+A|-3--------------|
+E|----6----5---3--|
+
+Note 2: The chords in the break are based on the first six chords of the verses, but the first
+three are played over a D bass note. (Trey clearly plays Am and F arpeggios in live versions,
+these are not modified D chords.) You can easily play them like this:
+  
+   D Am/D F/D
+E--2--0----1---
+B--3--1----1---
+G--2--2----2---
+D--0--0----0---
+A--------------
+E--------------
+
+Note 3: looking at the solo chords I've noticed that lines 4-5 are almost the same as lines 2-3,
+transposed 5 semitones up. Lines 6-7 are the same as the end of chorus 1, transposed 3 semitones up.
+
+Back to the break, this is what Trey plays over it in the studio version:
+(Note: A tilde '~' symbol just means the note is sustained longer than others.)
+
+  3:24
+      D  Am/D F/D        G Bb C        D Am/D F/D G Bb C D Am/D F/D G
+E|---------------------------------------------------------------3h5--|
+B|--------------------------------------------------------------------|
+G|-12b14~---------12b14r12~-----b14r12-11~----------------------------|
+D|--------------------------------------------------------------------|
+A|--------------------------------------------------------------------|
+E|--------------------------------------------------------------------|
+
+  3:51
+      Bb C   D Am/D F/D G Bb 
+E|---------------------------|
+B|---------------------------|
+G|--5h7/9-h9p7~~-------------|
+D|-7-------------------------|
+A|---------------------------|
+E|---------------------------|
+
+This leads directly to the solo:
+
+  4:03
+   C               Eb                  Bb                  F        Cm
+E|---------------8/11-13\11------------11\10-----------------------------|
+B|-------------10----------13p11-----11-----11---------------------------|
+G|---------7-10--------------------12---------10-------------------------|
+D|--10-7-8-----------------------13-------------13-12---10-----/15~-13~--|
+A|---------------------------------------------------13----12~-----------|
+E|-----------------------------------------------------------------------|
+
+  4:12
+   Ab                   Bb                  Db    Eb Gb
+E|------------------------------------15-15h16~-15~--14-------------------|
+B|---------------------------13-16/18------------------16p14-16p14--------|
+G|----------------------12-15--------------------------------------15-15--|
+D|---13\12------12h13-15----------------------------------------------16--|
+A|-15-----14/15-----------------------------------------------------------|
+E|------------------------------------------------------------------------|
+
+  4:20
+   Db              Ab         Cm                    Ab                  Bb
+E|-----------------------------------------------10/11-----13p11-----11-13~-|
+B|---------------------------------------------13-----12/13--------13-------|
+G|---------------------------------------11h12-------------------13---------|
+D|----15p11-------------10-13-9/10-12-13------------------------------------|
+A|-11------11----------11---------------------------------------------------|
+E|-----------14-13-11-11----------------------------------------------------|
+
+  4:28
+                Db                Eb     Gb               Ab
+E|--------13-15-16~-13------13-16-15~-13b14------------------|
+B|------15------------14--14---------------14-11----11-14-13~|
+G|-14/15----------------13------------------------11---------|
+D|----------------------------------------------11-----------|
+A|-----------------------------------------------------------|
+E|-----------------------------------------------------------|
+
+  4:34
+          Bb            Fm     Db          Eb     Gb  Ab    B
+E|-----------------------------------------------------------------|
+B|-----13h15~-15~-13-15-16~/18~18-18-20p18-16~-18b19--18-16-18b19~-|
+G|---13-----------------------------------------slow---------slow--|
+D|-13--------------------------------------------------------------|
+A|-----------------------------------------------------------------|
+E|-----------------------------------------------------------------|
+
+At this point (4:48) the recording diverges into two guitars. The first guitar
+continues playing sustained notes on the B string until the end of the song:
+
+      Db  Fm Db    Eb  Gb  Ab    B   Db Eb /Db /C /Bb Eb /Db /C /Bb Db  Cm  F
+B|-19b21~-18~---18/20~-19~-18-16-14~~~~~16~~(long sustained note)~~\14~/16~/18-|
+
+A second guitar joins in with the following melody:
+
+  4:48
+   Db    Fm Db Eb      Gb               Ab       B         Db                Eb
+E|---------------------------------------------------------------------13-14-15~-|
+B|---------------------11-14p11---------13~------14~----12/14--------------------|
+G|----10-13~~~/15---11-11------11--11h13------11------11------13-11-13~----------|
+D|-11-------------11---11--------11---------13------13---------------------------|
+A|-------------------------------------------------------------------------------|
+E|-------------------------------------------------------------------------------|
+
+  5:03 (a.k.a. the Dave's Energy Guide theme)
+     Eb/Db        Eb/C         Eb/Bb     Eb              Eb/Db
+E|---16\15b16r15-----15b16r15-------15-------15b16r15------15----|
+B|-16-----------16-----------16---14--16---14--------16--14--16--|
+G|-----------------15-----------15-------15------------15--------|
+D|---------------------------------------------------------------|
+A|---------------------------------------------------------------|
+E|---------------------------------------------------------------|
+
+  5:11
+         Eb/C            Eb/Bb              Db  Cm        F
+E|-----15----------15b16r15------15b16r15---------------------|
+B|---14--16------14--------16--14--------16-14~-13~-----------|
+G|-15-------15-15------------15---------------------12/13/14~-|
+D|------------------------------------------------------------|
+A|------------------------------------------------------------|
+E|------------------------------------------------------------|

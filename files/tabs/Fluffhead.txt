@@ -1,0 +1,108 @@
+
+This song leads into Fluff's Travels
+
+Transcription by Eric Berman (ericbe@microsoft.com),MOTION EDIT: Makia Kiriakos-madmoose88@yahoo.com
+
+Some chords that are useful:
+  C(I)  D9/11(I)  G6(I)   F2(I)  G(II)  F2(II)
+       P        P        P      P
+E|--0--------0------10-------8------3------3--
+B|--1--------3-------8-------6------0------1--
+G|--0--------0-------0-------0------0------2--
+D|--2-3-2----4-5-4---9-10-9--7-8-7--0------3--
+A|--3--------5------10-------8------2---------
+E|----------------------------------3---------
+
+The actual motion at the start of the song is more like this.
+
+E------------------------------------10-----------8----------------------------------3--3--
+B--1-----------3---------------8------------6------------1--------------3------------3--3--
+G--0-----------------------------0------0-----0-----0--------------------------------0--0--
+D--2--3-2--------4---5-4-----------9------------7----------2---3-2--------4---5-4----0--0--
+A--3------3--5-----5-----5--10------------8------------3-----3-----3--5-----5-----5--2--2--
+E------------------------------------------------------------------------------------3--3-- 
+
+
+The additional notes shown after each chord rock up and back to the
+sus-4 version of the chord; listen to the song and you'll hear where
+that note goes.
+
+Intro
+|: C(I) D(I) G(I) F(I) :| (4x)
+
+G(II) F2(II) 4x
+
+Verse
+G(II)     F2(II) G(II)   F2(II)
+Fluffhead was a  man
+      G(II) F2(II) G(II)   F2(II)
+With a horrible   disease
+G(II)     F2(II)  G(II)   F2(II)
+Could not find no cure
+         G(II)    F2(II) G(II)   F2(II)
+Won't you help him if you please?
+
+C(I) D(I) G(I) F(I) C(I) D(I) G(II)
+                             Fluff-Head!
+C(I) D(I) G(I) F(I) C(I) D(I) G(II)
+                             Fluff-Head!
+
+Next verses just like the first:
+
+Fluff came to my door
+Askin' me for change
+His eyes were clear and pure
+But his mind was so deranged
+
+C(I) D(I) G(I) F(I) C(I) D(I) G(II)
+                             Fluff-Head!
+C(I) D(I) G(I) F(I) C(I) D(I) G(II)
+                             Fluff-Head!
+
+Fluff went to a banker
+Askin' for some bills
+The banker said, "I ain't got that
+But I sure got some powerful pills."
+
+C(I) D(I) G(I) F(I) C(I) D(I) G(II)
+                             Fluff-Head!
+C(I) D(I) G(I) F(I) C(I) D(I) *A
+                             Fluff-Head!
+
+
+Fluffhead Ending /'Travels Begining
+  *A  D (4x) |
+e|-0---------|-----------9-10-
+B|-0--10-----|------10-12-----
+G|-6--7------|-11-12----------
+D|-7--0------|----------------
+A|-0---------|----------------
+E|-----------|----------------
+
+
+
+== Bass Tablature ==
+
+Fluffhead
+From: David Lionelli ( LIONELLI_DAV@CSUSYS.CTSTATEU.EDU )
+
+Intro/Verse:
+G|-----------------------------------------------------------------------|
+D|-----------------------------------------------------------------------|
+A|--3--5--------3--5--------3--5--------3--5--------3--5--------3--5-----|
+E|--------3--1--------3--3--------3--1--------3--3--------3--1-----------|
+
+
+G|-------------------------------------------|
+D|-----5-------3-----3-------5-----3-----3---|
+A|-------------------------------------------|
+E|--3------0-1---1-1---1--3----0-1---1-1---1-|
+
+Repeat this progression through three verses, and on the last one,
+instead of going from D to G, go to A.
+
+== 
+[http://youtube.com/watch?v=E4tFX51imvQ Woodbury Sit & Ski, 1990 (YouTube.com)]
+== Loops ==
+Member recorded:
+<gflash>100 400 /loops/member/fluffhead.swf</gflash>

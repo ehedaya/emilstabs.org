@@ -1,0 +1,53 @@
+<!doctype html>
+<html>
+	<head>
+		<script type="text/javascript" src="/scripts/ga.js"></script>
+		<script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
+		<script type="text/javascript" src="/bower_components/underscore/underscore-min.js"></script>
+		<script type="text/javascript" src="/bower_components/backbone/backbone.js"></script>
+		<script type="text/javascript" src="/bower_components/handlebars/handlebars.min.js"></script>
+		<script type="text/javascript" src="/bower_components/moment/min/moment.min.js"></script>
+		<script type="text/javascript" src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+		<script type="text/javascript" src="/bower_components/jstorage/jstorage.min.js"></script>
+		<script type="text/javascript" src="/bower_components/typeahead.js/dist/typeahead.bundle.min.js"></script>
+		<script type="text/javascript" src="/scripts/emilstabs.js"></script>
+
+		<link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
+		<link href="/stylesheets/typeahead.js-bootstrap.css" rel="stylesheet" type="text/css" />
+		<link href="/stylesheets/emilstabs.css" type="text/css" rel="stylesheet" />
+
+		<script type="text/javascript">
+	        $(document).ready(function() {
+
+    	         nav = new stab.nav();
+    	        var footer = new stab.footer();
+
+                tabIndexView = new stab.tabIndexView();
+			});
+		</script>
+
+	</head>
+	<body>
+
+        <div id="nav"></div>
+
+        <div class="container">
+            <div class="content">
+            	<div class="row">
+                	<div class="col-sm-12">
+                        <div id="tabIndex">
+                            <div class="progress">
+                                <div class="progress-bar progress-bar-striped active" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100" style="width: 100%">
+                                    <span class="sr-only">LOADING</span>
+                                </div>
+                            </div>
+                        </div>
+                	</div>
+            	</div>
+
+            </div>
+            <footer></footer>
+        </div>
+
+	</body>
+</html>

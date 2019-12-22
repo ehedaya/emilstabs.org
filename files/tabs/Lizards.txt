@@ -1,0 +1,448 @@
+
+
+From: John Greene <s3583045@titan.ucc.umass.edu>
+From: David Douglas McCallum <kcjonz@wam.umd.edu>
+From: Hayduke lives! <92MDB@vax.cc.williams.edu> (Mikey ?)
+
+It all started a few days ago while I was noodling on the guitar while
+watching the boob-tube. I was enjoying a seemingly random chord
+progression and thinking I was really onto something cool. Well, a
+little rational thought uncovered that while the progression was indeed
+cool, it wasn't as original as I had thought...it was the middle
+"Esther-and-her-doll- tumbling- and-diving-through-the-clouds" chords of
+one of the first tunes that hooked me to Phish in the first place, good
+ol' [dead ol'] "Esther". The cleanest version I could think of is the
+lead-in to "Lizards" on "The Man Who Stepped Into Yesterday". A little
+careful listening revealed the correct picking pattern:
+
+ E
+E|------0-------------0-------------0-------------0--------
+B|----5---5---------5---5---------5---5---------5---5------
+G|--4---------4---4---------4---4---------4---4---------4--
+D|6---------6---6---------6---6---------6---6---------6----
+A|---------------------------------------------------------
+E|---------------------------------------------------------
+
+The picking pattern stays the same, but the chords change in this pattern:
+
+E -> Em -> F#m7 -> F# -> B -> repeat
+
+using these chord forms:
+
+  E  Em F#m F#  B
+E|-0--0--0---0---0--
+B|-5--5--7---7---7--
+G|-4--4--6---6---8--
+D|-6--5--7---8---9--
+A|------------------
+E|------------------
+
+This inevitably led me to the next tune on the tape, and another old
+favorite, "Lizards". Now, I've tried to play this in the past, by ear
+and using the two versions posted by John Greene and Michael Bruce and
+contained in the CHORDS.PHISH file. But something was wrong with both
+versions according to my ear, so I decided to nail it down to my
+satisfaction once and for all and this is what I came up with...
+
+MONDO ACKNOWLEDGEMENT: As you will see, I borrowed heavily from both
+both John's and Michael's transcriptions, refining and adding things
+here and there as I saw fit. But it was VERY NICE to have these
+foundations upon which to build my transcription [particularly Michael's
+elegant notation, which makes sense once you get used to it]. Thank you
+both for the effort in writing this stuff down in the first place! I
+hope you like my iteration...
+
+ C (repeat)
+E|------------|
+B|------8-8---|
+G|----------9-|   This picking pattern is the basis for the chords
+D|10-10-------|   with notes on the D, G, and B strings
+A|------------|
+E|------------|
+
+E|----5-------|
+B|------5-----|
+G|--5---------|   This picking pattern is the basis for the chords
+D|4-------4---|   with notes on the D, G, B, and E strings
+A|------------|
+E|------------|
+
+
+How to read:
+
+   --chord:  what I believe the chord is, in guitar notation.
+   --bass:  what I feel is the bass note.  Note:  this note may not
+            be in the chord!  It may be a passing tone to another
+            chord.  So C/B means a C chord with a B in the bass.
+   --strings:  just about the whole song can be played on the
+               E, D, G, and B strings, so I have included the frets.
+
+
+INTRO:
+   --chord:   C
+   --bass:    C
+   --E str:
+     B str:   8
+     G str:   9
+     D str:   10
+
+VERSE:   pas...cam...lean..arm....He..way.king...
+   C:   C  G  Gm F  Fm Fm C  C-5 G/9 G9  G6/9 E7
+   B:   C  B  Bb A  Ab Ab G  Gb  G   F   E    E
+   Es:                       5   5   5   5    4
+   Bs:  8  8  8  6  6  6  5  5   3   3   3    3
+   Gs:  9  7  7  5  5  5  5  5   4   4   4    4
+   Ds: 10  9  8  7  6  6  5  4   5   3   2    2
+
+ |  1st ending        |  2nd ending        |
+ |  Wil..Wil..Wil.....|                    |
+C:   Fdm  Fdm  Fdm  Fdm|  Edim  Edim        |
+B:   F    Ab   Cb   Cb |  E     E           |
+Es:  4    7    10   10 |  3     3           |
+Bs:  3    6    9    9  |  2     2           |
+Gs:  4    7    10   10 |  3     3           |
+Ds:  3    6    9    9  |  2     2           |
+
+VERSE:  led....edge..wand...sprng.kni....sto...lift...turn....sing!
+   C:   F  F  G  G  Am  Am F  F  F  Fm  C  C  G/9 G9 G6/9 D6 C
+   B:   F  F# G  G# A   A# A  A  A  Ab  G  G  G   F  E    D  C
+   Es:                                        5   5  5    5  0
+   Bs:  1  1  3  3  5   5  6  6  6  6   5  5  3   3  3    3  1
+   Gs:  2  2  4  4  5   5  5  5  5  5   5  5  4   4  4    4  0
+   Ds:  3  4  5  6  7   8  7  7  7  6   5  5  5   3  2    0  2
+
+CHORUS:
+   dark      doom         boon          tried        died    died   !
+C:  G    F    C    G   F   C   G    F    C    G   F   G   F   G   F  C
+
+Piano solo:                |1.-- |2.---
+   C:   C  C  Dm Dm7 G7 G7|C  C |G7 G7
+   B:   C  C# D  C   D  D |E  E |D  D
+   Es:                    |     |
+   Bs:  8  8 10 10  12 12 |13 13|12 12
+   Gs:  9  9 10 10  10 10 |12 12|10 10
+   Ds: 10 11 12 10  12 12 |14 14|12 12
+
+Full lyrics:
+
+Passing through the corridor I came upon an aging knight
+Who leaned against the wall in gnarly armor
+He was on his way to see the king
+Wilson
+Wilson
+Wilson
+He led me through the streets of Prussia talking
+As he tried to crush a bug that scurried underneath his bootheel
+He said there was a place where we should go
+So he lead me through the forest to the edge of a lagoon by which
+We wandered 'til we reached a bubbly spring
+The knight grew very quiet as we stood there
+Then he lifted up his visor and he turned to me and he began to sing
+chorus:
+He said I come from the land of darkness
+I said I come from the land of doom
+He said I come from the land of Gamehendge
+From the land of the big baboon
+But I'm never never going back there
+And I couldn't if I tried
+'Cause I come from the land of Lizards
+And the Lizards they have died
+And the Lizards they have died
+And the Lizards they have died
+And the Lizards they have ...
+He told me that the Lizards were a race of people practically extinct
+From doing things smart people don't do
+He said that he was once a Lizard too
+His name was Rutherford the Brave and he was on a quest to save
+His people from the fate that lay before them.
+Their clumsy end was perilously near
+The Lizards would be saved, he said, if they could be enlightened
+By the writings of the Helping Friendly Book
+In all of Prussia only one existed
+And Wilson had declared that any person who possessed it was a crook
+[chorus]
+The Helping Friendly Book, it seemed, possessed the ancient secrets
+Of eternal joy and never-ending splendor
+The trick was to surrender to the flow
+We walked along beneath the moon
+He lead us through the bush 'till soon
+We saw before our eyes a raging river
+He said that we could swim it if we tried
+And saying this the knight dove in forgetting that his suit of arms
+Would surely weigh him down and so he sunk
+And as his body disappeared before me
+I bowed my head in silence and remembered all thoughts that he had thunk
+[chorus]
+
+Repeat Verse and chorus twice more, ending the chorus the second time with the
+following passage in place of the "died!" in the first
+"and the lizards they have died!" lyric
+
+CHORUS III:  Whoa whoa whoa...
+   C:       G         F     G F G F...
+
+Piano solo II: (this part comes after the chorus, but instead of playing that
+final C, play the first chord of the part below and continue)
+
+PIANO SOLO: WHOAAA
+       C:  G  F  G  F  Abmaj7  Gm7  Bbmaj7  Am7
+       B:  G  F  G  F  Ab      G    Bb      A
+
+
+This is what Trey plays towards the last half of Page's piano solo, right into the
+last "whoa, whoa, whoa, etc."
+
+Chris Temeles <CASUITE211@AOL.COM>
+From 5/27/94
+The whole thing is played moderately fast, like any other Trey arpeggios.
+
+
+    B           Sometimes he pulls off, and sometimes he doesn't
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---------8----11--8------------11--8---------11--8--------11--8-------
+d------9---------------9---------------9-------------9------------9----
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+    A#m7
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---------10--13--10-----------13--10---------13--10--------13--10-----
+d-----11--------------11---------------11-------------11------------11-
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+    Amaj7
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---------9--13--9----------13--9----------13--9----------13--9--------
+d-----11------------11-------------11-------------11-------------11----
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+    G#m7
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---------8----11--8------------11--8---------11--8--------11--8-------
+d------9---------------9---------------9-------------9------------9----
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+e-------------------------------------------------
+b-------------------------------------------------
+g----13--10----------13--10----------13--10-------
+d------------11--------------11--------------11---
+a-------------------------------------------------
+e-------------------------------------------------
+
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---14--11--------14--11-------------16--12---------16--12-------------
+d-----------12------------12-----------------14-------------14---------
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+    Bmaj7     This phrase until the end is played fast!!
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---15-15--11-----------15-15--11----------15-15--11-------------------
+d--------------13------------------13-----------------13---------------
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+    A#m7
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---17-17--13-----------17-17--13-----------17-17--13------------------
+d--------------15------------------15------------------15--------------
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+    Amaj7
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---16-16--13-----------16-16--13-----------16-16--13------------------
+d--------------14------------------14------------------14--------------
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+
+
+e----------------------------------------------------------------------
+b----------------------------------------------------------------------
+g---17-17--14------------17-17--14------------18-18--15----------------
+d--------------15-------------------15-------------------16------------
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+
+e----------------------------------------------------------------------
+b----------------------------17-17--13------------18-18--14------------
+g---20-20--16---------------------------14-------------------15--------
+d--------------18------------------------------------------------------
+a----------------------------------------------------------------------
+e----------------------------------------------------------------------
+
+e----------------------
+b---19-19--17----------
+g--------------16------
+d----------------------
+a----------------------
+e----------------------
+
+
+e----------------------------------------------------------------------
+b---20-20--16-----------20-20--16----------20-20--16-------------------
+g--------------17------------------17-----------------17---------------
+d----------------------------------------------------------------------
+a-----------------------------repeat a couple of times and then>>>>----
+e----------------------------------------------------------------------
+
+WHOA, WHOA, WHOA, WHOA, WHOA!!!!
+
+
+
+This part culminates by playing an Am instead of the Am7, then playing a D > Dsus4
+chord figure 4 times, which leads back into the G F figure as in CHORUS III. End
+the CHORUS III this time with the staccato C chord, followed by 16th-note bass C
+notes until the guitar melody enters. The first time through up until the second
+ending, only the bass notes of the indicated chords should be played.
+Refer to the VERSE section above for the proper notes...
+
+[oh, alright! here they are: C:   C  G  Gm F  Fm Fm C  C-5 G/9]
+[                            B:   C  B  Bb A  Ab Ab G  Gb  G  ]
+
+OUTRO:
+C:           |C       |G/B     |Gm/Bb         |F/A
+            *                           H-O
+E------------|--------|--------|--------------|----------
+B------------|8-------|8-----8-|10-8-----8-10-|8-6-5-----
+G-------9-10-|------9-|--------|----10--------|------5-5-
+D-10-10------|--------|--------|------10------|----------
+A------------|--------|--------|--------------|----------
+E------------|--------|--------|--------------|----------
+
+                                1.--------------
+ |Fm/Ab     |Fm  C C-5|G/9     |G/9
+E-|----------|---------|--------|----------------
+B-|8---5-6---|6---5----|3-------|---------------- begin repeat
+G-|--7-------|------5--|--------|-----------9-10- at the "*"
+D-|--------5-|---------|--------|-----10-10------ above
+A-|----------|---------|--------|----------------
+E-|----------|---------|--------|----------------
+
+  2.---------
+ |G/9       |Ebmaj7    |Dm7     |Abmaj7
+E-|----------|------3-6-|--------|--------------
+B-|----------|3---3-----|6-----6-|4-----3-4---4-
+G-|--------3-|--5-------|--------|----5---------
+D-|----------|----------|--------|--------------
+A-|----------|----------|--------|--------------
+E-|----------|----------|--------|--------------
+
+ |Gm7       |F         |Em      |Dm7          G
+E-|----------|5-------5-|7-----7-|5---5-------|----
+B-|3-6-----6-|----6-8---|--8-----|--6---8-----|----
+G-|----------|----------|--------|------------|----
+D-|----------|----------|--------|------------|5---
+A-|----------|----------|--------|------------|----
+E-|----------|----------|--------|------------|----
+
+then repeat the entire outro twice more. The second time the outro is repeated, raise
+the guitar melody up one octave, and instead of
+going to the 2nd ending of the repeat, go back into the G F figure as in CHORUS III.
+End the CHORUS III this time with the staccato C
+chord. That's it! 
+
+==Alternate Transcription #1==
+
+(Alternate view From: John Greene <s3583045@titan.ucc.umass.edu>)
+Verse:  C -> E -> Edim -> F -> Fm -> C -> F#dim  (ALL WITH A C BASS!)
+       G7   G7   G7   G7 ->  Bdim7 (hold this for a while)
+
+       C -> E -> Edim -> F -> Fm -> C -> F#dim  (ALL WITH A C BASS!)
+       G7   G7   G7   G7 ->  Cdim7 (hold this for a while)
+
+
+
+Here's the part where he says "The Lizards would be saved, he said..."
+Note:  The top line is the chord, and bottom line is the bass to go
+      with the chord:
+
+chord:  F  ->  D  ->  G  -> G#dim -> Amin -> C7-5 -> F (pause)
+bass:   F      F#     G     G#       A       A#      F
+
+chord:  F -> Fm -> C -> G7 -> G7 -> G7 -> G7 ->C
+
+
+Chorus: "He said I come from the land of darkness"  (G > F > C) x 3
+                                                    G F G F G F G F C
+
+Neat jam part: (this part comes after the chorus, but instead of playing
+               that final C, play the first chord of the part below and
+               continue)
+
+Abmaj7 -> Gm7 -> Bbmaj7 ->Am7 (repeats a whole bunch of times)
+This part culmiates by playing an Am instead of the Am7, then
+playing a D > D7 > D > D7 which leads back into the G F G F G F G F
+
+
+==Alternate Transcription #2==
+
+
+From: Hayduke lives! <92MDB@vax.cc.williams.edu> (Mikey ?)
+
+Ok, I have this feeling that this might sound like a flame of some sort, but I rather
+disagree with John Greene's chords to Lizards. Now I
+understand that there are several ways to represent a chord: letter, inversion,
+figured bass, guitar notation, etc.  However, I could make
+only a few of his chords match with the ones that I play when my band does the song.  
+So I offer another interpretation.
+
+INTRO:
+   --chord:   C
+   --bass:    C
+   --B str:   8
+     G str:   9
+     D str:   10
+
+                                              |  1st ending        |
+VERSE:  pas...      lean...     He...  king    :  Wil...            |
+   C:   C  C  Bb Bb Fm Fm C C-5 G  G7  E4  E  .  Fdm  Fdm  Fdm  Fdm|
+   B:   C  B  Bb A  Ab Ab G Gb  G  F   E   E  .  F    Ab   Cb   Ebb|
+   Bs:  8  8  6  6  6  6  5 5   3  3   8   7  .  3    6    9    12 |
+   Gs:  9  9  7  7  5  5  5 5   4  4   7   7  .  4    7    10   13 |
+   Ds: 10  9  8  7  6  6  5 4   5  3   7   7  .  3    6    9    12 |
+
+Repeat to first ending, then go to second ending:
+
+VERSE:  led         wand    sprng               lift   turn   sing!
+   C:   F  F  G  G  Am  A#d  F  F  F  Fm  C  C  G  G7  G6  G  C
+   B:   F  F# G  G# A   A#   A  A  A  Ab  G  G  G  F   E   D  D
+   Bs:  1  1  3  3  5   5    6  6  6  6   5  5  3  3   3   3  1
+   Gs:  2  2  4  4  5   5    5  5  5  5   5  5  4  4   4   4  0
+   Ds:  3  4  5  6  7   8    7  7  7  6   5  5  5  3   2   0  2
+
+CHORUS:
+   dark      doom         boon          tried        died    died   !
+C:  G    F    C    G   F   C   G    F    C    G   F   G   F   G   F  C
+
+Now, you repeat those versed three times, and you come to:
+
+CHORUS III:  Whoa whoa whoa...
+   C:       G         F     G F G F...
+
+PIANO SOLO: WHOAAA
+   C:        Ab    Eb       |:  F  C   Eb  Bb  :|
+           ^^^^^^^^^^        ^^^^^^^^^^^^^^^^^^^
+           lead ins          chords under solo
+
+== Loop ==
+Member recorded (J. Golberg):
+
+Progression:  F  C   Eb  Bb 
+or
+Abmaj7  Gm7  Bbmaj7  Am7
+
+<gflash>100 40 /loops/member/lizards.swf</gflash>

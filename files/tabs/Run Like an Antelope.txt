@@ -1,0 +1,178 @@
+
+
+From Tim Fallon
+Help from Mike Kelly
+
+Introduction:
+
+These are the chord shapes -- listen to a recording for
+timing and strumming information.  
+
+                       D     D    A    D
+      H-O   H-O    
+E------------------------------------
+B-------------------10---7---5-------
+G---------------7---7----7---6---7---
+D----------7-9------7----7---7---7---
+A-----7-9------------------------9---
+E--10--------------------------------
+
+Repeat as necessary for intro.
+
+Then
+
+A  D  (x4)     Then repeat Introductory sequence...
+
+Back to A  D, until this part (again, listen to a recording
+for timing information and when it comes:
+
+E-----------------------
+B--10--9--10--9--10--9--
+G---7--7---7--7---7--7--
+D---7--7---7--7---7--7--
+A-----------------------
+E----------------------- then noodle on D...
+
+E------------------------
+B--10--9--10--11--10--9--
+G---7--7---7--12---7--7--
+D---7--7---7--13---7--7--
+A------------------------
+E------------------------
+
+
+Repeat twice...
+
+Then back to the main lick, then A > D, the last time ending with
+a D chord on the second fret (basic D chord).  
+
+Then comes the distortion, and the progression changes to a
+D C D C G > F one (See below)... listen to the recording for timing.
+This is the solo Trey does on Lawn Boy.. every time I think he
+noodles around with it a little.  
+
+   ~~~~~  ~~~~~   ~~
+E---------------------------5-4-3-----------------------
+B------------------------(3)------3---3-5-3-5^(7)-------
+G----------------------(2)----------4-------------------
+D-------------------------------------------------------
+A---5------3-------5------------------------------------
+E-------------------------------------------------------
+
+             Palm muting...
+E-------------------------------------------------------
+B--5^(7)-5-3-------------------------------5^(7)-5-3----
+G-------------2-2-2-2-2-2-2-2-2-2-2---------------------
+D-----------------------------------4-------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+
+
+E----------------5^(7)----------------------------------
+B-----------------------------------5^(7)-5-3-----------
+G--2-2-2-2-2-2-2-------2-2-2-2-...2------------2--------
+D-------------------------------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+
+
+E--------------------------5^(7)----5^(7)-5-2-----------
+B---------3-5-5-5-3---3-----------------------5-3--3----
+G----2-4------------4----------------------------4------
+D--4----------------------------------------------------
+A-------------------------------------------------------
+E-------------------------------------------------------
+
+
+E---------------
+B-15^(17)-15----
+G------------14-
+D---------------
+A---------------
+E---------------
+
+
+
+
+Then:  
+ Rake            Fast!!! ....................
+E---15---15--------15--14--13--12--7--6--5--4--3---0------
+B--13-------13---15--14--13--12--7--6--5--4--3--2--0------
+G-14-----------------------------------------------0------
+D--------------------------------------------------2------
+A--------------------------------------------------2------
+E--------------------------------------------------0------
+
+
+
+..Into the JAM!!
+
+Em > D
+
+Here's a little lick that Trey did at Shoreline in 1995 at the start:
+(Thanks to Mike Flouton)
+E-------------------------------------------------------
+B-12h13-11h12------10-----------------------------------
+G-------------9h11----12-11-10-9-8-7-----7-9------------
+D------------------------------------8h9-----9p8p7------
+A--------------------------------------------------9p8p7
+E-------------------------------------------------------
+
+After the Climax of the jam, it cools down but maintains the same
+Em > D progression.  Trey might noodle over it a little, then goes
+into the words :  
+
+ Rai rai Rocko (?)
+
+ Marco Esquandolas (?)
+
+ Been you to have any spice/spike mon?  (?)
+
+A heavy C chord makes for the transition to the next part:
+
+D  C   D   C       G > F (loud!)
+
+I like to play the G > F chords as such:
+
+     G     F
+E--------------
+B-----8-----6--
+G-----7-----5--
+D-----9-----7--
+A----10-----8--
+E--------------
+
+Though I'm sure most people will stick with the barre chord shapes.
+
+For this part, I can't decide which one sounds better / works better - the
+C chord or the Am or the Am7 chord.  They're all very closely related, Am
+being the sixth of C.  Play it however you like, I suppose
+
+          D                    /           Am7
+Run Run Run Run Run Run Run Run/Run Run Run Run Run Run Run Run
+
+          D                    /           Am7
+Run Run Run Run Run Run Run Run/Run Run Run Run Run Run Run Run
+
+(with "Run run run" chant over)
+
+"Set the gearshift for the high gear of your soul . . .
+ you've got to run like an antelope . . . out of control..."
+
+Eventually they slow this chord progression down, ending on the D chord.
+
+Trey will sometimes bend the fifth fret on the B string up a whole step
+and hold it while the band does their grand finale, and he sometimes does his
+"Thanks a lot, we'll be back in fifteen minutes" routine (yeah, right).
+E---------
+B--5^(7)--
+G---------
+D---------
+A---------
+E---------
+
+Run Like an Antelope solo|Solo transcription
+[http://www.emilstabs.org/media/Antelope.ptb Power tab file]
+== Loops ==
+Sampled:
+<gflash>100 40 /loops/phish/antelope.swf</gflash>

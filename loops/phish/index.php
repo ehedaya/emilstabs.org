@@ -17,16 +17,32 @@
 		<div class="container">
 			<div class="content">
 				<div class="row">
-					<div class="col-span-12">
+					<div class="col-md-12">
 						<h1>Loops</h1>
 						<ul class="breadcrumb">
-						  <li><a href="../">Home</a> </li>
-						  <li class="active">Loops</li>
+						  <li><a href="../../">Home</a> <span class="divider">/</span></li>
+						  <li><a href="../">Loops</a> <span class="divider">/</span></li>
+						  <li class="active">Sampled Loops</li>
 						</ul>
-						<ul>
-							<li><a href="phish/">Sampled</a></li>
-							<li><a href="member/">Member recorded</a></li>
-							<li><a href="Tuners/">Tuners</a></li>
+						<ul class="media-list">
+							<?php
+							$directory = "";
+							$loops = glob($directory . "*.swf");
+							foreach ($loops as $loop) {
+							?>
+							<li class="media">
+								<div class="media-body">
+									<object type="application/x-shockwave-flash"
+									  data="<?php echo $loop; ?>"
+									  width="300" height="100">
+									  <param name="movie" value="<?php echo $loop; ?>" />
+									  <param name="quality" value="high"/>
+									</object>
+								</div>
+							</li>
+							<?php
+							}
+							?>
 						</ul>
 					</div>
 				</div>
@@ -34,3 +50,4 @@
 		</div>
 	</body>
 </html>
+

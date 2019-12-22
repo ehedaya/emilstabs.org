@@ -1,0 +1,161 @@
+
+
+
+Trannscription By Clean-Tone
+
+ G#    A      G#   Dmaj7  G#    A      G#  Dmaj7 Dmaj7 FMaj7
+E----4----5--|----4---5--|----4----4--|----4---5--|--5---8--|
+G----4----5--|----4---7--|----4----5--|----4---7--|--7--10--|
+B----5----6--|----5---6--|----5----6--|----5---6--|--6---9--|
+D----6----7--|----6---7--|----6----7--|----6---7--|--7--10--|
+A----6---(7)-|----6---5--|----6---(7)-|----6---5--|--5---8--|
+E-4-4---5----|-4-4---(5)-|-4-4---5----|-4-4---(5)-|--5---8--|
+
+Thanks goes out to the phresh phish phile here: (Miss You..)
+
+Avenu Malkenu
+Chanenu v'anenu
+Avenu Malkenu Chanenu v'anenu
+Ki ain banu ma'asim
+Asseh imanu
+Tsadaka v'chesed
+Asseh imanu tsadaka vichesed v'hoshi'ainu
+
+Our Father Our King
+Be gracious unto us
+And answer us
+for we are wanting
+in good deeds
+Deal with us in charity
+And save us
+
+
+Translation:
+(Our Father Our King. Be gracious unto us.
+And answer us, for we are wanting, in good deeds.
+Deal with us in charity. And save us)
+                                                 to be continued...
+                                                 
+                                                 
+- - - -
+
+Transcribed by John Greene - Keyboardist of Phish tribute band, Chum <http://facebook.com/chumphishtribute>
+
+I learned this one recently, but the above chords didn't seem correct to me.  Here's what I have:
+
+All timings from Phish 7/4/2012 Track 8
+
+Intro:
+Ab   A   Ab   Ebm7(no fifth?)*
+
+*My brain wants this to be Ebm7b5 but when I use “H” on ASD, I swear it’s only Db Eb Gb which i s the 7-1-3 of “Ebmin7 (no fifth)”  i.e the “A” which is the flat 5 of Eb is not there.  
+
+Verse
+Ab   A   Ab   Ebm7n5
+Ab   A   Ab   Ebm7n5
+Ab   A   x 3
+Ab   A   Ab   Ebm7n5
+Ab   A   Ab   Ebm7n5
+
+Verse 2
+
+Change: “Asseh imanu”
+C#m      B     A    F#m
+
+Verse 3 (same)
+
+01:33 - Modulation1
+Ebm7n5      /F#
+F#m7b5/A    /C
+
+01:36 
+B   C   B   C
+
+Note: Mike is a half-step off until 1:40 in this version.
+
+1:42 (bass solo over B groove)
+B   C
+
+1:55 (verse structure)
+B    C   B   F#m7n5
+
+2:02 (more bass solo over verse structure in B)
+B    C   B   F#m7n5
+B    C   B   F#m7n5
+B    C   x 3
+B    C   B   F#m7n5
+B    C   B   F#m7n5
+
+2:21 - Modulation2 (to get back to Ab)
+F#m7n5       /A
+Ebm7n5/C     /Eb
+
+Ab   A   Ab   Ebm7n5
+Ab   A   Ab   Ebm7n5
+
+Change: “Asseh imanu”
+
+Verse 4 (same)
+
+3:08 - Last Modulation to end
+I hear all these chords as the m7n5.  It goes up a minor third each time.  I’ll list the notes too
+
+Ebm7n5 - Db Eb Gb
+F#m7n5 - E  F# A 
+Am7n5  - G  A  C
+Cm7n5  - Bb C  Eb
+Ebm7n5 - Db Eb Gb
+
+- - - - - - -
+
+Transcription by Eric Landsberg
+
+The above two transcriptions have some errors.
+
+Here are the correct chords. These can also be used for single acoustic guitar as I used Trey's solo acoustic performance from 2/15/18 at Sixth and I Historic Synagogue to help clear up how this can be played solo; this would of course be good for band arrangements as well.
+
+The prior transcription uses an Ebm7 without the fifth, and the one above that uses a DMaj7. The truth is that it is in fact an Ebm7b5 (Idk how it sounds on a keyboard, but this is definitely what Trey is doing on guitar), likewise the modulation uses an F#m7b5.
+
+Ebm7b5: x-6-7-6-7-x
+F#m7b5: x-9-10-9-10-x
+
+Additionally, the B part ("Asseh imanu") uses an Ab instead of an F#m, it sounds much better and fits the harmonic minor scale that the song is in.
+
+I've also included the weird time changes, as Phish's arrangement of this traditional Jewish tune goes between 5/4 and 6/4 time, and that's what makes it sound so Phishy.
+
+Part A: Intro/"Avenu Malkenu..."
+
+(5/4 time)
+|Ab - - A - |Ab - - Ebm7b5 -|
+"Avenu Malkenu"
+Ab  A  Ab  Ebm7b5
+"Chanenu v'anenu"
+(6/4 time)
+|Ab - - A - - |
+"Avenu Malkenu"
+Ab  A
+"Chanenu v'anenu"
+(Back to 5/4)
+Ab  A  Ab Ebm7b5
+"Ki ain banu ma'asim"
+
+Part B: (6/4 time)
+|C#m |B |A |Ab|
+"Asseh imanu, tsadaka vichesed"
+|C#m |B |
+"Asseh imanu tsadaka vichesed"
+(Back to 5/4 time)
+|A - - Ab - - | Ab - - Ebm7b5 - -|
+"V'hoshi'ainu"
+
+Then you repeat A part until you do the key modulation from Ebm7b5 into F#m7b5, then you jam on the modulated A part (Mike solos here):
+(5/4)
+B  C  B  F#m7b5
+(6/4)
+B  C  B  C
+(5/4)
+B  C  B  F#m7b5
+
+Then modulate F#m7b5 -> Ebm7b5, back to the A part and B part, rinse, repeat as desired. Then you can do the outro as listed on the prior transcription but using all m7b5 chords is good and kosher instead of just not including the b5 like the other guy wrote.
+
+Enjoy!

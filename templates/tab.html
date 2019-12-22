@@ -1,0 +1,23 @@
+<div class="btn-group pull-right" role="group" aria-label="">
+  <a href="https://github.com/ehedaya/emilstabs.org/commits/master{{uri}}" class="btn btn-default" target="_blank">View history</a>
+  <a href="https://github.com/ehedaya/emilstabs.org/issues/new?title=Re:+{{name}}" class="btn btn-default" target="_blank">Discuss</a>
+  <a href="https://github.com/ehedaya/emilstabs.org/edit/master{{uri}}" class="btn btn-default" target="_blank">Suggest edit</a>
+</div>
+
+
+<h2 class="file_name">{{name}}</h2>
+<pre class="file_contents">{{body}}</pre>
+{{#if flash}}
+  <ul>
+  {{#each flash}}
+  <li class="media">
+	<div class="media-body">
+		<object type="application/x-shockwave-flash" data="{{url}}" width="{{width}}" height="{{height}}">
+			<param name="movie" value="{{url}}">
+			<param name="quality" value="high">
+		</object>
+	</div>
+  </li>
+  {{/each}}
+  </ul>
+{{/if}}

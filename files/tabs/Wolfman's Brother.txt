@@ -1,0 +1,263 @@
+
+
+transcribed by Benjamin Hudnall   chillywater14@yahoo.com
+
+I finally got around to tabbing my favorite Phish song.  The structure is
+pretty loose, but the parts I transcribed are the composed parts from recent
+live versions.  The song is basically a funk jam in A# played on the bridge
+pickup.  This is not an EXACT transcription, because there is a great deal of
+improvising, which makes it all the more fun to play.  Also, to get the timing
+just right, it's best to listen to your favorite Phish tape with a kickin'
+"Wolfman's Brother."
+
+LEGEND:
+
+~  hold note
+h  hammer on/off
+v  down stroke
+^  up stroke
+b  bend
+() optional notes
+
+INTRO:
+
+  Gm  G#            [pick scrape]
+
+E|-3~~~4~~~---------------------------------|
+A|-3~~~4~~~---------------------------------|
+G|-3~~~5~~~---------------------------------|
+B|-5~~~6~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+A|-5~~~6~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+E|-3~~~6~~~xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx|
+
+
+MAIN THEME:
+
+  A#        v  ^  v  ^  v  Gm        G#
+
+E|--------------------------3---------4---------
+A|-11---11---11-11-11-11-11-3---------4---------
+G|-x----x----x--x--x--x--x--3---------5---------
+B|-8----8----8--8--8--8--8--5---------6---------
+A|--------------------------5---------6---------
+E|--------------------------3---------4---------
+
+CHORUS:
+
+
+
+Well the telephone was ringing
+
+  A#        v  ^  v  ^  v  hammer on/off
+
+E|--------------------------86868686--4---------
+A|-11---11---11-11-11-11-11-----------4---------
+G|-x----x----x--x--x--x--x------------5---------
+B|-8----8----8--8--8--8--8----------5-6---------
+A|------------------------------------6---------
+E|------------------------------------4---------
+
+
+CHORUS:
+
+  F                     D#
+
+E|----------------------------------------------
+A|-10--------------------8----------------------
+G|-10--------------------8----------------------
+B|-10--------------------8----------------------
+A|-8---------------------6----------------------
+E|----------------------------------------------
+
+
+INTRO
+
+
+MAIN THEME x 4
+
+
+VERSE 1 (with MAIN THEME)
+It was many years ago now
+But I really can't be sure
+Because when it all began now
+I heard a knock upon my door
+
+
+                  CHORUS
+It's the wolfman's brother, the wolfman's brother
+
+NO CHORD
+Coming down on me
+
+
+MAIN THEME x2
+
+
+VERSE 2 (partially with MAIN THEME)
+
+Well the telephone was ringing
+
+  A#        v  ^  v  ^  v  hammer on/off
+
+E|--------------------------86868686--4---------
+A|-11---11---11-11-11-11-11-----------4---------
+G|-x----x----x--x--x--x--x------------5---------
+B|-8----8----8--8--8--8--8----------5-6---------
+A|------------------------------------4---------
+E|------------------------------------4---------
+
+
+MAIN THEME
+That's when I handed it to Liz
+She said it isn't who it should be
+If it wasn't who it is
+
+
+                  CHORUS
+It's the wolfman's brother, the wolfman's brother
+
+NO CHORD
+Coming down on me
+
+
+MAIN THEME x 2
+
+
+VERSE 3 (variation of MAIN THEME, the timing is a little distorted)
+
+Well I might be on a side street
+
+  A#        v  ^  v  ^  v  Gm                  G#
+
+E|------------------------------------------------------
+A|-11---11---11-11-11-11-11-----------------------------
+G|-x----x----x--x--x--x--x--5b7~~~5h3-------------------
+B|-8----8----8--8--8--8--8------------3~~~5-5-5-6~~~~~~~
+A|------------------------------------------------------
+E|------------------------------------------------------
+
+Or a stairway to the stars
+
+  A#        v  ^  v  ^  v  Gm                G#
+
+E|------------------------------------------------------
+A|-11---11---11-11-11-11-11-8b9-8-6---------------------
+G|-x----x----x--x--x--x--x----------5h7-----------------
+B|-8----8----8--8--8--8--8--------------5-5-5-6~~~~~~~~~
+A|------------------------------------------------------
+E|------------------------------------------------------
+
+I hear the high-pitched cavitation
+
+  A#        v  ^  v  ^  v  Gm                  G#
+
+E|--------------------------6---------------------------
+A|-11---11---11-11-11-11-11---6h8-6---------------------
+G|-x----x----x--x--x--x--x----------7-------------------
+B|-8----8----8--8--8--8--8------------8-3h5-5-5-6~~~~~~~
+A|------------------------------------------------------
+E|------------------------------------------------------
+
+Of propellers from afar
+
+  A#        v  ^  v  ^  v  Gm            G#
+
+E|--------------------------6---------6-3-4~~~~~~~~~~~~~
+A|-11---11---11-11-11-11-11---6h8-6-9---3-4~~~~~~~~~~~~~
+G|-x----x----x--x--x--x--x--------------3-5~~~~~~~~~~~~~
+B|-8----8----8--8--8--8--8--------------5-6~~~~~~~~~~~~~
+A|--------------------------------------5-6~~~~~~~~~~~~~
+E|--------------------------------------3-4~~~~~~~~~~~~~
+
+                  CHORUS
+It's the wolfman's brother, the wolfman's brother
+
+NO CHORD
+Coming down on, coming down on me
+
+
+MAIN THEME x 2
+
+
+BRIDGE RIFF x 4   (heavy wah-wah rocking)
+
+  Gm             G#
+
+E|-3--------------4----------------
+B|-3--------------4----------------
+G|-3--------------5----------------
+D|-5--------------6----------------
+A|-5--------------6----------------
+E|-3--------------4----------------
+
+Some meaningless excitement
+Smooth atonal sound
+It's like a cross between a hurricane
+And a ship that's run aground
+
+
+                  CHORUS
+It's the wolfman's brother, the wolfman's brother
+It's the wolfman's brother, the wolfman's brother
+It's the wolfman's brother, the wolfman's brother
+
+NO CHORD
+Coming down on, coming down on me
+
+
+Note:  at this point Trey cuts off the wah-wah effect
+
+
+FUNKY OUTRO x8
+
+  It's the wolfman's bro tha a   etc.  (scatting...)
+
+E|---6--3----(3)---------------
+B|---------6-------------------
+G|-----------------5p3---3-----
+D|---------------5-----5---5---
+A|-----------------------------
+E|-----------------------------
+
+or...(I don't think this is correct, FWIW, but it was on here so I'm leaving it)
+
+E|--------------------6-----------------------
+B|------------------------8---6---8-----------
+G|----------(5)---------------------8h7-------
+D|(6h8)(8)------(8)---------------------6h8-8-
+A|--------------------------------------------
+E|--------------------------------------------
+
+
+And finally the jam in A#  [A# B# D D# F G G#]
+This is the position I start out in, who knows what Trey does...
+
+E|-----------------------------6-8-10-11....
+B|-----------------------6-8-9--------------
+G|-----------------5-7-8--------------------
+D|-----------5-6-8--------------------------
+A|-----5-6-8--------------------------------
+E|-6-8--------------------------------------
+
+
+
+== Bass Tablature ==
+
+
+Wolfman's Brother Bass:
+
+     E                       C#m     D
+G -----------------------------------------------------------
+D --------2--------------------------------------------------
+A ----------------------2-----4-----5------------------------
+E ----0-------2----4-----------------------------------------
+
+
+The Chorus is B to A.  I just play fills with roots and fifths.
+
+The "meaningless excitement....smooth atonal sound" part is
+C# to D.  I play roots and fifths for that too.
+
+== Loops ==
+Member recorded
+<gflash>100 40 /loops/member/wolfman.swf</gflash>

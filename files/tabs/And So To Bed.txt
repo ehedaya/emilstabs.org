@@ -1,0 +1,90 @@
+By Trey Anastasio - as appears on the Phish "White Tape"
+Transcribed by Itay Chamiel (itaych at gmail.com)
+
+Tuning (low to high) D A D F# A D. To play along with the original, run it at 99% speed or tune
+all strings a little sharp +15 cent (1 cent = 1/100th of a semitone).
+
+Capo on 12th. Fret numbers are relative to capo. For best results you will need a 24 fret guitar,
+but if you don't have one you may substitute 12th (24th) fret harmonics with the 5th (17th).
+
+Start the song by strumming on all strings in the open position until:
+
+(1:04)
+First 4 chords are strummed down, up, down. The others are each strummed once in a 1 (2 3) 1 (2 3) pattern.
+     4x          2x
+D-|:-0-0-0-0-:|:-0-0-0-0-0-0------0-0-:|
+A-|:-0-0-0-0-:|:-0-0-0-0-0--0-----0-0-:|
+F#|:-0-5-3-1-:|:-0-3-1-5-3---0----0-0-:|
+D-|:-0-5-4-2-:|:-0-4-2-5-4----0---0-0-:|
+A-|:-0-5-5-3-:|:-0-5-3-5-5-----0--0-0-:|
+D-|:-0-0-0-0-:|:-0-0-0-0-0------0-0-0-:|
+
+(1:27)
+Play this rising pattern while occasionally playing some of the other open strings and letting them ring. Listen to the original.
+     3x
+D-|:-------------------------:|-
+A-|:-------------------------:|-
+F#|:---1----3----5----7----8-:|-
+D-|:--0----0----0----0----0--:|-
+A-|:-2--2/4--4/5--5/7--7/9---:|-
+D-|:-------------------------:|-
+
+(1:44)
+D-|-5-4-2-----------
+A-|-5-5-4-----------
+F#|-5-3-3--(7)-(12)-
+D-|--------(7)-(12)-
+A-|-----------------
+D-|-----------------
+
+Let the crickets chirp for a bit and strum the open chord, then repeat everything. This brings us to the bridge:
+
+(2:36)
+D-|-0-0-0-0-0-0-0-
+A-|-0-0-0-0-0-0-0-
+F#|-1-1-1-1-1-1-1-
+D-|-2-2-2-4-2-4-2-
+A-|-3-3-3-3-3-3-3-
+D-|-0-0-0-0-0-0-0-
+
+(2:39)
+Quick 1-2-3 timing with alternate strumming down/up.
+     4x
+D-|:-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-:|-
+A-|:-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-0-:|-
+F#|:-2-x-x-3-x-x-2-x-x-0-0-0-0-0-0-0-:|-
+D-|:-0-0-0-0-0-0-0-0-0-0-0-2-2-0-0-0-:|-
+A-|:---------------------------------:|-
+D-|:---------------------------------:|-
+
+Strum these chords - listen to the recording.
+
+D-|-0-0-0-0-0-0-0-0-0-0-
+A-|-3-0-3-0-0-0-0-0-3-0-
+F#|-1-0-1-0-5-3-1-0-1-0-
+D-|-2-0-2-0-5-4-2-0-2-0-
+A-|---------5-5-3-0-----
+D-|---------0-0-0-0-----
+
+Repeat the quick 1-2-3 section above, then at 3:12
+     6x
+D-|:-0-----:|-0------0-0-
+A-|:-0-----:|--0-----0-0-
+F#|:-1-----:|---0----0-0-
+D-|:-2h4p2-:|----0---0-0-
+A-|:-3-----:|-----0--0-0-
+D-|:-0-----:|------0-0-0-
+
+(3:18)
+Once again repeat the main section of the song.
+
+(4:02)
+End the song with this two chord pattern. The first (all open strings) is strummed freely, the second is
+strummed downwards gently 6 times:
+     4x
+D-|:-0---:|-------
+A-|:-0-4-:|-------
+F#|:-0-1-:|--(12)-
+D-|:-0-2-:|--(12)-
+A-|:-0-0-:|--(12)-
+D-|:-0---:|-------

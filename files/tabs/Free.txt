@@ -1,0 +1,160 @@
+
+Note:  the album version is up a half step.  The live version is in D.  Because
+of the open stringings, if you want to play it in Eb I suggest you use a capo :).
+
+
+Build up to D9 ...
+
+
+ D9
+E--0---
+B--3---
+G--2---
+D--0---
+A------
+E------
+
+                 p           h  p      s             h p
+E---------10----12-10--------8-10-8--------7----5----3-5-3------------------
+B--------------------10-----8------8------8----7----3-----3----3---------3---
+G-slide>11---11--------11--9--------9--8>9----7----4-------4---2---------2---
+D------------------------------------------------------------0-----------0---
+A---------------------------------------------------------------------------
+E----------------------------------------------------------------1^(1/2)----
+
+
+
+(repeat)
+
+
+E-------------------------------------------
+B-------(1)------3-------1------3--------3--
+G--------0-----4---4---2---2----2--------2--
+D--------2---5-------3--------0----------0--
+A--0-2-3-3----------------------------------
+E---------------------------------1^(1/2)---
+
+
+(repeat)
+
+
+E----------------------
+B------1-------3-----3-
+G----2---2---4---4---2-
+D--3-------5-------0---
+A----------------------
+E----------------------
+
+
+(repeat)
+
+
+Those are the three components to the intro, listen to a recording
+for the matching up.  Below, you can substitute the C with a C9
+
+
+Here is an alternative take on the intro from Jake Cohen <jcohen59@hotmail.com>
+
+
+   P-O     P-O P-O
+e----------12-10------------10-8---------7-----5--------5-3----------2------
+B-------10-------10-------8------8-----8-----7--------3-----3------3---3----
+G----11-----------------9------------9-----7--------4------------2-------2--
+D-12-----------------10---------------------------5------------0------------
+A---------------------------------------------------------------------------
+E---------------------------------------------------------------------------
+
+ P-O    C D
+e--------0--0----2-----------------------------------------------------------
+B--------1--1----3-----------------------------------------------------------
+G--------0--0----2-----------------------------------------------------------
+D--------2--2----0-----------------------------------------------------------
+A--------3--3---------------------------------------------------------------
+E-1-0-----------------------------------------------------------------------
+
+
+
+
+
+
+ C9
+E---
+B-3-
+G-0-
+D-2-
+A-3-
+E---
+
+
+   D9              C          (Third riff)
+I'm floating in the blimp a lot
+
+ D9               C9      (Third riff)
+I feel the feeling I forgot
+
+
+        (Third Riff)
+Swimming weightless in the womb
+
+        (Third Riff)
+Bouncing gently round the room
+
+       (etc...)
+In a minute I'll be free
+And we'll be splashing in the sea
+
+I feel no curiosity
+I see the path ahead of me
+In a minute I'll be free
+And we'll be splashing in the sea
+We hear a tiny cry
+As the ship goes sliding by
+
+Free!
+Free!
+
+Free!
+
+For this part, on the album version, use these strummings:
+
+E------------------------------------------------------------------
+B------------------------------------------------------------------
+G--7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-7-------------------------
+D------------------------------------------------------------------
+A--5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-5-------------------------
+E------------------------6-6-6-6-6-6-6-6-6-------------------------
+
+I'm not too sure about the above tab for this section, it may be
+true to the album version (i haven't listened to the album version 
+very much), however, recently in live versions they drop to Dm key 
+for the jam section.  The chord progression you hear is Dm to A# and 
+the scale Trey uses is a D natural minor scale most of the time.  I 
+like to play the Dm and A# like so:
+
+   Dm (x4)      A# (x4)
+E-----------------------------------------------------------------
+B--10---10------15---15-------------------------------------------
+G--10---10------15---15-------------------------------------------
+D--12---12------15---15--------------------------------------------
+A--12---12------13---13-------------------------------------------
+E-----------------------------------------------------------------
+
+You can also throw a D9 inbetween those two every now and then to 
+change it up a little, I think Trey does this sometimes, but played 
+from the 12th fret.
+
+
+ I'm floating in the    blimp a lot
+ I feel                 the feeling I forgot
+ I feel                 free
+
+
+[repeat signature riff]
+
+
+Free!
+Free!
+Free!
+Free!
+
+
