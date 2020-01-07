@@ -1,0 +1,130 @@
+Ruby Waves
+
+Taken from 7/14/2019  - The run down portion just goes down the D major scale starting from a B. 
+I'm not entirely positive if he plays thirds under each note or not, 
+but either way you can play just the root of each of those or both. 
+Or try something else like fifths or octaves! Trey plays it differently every time it seems.
+
+Listen for strum pattern/timing
+
+Intro
+
+e|--0--/---------/-----------------------------------------------|
+B|--5--/------5--/-----------------------------------------------|
+G|--6--/-(7)--6--/---7--6--4--2----------------------------------|
+D|--7--/-s9---7--/---9--7--5--4--5--4--2--0----------------------|
+A|--0--/---------/------0--------7--5--4--2----------------------|
+E|---------------------------------------------------------------|
+
+e|--0--/--------------------------------------------------------|
+B|--5--/--------------------------------------------------------|
+G|--6--/--- (9)------------7--6--4------------------------------|
+D|--7--/--9s11-9-7---------9--7--5--5--4--2--0------------------|
+A|--0--/----------------------------7--5--4--2------------------|
+E|--------------------------------------------------------------|
+
+
+
+A
+Blue morning, walking down the street
+G                        D
+Hear the rhythm from the soles of my feet
+A
+On the pavement, and I reach out my hands
+G                             D
+And touch the building that's beside me
+      A
+And I look into the air up above my head
+G                           D
+Thin layer of clouds and the open sky
+A
+All the stars are handles on doors
+          G
+If I could touch 'em with my fingers
+            D
+They would open up
+
+
+A                                         G               D
+And a sea of love, ruby waves would pour down on my head
+A
+An ocean of love would carry me
+G                       D
+Up from this prison of lies
+A
+If I could touch the stars with my fingertip
+     G                           D
+The doors would open all around me
+      A                                    G
+Could escape from this prison of lies and swim
+                 D
+In the ocean up above my head
+
+
+Repeat intro
+
+
+A                          G             D
+When I die I'll turn into a tiny ball of energy
+A                                                 G     D
+And I'll go flipping and floating up into the sky
+A
+And bounce off the stars like a pinball machine
+G              D
+Look around
+A
+All the lights on the machine are flashing
+G                            D
+'Til they explode and the particles join up with
+
+
+A                                         G               D
+a sea of love, ruby waves would pour down on my head
+A
+An ocean of love would carry me
+G                       D
+Up from this prison of lies
+A
+If I could touch the stars with my fingertip
+     G                           D
+The doors would open all around me
+
+A
+Could escape from this prison of lies
+Could escape from this prison of lies
+
+Into epic jam
+
+
+Chord shapes I see Trey using in the Youtube video. At times it also seems like he lets the high e string stay open in these chords - especially in the chorus.
+
+
+  A
+ 
+e|--0-----|   
+B|--5-----|
+G|--6-----|
+D|--7-----|
+A|--0-----|
+E|--------|
+
+G
+
+e|--3-----|
+B|--3-----|
+G|--4-----|
+D|--5-----|
+A|--5-----|
+E|--------|
+
+D
+
+e|--2-----|
+B|--3-----|
+G|--2-----|
+D|--4-----|
+A|--0-----|
+E|--------|
+
+
+
