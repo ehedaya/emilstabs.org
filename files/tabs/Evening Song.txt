@@ -26,7 +26,7 @@ Bb                  F             C   C
 For evening is when all things dark caaaan
 Bb                F      C  C
 Slide around with ease
-Bb                      F
+Bb                      Am
 And good things all get shoved in shadows
 C                   C  C
 By a wicked breeze
@@ -46,17 +46,19 @@ Bb                 F          C  C
 The night is the dividing line thaaaat
 Bb                   F      C  C
 Blends the right and wrong
-Bb                   F
+Bb                   Am
 And spirits crossing freely over
 C
 Can hold you there too long
 
-JAM OVER VERSE
+Bridge :
+
+F  Gm  Am  Bb  C  Dm  C
 
 REPEAT 3rd VERSE & LAST CHORUS 4x
 
 END:
-Bb                         F
+Bb                         Am
 It’s a good things all get shoved in shadows
 C                   C  C
 By a wicked breeze
