@@ -7,7 +7,7 @@ Someone's always telling me to breathe
 The wind is always whispering through the leaves
    C
 It sings to the world
-     Am
+     Fmaj7
 They cling to the world
   D      C     G  
 I listen and believe
@@ -23,19 +23,19 @@ I'm waiting 'til you sing me one more song
 The messenger conveyed the ruler's word
     C
 You promised the moon
-    Am
+    Fmaj7
 But I need a tune
     D         C      G
 For notes are rarely wrong
 
 
-Bm                        D
+Em                        D
 We built a kingdom out of lies
                                F
 And then we blindly fanned the fires
                                  C
 We warmed our hands with glowing coals
-                                Bm
+                                Em
 But now they rain down from the skies
                       D
 Rising volume muffles moans
@@ -51,7 +51,7 @@ The moonlight dances softly on the leaves
 A message in the pattern that it weaves
    C
 It urges me now
-Am
+Fmaj7
 It's pleading somehow
 D       C     G
 Telling me to breathe 
@@ -62,7 +62,7 @@ Solo:
 G Bm
 G Bm
 C 
-Am 
+Fmaj7 
 D C G
 
 Jam: 
