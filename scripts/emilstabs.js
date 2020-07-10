@@ -1,3 +1,6 @@
+if (location.protocol !== 'https:') {
+    location.replace(`https:${location.href.substring(location.protocol.length)}`);
+}
 $(document).ready(function() {
     stab = {};
     stab.cacheTTL = 5 * 60 * 1000;
