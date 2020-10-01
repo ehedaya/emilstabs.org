@@ -1,4 +1,4 @@
-Viewable on the web at http://emilstabs.org/
+Viewable on the web at http://emilstabs.org
 
 ## Editing transcriptions
 
