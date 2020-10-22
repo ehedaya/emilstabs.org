@@ -1,48 +1,24 @@
-
-
 From: Eric Berman (ericbe@microsoft.com)
-From: Itay Chamiel (itaych@gSPAMmail.com)
+From: Itay Chamiel (itaych@gSPAMmail.com) - hat tip to Chris of Phish Guitar Lessons
+
 By Jeff Holdsworth (The Artist Formerly A Member of Phish)
 
-
-I finally figured out exactly what Trey plays.  If this isn't it, then I don't
-know what it is.  I listened to the 11/3/98 radio interview, and he was kind of
-noodling the intro while he was talking, right before they played an acoustic
-version of it live on the radio.  This was what he played, and it was really easy
-to hear.  Enjoy.
-     H-O       H-O       H-O     H-O     H-O      H-O
-E-----0-0-------0-0-------0-0-----0-0-----0-0------0-0-----------------------
-B-----0-0---2---0-0---2---0-0-----0-0--2--0-0--2---0-0-----------------------
-G-----0-1---2---0-4---2----------------2-------2---0-1-----------------------
-D-----2-2---2---5-5---2---5-6-----5-6--2--5-6--2---2-2-----------------------
-A-----2-2------------------------------------------2-2-----------------------
-E---0-----------7-7-------7-7---7-7-7-----7-7------0-0-----------------------
-
-
-Alternate transcription of intro by Itay Chamiel, based on the 4-29-1990
-(Woodbury Ski and Racquet Club, Woodbury CT) video.
-
-                                         (*)
-E-------------------------------------------------
-B-------------------------------------------------
-G----0h1--2--0~~--2--0h1-----0h1--2--0h1--2--0h1--
-D----0~~--0--0h6--0--0~~-----0~~--0--0~~--0--0~~--
-A----2~~--4--0~~--4--2~~-----2~~--4--2~~--4--2~~--
-E--0---------7~~-----------0----------------------
-(*) this chord slightly delayed and played harder
-
-__
-The Em7 is played for about 8th-note duration; the overall chord is an E7 and
-the G (open G string) of the Em7 and the sus4 are nothing more than passing
-tones.
+Here's the intro and main verse E7 riff. (see Woodbury Ski & Racquet Club 04/29/90 for a clear video of this)
+                                          (*)
+E|-------------------------------------------------
+B|-------------------------------------------------
+G|----0h1--2--0h4--2--0h1-----0h1--2--0h1--2--0h1--
+D|----0~~--0--0~~--0--0~~-----0~~--0--0~~--0--0~~--
+A|----2~~--4--5~~--4--2~~-----2~~--4--2~~--4--2~~--
+E|--0--------0--------------0--------0-------------
+(*) this chord slightly delayed
 
 Trey does some other stuff here, mostly noodling around on these chords,
 that I'm not going to write out, but listen to any recording and he'll do
 something different yet interesting; I'll just show the underlying chords
 below.
 
-Also, during the first A Chord, Trey used to pull one of these instead of
-playing an A chord:
+Trey will occasionally play this riff or similar instead of the A chord:
           |       |       |                |        |           |
         /S        /S    /S           /S          /S
 E|----------------------------------|--------------------------------|
