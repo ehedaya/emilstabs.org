@@ -59,7 +59,3 @@ A-------1h2h3-------------
 
 E-1-----------------------
 
-
-== Loops ==
-Member recorded:
-<gflash>100 40 /loops/member/simple.swf</gflash>

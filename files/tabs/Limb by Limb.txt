@@ -44,6 +44,3 @@ Tossed with the salad and baled with the hay
 Pooling like water that drips from above
 Trampled by lambs and pecked by the dove
 
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/limbbylimb.swf</gflash>

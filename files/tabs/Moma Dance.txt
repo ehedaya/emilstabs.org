@@ -136,6 +136,3 @@ b-string for that extra fat bottom end
 I'll try to transcribe the breakdown and give a general idea about the solo
 but it's hard without my bass in my hands.
 
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/momadance.swf</gflash>

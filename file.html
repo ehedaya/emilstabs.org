@@ -1,40 +1,9 @@
 <!doctype html>
 <html>
 	<head>
-		<script type="text/javascript" src="/scripts/ga.js"></script>
-		<script type="text/javascript" src="/bower_components/jquery/dist/jquery.min.js"></script>
-		<script type="text/javascript" src="/bower_components/underscore/underscore-min.js"></script>
-		<script type="text/javascript" src="/bower_components/backbone/backbone.js"></script>
-		<script type="text/javascript" src="/bower_components/handlebars/handlebars.min.js"></script>
-		<script type="text/javascript" src="/bower_components/moment/min/moment.min.js"></script>
-		<script type="text/javascript" src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-		<script type="text/javascript" src="/bower_components/jstorage/jstorage.min.js"></script>
-		<script type="text/javascript" src="/bower_components/typeahead.js/dist/typeahead.bundle.min.js"></script>
-		<script type="text/javascript" src="/scripts/emilstabs.js"></script>
-
-		<link href="/bower_components/bootstrap/dist/css/bootstrap.min.css" type="text/css" rel="stylesheet" />
-		<link href="/stylesheets/typeahead.js-bootstrap.css" rel="stylesheet" type="text/css" />
-		<link href="/stylesheets/emilstabs.css" type="text/css" rel="stylesheet" />
-
-		<script type="text/javascript">
-      $(document).ready(function() {
-				App = {};
-				App.nav = new stab.nav();
-				App.footer = new stab.footer();
-				let filename = window.location.pathname;
-				if(filename == "/tabs/" || filename == "bass/") {
-	        ga('send', 'event', 'tab', 'index');
-	        window.location.replace("/");
-				} else if (filename) {
-    				App.file = new stab.tab({uri: filename});
-    				App.view = new stab.tabView({model: App.file});
-    				App.file.fetch();
-				} else {
-          ga('send', 'event', 'tab', 'error', 'noFile');
-          window.location.replace("/");
-				}
-			});
-		</script>
+		<script type="text/javascript" src="/js/runtime.js"></script>
+		<script type="text/javascript" src="/js/vendors.js"></script>
+		<script type="text/javascript" src="/js/file.js"></script>
 
 	</head>
 	<body>

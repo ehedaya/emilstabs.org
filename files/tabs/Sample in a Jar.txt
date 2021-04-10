@@ -142,6 +142,3 @@ a-----------------------------------------
 e-----------------------------------------
 
 
-== Loops ==
-Member recorded (J. Goldberg):
-<gflash>100 40 /loops/member/sample.swf</gflash>

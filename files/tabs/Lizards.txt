@@ -445,4 +445,3 @@ Progression:  F  C   Eb  Bb
 or
 Abmaj7  Gm7  Bbmaj7  Am7
 
-<gflash>100 40 /loops/member/lizards.swf</gflash>

@@ -63,6 +63,3 @@ E-----------------------------------------------------------------
 [repeat and fade]
 
 
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/roggae.swf</gflash>

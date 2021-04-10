@@ -147,6 +147,3 @@ isnt any progression in the song, i dont know what he was talking about. A
 local band "The Next Left", plays a nasty cover of this song. what a energetic 
 song. peace. 
 
-== Loops ==
-Member recorded:
-<gflash>100 40 /loops/member/firsttube.swf</gflash>

@@ -107,6 +107,3 @@ stopping on the E and letting it ring on the last time.
 
 This usually leads into I Am Hydrogen
 
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/mikessong.swf</gflash>

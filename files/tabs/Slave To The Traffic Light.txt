@@ -144,7 +144,3 @@ E----0---
 The above tab is perfect, except for the part after the first "D Breakdown" By that I mean the part where your pinky is on the 12th fret 1st string.
 
 I play the first progression after that as A>G>A then a quick E>D (Another easy way to think about it is it being A>G then A>E>D).  Do that twice, then go into the A>G>D>E progression.
-
-== Loop ==
-Member recorded:
-<gflash>100 40 /loops/member/slave.swf</gflash>

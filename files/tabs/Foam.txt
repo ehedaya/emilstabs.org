@@ -557,6 +557,3 @@ E|-----------------------|--------|
 
 
 
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/foam2.swf</gflash>

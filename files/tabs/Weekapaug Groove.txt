@@ -64,9 +64,3 @@ D|7-7-7-9-9-7-7-5--5--9-----|
 A|9-9-----------------7-9---|
 E|--------------------------|
 
-
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/weekapaug.swf</gflash>
-Member recorded:
-<gflash>100 40 /loops/member/weekapaug3.swf</gflash>

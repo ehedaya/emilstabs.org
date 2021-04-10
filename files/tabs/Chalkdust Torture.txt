@@ -241,8 +241,3 @@ the main theme to finish the chorus.
 #[http://youtube.com/watch?v=ggvnwpwkOJQ Letterman Show 12-30-1994 (YouTube.com)]
 #[http://youtube.com/watch?v=M0zq2ZJO4fg Cologne, Germany 02-16-1997 (YouTube.com)]
 
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/chalkdust2.swf</gflash>
-Member recorded:
-<gflash>100 40 /loops/member/chalkdust.swf</gflash>

@@ -89,6 +89,3 @@ and you don't get a refund     if you overpray
 outro
 god never listens to what i say (over intro,repeat)   end on #
 
-== Loops ==
-Member recorded:
-<gflash>100 40 /loops/member/lifeboy.swf</gflash>

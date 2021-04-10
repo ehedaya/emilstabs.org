@@ -171,8 +171,3 @@ D---------
 A---------
 E---------
 
-Run Like an Antelope solo|Solo transcription
-[http://www.emilstabs.org/media/Antelope.ptb Power tab file]
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/antelope.swf</gflash>

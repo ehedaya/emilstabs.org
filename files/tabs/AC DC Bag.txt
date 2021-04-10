@@ -139,10 +139,3 @@ A-|---------|--1-2-3-|-3-3-3-3-|-1-1-1-1-|---------|---------|--
 E-|-1-1-1-1-|--------|---------|---------|---------|---------|--
                 Repeat this during verses.  Then during solo at end
                 repeat chorus.  Chorus can also be slapped
-
-
-== Loops ==
-Member recorded:
-<gflash>100 40 /loops/phish/acdcbag2.swf</gflash>
-Sampled:
-<gflash>100 40 /loops/member/acdcbag.swf</gflash>

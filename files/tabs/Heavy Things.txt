@@ -350,7 +350,3 @@ chord changes)
 
 == 
 #[http://youtube.com/watch?v=xAC9DzV-tGs Big Cypress NYE 1999 (YouTube.com)]
-
-== Loop ==
-Member recorded:
-<gflash>100 40 /loops/member/heavythings.swf</gflash>

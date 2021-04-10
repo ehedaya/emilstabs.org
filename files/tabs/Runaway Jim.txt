@@ -197,8 +197,3 @@ E-----------------------|
 
 The end jam is in D.
 
-== Loops ==
-Sampled:
-<gflash>100 40 /loops/phish/runawayjim2.swf</gflash>
-Member recorded:
-<gflash>100 40 /loops/member/runawayjim.swf</gflash>
