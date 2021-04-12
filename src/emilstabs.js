@@ -1,5 +1,6 @@
 /*jshint esversion: 6 */
 require('bootstrap/dist/css/bootstrap.min.css');
+require('bootstrap/js/dist/collapse');
 require('../stylesheets/emilstabs.css');
 require('./ga');
 const $ = require('jquery');
