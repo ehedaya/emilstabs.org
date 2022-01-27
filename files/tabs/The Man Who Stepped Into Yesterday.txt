@@ -107,23 +107,23 @@ A-------------------------------------------------------------------------------
 E------------------------------------------------------------------------------------------------------
 
   C#            F#          B
-              |: *                        :| (Repeat this pattern 6x moving up 1 fret each time.
-E-------------------------------------------  Note 1: The note on the D string is held with the ring finger
-B---6---7---9-----9---7---6---6---7---9/10--    for the entire pattern.
-G--6---6---6-----6---6---6---8---8---8------  Note 2: The second note of the pattern, marked with *, is only
-D-6---6---6-----8---8---8---9---9---9-------    played the first time! In subsequent times its time slot
-A-------------------------------------------    is "taken" by the slide-up from the previous repetition.)
-E-------------------------------------------
+              |:                       :| (Repeat this pattern 6x moving up 1 fret each time.
+E----------------------------------------  Note 1: The note on the D string is held with the ring finger for the
+B---6---7---9-----9---7---6---6---7---9--    entire pattern. So the midpoint is where your hand slides up.
+G--6---6---6-----6---6---6---8---8---8---  Note 2: The very last note, and the third note of the next repetition (which
+D-6---6---6-----8---8---8---9---9---9----    is one fret up) are both held with the pinky. Trey likes to leave this note
+A----------------------------------------    ringing, with a clearly audible slide, while playing the two in-between
+E----------------------------------------    notes. This is tricky and optional, but cool if you can pull it off.)
 
 The 6th repetition of this pattern (pinky should be at the 14th fret by now) is played like this:
-  B                   E
-                    |: 3x                :|
-E------------------------------------------
-B---14-----12-----11-----11-----12-----14-- and mute.
-G--------11-----11-----13-----13-----13----
-D-13---13-----13-----14-----14-----14------
-A------------------------------------------
-E------------------------------------------
+  B                     E
+                      |: Repeat 3x         :|
+E--------------------------------------------
+B-----14-----12-----11-----11-----12-----14-- and mute.
+G---11-----11-----11-----13-----13-----13----
+D-13-----13-----13-----14-----14-----14------
+A--------------------------------------------
+E--------------------------------------------
 
 Avenu Malkenu is played here.
 
