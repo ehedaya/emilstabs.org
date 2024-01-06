@@ -1,9 +1,9 @@
-This chord progression is played throughout the whole song (except for a few parts). 
-Whenever you see "[D#  Gb -> Ab]", play that chord progression, tabbed out below. (until there is a chord change, then play the full chord)
+This chord progression is played pretty much throughout the whole song (except the chorus). 
+Whenever you see "[D#  Gb -> Ab]", play the progression tabbed out below. In the Ab... Gb... sections, play the full chords.
 
           D#                    Gb          ->         Ab
 e|-------------------|----------------------|----------------------|
-B|--------8----------|----------------------|----------------------|
+B|-------------------|----------------------|----------------------|
 G|--------8----------|----------------------|----------------------|
 D|--------8----------|----------------------|----------------------|
 A|--------6----------|----------------------|----------------------|
@@ -29,18 +29,27 @@ A life saving gun
 [D#  Gb -> Ab]
 A life saving gun
 
-D#                     C#                Ab                 Gb               (back to):  [D#  Gb -> Ab]
-In this pepper bush of colonial ice, the cashier’s fan is a life saving gun
+[D#  Gb -> Ab]
+In this pepper bush of colonial ice, 
+
+[D#  Gb -> Ab]
+the cashier’s fan is a life saving gun
 
 [D#  Gb -> Ab]
 In clustered columns, a vaulting cartridge, in the wall of star house, there is a life saving gun, there is a life saving gun, there is a life saving gun
 
 
 CHORUS
-D#                   C#                Ab            Gb
+D#                   C#                Ab            D#
 Pseudobody warfare / Life saving gun / Contact men / Life saving gun 
 
-D#                          C#                Ab                Gb
+D#                          C#                Ab                D#
+Shore of the mountain (?) / Life saving gun / Miso laceration / Life saving gun
+
+D#                   C#                Ab            D#
+Pseudobody warfare / Life saving gun / Percussion rinse / Life saving gun 
+
+D#                          C#                Ab                D#
 Shore of the mountain (?) / Life saving gun / Miso laceration / Life saving gun
 
 
@@ -52,9 +61,9 @@ Ab
 Life saving gun
 
 ---
-Phish jams on this: 
+Phish jams on the chrous chords: 
 
-D# C# Ab Gb 
+D# C# Ab D# 
 
 --------------------------------------------------------------------------------------
 HUGE thanks to u/phriendlyphellow over on Reddit for posting the lyrics, without them I would've never figured it out.
