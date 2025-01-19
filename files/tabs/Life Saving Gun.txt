@@ -1,7 +1,7 @@
 This chord progression is played pretty much throughout the whole song (except the chorus). 
-Whenever you see "[D#  Gb -> Ab]", play the progression tabbed out below. In the Ab... Gb... sections, play the full chords.
+Whenever you see "[Eb  Gb -> Ab]", play the progression tabbed out below. In the Ab... Gb... sections, play the full chords.
 
-          D#                    Gb          ->         Ab
+          Eb                    Gb          ->         Ab
 e|-------------------|----------------------|----------------------|
 B|-------------------|----------------------|----------------------|
 G|--------8----------|----------------------|----------------------|
@@ -11,61 +11,66 @@ E|-------------------|----2----h3----h4-----|----4----h5----h6-----|
 
 
 VERSE 
-[D#  Gb -> Ab]
+[Eb  Gb -> Ab]
 We are temporal silver men, in sulfur vessels 
 
-[D#  Gb -> Ab]
+[Eb  Gb -> Ab]
 A percussion rinse
 
-[D#  Gb -> Ab]                                Ab      Gb
+[Eb  Gb -> Ab]                                Ab      Gb
 We are disc cultivators at this fatalistic gala 
 
-[D#  Gb -> Ab]
+[Eb  Gb -> Ab]
 A life saving gun
 
 Ab               Gb
 A life saving gun 
 
-[D#  Gb -> Ab]
+[Eb  Gb -> Ab]
 A life saving gun
 
-[D#  Gb -> Ab]
+[Eb  Gb -> Ab]
 In this pepper bush of colonial ice, 
 
-[D#  Gb -> Ab]
+[Eb  Gb -> Ab]
 the cashier’s fan is a life saving gun
 
-[D#  Gb -> Ab]
+[Eb  Gb -> Ab]
 In clustered columns, a vaulting cartridge, in the wall of star house, there is a life saving gun, there is a life saving gun, there is a life saving gun
 
 
 CHORUS
-D#                   C#                Ab            D#
+Eb                   Db                Ab            Eb
 Pseudobody warfare / Life saving gun / Contact men / Life saving gun 
 
-D#                          C#                Ab                D#
+Eb                          Db                Ab                Eb
 Shore of the mountain (?) / Life saving gun / Miso laceration / Life saving gun
 
-D#                   C#                Ab            D#
+Eb                   Db                Ab            Eb
 Pseudobody warfare / Life saving gun / Percussion rinse / Life saving gun 
 
-D#                          C#                Ab                D#
+Eb                          Db                Ab                Eb
 Shore of the mountain (?) / Life saving gun / Miso laceration / Life saving gun
 
 
 OUTRO
-[D#  Gb --> Ab]
+[Eb  Gb --> Ab]
 Contact men / Life saving gun / Miso laceration / Life saving gun / Pseudobody warfare / Life saving gun / Percussion rinse / Life saving gun /
+
+[Eb  Gb --> Ab]
+Percussion rinse! Percussion rinse! Percussion rinse! PERCUSSION RINSE!!!
 
 Ab
 Life saving gun
 
 ---
-Phish jams on the chrous chords: 
+They jam it out live 
 
-D# C# Ab D# 
+Eb Db Ab Eb 
 
 --------------------------------------------------------------------------------------
 HUGE thanks to u/phriendlyphellow over on Reddit for posting the lyrics, without them I would've never figured it out.
+
+Thanks to Emmett5001 for feedback
 
 Tabbed by Keiran (altsrcool2@gmail.com)
