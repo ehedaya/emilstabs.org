@@ -1,15 +1,11 @@
-
-
 From: hog@next03wor.wam.umd.edu (John P. Brennan)
 From: jamie@access.digex.com (James Treworgy)
-From:ericbe@microsoft.com (Eric Berman)
-From:Chuck Newsome
+From: ericbe@microsoft.com (Eric Berman)
+From: Chuck Newsome
 from: Chris Tomeles <casuite211@aol.com> ( Solo and other additions )
+From: Milo Bauman (mjb01161@uga.edu) - Intro & verse chord progressions, organization
 
-Intro: (listen to a tape for the rhythm)
-
-
-
+Intro: 
 
   Emsus4      A6                   G6              G        D/F#        Dm/F    
 e----7----------5---------------0---0---------------------------------------------
@@ -18,7 +14,6 @@ G----9----------6---------6---------4--------4----------4----------2---------2--
 D----7----------7------7------------5-----5---------5----------4----------3-------
 A----7----------0---0---------------0---------------------------------------------
 E---------------------------------------------------------------------------------
-
 
    A             Am Repeat 1x
 -------------------------------------------|
@@ -29,9 +24,9 @@ E-------------------------------------------------------------------------------
 -------------------------------------------|
 
 This is how they play it live:
-Intro by Carl Toborowsky (Carl2613@aol.com)
+Intro by Carl Toborowsky (Carl2613@aol.com) & Milo Bauman (mjb01161@uga.edu)
 
-  Emsus4      A6                  G6               G          D/F#       Dm/F    
+     G6        F#m7                 Em    Em        G          D/F#       Dm/F    
 e----0----------0---------------0---0---------------------------------------------
 B----8----------7------------7------5------------5----------3---------3---------3-
 G----7----------6---------6---------4--------4----------4----------2---------2----
@@ -48,33 +43,28 @@ E-------------------------------------------------------------------------------
 -------------------------------------------|
 (repeats)
 
-
+[VERSE 1] 
     Em     Bm7              Em7b5  C
 The sky is burning in this lonely  land
       G            Am          Bm       Bbm         Am
 and I kneel by the river and I feel the sand and the wind
-
-   C    G      D  Dm     A         Am  (play latter part of intro)
+   Em    G      D  Dm     A         Am                    (play latter part of intro)
 The wind  from beyond the mountains  
-   C    G      D  Dm     A         Am
+   Em    G      D  Dm     A         
 The wind from beyond the mountains  
 
+[VERSE 2]
         Em      Bm7          Em7b5 C
 And she comes to me in this lonely land
           G             Am             Bm        Bbm            Am
 And looks down from the multi-beast on which she rides- like the wind
-
-The wind from beyond   the mountains  
-
-E------------------------------------------------
-B-----5---3-----3----3----2----------------------
-G----4---4-----2----2-----2----------------------
-D---5---5-----4----3------2----------------------
-A------------------------------------------------
-E------------------------------------------------
+   Em    G      D  Dm     A         Am  
+The wind  from beyond the mountains  
+   Em    G      D  Dm     A         
+The wind from beyond the mountains  
 
 
-Instrumental Break #1
+[INSTRUMENTAL 1]
  A                G Gm        F#m  Em   G       A7    D/F#
           H-O P-O       HO PO
 E-9---9---9--11--9-7--6--6-8-6--5----3---------7--0----2---
@@ -83,11 +73,7 @@ G-9---9---9--------7--7--7------6----4-----7------0----2---
 D-0---0---0--------0--0--0------0----0---0--------2----4---
 A----------------------------------------------------------
 E----------------------------------------------------------
-
-
-
-repeat, the second time changing the D/F# to D9/A
-
+Repeat, the second time changing the D/F# to D9/A
 
  D9/A
 ---0--                                                                        1988/3/12:
@@ -121,28 +107,55 @@ Tela Tela jewel of Wilson's foul domain"
 A lullaby the breezes whisper
 
 
-
-
+[VERSE 3] 
      Em            Bm7     Em7b5     C               G
 As I look into her eyes my frozen heart begins to thaw
     Am         Bm          Bbm          Am                
 And burns till layer after layer melts away into a pool
-   C     G      D  Dm     A         Am
+   Em    G      D  Dm     A         Am  
 A sky blue mirror of her eyes
-   C     G      D  Dm     A         Am
+   Em    G      D  Dm     A          
 
+[VERSE 4] 
        Em              Bm7        Em7b5      C
 And my soul is made of marble but in her gaze
-  G            Am       Bm    Bbm          Am
+    Am         Bm          Bbm          Am                
 I crumble into dust and drift away on the wind
-
+   Em    G      D  Dm     A         Am  
 The Wind from beyond the mountains
-
+   Em    G      D  Dm     A      
 The wind from beyond the mountains
+           
+(For the most part, this next bit is the same as the previous verses, just up a whole step)
 
+[GUITAR VERSE]
+   F#m              C#m7        F#m7b5      D
+   A     Bm        C#m     Cm     Bm 
+   F#m    A    E    Em    B    Bm
+   F#m    A    E    Em    B   
 
-Jazz Solo:
+[PIANO VERSE]
+   F#m              C#m7        F#m7b5      D
+   A       Bm       C#m     Cm     Bm 
+   F#m    A    E    Em    B    Bm
+   F#m    A    E    Em    G    D    Dm
+^ In this last line, you start the intro walkdown up a step, but when 
+you reach Em, you essentially start the walkdown in the original key, 
+but you don't play the final A, you instead go back to the first 
+instrumental passage. 
 
+[INSTRUMENTAL 2] 
+ A                G Gm        F#m  Em   G       A7    D/F#
+          H-O P-O       HO PO
+E-9---9---9--11--9-7--6--6-8-6--5----3---------7--0----2---
+B-10--10--10-------8--8--8------7----5-------8----2----3---
+G-9---9---9--------7--7--7------6----4-----7------0----2---
+D-0---0---0--------0--0--0------0----0---0--------2----4---
+A----------------------------------------------------------
+E----------------------------------------------------------
+Repeat, the second time changing the D/F# to D9/A
+
+Jazz Solo Tab:
 
 E-----9-12-------9--------------9------------------|
 B--10-------9>10-----9--7>6--7-----7---7---9---6>7-|
@@ -151,15 +164,12 @@ D--------------------------------------------------|
 A--------------------------------------------------|
 E--------------------------------------------------|
 
-
-
 E-------------10-13-10----10-13>14~~~~~~~~-|---12-9------|-------------12>14-----|
 B-----9----12----------12------------------|--------10---|----------10-----------|
 G--10--------------------------------------|-----------9-|------9-11-------------|
 D------------------------------------------|-------------|-9>11------------------|
 A------------------------------------------|-------------|-----------------------|
 E------------------------------------------|-------------|-----------------------|
-
 
 E--------12-16~~~~~--12-16-15~~~~|-15--14>15--|-13-10----------------7--9|
 B--12>14----------14-------------|------------|-------12-----------7-----|
@@ -168,7 +178,6 @@ D--------------------------------|------------|--------------------------|
 A--------------------------------|------------|--------------------------|
 E--------------------------------|------------|--------------------------|
 
-
 E-12------|---------------------------
 B----10---|-10>9-10>9-7>8-7-6-5-4-----
 G-------9-|---------------------------
@@ -176,15 +185,12 @@ D---------|-----------------------4~~~
 A---------|---------------------------
 E---------|---------------------------
 
-
 E|----------------------------------------------------|
 B|--9>10-9>10-9-7---7-9-10-9-8-7-5-4------------------|
 G|----------------9------------------4-------------4--|
 D|-------------------------------------4>3-2>1-2>1-4--|
 A|----------------------------------------------------|
 E|----------------------------------------------------|
-
-
 
 
 Then Page's solo...
@@ -196,8 +202,6 @@ D     G    Bm       F#m      C   G-A
 Tela, Tela, jewel of wilsons foul domain.
 
 Solo:
-
-
    _ _ _  _  
   | | | | | |  | | |   | | | | |  | | | | |  | | | | | | |  | | | | | |  | | |
 E--------------------------------------------------------------------------------
@@ -268,6 +272,6 @@ E---------------------------------------------
  D           Dm
 A lullaby the breezes whisper...
 
-Final outtro is a variation of the intro
+G6    F#m7                     Em      G    D/F#    Dm/F    A
 
-
+(Final outtro is a variation of the intro)
