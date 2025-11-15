@@ -35,7 +35,7 @@ m - middle
 r - ring
 p - pinky
 
-    Bb   Db   F/A   Eb    G     Bb   Db     B      Ab    B     G     F     A/E   G     B     Bb
+    Bb   Db   F/A   Eb    G     Bb   Db     B      Ab    B     G     F/A   A/E   G/B   B     Bb
 E|------------------------------------------------------------------------------------------------
 B|---6----6----6m----8----8m-----6----9-----12p----13----12----12----10----14----12----12----11---
 G|---7----6----5i----8----7i-----7----10----11r----13----11----12----10----14----12----11----10---
@@ -49,9 +49,9 @@ I press on the elastic sheet, I'm breathing through a slice
 G                  Bb                Db                   B
 'Are they worms or are they serpents?' bubbled through the ice
 
-Ab/C                   B      G/B                F
+Ab                    B             G             F/A
 The source was quite invisible, the ever-present voice
-     A/E                E                 B                 Bb
+     A/E                 G/B               B                 Bb
 While skating, both legs tracing different shapes, I made my choice
 
 Next vers has the same chords, except that just before going to a
