@@ -4,26 +4,17 @@ from Mike Bies <tube80@yahoo.com>
 help from MdskiMrtnW@aol.com <MdskiMrtnW@aol.com>
 
 
-
-Hey all, this ballad is the best.  The chord progression is awesome
-as well as the lyrics, vocals and harmonies.  I hope you enjoy, the
-only thing that is bugging me is that D right before the chorus.
-If anyone has any idea on what chord this is, please let me know.
-Also I don't own a guitar,(only a bass and piano)so if some of the
-chords don't sound full enough or too full that's the reason.  I'm
-pretty sure the riffs are correct though(I do know how to play, just
-don't have access to one to play with the chord formations, some of
-which are inverted).
+Helpful video: https://www.youtube.com/watch?v=Ok075ZB2_pM
 
 
 intro(guitar)
-              C      G  [C   G(these 2 are piano)
-E----------3---3------3---0---0----------------
-B--------1-----1------0---1---1p0-------------
-G------2-------0------0---0---0---------------
-D--2/3---------2------0---2---2---------------
-A--------------3------2---3---3--------------
-E--------------0------3---0---0---------------
+              C      G             C/G    G
+E----------3---3------3(pinky)------3------3---------
+B--------1-----1------0-------------1------0---------
+G------2-------0------0-------------0------0---------
+D--2/3---------2------0-------------2------0---------
+A--------------3------2(middle)------------2---------
+E--------------0------3(ring)-------3------3---------
 
 
 lyrics come in on the first G chord whenever ready.
@@ -37,17 +28,17 @@ G                   C              G     Bb     C
 As rain falls on my shoulders, sun rises in the east
 Amin         G            
 I'm worn and bruised, but
-Csus2    D         G  Bb  Amin  C   Eb   Bb
+Csus2    D         G  Bb  Amin  C   Eb   D
 I am   here at   least
 
 then back to.....(2X)
-              C      G  [C   G(these 2 are piano)
-E----------3---0------3-----------------------
-B--------1-----1------3---5---3---------------
-G------0-------0------4---5---4---------------
-D--2/3---------2------5---5---5---------------
-A--------------3------5-----------------------
-E--------------0------3-----------------------
+              C      G      C/G    G
+E----------3---3------3------3------3---------
+B--------1-----1------0------1------0---------
+G------2-------0------0------0------0---------
+D--2/3---------2------0------2------0---------
+A--------------3------2-------------2---------
+E--------------0------3------3------3---------
 
 G                   C        G         Bb       C
 I guess I'm just an obstacle   a thing to overcome
@@ -60,8 +51,8 @@ The moment seems to hang and float
 G         Bb      C
 before me with no end
 Amin              G
-til I'm realeased, awake in peace(awakened beast???)
-Csus2      D      G  Bb   Amin  C  Eb   Bb
+til I'm released, awakened beast
+Csus2      D      G  Bb   Amin  C  Eb   D
 I'm on the road again
 
 Eb                    Bb
@@ -70,8 +61,18 @@ Bbm                 F
 A fleck of dust up in the sky where
 Dmin           C
 tiny clouds go   sailing by
+
+
 Bb           Csus2(**)
 Pull me down   today
+
+   Bb    Csus2
+E---0------0-------
+B---6------8-------
+G---7------9-------
+D---8------10------
+A---8------10------
+E------------------
 
 ** - little riff after vocals
  Csus2(today...)                            
