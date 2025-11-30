@@ -1,32 +1,30 @@
-
-
-
-
 From: John.Greene@student.umass.edu (John Greene)
 Solo from Benjamin Hudnall <chillywater14@yahoo.com>
 (Minor corrections by Eric Berman)
 
-C7 Gm7 C7 Gm7 F Eb F Eb D Am7 D Am7
+Helpful video: https://youtu.be/djbUDa40Dn8?t=103
+
+C Gm7 C Gm7 F Eb F Eb D/F# Am7 D/F# Am7
 It's kind of like a 1..2.. circus beat....
 
-Intro:  C7  Gm7
+Intro:  C   Gm7
 
-C7                    Gm7    C7                             Gm7
+C                     Gm7    C                              Gm7
 Brett is in the bathtub,      making soup for the ambassadors,
 F                     Eb     F                        Eb
 And I am in the hallway,      singing to the troubadours,
-C7                          Gm7     C7              Gm7
+C                           Gm7     C               Gm7
 And the kings are all lined up,     outside the gate,
 F                           Eb     F                           Eb
 And the autumn bell is ringing,     but they'll just have to wait.
 
-D                C      D                    C --> B ---> Bb
+D/F#                C      D/F#                    C --> B ---> Bb
 Where is the joker?     Have you seen him around with his 3-combed...
 Bb     Fm7  Bb                      Fm7
 Cap,        that he wears like a crown
 Bb                               Fm7 Bb                    Fm7
 Have you seen his striped stockings, and heard his sad tales,
-C7                       Gm7   C7                            Gm7
+C                        Gm7   C                             Gm7
 About the kids under the carpet,  and the purple humpback whales.
 
 C, Gm7, C, Gm7  (keyboard weirdness)
@@ -45,7 +43,7 @@ He carries a martini, made of bathtub gin
 Here comes the joker, we all must laugh,
 Cause we're all in this together, and we love to take a bath.
 
-(solo:  C7, Gm7, C7, Gm7, F, Eb, F, Eb  etc....)
+(solo:  C, Gm7, C, Gm7, F, Eb, F, Eb  etc....)
 
 E-8~~~-----------------------------------------------------
 B-----8~~~10-11-10-11-10~~~-----8~-------------------------
@@ -71,43 +69,23 @@ E----------------------------------------------------------
 
 == Chord Voicings ==
 
+t = Thumb
+i = index
+m = middle
+r = ring
+p = pinky
+
+    C     Gm7   F    Eb   D/F#   Bb   Fm7
+e--(3)--------------------------------------
+B---1-----3r----1----4p----3p-----3----1r---
+G---0-----3r----2----3r----2r-----3----1r---
+D---2-----3r----3----1i----0------3----1r---
+A---3-----------3-----------------1---------
+E---------3m----1----3m----2m----------1m---
+
+Adding the high G on the C chord is optional. Trey occasionally adds it in the intro.
 
 
-C7:
-
-ex
-B1
-G3
-D2
-A3
-Ex
-
-G-7:
-
-ex
-B3
-G3
-D3
-Ax
-E3
-
-F:
-
-ex
-B6
-G5
-D7
-A8
-Ex
-
-and the Eb in the same formation, just a whole step lower:
-
-ex
-B4
-G3
-D5
-A6
-Ex
 
 == Bass Tablature ==
 
