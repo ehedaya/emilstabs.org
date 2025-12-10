@@ -18,20 +18,18 @@ swinging on a life line, fraying bits of twine
    F             G                C            F     [F > C/E > Dm lick]
 entangled in the remnants of the knot i left behind
 
-    Dm            G               C          F    [F > C/E > Dm lick] Dm C Bb
+    Dm            G               C          F    [F > C/E > Dm lick]  Dm C Bb    Bb Bb    G G
 and asking you to help me make it finally unwind
 
 [F > C/E >Dm lick]
-|--------0------0------1--
-|------1------1--------3--
-|----2------0--------2----
-|--3------2--------0------
+|----------------0------1--
+|------1-1-----1--------3--
+|----2-------0--------2----
+|--3-------2--------0------
 |-------------------------
 |-------------------------
 
 
-
-Bb Bb    G G
 
 chorus
 C                   Bb  F    Bb  G              C
@@ -58,26 +56,28 @@ Repeat this, the second time going to an Am instead of C on the word "say"
 ...Am     Bb   Am      Bb    C  
      so very,     so very  hard
 
-                    G      F           (cut to intro)
+                    G      F           (cut to bridge)
 and you don't get a refund     if you overpray
 
 
  bridge                             :                      end second time|
 |---------------0---0---0---0---0---|---------------0---0----------------- ------|
 |---5-1---1----3---3---3---3---3----:---5-1---1----3---3----5/6\5-------0- ------:
-|--0-----0----0---0---0---0---0-----:--0-----0----0---0----0-------0---5-0 --5-0-:
+|--0-----0----0---0---0---0---0-----:--0-----0----0---0----0-----------5-0 --5-0-:
 |-5-----2----3---3---3---3---3---3/5:-5-----2----3---3----------------7--- -7----:
 |------3----------------------------:------3-------------3--------3--8---- 8-----:
 |-----------------------------------|-------------------------------------|------|
                                   2x:                                          2x:
+
 |--------------------------------------------------------------------------------|
 |-------8-------------------8--------------------8----------8--------8-----------|
 |-----5--------5----------7-------7------------5----------5--------5--------5----|
 |--5---------5----------8--------8-----------7---------7---------6--------6------|
 |---------7----------8---------8---------8---------8----------8--------8---------|
 |--------------------------------------------------------------------------------|
- Standed on this slender string      the minuets seem to last     a lifetime
+ Standed on this slender string      the minutes seem to last     a lifetime
  Dangeling here between the light above and the blue below that drags me down
+
                                                                              # end
 |----0---0---0-----------0---0---0-----------0--------0---0---0---0------|  |---------0-|
 |---5---5---5--3-3------5---5---5--3-3------5---5-0--3---3---3---3---3-0-|  |--1--1---1-|
@@ -90,7 +90,8 @@ outro
 god never listens to what i say (over intro,repeat)   end on #
 
 
-*** Alternatie "Stranded on this slender string..." section based on video here: https://www.youtube.com/watch?v=Cuu5ggsrYeE
+*** Alternatie "Stranded on this slender string..." bridge section based on video here: https://www.youtube.com/watch?v=Cuu5ggsrYeE
+I suppose these basic shapes could also be strummed 
 |----------------------------------------------
 |-------8----------8----------8----------8-----
 |-----9---9------7---7------5---5------5---5---
