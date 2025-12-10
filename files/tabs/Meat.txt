@@ -3,14 +3,14 @@ Alan Packman  <apackman@gwu.edu>
 
 this is my first stab at a phish tab so please go easy on me...
 
-intro chords:
+intro chords: D7(#9)
 
-E----8-8-8-8---
-B----8-8-8-8---
-G----8-8-8-8---
-D----7-7-7-7---
-A----8-8-8-8---
-E--------------
+E----x-x-x-x---
+B----6-6-6-6---
+G----5-5-5-5---
+D----4-4-4-4---
+A----5-5-5-5---
+E----x-x-x-x---
 
 Listen for the timing on the main theme:
 
