@@ -1,6 +1,6 @@
 
 
-Kirk Mehtlan (KM1324@ark.ship.edu)
+Kirk Mehtlan
 Eric Berman (ericbe@microsoft.com)
 Neil Berkman (berkman@cs.umass.edu)
 Robert Orr (no email)
